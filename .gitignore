@@ -88,9 +88,11 @@ cython_debug/
 # Project specific - ignore JSON/CSV except data files
 *.json
 *.csv
-!osrs_npcs.json
-!osrs_npcs.csv
-!osrs_items.json
-!osrs_equipment.json
-!osrs_equipment_flat.json
-!osrs_npc_drops.json
+!data/
+!data/.gitkeep
+!data/osrs_npcs.json
+!data/osrs_npcs.csv
+!data/osrs_items.json
+!data/osrs_equipment.json
+!data/osrs_equipment_flat.json
+!data/osrs_npc_drops.json

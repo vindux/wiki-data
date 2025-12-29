@@ -70,6 +70,8 @@ class OSRSBucketAPI:
         return all_results
 
     def save_to_json(self, data: Any, filename: str, indent: int = 2):
+        import os
+        os.makedirs(os.path.dirname(filename) if os.path.dirname(filename) else '.', exist_ok=True)
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=indent, ensure_ascii=False)
         print(f"Data saved to {filename}")

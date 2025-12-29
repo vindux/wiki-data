@@ -119,7 +119,7 @@ class OSRSDropsBucketAPI(OSRSBucketAPI):
 
         return output_npcs
 
-    def save_to_json(self, data: Any, filename: str = "osrs_npc_drops.json"):
+    def save_to_json(self, data: Any, filename: str = "data/osrs_npc_drops.json"):
         super().save_to_json(data, filename)
 
 

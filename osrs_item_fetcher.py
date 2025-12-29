@@ -164,16 +164,16 @@ class OSRSItemBucketAPI(OSRSBucketAPI):
 
         return dict(grouped_by_slot)
 
-    def save_grouped_json(self, data: Dict, filename: str = "osrs_equipment.json"):
+    def save_grouped_json(self, data: Dict, filename: str = "data/osrs_equipment.json"):
         super().save_to_json(data, filename)
 
-    def save_flat_json(self, data: Dict, filename: str = "osrs_equipment_flat.json"):
+    def save_flat_json(self, data: Dict, filename: str = "data/osrs_equipment_flat.json"):
         flat_list = []
         for slot, items in data.items():
             flat_list.extend(items)
         super().save_to_json(flat_list, filename)
 
-    def save_all_items_json(self, item_info: List[Dict[str, Any]], filename: str = "osrs_items.json"):
+    def save_all_items_json(self, item_info: List[Dict[str, Any]], filename: str = "data/osrs_items.json"):
         normalized_items = []
 
         for item in item_info:

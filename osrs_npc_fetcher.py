@@ -145,12 +145,12 @@ class OSRSNpcBucketAPI(OSRSBucketAPI):
 
         return normalized_data
 
-    def save_to_json(self, data: List[Dict[str, Any]], filename: str = "osrs_npcs.json"):
+    def save_to_json(self, data: List[Dict[str, Any]], filename: str = "data/osrs_npcs.json"):
         normalized_data = self.normalize_npc_data(data)
 
         super().save_to_json(normalized_data, filename)
 
-    def save_to_csv(self, data: List[Dict[str, Any]], filename: str = "osrs_npcs.csv"):
+    def save_to_csv(self, data: List[Dict[str, Any]], filename: str = "data/osrs_npcs.csv"):
         if not data:
             print("No data to save")
             return
@@ -158,6 +158,9 @@ class OSRSNpcBucketAPI(OSRSBucketAPI):
         normalized_data = self.normalize_npc_data(data)
 
         fieldnames = self.FIELDS
+
+        import os
+        os.makedirs(os.path.dirname(filename) if os.path.dirname(filename) else '.', exist_ok=True)
 
         with open(filename, 'w', newline='', encoding='utf-8') as f:
             writer = csv.DictWriter(f, fieldnames=fieldnames)
