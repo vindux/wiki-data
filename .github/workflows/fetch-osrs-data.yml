@@ -31,8 +31,11 @@ jobs:
       - name: Fetch NPC data
         run: python osrs_npc_fetcher.py --csv=false --json=true
 
-#      - name: Fetch item data
-#        run: python osrs_item_fetcher.py
+      - name: Fetch item data
+        run: python osrs_item_fetcher.py
+
+      - name: Fetch drop data
+        run: python osrs_drops_fetcher.py
 
       - name: Check for changes
         id: check_changes
