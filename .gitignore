@@ -84,3 +84,13 @@ cython_debug/
 *~
 .DS_Store
 /.claude/
+
+# Project specific - ignore JSON/CSV except data files
+*.json
+*.csv
+!osrs_npcs.json
+!osrs_npcs.csv
+!osrs_items.json
+!osrs_equipment.json
+!osrs_equipment_flat.json
+!osrs_npc_drops.json
