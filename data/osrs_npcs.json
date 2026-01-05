@@ -705,7 +705,8 @@
     "page_name": "King Black Dragon",
     "name": "King Black Dragon",
     "id": [
-      "239"
+      "239",
+      "2642"
     ],
     "combat_level": 276,
     "hitpoints": 240,
@@ -5887,7 +5888,7 @@
     "slayer_level": 1,
     "slayer_experience": 20,
     "size": 1,
-    "examine": "A small ice demon.",
+    "examine": "A small ice demon.<br>'''In the Chambers of Xeric:''' Servant of the Ice Demon.",
     "poison_immune": "Not immune",
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
@@ -5938,7 +5939,7 @@
     "slayer_level": 1,
     "slayer_experience": 15,
     "size": 1,
-    "examine": "A small ice demon.",
+    "examine": "A small ice demon.<br>'''In the Chambers of Xeric:''' Servant of the Ice Demon.",
     "poison_immune": "Not immune",
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
@@ -71989,7 +71990,7 @@
     "slayer_level": 85,
     "slayer_experience": 50,
     "size": 2,
-    "examine": "'\"`UNIQ--nowiki-000000F8-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
+    "examine": "'\"`UNIQ--nowiki-000000CA-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
     "poison_immune": "Immune",
     "venom_immune": "Immune",
     "thrall_immune": "Not immune",
@@ -86520,7 +86521,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "Immune",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "unknown"
   },
   {
     "page_name": "Aquanite",
@@ -86569,7 +86570,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "Immune",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "unknown"
   },
   {
     "page_name": "Grizzly bear cub",
@@ -87155,7 +87156,7 @@
     "attack_speed": 10,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-0000004F-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-0000008D-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -87205,7 +87206,7 @@
     "attack_speed": 7,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-0000004F-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-0000008D-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -105003,8 +105004,8 @@
     "slash_defence_bonus": 8,
     "crush_defence_bonus": 12,
     "magic_defence_bonus": 10,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
+    "elemental_weakness": "Fire",
+    "elemental_weakness_percent": 50,
     "light_range_defence_bonus": 10,
     "standard_range_defence_bonus": 10,
     "heavy_range_defence_bonus": 10,
@@ -105054,8 +105055,8 @@
     "slash_defence_bonus": 8,
     "crush_defence_bonus": 12,
     "magic_defence_bonus": 10,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
+    "elemental_weakness": "Fire",
+    "elemental_weakness_percent": 50,
     "light_range_defence_bonus": 10,
     "standard_range_defence_bonus": 10,
     "heavy_range_defence_bonus": 10,
@@ -105105,8 +105106,8 @@
     "slash_defence_bonus": 8,
     "crush_defence_bonus": 12,
     "magic_defence_bonus": 10,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
+    "elemental_weakness": "Fire",
+    "elemental_weakness_percent": 50,
     "light_range_defence_bonus": 10,
     "standard_range_defence_bonus": 10,
     "heavy_range_defence_bonus": 10,
@@ -105156,8 +105157,8 @@
     "slash_defence_bonus": 8,
     "crush_defence_bonus": 12,
     "magic_defence_bonus": 10,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
+    "elemental_weakness": "Fire",
+    "elemental_weakness_percent": 50,
     "light_range_defence_bonus": 10,
     "standard_range_defence_bonus": 10,
     "heavy_range_defence_bonus": 10,
@@ -105207,8 +105208,8 @@
     "slash_defence_bonus": 8,
     "crush_defence_bonus": 12,
     "magic_defence_bonus": 10,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
+    "elemental_weakness": "Fire",
+    "elemental_weakness_percent": 50,
     "light_range_defence_bonus": 10,
     "standard_range_defence_bonus": 10,
     "heavy_range_defence_bonus": 10,
@@ -110766,7 +110767,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "30-37 (Melee)'\"`UNIQ--ref-000000D8-QINU`\"'"
+      "30-37 (Melee)'\"`UNIQ--ref-0000001B-QINU`\"'"
     ],
     "attack_style": [
       "Slash"
@@ -110816,7 +110817,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "46-61 (Melee)'\"`UNIQ--ref-000000D7-QINU`\"'",
+      "46-61 (Melee)'\"`UNIQ--ref-0000001A-QINU`\"'",
       "96 (axes)"
     ],
     "attack_style": [
@@ -110867,7 +110868,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "32-43 (Melee)'\"`UNIQ--ref-000000D6-QINU`\"'"
+      "32-43 (Melee)'\"`UNIQ--ref-00000019-QINU`\"'"
     ],
     "attack_style": [
       "Slash"
@@ -114461,8 +114462,7 @@
       "6"
     ],
     "attack_style": [
-      "Magic",
-      "Slash"
+      "Magic"
     ],
     "experience_bonus": 0,
     "is_members_only": true,
@@ -114511,7 +114511,6 @@
       "9"
     ],
     "attack_style": [
-      "Magic",
       "Slash"
     ],
     "experience_bonus": 0,
@@ -114561,8 +114560,7 @@
       "6"
     ],
     "attack_style": [
-      "Magic",
-      "Slash"
+      "Magic"
     ],
     "experience_bonus": 0,
     "is_members_only": true,
@@ -128734,7 +128732,7 @@
     ],
     "attack_style": [
       "Crush",
-      "'\"`UNIQ--ref-00000045-QINU`\"' Magic",
+      "'\"`UNIQ--ref-0000010B-QINU`\"' Magic",
       "Ranged"
     ],
     "experience_bonus": 67.5,
@@ -143515,7 +143513,7 @@
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 1,
-    "examine": "'\"`UNIQ--nowiki-00000032-QINU`\"'whispers*The seas are not lackin' kraken.",
+    "examine": "'\"`UNIQ--nowiki-00000018-QINU`\"'whispers*The seas are not lackin' kraken.",
     "poison_immune": "Not immune",
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
@@ -154664,7 +154662,7 @@
     "experience_bonus": 0,
     "is_members_only": true,
     "slayer_level": 1,
-    "slayer_experience": 0,
+    "slayer_experience": 110,
     "size": 1,
     "examine": "What chucks up, didn't stay down.",
     "poison_immune": "Not immune",
@@ -154713,7 +154711,7 @@
     "experience_bonus": 0,
     "is_members_only": true,
     "slayer_level": 1,
-    "slayer_experience": 0,
+    "slayer_experience": 126,
     "size": 3,
     "examine": "I can already feel my head hurting.",
     "poison_immune": "Not immune",
@@ -155674,7 +155672,7 @@
     "experience_bonus": 0,
     "is_members_only": true,
     "slayer_level": 1,
-    "slayer_experience": 0,
+    "slayer_experience": 147,
     "size": 1,
     "examine": "Keeping cool heads by hitting them with rocks.",
     "poison_immune": "Not immune",
