@@ -136902,7 +136902,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "is_members_only": true
+    "is_members_only": false
   },
   {
     "item_name": "Music cape",
@@ -143787,7 +143787,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "is_members_only": true
+    "is_members_only": false
   },
   {
     "item_name": "Tortugan shield",
