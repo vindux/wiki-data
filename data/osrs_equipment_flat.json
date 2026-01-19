@@ -8263,10 +8263,9 @@
   },
   {
     "item_name": "Prospector helmet",
-    "item_name_variant": "Prospector helmet",
+    "item_name_variant": "Prospector helmet#Motherlode Mine",
     "item_id": [
-      "12013",
-      "29472"
+      "12013"
     ],
     "equipment_slot": "head",
     "stab_attack_bonus": 0,
@@ -70805,10 +70804,9 @@
   },
   {
     "item_name": "Prospector boots",
-    "item_name_variant": "Prospector boots",
+    "item_name_variant": "Prospector boots#Motherlode Mine",
     "item_id": [
-      "12016",
-      "29478"
+      "12016"
     ],
     "equipment_slot": "feet",
     "stab_attack_bonus": 0,
@@ -75626,7 +75624,7 @@
     "slash_defence_bonus": 30,
     "crush_defence_bonus": 30,
     "range_defence_bonus": 40,
-    "magic_defence_bonus": 26,
+    "magic_defence_bonus": 28,
     "strength_bonus": 0,
     "ranged_strength_bonus": 0,
     "magic_damage_bonus": 0,
@@ -79319,7 +79317,7 @@
     "slash_defence_bonus": 30,
     "crush_defence_bonus": 30,
     "range_defence_bonus": 40,
-    "magic_defence_bonus": 26,
+    "magic_defence_bonus": 28,
     "strength_bonus": 0,
     "ranged_strength_bonus": 0,
     "magic_damage_bonus": 0,
@@ -79506,7 +79504,7 @@
     "slash_defence_bonus": 30,
     "crush_defence_bonus": 30,
     "range_defence_bonus": 40,
-    "magic_defence_bonus": 26,
+    "magic_defence_bonus": 28,
     "strength_bonus": 0,
     "ranged_strength_bonus": 0,
     "magic_damage_bonus": 0,
@@ -79708,10 +79706,9 @@
   },
   {
     "item_name": "Prospector jacket",
-    "item_name_variant": "Prospector jacket",
+    "item_name_variant": "Prospector jacket#Motherlode Mine",
     "item_id": [
-      "12014",
-      "29474"
+      "12014"
     ],
     "equipment_slot": "body",
     "stab_attack_bonus": 0,
@@ -95714,10 +95711,9 @@
   },
   {
     "item_name": "Prospector legs",
-    "item_name_variant": "Prospector legs",
+    "item_name_variant": "Prospector legs#Motherlode Mine",
     "item_id": [
-      "12015",
-      "29476"
+      "12015"
     ],
     "equipment_slot": "legs",
     "stab_attack_bonus": 0,
@@ -121594,7 +121590,7 @@
   },
   {
     "item_name": "Crate of mahogany logs",
-    "item_name_variant": "Crate of mahogany logs#port piscarilius",
+    "item_name_variant": "Crate of mahogany logs#Port Piscarilius",
     "item_id": [
       "32644"
     ],
@@ -121622,7 +121618,7 @@
   },
   {
     "item_name": "Crate of mahogany logs",
-    "item_name_variant": "Crate of mahogany logs#neitiznot",
+    "item_name_variant": "Crate of mahogany logs#Neitiznot",
     "item_id": [
       "32604"
     ],
@@ -149388,7 +149384,7 @@
     "weight": 0.01,
     "value": 900,
     "high_alchemy_value": 540,
-    "buy_limit": 0,
+    "buy_limit": 125,
     "is_members_only": false
   },
   {

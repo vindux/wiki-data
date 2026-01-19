@@ -49,7 +49,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Mithril dragon",
@@ -754,7 +754,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Crawling Hand",
@@ -2087,7 +2087,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Green dragon",
@@ -2143,7 +2143,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Jelly",
@@ -2889,7 +2889,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Fire giant",
@@ -2949,7 +2949,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Fire giant",
@@ -3000,7 +3000,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Moss giant",
@@ -4497,7 +4497,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Lesser demon",
@@ -5998,7 +5998,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune"
+    "burn_immune": "unknown"
   },
   {
     "page_name": "Cyclops",
@@ -6049,7 +6049,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune"
+    "burn_immune": "unknown"
   },
   {
     "page_name": "Cyclops",
@@ -6100,7 +6100,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune"
+    "burn_immune": "unknown"
   },
   {
     "page_name": "Dungeon rat",
@@ -8753,7 +8753,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Pyrefiend",
@@ -8805,7 +8805,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Man",
@@ -11043,7 +11043,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Hellhound",
@@ -11094,7 +11094,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Hellhound",
@@ -11147,7 +11147,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Harpie Bug Swarm",
@@ -14597,7 +14597,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune"
+    "burn_immune": "unknown"
   },
   {
     "page_name": "Black bear",
@@ -15421,7 +15421,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Blue dragon",
@@ -15475,7 +15475,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Blue dragon",
@@ -15529,7 +15529,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Blue dragon",
@@ -15583,7 +15583,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Blue dragon",
@@ -15637,7 +15637,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Blue dragon",
@@ -19121,7 +19121,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Steel dragon",
@@ -19175,7 +19175,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Steel dragon",
@@ -19229,7 +19229,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Carnivorous chinchompa",
@@ -22025,7 +22025,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Black dragon",
@@ -22088,7 +22088,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Black unicorn",
@@ -23096,7 +23096,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Red dragon",
@@ -23150,7 +23150,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Red dragon",
@@ -23207,7 +23207,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Red dragon",
@@ -23261,7 +23261,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Red dragon",
@@ -23315,7 +23315,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Waterfiend",
@@ -23919,7 +23919,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Iron dragon",
@@ -23973,7 +23973,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Wild dog",
@@ -24120,7 +24120,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune"
+    "burn_immune": "unknown"
   },
   {
     "page_name": "Koschei the deathless",
@@ -28569,7 +28569,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Tz-Kek",
@@ -28621,7 +28621,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Tok-Xil",
@@ -28673,7 +28673,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Tok-Xil",
@@ -28725,7 +28725,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Ket-Zek",
@@ -28776,7 +28776,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Ket-Zek",
@@ -28827,7 +28827,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Unicorn",
@@ -31806,7 +31806,7 @@
     "attack_speed": 4,
     "attribute": [],
     "max_hit": [
-      "115% of targeted player's max hit'\"`UNIQ--ref-000000B4-QINU`\"'"
+      "115% of targeted player's max hit'\"`UNIQ--ref-00000049-QINU`\"'"
     ],
     "attack_style": [
       "Slash"
@@ -34973,7 +34973,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Slagilith",
@@ -35763,7 +35763,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Giant lobster",
@@ -40078,7 +40078,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Earth elemental",
@@ -40127,7 +40127,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "No"
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "Water elemental",
@@ -46818,7 +46818,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Nazastarool",
@@ -47272,7 +47272,7 @@
       "Crush",
       "Ranged"
     ],
-    "experience_bonus": 0,
+    "experience_bonus": -90,
     "is_members_only": true,
     "slayer_level": 1,
     "slayer_experience": 250,
@@ -50470,7 +50470,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Yt-MejKot",
@@ -50519,7 +50519,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Yt-HurKot",
@@ -50569,7 +50569,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Yt-HurKot",
@@ -50618,7 +50618,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Leon d'Cour",
@@ -56506,7 +56506,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Ice troll female",
@@ -56898,7 +56898,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune"
+    "burn_immune": "unknown"
   },
   {
     "page_name": "Mammoth",
@@ -57591,7 +57591,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to normal burns"
+    "burn_immune": "Immune (normal)"
   },
   {
     "page_name": "Ent",
@@ -64292,7 +64292,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune"
+    "burn_immune": "<span title=\"The parameter «immuneburn» should be 'no', 'weak', 'normal', or 'strong'\" style=\"color:red; font-weight:bold; cursor:help; border-bottom:1px dotted red;\">ERR</span>"
   },
   {
     "page_name": "Undead Lumberjack",
@@ -71031,7 +71031,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune"
+    "burn_immune": "unknown"
   },
   {
     "page_name": "Rogue",
@@ -71282,7 +71282,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to normal burns"
+    "burn_immune": "Immune (normal)"
   },
   {
     "page_name": "Troll (Construction)",
@@ -71533,7 +71533,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Baby green dragon",
@@ -71992,7 +71992,7 @@
     "slayer_level": 85,
     "slayer_experience": 50,
     "size": 2,
-    "examine": "'\"`UNIQ--nowiki-00000027-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
+    "examine": "'\"`UNIQ--nowiki-00000123-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
     "poison_immune": "Immune",
     "venom_immune": "Immune",
     "thrall_immune": "Not immune",
@@ -78666,7 +78666,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Brutal blue dragon",
@@ -78721,7 +78721,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Brutal black dragon",
@@ -78778,7 +78778,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Brutal red dragon",
@@ -78834,7 +78834,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Deviant spectre",
@@ -79786,7 +79786,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune"
+    "burn_immune": "unknown"
   },
   {
     "page_name": "Ranis Drakan",
@@ -80199,7 +80199,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Mercenary",
@@ -80694,7 +80694,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune"
+    "burn_immune": "unknown"
   },
   {
     "page_name": "Greater abyssal demon",
@@ -81246,7 +81246,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Marble gargoyle",
@@ -87158,7 +87158,7 @@
     "attack_speed": 10,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-00000115-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-000000FC-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -87174,7 +87174,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "TzKal-Zuk",
@@ -87208,7 +87208,7 @@
     "attack_speed": 7,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-00000115-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-000000FC-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -87224,7 +87224,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Jal-Ak",
@@ -87275,7 +87275,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to normal burns"
+    "burn_immune": "Immune (normal)"
   },
   {
     "page_name": "Jal-AkRek-Xil",
@@ -87373,7 +87373,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to normal burns"
+    "burn_immune": "Immune (normal)"
   },
   {
     "page_name": "Jal-Nib",
@@ -87422,7 +87422,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to normal burns"
+    "burn_immune": "Immune (normal)"
   },
   {
     "page_name": "Jal-AkRek-Mej",
@@ -87520,7 +87520,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to normal burn"
+    "burn_immune": "Immune (normal)"
   },
   {
     "page_name": "Jal-Zek",
@@ -87572,7 +87572,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to normal burns"
+    "burn_immune": "Immune (normal)"
   },
   {
     "page_name": "Jal-Xil",
@@ -87624,7 +87624,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to normal burns"
+    "burn_immune": "Immune (normal)"
   },
   {
     "page_name": "JalTok-Jad",
@@ -87677,7 +87677,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to normal burns"
+    "burn_immune": "Immune (normal)"
   },
   {
     "page_name": "Jal-AkRek-Ket",
@@ -89339,7 +89339,7 @@
       "33 (special attack)"
     ],
     "attack_style": [
-      "Slash '\"`UNIQ--ref-0000001A-QINU`\"'"
+      "Slash '\"`UNIQ--ref-000000B3-QINU`\"'"
     ],
     "experience_bonus": 0,
     "is_members_only": true,
@@ -91009,7 +91009,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to normal burns"
+    "burn_immune": "Immune (normal)"
   },
   {
     "page_name": "Galvek",
@@ -91069,7 +91069,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to normal burns"
+    "burn_immune": "Immune (normal)"
   },
   {
     "page_name": "Galvek",
@@ -91129,7 +91129,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to normal burns"
+    "burn_immune": "Immune (normal)"
   },
   {
     "page_name": "Galvek",
@@ -91187,7 +91187,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to normal burns"
+    "burn_immune": "Immune (normal)"
   },
   {
     "page_name": "Spawn (Dragon Slayer II)",
@@ -97148,7 +97148,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "No"
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "Alchemical Hydra",
@@ -97202,7 +97202,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "No"
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "Alchemical Hydra",
@@ -97255,7 +97255,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "No"
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "Alchemical Hydra",
@@ -97309,7 +97309,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to normal burns"
+    "burn_immune": "Immune (normal)"
   },
   {
     "page_name": "Tormented Soul",
@@ -104466,7 +104466,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Immune",
     "cannon_immune": "Immune",
-    "burn_immune": "No"
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "The Jormungand",
@@ -104518,7 +104518,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Immune",
     "cannon_immune": "Immune",
-    "burn_immune": "No"
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "The Nightmare",
@@ -105649,7 +105649,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to normal burns"
+    "burn_immune": "Immune (normal)"
   },
   {
     "page_name": "Pyrelord",
@@ -105700,7 +105700,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "Immune to normal burns"
+    "burn_immune": "Immune (normal)"
   },
   {
     "page_name": "Husk",
@@ -110769,7 +110769,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "30-37 (Melee)'\"`UNIQ--ref-000000BD-QINU`\"'"
+      "30-37 (Melee)'\"`UNIQ--ref-0000002D-QINU`\"'"
     ],
     "attack_style": [
       "Slash"
@@ -110819,7 +110819,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "46-61 (Melee)'\"`UNIQ--ref-000000BC-QINU`\"'",
+      "46-61 (Melee)'\"`UNIQ--ref-0000002C-QINU`\"'",
       "96 (axes)"
     ],
     "attack_style": [
@@ -110870,7 +110870,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "32-43 (Melee)'\"`UNIQ--ref-000000BB-QINU`\"'"
+      "32-43 (Melee)'\"`UNIQ--ref-0000002B-QINU`\"'"
     ],
     "attack_style": [
       "Slash"
@@ -122327,7 +122327,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "Immune",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Scarred imp",
@@ -125227,7 +125227,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to normal burn"
+    "burn_immune": "Immune (normal)"
   },
   {
     "page_name": "Flaming pyrelord (Deadman)",
@@ -125278,7 +125278,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "No"
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "Cave abomination (Deadman)",
@@ -125376,7 +125376,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "No"
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "Jal-ImKot (Deadman)",
@@ -125425,7 +125425,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "No"
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "Malevolent Mage (Deadman)",
@@ -125474,7 +125474,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Malevolent Mage (Deadman)",
@@ -125523,7 +125523,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "No"
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "Vitreous warped Jelly (Deadman)",
@@ -128734,7 +128734,7 @@
     ],
     "attack_style": [
       "Crush",
-      "'\"`UNIQ--ref-0000006F-QINU`\"' Magic",
+      "'\"`UNIQ--ref-00000058-QINU`\"' Magic",
       "Ranged"
     ],
     "experience_bonus": 67.5,
@@ -128845,7 +128845,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Jaguar warrior",
@@ -129541,7 +129541,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "Immune",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Eclipse Moon",
@@ -129590,7 +129590,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "Immune",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Eclipse Moon",
@@ -129639,7 +129639,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "Immune",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Blood Moon",
@@ -129688,7 +129688,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "Immune",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Sulphur Nagua",
@@ -135100,7 +135100,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to normal burn"
+    "burn_immune": "Immune (normal)"
   },
   {
     "page_name": "Durial321 (Deadman)",
@@ -138779,7 +138779,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "No"
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "Grotesque Guardians (Echo)",
@@ -138828,7 +138828,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "No"
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "Grotesque Guardians (Echo)",
@@ -138880,7 +138880,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "No"
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "Dagannoth Rex (Echo)",
@@ -139400,7 +139400,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "No"
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "Dawn (Echo)",
@@ -139449,7 +139449,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "No"
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "Definitely Not Dusk",
@@ -139498,7 +139498,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "No"
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "Evil Chicken (Nightmare Zone)",
@@ -143279,7 +143279,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Famished shark",
@@ -143515,7 +143515,7 @@
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 1,
-    "examine": "'\"`UNIQ--nowiki-000000AD-QINU`\"'whispers*The seas are not lackin' kraken.",
+    "examine": "'\"`UNIQ--nowiki-00000023-QINU`\"'whispers*The seas are not lackin' kraken.",
     "poison_immune": "Not immune",
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
@@ -143569,7 +143569,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Sea monodon",
@@ -145663,7 +145663,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Skeleton Hellhound (Nightmare Zone)",
@@ -145714,7 +145714,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Nezikchened (Nightmare Zone)",
@@ -148795,7 +148795,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Fareed (Nightmare Zone)",
@@ -150214,7 +150214,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to strong burns."
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Wuss",
@@ -150443,7 +150443,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Immune",
     "cannon_immune": "Immune",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Pirate (The Red Reef)",
@@ -151572,7 +151572,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to weak burns"
+    "burn_immune": "Immune (weak)"
   },
   {
     "page_name": "Black jaguar (Scrambled!)",
@@ -152503,7 +152503,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "No"
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "Frigatebird",
@@ -152793,7 +152793,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Scorpion (Sailing)",
@@ -153288,7 +153288,7 @@
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "Immune",
-    "burn_immune": "Immune to normal burns."
+    "burn_immune": "Immune (normal)"
   },
   {
     "page_name": "Magma strykewyrm",
@@ -153340,7 +153340,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "Immune",
-    "burn_immune": "Immune to normal burns."
+    "burn_immune": "Immune (normal)"
   },
   {
     "page_name": "Dire gryphon",
@@ -153437,7 +153437,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Immune",
-    "burn_immune": "No"
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "Bull shark",
@@ -153486,7 +153486,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Narwhal",
@@ -153535,7 +153535,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Tern",
@@ -153633,7 +153633,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Spined kraken",
@@ -153682,7 +153682,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Vitreous Chilled Jelly",
@@ -153780,7 +153780,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Mogre (Sailing)",
@@ -153977,7 +153977,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Armoured kraken",
@@ -154026,7 +154026,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Blue dagannoth",
@@ -154124,7 +154124,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Butterfly ray",
@@ -154173,7 +154173,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Captain Darvald",
@@ -154414,7 +154414,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Drink troll queen",
@@ -154463,7 +154463,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Eagle ray",
@@ -154512,7 +154512,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Eagle ray",
@@ -154561,7 +154561,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Giant ant",
@@ -154986,7 +154986,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Manta ray (monster)",
@@ -155035,7 +155035,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Praying mantis",
@@ -155326,7 +155326,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to Strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Vampyre kraken",
@@ -155375,7 +155375,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "Immune to Strong burns"
+    "burn_immune": "Immune (strong)"
   },
   {
     "page_name": "Fremennik warrior (Sailing)",
