@@ -31806,7 +31806,7 @@
     "attack_speed": 4,
     "attribute": [],
     "max_hit": [
-      "115% of targeted player's max hit'\"`UNIQ--ref-00000049-QINU`\"'"
+      "115% of targeted player's max hit'\"`UNIQ--ref-0000005A-QINU`\"'"
     ],
     "attack_style": [
       "Slash"
@@ -35688,8 +35688,8 @@
     "slash_defence_bonus": 100,
     "crush_defence_bonus": 100,
     "magic_defence_bonus": 500,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
+    "elemental_weakness": "air",
+    "elemental_weakness_percent": 50,
     "light_range_defence_bonus": 500,
     "standard_range_defence_bonus": 500,
     "heavy_range_defence_bonus": 500,
@@ -65867,55 +65867,6 @@
     "page_name": "Warrior (Thieving)",
     "name": "Warrior",
     "id": [
-      "3260"
-    ],
-    "combat_level": 24,
-    "hitpoints": 20,
-    "attack_level": 22,
-    "strength_level": 22,
-    "defence_level": 22,
-    "magic_level": 1,
-    "ranged_level": 1,
-    "attack_bonus": 6,
-    "strength_bonus": 7,
-    "magic_attack_bonus": 6,
-    "magic_damage_bonus": 0,
-    "range_attack_bonus": 6,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 40,
-    "slash_defence_bonus": 41,
-    "crush_defence_bonus": 37,
-    "magic_defence_bonus": -10,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": 38,
-    "standard_range_defence_bonus": 38,
-    "heavy_range_defence_bonus": 38,
-    "flat_armour": 0,
-    "attack_speed": 4,
-    "attribute": [],
-    "max_hit": [
-      "3"
-    ],
-    "attack_style": [
-      "Stab"
-    ],
-    "experience_bonus": 0,
-    "is_members_only": false,
-    "slayer_level": 1,
-    "slayer_experience": 0,
-    "size": 1,
-    "examine": "Not very fashion conscious.",
-    "poison_immune": "Not immune",
-    "venom_immune": "Not immune",
-    "thrall_immune": "Not immune",
-    "cannon_immune": "Not immune",
-    "burn_immune": "unknown"
-  },
-  {
-    "page_name": "Warrior (Thieving)",
-    "name": "Warrior",
-    "id": [
       "11929"
     ],
     "combat_level": 24,
@@ -66113,6 +66064,55 @@
     "name": "Warrior",
     "id": [
       "11928"
+    ],
+    "combat_level": 24,
+    "hitpoints": 20,
+    "attack_level": 22,
+    "strength_level": 22,
+    "defence_level": 22,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 6,
+    "strength_bonus": 7,
+    "magic_attack_bonus": 6,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 6,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 40,
+    "slash_defence_bonus": 41,
+    "crush_defence_bonus": 37,
+    "magic_defence_bonus": -10,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 38,
+    "standard_range_defence_bonus": 38,
+    "heavy_range_defence_bonus": 38,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [],
+    "max_hit": [
+      "3"
+    ],
+    "attack_style": [
+      "Stab"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": false,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 1,
+    "examine": "Not very fashion conscious.",
+    "poison_immune": "Not immune",
+    "venom_immune": "Not immune",
+    "thrall_immune": "Not immune",
+    "cannon_immune": "Not immune",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Warrior (Thieving)",
+    "name": "Warrior",
+    "id": [
+      "3260"
     ],
     "combat_level": 24,
     "hitpoints": 20,
@@ -71992,7 +71992,7 @@
     "slayer_level": 85,
     "slayer_experience": 50,
     "size": 2,
-    "examine": "'\"`UNIQ--nowiki-00000123-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
+    "examine": "'\"`UNIQ--nowiki-0000007B-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
     "poison_immune": "Immune",
     "venom_immune": "Immune",
     "thrall_immune": "Not immune",
@@ -87158,7 +87158,7 @@
     "attack_speed": 10,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-000000FC-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-00000097-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -87208,7 +87208,7 @@
     "attack_speed": 7,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-000000FC-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-00000097-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -89339,7 +89339,7 @@
       "33 (special attack)"
     ],
     "attack_style": [
-      "Slash '\"`UNIQ--ref-000000B3-QINU`\"'"
+      "Slash '\"`UNIQ--ref-0000001C-QINU`\"'"
     ],
     "experience_bonus": 0,
     "is_members_only": true,
@@ -110769,7 +110769,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "30-37 (Melee)'\"`UNIQ--ref-0000002D-QINU`\"'"
+      "30-37 (Melee)'\"`UNIQ--ref-0000002F-QINU`\"'"
     ],
     "attack_style": [
       "Slash"
@@ -110819,7 +110819,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "46-61 (Melee)'\"`UNIQ--ref-0000002C-QINU`\"'",
+      "46-61 (Melee)'\"`UNIQ--ref-0000002E-QINU`\"'",
       "96 (axes)"
     ],
     "attack_style": [
@@ -110870,7 +110870,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "32-43 (Melee)'\"`UNIQ--ref-0000002B-QINU`\"'"
+      "32-43 (Melee)'\"`UNIQ--ref-0000002D-QINU`\"'"
     ],
     "attack_style": [
       "Slash"
@@ -128734,7 +128734,7 @@
     ],
     "attack_style": [
       "Crush",
-      "'\"`UNIQ--ref-00000058-QINU`\"' Magic",
+      "'\"`UNIQ--ref-0000005D-QINU`\"' Magic",
       "Ranged"
     ],
     "experience_bonus": 67.5,
@@ -143515,7 +143515,7 @@
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 1,
-    "examine": "'\"`UNIQ--nowiki-00000023-QINU`\"'whispers*The seas are not lackin' kraken.",
+    "examine": "'\"`UNIQ--nowiki-000000A0-QINU`\"'whispers*The seas are not lackin' kraken.",
     "poison_immune": "Not immune",
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
@@ -147186,7 +147186,7 @@
     ],
     "max_hit": [
       "37 (Melee)",
-      "5 (Magic",
+      "5 (Magic)",
       "5 (Ranged)"
     ],
     "attack_style": [
