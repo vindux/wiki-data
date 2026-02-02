@@ -15213,7 +15213,8 @@
     "item_name": "Beer glass",
     "item_name_variant": "Beer glass",
     "item_id": [
-      "1919"
+      "1919",
+      "7742"
     ],
     "weight": 0.05,
     "value": 2,
@@ -23306,7 +23307,7 @@
     "value": 20,
     "high_alchemy_value": 12,
     "buy_limit": 0,
-    "examine": "'''Emote:'''\n'''•''' A set of instructions to be followed.\n'''Anagram:'''\n'''•''' A clue!\n'''Map:'''\n'''•''' A place of the world map, but where?\n'''•''' Part of the world map, but where?\n\n'''Coordinates:'''\n'''•''' Perhaps someone at the [[observatory]] can teach me to navigate?\n'''Fairy ring:'''\n'''•''' A clue suggested by (Player's Name)!\n'''Cipher:'''\n'''•''' I need to decipher this.",
+    "examine": "'''Emote:'''\n'''•''' A set of instructions to be followed.\n'''Anagram:'''\n'''•''' A clue!\n'''Map:'''\n'''•''' Part of the world map, but where?\n\n'''Coordinates:'''\n'''•''' Perhaps someone at the [[observatory]] can teach me to navigate?\n'''Fairy ring:'''\n'''•''' A clue suggested by (Player's Name)!\n'''Cipher:'''\n'''•''' I need to decipher this.",
     "is_members_only": true
   },
   {
@@ -62669,7 +62670,7 @@
     ],
     "weight": 0.3,
     "value": 150000,
-    "high_alchemy_value": 90000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Halo with the protection of Saradomin.",
     "is_members_only": true
@@ -62682,7 +62683,7 @@
     ],
     "weight": 0.3,
     "value": 150000,
-    "high_alchemy_value": 90000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Halo with the protection of Saradomin.",
     "is_members_only": true
@@ -62708,7 +62709,7 @@
     ],
     "weight": 0.3,
     "value": 150000,
-    "high_alchemy_value": 90000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Halo with the protection of Guthix.",
     "is_members_only": true
@@ -62721,7 +62722,7 @@
     ],
     "weight": 0.3,
     "value": 150000,
-    "high_alchemy_value": 90000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Halo with the protection of Guthix.",
     "is_members_only": true
@@ -62747,7 +62748,7 @@
     ],
     "weight": 0.3,
     "value": 150000,
-    "high_alchemy_value": 90000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Halo with the protection of Zamorak.",
     "is_members_only": true
@@ -62760,7 +62761,7 @@
     ],
     "weight": 0.3,
     "value": 150000,
-    "high_alchemy_value": 90000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Halo with the protection of Zamorak.",
     "is_members_only": true
@@ -63724,7 +63725,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "'\"`UNIQ--nowiki-00000014-QINU`\"'",
+    "examine": "*cough*",
     "is_members_only": true
   },
   {
@@ -63737,7 +63738,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "'\"`UNIQ--nowiki-00000014-QINU`\"'",
+    "examine": "*cough*",
     "is_members_only": true
   },
   {
@@ -73805,7 +73806,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "'\"`UNIQ--nowiki-00000018-QINU`\"' by A. Ghrim.",
+    "examine": "''Managing Thine Kingdom for Noobes'' by A. Ghrim.",
     "is_members_only": true
   },
   {
@@ -76926,7 +76927,7 @@
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "15 men may jump on you, but only to steal the contents of your bank.",
-    "is_members_only": true
+    "is_members_only": false
   },
   {
     "item_name": "Deadman's chest",
@@ -76952,7 +76953,7 @@
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "That numb feeling.",
-    "is_members_only": true
+    "is_members_only": false
   },
   {
     "item_name": "Deadman's legs",
@@ -118901,7 +118902,7 @@
     ],
     "weight": 0.3,
     "value": 1000,
-    "high_alchemy_value": 600,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Halo with the protection of Armadyl.",
     "is_members_only": true
@@ -118914,7 +118915,7 @@
     ],
     "weight": 0.3,
     "value": 1000,
-    "high_alchemy_value": 600,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Halo with the protection of Armadyl.",
     "is_members_only": true
@@ -118940,7 +118941,7 @@
     ],
     "weight": 0.3,
     "value": 1000,
-    "high_alchemy_value": 600,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Halo with the protection of Bandos.",
     "is_members_only": true
@@ -118953,7 +118954,7 @@
     ],
     "weight": 0.3,
     "value": 1000,
-    "high_alchemy_value": 600,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Halo with the protection of Bandos.",
     "is_members_only": true
@@ -118979,7 +118980,7 @@
     ],
     "weight": 0.3,
     "value": 1000,
-    "high_alchemy_value": 600,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Halo with the protection of an ancient god.",
     "is_members_only": true
@@ -118992,7 +118993,7 @@
     ],
     "weight": 0.3,
     "value": 1000,
-    "high_alchemy_value": 600,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Halo with the protection of an ancient god.",
     "is_members_only": true
@@ -119018,7 +119019,7 @@
     ],
     "weight": 0.3,
     "value": 1000,
-    "high_alchemy_value": 600,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Halo with the protection of Seren.",
     "is_members_only": true
@@ -119031,7 +119032,7 @@
     ],
     "weight": 0.3,
     "value": 1000,
-    "high_alchemy_value": 600,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Halo with the protection of Seren.",
     "is_members_only": true
@@ -119057,7 +119058,7 @@
     ],
     "weight": 0.3,
     "value": 1000,
-    "high_alchemy_value": 600,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Halo with the protection of a healthy diet and the smell of flatulence.",
     "is_members_only": true
@@ -119070,7 +119071,7 @@
     ],
     "weight": 0.3,
     "value": 1000,
-    "high_alchemy_value": 600,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Halo with the protection of a healthy diet and the smell of flatulence.",
     "is_members_only": true
@@ -141964,8 +141965,8 @@
       "26147"
     ],
     "weight": 0.1,
-    "value": 30000,
-    "high_alchemy_value": 18000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -141990,8 +141991,8 @@
       "25991"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -142016,8 +142017,8 @@
       "25994"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Every attack does +1 damage to the target.",
     "is_members_only": true
@@ -142042,8 +142043,8 @@
       "25997"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Your melee accuracy is increased by +30 in stab, slash and crush. Additionally, upon a successful hit, you have a 30% chance for your next successful hit to deal +10 damage. There is a 10 second cooldown before this can reoccur. Does not work for special attacks.",
     "is_members_only": true
@@ -142068,10 +142069,10 @@
       "26000"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "Your ranged accuracy is increased by +20, and you have a 50% chance to save ammunition when using Ranged weapons, except when throwing Chinchompas.",
+    "examine": "Your ranged accuracy is increased by +20, and you have a 50% chance to save ammunition when using ranged weapons, except when throwing chinchompas.",
     "is_members_only": true
   },
   {
@@ -142094,10 +142095,10 @@
       "26003"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "Your magic accuracy is increased by +40 and you have a 50% chance to save runes or staff charges when using Magic.",
+    "examine": "Your magic accuracy is increased by +40 and you have a 50% chance to save runes or staff charges when casting spells.",
     "is_members_only": true
   },
   {
@@ -142120,8 +142121,8 @@
       "26006"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Your defence is increased by +50 for stab, slash, crush and ranged.",
     "is_members_only": true
@@ -142146,10 +142147,10 @@
       "26009"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "Barrows weapons get 40% more accuracy. Barrows gear never degrades, except upon death or after dropping the item and Barrows gear gains the effects of the Amulet of the Damned.",
+    "examine": "Barrows weapons get 40% more accuracy. Barrows gear never degrades, except upon death or after dropping the item. Barrows gear gains the effects of the amulet of the damned.",
     "is_members_only": true
   },
   {
@@ -142172,10 +142173,10 @@
       "26012"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "You gain 30% more accuracy in all styles against all monsters.",
     "is_members_only": true
   },
   {
@@ -142198,8 +142199,8 @@
       "26015"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -142224,10 +142225,10 @@
       "26018"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "You always gain triple resources from Mining, Fishing, Woodcutting or Farming.",
     "is_members_only": true
   },
   {
@@ -142250,8 +142251,8 @@
       "26021"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -142276,8 +142277,8 @@
       "26024"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -142302,8 +142303,8 @@
       "26027"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -142328,8 +142329,8 @@
       "26030"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -142354,8 +142355,8 @@
       "26033"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -142380,8 +142381,8 @@
       "26036"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -142406,8 +142407,8 @@
       "26039"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -142432,8 +142433,8 @@
       "26042"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -142458,10 +142459,10 @@
       "26045"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "You have a 5% chance not to consume potions when using them. Once the effect activates, it cannot be triggered again within 6 seconds.",
     "is_members_only": true
   },
   {
@@ -142484,8 +142485,8 @@
       "26048"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -142510,10 +142511,10 @@
       "26051"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "Clue scrolls drop 3x more often. You have a 75% chance for a clue scroll to return the reward casket after you complete a clue step for any tier. You can hold an unlimited amount of Scroll boxes.",
     "is_members_only": true
   },
   {
@@ -142536,8 +142537,8 @@
       "26054"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -142562,8 +142563,8 @@
       "26057"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -142588,10 +142589,10 @@
       "26060"
     ],
     "weight": 0.1,
-    "value": 20000,
-    "high_alchemy_value": 12000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "Activate the sigil to reduce the cost of your next special attack by 10 (the attack must cost more than 10 energy). This effect lasts for 12 seconds and has a 10 second cooldown.",
     "is_members_only": true
   },
   {
@@ -142614,10 +142615,10 @@
       "26063"
     ],
     "weight": 0.1,
-    "value": 20000,
-    "high_alchemy_value": 12000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "On level 81-95 and 96+ Worlds: Activate the sigil to recoil 4 damage to your attacker for every hit you take. On level 3-60 and 61-80 worlds: Activate the sigil to recoil 2 damage to your attacker for every hit you take. The effect lasts for 25 seconds and has a 1 minute cooldown.",
     "is_members_only": true
   },
   {
@@ -142640,8 +142641,8 @@
       "26066"
     ],
     "weight": 0.1,
-    "value": 20000,
-    "high_alchemy_value": 12000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -142666,8 +142667,8 @@
       "26069"
     ],
     "weight": 0.1,
-    "value": 20000,
-    "high_alchemy_value": 12000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -142692,10 +142693,10 @@
       "26072"
     ],
     "weight": 0.1,
-    "value": 20000,
-    "high_alchemy_value": 12000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "Upon dealing ranged damage, you have a 15% chance to cripple the target's movement. The effect deals 15 damage (33% less damage in 3-60 worlds) over the next 6 seconds and also drains a total of 15 run energy in that time. The damage is doubled against targets with less than 10% run energy. A target can only suffer from one crippling effect at a time.",
     "is_members_only": true
   },
   {
@@ -142718,8 +142719,8 @@
       "26075"
     ],
     "weight": 0.1,
-    "value": 20000,
-    "high_alchemy_value": 12000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -142744,10 +142745,10 @@
       "26078"
     ],
     "weight": 0.1,
-    "value": 20000,
-    "high_alchemy_value": 12000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "Upon dealing magic damage, you have a 15% chance to curse the target. The curse deals 18 damage (33% less damage in 3-60 worlds) over the next 6 seconds and also heals you for the same amount. A target can only be under the effect of one curse at a time.",
     "is_members_only": true
   },
   {
@@ -142770,8 +142771,8 @@
       "26081"
     ],
     "weight": 0.1,
-    "value": 20000,
-    "high_alchemy_value": 12000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -142796,8 +142797,8 @@
       "26084"
     ],
     "weight": 0.1,
-    "value": 20000,
-    "high_alchemy_value": 12000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -142822,8 +142823,8 @@
       "26087"
     ],
     "weight": 0.1,
-    "value": 20000,
-    "high_alchemy_value": 12000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -142848,8 +142849,8 @@
       "26090"
     ],
     "weight": 0.1,
-    "value": 20000,
-    "high_alchemy_value": 12000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -142874,8 +142875,8 @@
       "26093"
     ],
     "weight": 0.1,
-    "value": 20000,
-    "high_alchemy_value": 12000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -142900,10 +142901,10 @@
       "26096"
     ],
     "weight": 0.1,
-    "value": 20000,
-    "high_alchemy_value": 12000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "Choose your own Farming Contracts. Farming patches will grow instantly and never catch diseases.",
     "is_members_only": true
   },
   {
@@ -142926,10 +142927,10 @@
       "26099"
     ],
     "weight": 0.1,
-    "value": 20000,
-    "high_alchemy_value": 12000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "Dropped bones are automatically buried. Ashes are automatically scattered. Prayer XP gained from these activities is increased by 200%.",
     "is_members_only": true
   },
   {
@@ -142952,8 +142953,8 @@
       "26102"
     ],
     "weight": 0.1,
-    "value": 20000,
-    "high_alchemy_value": 12000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -142978,8 +142979,8 @@
       "26105"
     ],
     "weight": 0.1,
-    "value": 20000,
-    "high_alchemy_value": 12000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -143004,10 +143005,10 @@
       "26108"
     ],
     "weight": 0.1,
-    "value": 20000,
-    "high_alchemy_value": 12000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "Pay 45 Slayer Points to choose your own non-boss specific Slayer Task. Double the chance of a superior slayer monster appearing. Toggled on, you have a 25% chance for a Slayer Task kill to not count towards the task while still gaining you Slayer XP. Toggled off, 25% chance for a kill to count as 2. This Sigil does not stack with any bracelet effects.",
     "is_members_only": true
   },
   {
@@ -143030,8 +143031,8 @@
       "26111"
     ],
     "weight": 0.1,
-    "value": 20000,
-    "high_alchemy_value": 12000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -143056,8 +143057,8 @@
       "26114"
     ],
     "weight": 0.1,
-    "value": 20000,
-    "high_alchemy_value": 12000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -143082,8 +143083,8 @@
       "26117"
     ],
     "weight": 0.1,
-    "value": 20000,
-    "high_alchemy_value": 12000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -143108,8 +143109,8 @@
       "26120"
     ],
     "weight": 0.1,
-    "value": 20000,
-    "high_alchemy_value": 12000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -143134,8 +143135,8 @@
       "26123"
     ],
     "weight": 0.1,
-    "value": 20000,
-    "high_alchemy_value": 12000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -143160,10 +143161,10 @@
       "26126"
     ],
     "weight": 0.1,
-    "value": 30000,
-    "high_alchemy_value": 18000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "Activate the sigil to guarantee 100% accuracy on your next special attack within the next 12 seconds. Once activated, the sigil has a 10 second cooldown.",
     "is_members_only": true
   },
   {
@@ -143186,10 +143187,10 @@
       "26129"
     ],
     "weight": 0.1,
-    "value": 30000,
-    "high_alchemy_value": 18000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "Decrease the amount of damage you take from attacks of a given combat style by 35% when using the correct protection prayer for that style. Increase the damage you take by protecting against the wrong combat style by 5%.",
     "is_members_only": true
   },
   {
@@ -143212,10 +143213,10 @@
       "26132"
     ],
     "weight": 0.1,
-    "value": 30000,
-    "high_alchemy_value": 18000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "All attacks deal 10% more damage. This sigil does not stack with the Sigil of Rampage.",
     "is_members_only": true
   },
   {
@@ -143238,10 +143239,10 @@
       "26135"
     ],
     "weight": 0.1,
-    "value": 30000,
-    "high_alchemy_value": 18000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "Alternating combat styles will increase your rampage count, up to a maximum of 2. Consecutive attacks with the same style will reset the counter. Each rampage count increases your damage and accuracy by 7%. Your rampage count will reset after not attacking for 6 seconds.\nThis sigil does not stack with the Sigil of Aggression.",
     "is_members_only": true
   },
   {
@@ -143264,8 +143265,8 @@
       "26138"
     ],
     "weight": 0.1,
-    "value": 30000,
-    "high_alchemy_value": 18000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -143290,10 +143291,10 @@
       "26141"
     ],
     "weight": 0.1,
-    "value": 30000,
-    "high_alchemy_value": 18000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "Resources gathered from Mining, Fishing, Woodcutting and Farming will be automatically noted and placed in your inventory.",
     "is_members_only": true
   },
   {
@@ -143316,8 +143317,8 @@
       "26144"
     ],
     "weight": 0.1,
-    "value": 30000,
-    "high_alchemy_value": 18000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -161171,7 +161172,7 @@
       "28477"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A sigil attuned to you with great power.",
@@ -161184,7 +161185,7 @@
       "28478"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
@@ -161197,7 +161198,7 @@
       "28480"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A sigil attuned to you with great power.",
@@ -161210,10 +161211,10 @@
       "28481"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "Receive 5x the amount of reward points from most minigames and activities that reward points, such as Barbarian Assault, Tempoross, Mastering Mixology, Mage Training Arena and many more.",
     "is_members_only": true
   },
   {
@@ -161223,7 +161224,7 @@
       "28483"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A sigil attuned to you with great power.",
@@ -161236,10 +161237,10 @@
       "28484"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "When casting high or low alchemy on a stack of items, the spell will automatically recast over time, until the stack is depleted or moved.",
     "is_members_only": true
   },
   {
@@ -161249,7 +161250,7 @@
       "28486"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A sigil attuned to you with great power.",
@@ -161262,10 +161263,10 @@
       "28487"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "You gain three chinchompas per successful chinchompa capture. Box traps catch chinchompas faster. Hunter catching will rarely fail.",
     "is_members_only": true
   },
   {
@@ -161275,7 +161276,7 @@
       "28489"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A sigil attuned to you with great power.",
@@ -161288,10 +161289,10 @@
       "28490"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "All attacks from monsters do 25% less damage. The damage reduction effect does not stack with the Sigil of Titanium.",
     "is_members_only": true
   },
   {
@@ -161301,7 +161302,7 @@
       "28492"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A sigil attuned to you with great power.",
@@ -161314,10 +161315,10 @@
       "28493"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "When a Mark of Grace appears while training on a Rooftop Agility Course, 10,000 coins will appear alongside it. When handing in a pyramid top to Simon Templeton, receive 30,000 coins instead of 10,000 coins.",
     "is_members_only": true
   },
   {
@@ -161327,7 +161328,7 @@
       "28495"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A sigil attuned to you with great power.",
@@ -161340,36 +161341,36 @@
       "28496"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "You have a 5% chance not to consume food when used. This effect has a 6 second cooldown.",
     "is_members_only": true
   },
   {
-    "item_name": "Sigil of the well-fed",
-    "item_name_variant": "Sigil of the well-fed#Attuned",
+    "item_name": "Sigil of the well fed",
+    "item_name_variant": "Sigil of the well fed#Attuned",
     "item_id": [
       "28498"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A sigil attuned to you with great power.",
     "is_members_only": true
   },
   {
-    "item_name": "Sigil of the well-fed",
-    "item_name_variant": "Sigil of the well-fed#Un-attuned",
+    "item_name": "Sigil of the well fed",
+    "item_name_variant": "Sigil of the well fed#Un-attuned",
     "item_id": [
       "28499"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "You have a 5% chance to gain twice the number of Hitpoints from any food or potions consumed.",
     "is_members_only": true
   },
   {
@@ -161395,7 +161396,7 @@
     "value": 10000,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "You have a 50% chance to instantly cook fish that are caught while Fishing, granting Cooking XP regardless of level requirements.",
     "is_members_only": true
   },
   {
@@ -161405,7 +161406,7 @@
       "28504"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A sigil attuned to you with great power.",
@@ -161418,7 +161419,7 @@
       "28505"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
@@ -161431,7 +161432,7 @@
       "28507"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A sigil attuned to you with great power.",
@@ -161444,10 +161445,10 @@
       "28508"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "Special attack regeneration will become 15 seconds per 10%. If a lightbearer ring is also equipped, special attack regeneration will become 10 seconds per 10%.",
     "is_members_only": true
   },
   {
@@ -161457,7 +161458,7 @@
       "28510"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A sigil attuned to you with great power.",
@@ -161470,7 +161471,7 @@
       "28511"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
@@ -161483,7 +161484,7 @@
       "28513"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A sigil attuned to you with great power.",
@@ -161496,7 +161497,7 @@
       "28514"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
@@ -161509,7 +161510,7 @@
       "28516"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A sigil attuned to you with great power.",
@@ -161522,10 +161523,10 @@
       "28517"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "The max hits of thralls is increased by 5x. Thralls last for twice their duration.",
     "is_members_only": true
   },
   {
@@ -161535,7 +161536,7 @@
       "28519"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A sigil attuned to you with great power.",
@@ -161548,10 +161549,10 @@
       "28520"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "You always gain twice the number of Prayer Points when consuming Prayer-restoring potions.",
     "is_members_only": true
   },
   {
@@ -161561,7 +161562,7 @@
       "28522"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A sigil attuned to you with great power.",
@@ -161574,10 +161575,10 @@
       "28523"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "All attacks from monsters do 60% less damage. The damage reduction effect does not stack with the Sigil of Resistance.",
     "is_members_only": true
   },
   {
@@ -161587,7 +161588,7 @@
       "28525"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A sigil attuned to you with great power.",
@@ -161600,7 +161601,7 @@
       "28526"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
@@ -161613,7 +161614,7 @@
       "28528"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A sigil attuned to you with great power.",
@@ -161626,10 +161627,10 @@
       "28529"
     ],
     "weight": 0.4,
-    "value": 10000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "Instead of receiving logs when chopping specific trees, you will receive the appropriate planks. Requires 50 coins per regular plank, 125 coins per oak plank, 250 coins per teak plank, and 700 coins per mahogany plank. Does not work in guarded areas or with the infernal axe.",
     "is_members_only": true
   },
   {
@@ -161691,8 +161692,8 @@
       "28561"
     ],
     "weight": 1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 100000,
+    "high_alchemy_value": 60000,
     "buy_limit": 0,
     "examine": "A magic rock! This one casts the Vengeance spell.",
     "is_members_only": true
@@ -161730,8 +161731,8 @@
       "28564"
     ],
     "weight": 1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 100000,
+    "high_alchemy_value": 60000,
     "buy_limit": 0,
     "examine": "A magic rock! This one smells funny and lets you teleport.",
     "is_members_only": true
@@ -161743,8 +161744,8 @@
       "28567"
     ],
     "weight": 1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 100000,
+    "high_alchemy_value": 60000,
     "buy_limit": 0,
     "examine": "A magic rock! This one gives you a random corrupted weapon instead.",
     "is_members_only": true
@@ -161756,8 +161757,8 @@
       "28570"
     ],
     "weight": 1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 100000,
+    "high_alchemy_value": 60000,
     "buy_limit": 0,
     "examine": "A magic rock! This one gives you random thralls.",
     "is_members_only": true
@@ -161792,10 +161793,10 @@
     "item_name": "Quest lamp",
     "item_name_variant": "Quest lamp",
     "item_id": [
-      "28551",
-      "28552",
-      "28553",
-      "28554"
+      "old28551",
+      "old28552",
+      "old28553",
+      "old28554"
     ],
     "weight": 0.1,
     "value": 1,
@@ -176245,12 +176246,12 @@
     "value": 10000,
     "high_alchemy_value": 6000,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "Automatically re-pickpocket an NPC until you can no longer do so. Drastically improves pickpocketing success rates at early levels. Note: Guards will not let you pickpocket in safezones!",
     "is_members_only": true
   },
   {
-    "item_name": "Sigil of lithe",
-    "item_name_variant": "Sigil of lithe#Attuned",
+    "item_name": "Sigil of litheness",
+    "item_name_variant": "Sigil of litheness#Attuned",
     "item_id": [
       "29660"
     ],
@@ -176262,16 +176263,16 @@
     "is_members_only": true
   },
   {
-    "item_name": "Sigil of lithe",
-    "item_name_variant": "Sigil of lithe#Un-attuned",
+    "item_name": "Sigil of litheness",
+    "item_name_variant": "Sigil of litheness#Un-attuned",
     "item_id": [
       "29661"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "Receive Agility XP whilst running, roughly every 6 seconds. Bypass the Agility level requirement for any Agility shortcut. Other requirements for a shortcut will still be needed.",
     "is_members_only": true
   },
   {
@@ -176294,15 +176295,15 @@
       "29652"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "Revenant weapon damage and accuracy bonuses are no longer restricted to the Wilderness when this sigil is attuned.",
     "is_members_only": true
   },
   {
-    "item_name": "Sigil of swashbuckler",
-    "item_name_variant": "Sigil of swashbuckler#Attuned",
+    "item_name": "Sigil of the swashbuckler",
+    "item_name_variant": "Sigil of the swashbuckler#Attuned",
     "item_id": [
       "29672"
     ],
@@ -176314,16 +176315,16 @@
     "is_members_only": true
   },
   {
-    "item_name": "Sigil of swashbuckler",
-    "item_name_variant": "Sigil of swashbuckler#Un-attuned",
+    "item_name": "Sigil of the swashbuckler",
+    "item_name_variant": "Sigil of the swashbuckler#Un-attuned",
     "item_id": [
       "29673"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "All melee weapons with a base attack speed above 4 will have it reduced by 1. Cannot be used in conjunction with the Sigil of the Gunslinger or the Sigil of Arcane Swiftness.",
     "is_members_only": true
   },
   {
@@ -176372,10 +176373,10 @@
       "29670"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "Upon a successful hit, your Hitpoints are restored by 10% of the damage dealt, rounded up. Excludes attacks on multiple targets and special attacks.",
     "is_members_only": true
   },
   {
@@ -176418,8 +176419,8 @@
     "is_members_only": true
   },
   {
-    "item_name": "Sigil of rampart",
-    "item_name_variant": "Sigil of rampart#Attuned",
+    "item_name": "Sigil of the rampart",
+    "item_name_variant": "Sigil of the rampart#Attuned",
     "item_id": [
       "29654"
     ],
@@ -176431,8 +176432,8 @@
     "is_members_only": true
   },
   {
-    "item_name": "Sigil of rampart",
-    "item_name_variant": "Sigil of rampart#Un-attuned",
+    "item_name": "Sigil of the rampart",
+    "item_name_variant": "Sigil of the rampart#Un-attuned",
     "item_id": [
       "29655"
     ],
@@ -176476,10 +176477,10 @@
       "29667"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "Increases the maximum number of targets chinchompas and multi-target ancient spells can hit by 2. Black chinchompa max targets is only increased by 1.",
     "is_members_only": true
   },
   {
@@ -176502,10 +176503,10 @@
       "29649"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "You gain 75% more accuracy in all styles against all monsters.",
     "is_members_only": true
   },
   {
@@ -176535,8 +176536,8 @@
     "is_members_only": true
   },
   {
-    "item_name": "Sigil of adroit",
-    "item_name_variant": "Sigil of adroit#Attuned",
+    "item_name": "Sigil of the adroit",
+    "item_name_variant": "Sigil of the adroit#Attuned",
     "item_id": [
       "29663"
     ],
@@ -176548,16 +176549,16 @@
     "is_members_only": true
   },
   {
-    "item_name": "Sigil of adroit",
-    "item_name_variant": "Sigil of adroit#Un-attuned",
+    "item_name": "Sigil of the adroit",
+    "item_name_variant": "Sigil of the adroit#Un-attuned",
     "item_id": [
       "29664"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "Accuracy is increased by 1% for each Hitpoint missing. This increases to 2% accuracy per Hitpoint if the player is at or below 20 Hitpoints.",
     "is_members_only": true
   },
   {
@@ -176593,15 +176594,15 @@
       "29679"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "All magic weapons with a base attack speed above 4 will have it reduced by 1. Cannot be used in conjunction with the Sigil of the Swashbuckler or the Sigil of the Gunslinger.",
     "is_members_only": true
   },
   {
-    "item_name": "Sigil of gunslinger",
-    "item_name_variant": "Sigil of gunslinger#Attuned",
+    "item_name": "Sigil of the gunslinger",
+    "item_name_variant": "Sigil of the gunslinger#Attuned",
     "item_id": [
       "29675"
     ],
@@ -176613,16 +176614,16 @@
     "is_members_only": true
   },
   {
-    "item_name": "Sigil of gunslinger",
-    "item_name_variant": "Sigil of gunslinger#Un-attuned",
+    "item_name": "Sigil of the gunslinger",
+    "item_name_variant": "Sigil of the gunslinger#Un-attuned",
     "item_id": [
       "29676"
     ],
     "weight": 0.1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A power enhancing sigil not yet attuned to you.",
+    "examine": "All ranged weapons with a base attack speed above 4 will have it reduced by 1. Cannot be used in conjunction with the Sigil of the Swashbuckler or the Sigil of Arcane Swiftness.",
     "is_members_only": true
   },
   {
@@ -185640,8 +185641,8 @@
       "30676"
     ],
     "weight": 1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 100000,
+    "high_alchemy_value": 60000,
     "buy_limit": 0,
     "examine": "A magical, helpful charm.",
     "is_members_only": true
@@ -185653,8 +185654,8 @@
       "30679"
     ],
     "weight": 1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 100000,
+    "high_alchemy_value": 60000,
     "buy_limit": 0,
     "examine": "A magical, helpful charm.",
     "is_members_only": true
@@ -185666,8 +185667,8 @@
       "30682"
     ],
     "weight": 1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 100000,
+    "high_alchemy_value": 60000,
     "buy_limit": 0,
     "examine": "A magical, helpful charm.",
     "is_members_only": true
@@ -185679,8 +185680,8 @@
       "30685"
     ],
     "weight": 1,
-    "value": 10000,
-    "high_alchemy_value": 6000,
+    "value": 100000,
+    "high_alchemy_value": 60000,
     "buy_limit": 0,
     "examine": "A magical, helpful charm.",
     "is_members_only": true
@@ -209334,6 +209335,19 @@
   },
   {
     "item_name": "Sigil of the gods",
+    "item_name_variant": "Sigil of the gods#Attuned",
+    "item_id": [
+      "33053"
+    ],
+    "weight": 0.1,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A sigil attuned to you with great power.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Sigil of the gods",
     "item_name_variant": "Sigil of the gods#Un-attuned",
     "item_id": [
       "33054"
@@ -209346,10 +209360,10 @@
     "is_members_only": true
   },
   {
-    "item_name": "Sigil of the gods",
-    "item_name_variant": "Sigil of the gods#Attuned",
+    "item_name": "Sigil of conclusion",
+    "item_name_variant": "Sigil of conclusion#Attuned",
     "item_id": [
-      "33053"
+      "33055"
     ],
     "weight": 0.1,
     "value": 1,
@@ -209372,10 +209386,10 @@
     "is_members_only": true
   },
   {
-    "item_name": "Sigil of conclusion",
-    "item_name_variant": "Sigil of conclusion#Attuned",
+    "item_name": "Sigil of automation",
+    "item_name_variant": "Sigil of automation#Attuned",
     "item_id": [
-      "33055"
+      "33057"
     ],
     "weight": 0.1,
     "value": 1,
@@ -209398,10 +209412,10 @@
     "is_members_only": true
   },
   {
-    "item_name": "Sigil of automation",
-    "item_name_variant": "Sigil of automation#Attuned",
+    "item_name": "Sigil of eternal belief",
+    "item_name_variant": "Sigil of eternal belief#Attuned",
     "item_id": [
-      "33057"
+      "33059"
     ],
     "weight": 0.1,
     "value": 1,
@@ -209420,14 +209434,14 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "Prayer does not drain naturally, however your prayer can still be affected by prayer drain effects like smite.",
+    "examine": "Prayer does not drain naturally, but your prayer can still be affected by prayer drain effects like smite.",
     "is_members_only": true
   },
   {
-    "item_name": "Sigil of eternal belief",
-    "item_name_variant": "Sigil of eternal belief#Attuned",
+    "item_name": "Sigil of efficiency",
+    "item_name_variant": "Sigil of efficiency#Attuned",
     "item_id": [
-      "33059"
+      "33061"
     ],
     "weight": 0.1,
     "value": 1,
@@ -209446,20 +209460,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "On failing to chop a tree or catch a fish, you will have a separate 50% chance to succeed. Resources from woodcutting, fishing and farming will be doubled.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Sigil of efficiency",
-    "item_name_variant": "Sigil of efficiency#Attuned",
-    "item_id": [
-      "33061"
-    ],
-    "weight": 0.1,
-    "value": 1,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "A sigil attuned to you with great power.",
+    "examine": "On failing to chop a tree or catch a fish, you will have a separate 50% chance to succeed. Resources from Woodcutting, Fishing and Farming will be doubled.",
     "is_members_only": true
   },
   {
@@ -209486,6 +209487,132 @@
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A Deadman's skull filled with magical power.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Flail Upgrade",
+    "item_name_variant": "Flail Upgrade",
+    "item_id": null,
+    "weight": 0,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": true
+  },
+  {
+    "item_name": "New Spec Weapon",
+    "item_name_variant": "New Spec Weapon",
+    "item_id": null,
+    "weight": 0,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": true
+  },
+  {
+    "item_name": "Facility bottle",
+    "item_name_variant": "Facility bottle#Full",
+    "item_id": [
+      "33077"
+    ],
+    "weight": 0.02,
+    "value": 500,
+    "high_alchemy_value": 300,
+    "buy_limit": 0,
+    "examine": "If we can move whole boats in bottles, moving just parts of boats should be easier, right?",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Facility bottle",
+    "item_name_variant": "Facility bottle#Empty",
+    "item_id": [
+      "33074"
+    ],
+    "weight": 0.02,
+    "value": 500,
+    "high_alchemy_value": 300,
+    "buy_limit": 0,
+    "examine": "With proper application of directed exhalations, this complicated technology doubles as a folk instrument.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "The dogsword (Deadman Mode)",
+    "item_name_variant": "The dogsword (Deadman Mode)",
+    "item_id": [
+      "33038"
+    ],
+    "weight": 10,
+    "value": 1000000,
+    "high_alchemy_value": 600000,
+    "buy_limit": 0,
+    "examine": "A dog couldn't wield a sword this powerful.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Thunder khopesh (Deadman Mode)",
+    "item_name_variant": "Thunder khopesh (Deadman Mode)",
+    "item_id": [
+      "33041"
+    ],
+    "weight": 1.36,
+    "value": 1000000,
+    "high_alchemy_value": 600000,
+    "buy_limit": 0,
+    "examine": "A powerful Khopesh, imbued with the power of thunder and lightning.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Mahjarrat 1 quest lamp",
+    "item_name_variant": "Mahjarrat 1 quest lamp",
+    "item_id": [
+      "28554"
+    ],
+    "weight": 0.1,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Completes the Mahjarrat storyline, up to and including Desert Treasure.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Fremennik quest lamp",
+    "item_name_variant": "Fremennik quest lamp",
+    "item_id": [
+      "28551"
+    ],
+    "weight": 0.1,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Completes the Fremennik storyline, up to and including Fremennik Exiles.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Elf quest lamp",
+    "item_name_variant": "Elf quest lamp",
+    "item_id": [
+      "28552"
+    ],
+    "weight": 0.1,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Completes the Elf storyline, up to and including Roving Elves.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Gnome quest lamp",
+    "item_name_variant": "Gnome quest lamp",
+    "item_id": [
+      "28553"
+    ],
+    "weight": 0.1,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Completes the Gnome storyline, up to and including Monkey Madness 2.",
     "is_members_only": true
   }
 ]
