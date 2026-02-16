@@ -130815,7 +130815,7 @@
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "It's good for holding and hitting things!",
-    "is_members_only": false
+    "is_members_only": true
   },
   {
     "item_name": "Steak sandwich",
@@ -187151,7 +187151,7 @@
     "weight": 0.7,
     "value": 170,
     "high_alchemy_value": 102,
-    "buy_limit": 0,
+    "buy_limit": 15000,
     "examine": "I should try cooking this.",
     "is_members_only": true
   },
@@ -209563,6 +209563,17 @@
     "is_members_only": true
   },
   {
+    "item_name": "Mooleta",
+    "item_name_variant": "Mooleta",
+    "item_id": null,
+    "weight": 0,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": false
+  },
+  {
     "item_name": "Facility bottle",
     "item_name_variant": "Facility bottle#Full",
     "item_id": [
@@ -209678,5 +209689,82 @@
     "buy_limit": 0,
     "examine": "A powerful tome filled with the knowledge of dangerous prayers.",
     "is_members_only": true
+  },
+  {
+    "item_name": "Cow bell amulet",
+    "item_name_variant": "Cow bell amulet",
+    "item_id": null,
+    "weight": 0,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": false
+  },
+  {
+    "item_name": "Cow slippers",
+    "item_name_variant": "Cow slippers",
+    "item_id": null,
+    "weight": 0,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": false
+  },
+  {
+    "item_name": "Bottomless milk bucket",
+    "item_name_variant": "Bottomless milk bucket",
+    "item_id": null,
+    "weight": 0,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": false
+  },
+  {
+    "item_name": "Rump steak",
+    "item_name_variant": "Rump steak",
+    "item_id": null,
+    "weight": 0,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": false
+  },
+  {
+    "item_name": "Raw rump steak",
+    "item_name_variant": "Raw rump steak",
+    "item_id": null,
+    "weight": 0,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": false
+  },
+  {
+    "item_name": "Burnt rump steak",
+    "item_name_variant": "Burnt rump steak",
+    "item_id": null,
+    "weight": 0,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": false
+  },
+  {
+    "item_name": "Bull bones",
+    "item_name_variant": "Bull bones",
+    "item_id": null,
+    "weight": 0,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": false
   }
 ]

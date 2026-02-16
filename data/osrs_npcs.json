@@ -62879,7 +62879,8 @@
     "flat_armour": 0,
     "attack_speed": 4,
     "attribute": [
-      "dragon"
+      "dragon",
+      "fiery"
     ],
     "max_hit": [
       "16 (Stab)<br/>50 (Dragonfire)"
@@ -71943,7 +71944,7 @@
     "slayer_level": 85,
     "slayer_experience": 50,
     "size": 2,
-    "examine": "'\"`UNIQ--nowiki-0000007B-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
+    "examine": "'\"`UNIQ--nowiki-00000027-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
     "poison_immune": "Immune",
     "venom_immune": "Immune",
     "thrall_immune": "Not immune",
@@ -87109,7 +87110,7 @@
     "attack_speed": 10,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-00000192-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-00000081-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -87159,7 +87160,7 @@
     "attack_speed": 7,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-00000192-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-00000081-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -110868,7 +110869,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "30-37 (Melee)'\"`UNIQ--ref-00000057-QINU`\"'",
+      "30-37 (Melee)'\"`UNIQ--ref-0000007C-QINU`\"'",
       "?? (axes)"
     ],
     "attack_style": [
@@ -110919,7 +110920,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "46-61 (Melee)'\"`UNIQ--ref-00000056-QINU`\"'",
+      "46-61 (Melee)'\"`UNIQ--ref-0000007B-QINU`\"'",
       "96 (axes)"
     ],
     "attack_style": [
@@ -110970,7 +110971,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "32-43 (Melee)'\"`UNIQ--ref-00000055-QINU`\"'",
+      "32-43 (Melee)'\"`UNIQ--ref-0000007A-QINU`\"'",
       "35 (axes)"
     ],
     "attack_style": [
@@ -118059,7 +118060,7 @@
     "attack_speed": 10,
     "attribute": [],
     "max_hit": [
-      "30 (Melee)",
+      "30 (x2) (Melee)",
       "28 (Ranged)",
       "26 (Magic)",
       "45 (Screech)",
@@ -118113,7 +118114,7 @@
     "attack_speed": 10,
     "attribute": [],
     "max_hit": [
-      "70+ (Melee)",
+      "70+ (x2) (Melee)",
       "53 (Ranged)",
       "45 (Magic)",
       "70 (Screech)",
@@ -118167,7 +118168,7 @@
     "attack_speed": 10,
     "attribute": [],
     "max_hit": [
-      "42 (Melee)",
+      "42 (x2) (Melee)",
       "40 (Ranged)",
       "36 (Magic)",
       "45 (Screech)",
@@ -129867,7 +129868,7 @@
     ],
     "attack_style": [
       "Crush",
-      "'\"`UNIQ--ref-000000D6-QINU`\"' Magic",
+      "'\"`UNIQ--ref-0000004B-QINU`\"' Magic",
       "Ranged"
     ],
     "experience_bonus": 67.5,
@@ -130558,10 +130559,10 @@
     "attack_speed": 0,
     "attribute": [],
     "max_hit": [
-      "45 (Typeless AOE",
-      "Triple Parry)",
+      "45 (Typeless AOE)",
       "45 (Grapple)",
-      ""
+      "15-25-35 (Triple Parry 1)",
+      "15-30-45 (Triple Parry 2)"
     ],
     "attack_style": [
       "Various"
@@ -145451,7 +145452,7 @@
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 1,
-    "examine": "'\"`UNIQ--nowiki-0000009F-QINU`\"'whispers*The seas are not lackin' kraken.",
+    "examine": "'\"`UNIQ--nowiki-0000003A-QINU`\"'whispers*The seas are not lackin' kraken.",
     "poison_immune": "Not immune",
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
@@ -154347,6 +154348,58 @@
     "page_name": "Hermit crab",
     "name": "Hermit crab",
     "id": [
+      "14853",
+      "14854",
+      "14855",
+      "14856"
+    ],
+    "combat_level": 19,
+    "hitpoints": 75,
+    "attack_level": 1,
+    "strength_level": 1,
+    "defence_level": 1,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": -50,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [],
+    "max_hit": [
+      "1"
+    ],
+    "attack_style": [
+      "Crush"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 1,
+    "examine": "Smells fishy.",
+    "poison_immune": "Not immune",
+    "venom_immune": "Not immune",
+    "thrall_immune": "Not immune",
+    "cannon_immune": "Immune",
+    "burn_immune": "Not immune"
+  },
+  {
+    "page_name": "Hermit crab",
+    "name": "Hermit crab",
+    "id": [
       "14852"
     ],
     "combat_level": 19,
@@ -154388,9 +154441,9 @@
     "examine": "Why so crabby?",
     "poison_immune": "Not immune",
     "venom_immune": "Not immune",
-    "thrall_immune": "unknown",
+    "thrall_immune": "Not immune",
     "cannon_immune": "Immune",
-    "burn_immune": "unknown"
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "Osprey",
@@ -157568,12 +157621,12 @@
     "defence_level": 25,
     "magic_level": 250,
     "ranged_level": 250,
-    "attack_bonus": "unknown",
-    "strength_bonus": "unknown",
-    "magic_attack_bonus": "unknown",
-    "magic_damage_bonus": "unknown",
-    "range_attack_bonus": "unknown",
-    "range_strength_bonus": "unknown",
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
     "stab_defence_bonus": 0,
     "slash_defence_bonus": 0,
     "crush_defence_bonus": 0,
@@ -157586,7 +157639,10 @@
     "flat_armour": 0,
     "attack_speed": 8,
     "attribute": [],
-    "max_hit": "unknown",
+    "max_hit": [
+      "25 (Melee)",
+      "?"
+    ],
     "attack_style": [
       "Stab",
       "Magic",
@@ -157598,7 +157654,7 @@
     "slayer_experience": 0,
     "size": 3,
     "examine": "This is going to hurt... Slightly.",
-    "poison_immune": "unknown",
+    "poison_immune": "Not immune",
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
@@ -157711,12 +157767,12 @@
     "defence_level": 150,
     "magic_level": 1,
     "ranged_level": 1,
-    "attack_bonus": "unknown",
-    "strength_bonus": "unknown",
-    "magic_attack_bonus": "unknown",
-    "magic_damage_bonus": "unknown",
-    "range_attack_bonus": "unknown",
-    "range_strength_bonus": "unknown",
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
     "stab_defence_bonus": 0,
     "slash_defence_bonus": 0,
     "crush_defence_bonus": 0,
@@ -157742,7 +157798,7 @@
     "size": 1,
     "examine": "A tightly-wrapped monster.",
     "poison_immune": "Not immune",
-    "venom_immune": "unknown",
+    "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "Not immune",
     "burn_immune": "unknown"
@@ -157760,12 +157816,12 @@
     "defence_level": 100,
     "magic_level": 1,
     "ranged_level": 1,
-    "attack_bonus": "unknown",
-    "strength_bonus": "unknown",
-    "magic_attack_bonus": "unknown",
-    "magic_damage_bonus": "unknown",
-    "range_attack_bonus": "unknown",
-    "range_strength_bonus": "unknown",
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
     "stab_defence_bonus": 0,
     "slash_defence_bonus": 0,
     "crush_defence_bonus": 0,
@@ -157778,8 +157834,12 @@
     "flat_armour": 0,
     "attack_speed": 4,
     "attribute": [],
-    "max_hit": "unknown",
-    "attack_style": "unknown",
+    "max_hit": [
+      "16"
+    ],
+    "attack_style": [
+      "Slash"
+    ],
     "experience_bonus": 0,
     "is_members_only": true,
     "slayer_level": 1,
@@ -157787,7 +157847,7 @@
     "size": 1,
     "examine": "The animated dead; one of Rashiliyia's minions.",
     "poison_immune": "Not immune",
-    "venom_immune": "unknown",
+    "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "Not immune",
     "burn_immune": "unknown"
@@ -157805,12 +157865,12 @@
     "defence_level": 50,
     "magic_level": 1,
     "ranged_level": 1,
-    "attack_bonus": "unknown",
-    "strength_bonus": "unknown",
-    "magic_attack_bonus": "unknown",
-    "magic_damage_bonus": "unknown",
-    "range_attack_bonus": "unknown",
-    "range_strength_bonus": "unknown",
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
     "stab_defence_bonus": 0,
     "slash_defence_bonus": 0,
     "crush_defence_bonus": 0,
@@ -157823,8 +157883,12 @@
     "flat_armour": 0,
     "attack_speed": 4,
     "attribute": [],
-    "max_hit": "unknown",
-    "attack_style": "unknown",
+    "max_hit": [
+      "16"
+    ],
+    "attack_style": [
+      "Slash"
+    ],
     "experience_bonus": 0,
     "is_members_only": true,
     "slayer_level": 1,
@@ -157832,7 +157896,7 @@
     "size": 1,
     "examine": "What could be worse than an angry, undead fremennik?",
     "poison_immune": "Not immune",
-    "venom_immune": "unknown",
+    "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "Not immune",
     "burn_immune": "unknown"
@@ -157850,12 +157914,12 @@
     "defence_level": 100,
     "magic_level": 1,
     "ranged_level": 1,
-    "attack_bonus": "unknown",
-    "strength_bonus": "unknown",
-    "magic_attack_bonus": "unknown",
-    "magic_damage_bonus": "unknown",
-    "range_attack_bonus": "unknown",
-    "range_strength_bonus": "unknown",
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
     "stab_defence_bonus": 0,
     "slash_defence_bonus": 0,
     "crush_defence_bonus": 0,
@@ -157881,7 +157945,7 @@
     "size": 1,
     "examine": "Aaaargh, me hearty!",
     "poison_immune": "Not immune",
-    "venom_immune": "unknown",
+    "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "Not immune",
     "burn_immune": "unknown"
@@ -157899,26 +157963,32 @@
     "defence_level": 10,
     "magic_level": 50,
     "ranged_level": 1,
-    "attack_bonus": "unknown",
-    "strength_bonus": "unknown",
-    "magic_attack_bonus": "unknown",
-    "magic_damage_bonus": "unknown",
-    "range_attack_bonus": "unknown",
-    "range_strength_bonus": "unknown",
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
     "stab_defence_bonus": 0,
     "slash_defence_bonus": 0,
     "crush_defence_bonus": 0,
     "magic_defence_bonus": 0,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
+    "elemental_weakness": "Air",
+    "elemental_weakness_percent": 40,
     "light_range_defence_bonus": 0,
     "standard_range_defence_bonus": 0,
     "heavy_range_defence_bonus": 0,
-    "flat_armour": 0,
+    "flat_armour": -3,
     "attack_speed": 4,
-    "attribute": [],
-    "max_hit": "unknown",
-    "attack_style": "unknown",
+    "attribute": [
+      "spectral"
+    ],
+    "max_hit": [
+      "16"
+    ],
+    "attack_style": [
+      "Crush"
+    ],
     "experience_bonus": 0,
     "is_members_only": true,
     "slayer_level": 1,
@@ -157926,7 +157996,7 @@
     "size": 1,
     "examine": "The shadowy remains of a long-departed soul.",
     "poison_immune": "Not immune",
-    "venom_immune": "unknown",
+    "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "Not immune",
     "burn_immune": "unknown"
@@ -157944,12 +158014,12 @@
     "defence_level": 100,
     "magic_level": 1,
     "ranged_level": 1,
-    "attack_bonus": "unknown",
-    "strength_bonus": "unknown",
-    "magic_attack_bonus": "unknown",
-    "magic_damage_bonus": "unknown",
-    "range_attack_bonus": "unknown",
-    "range_strength_bonus": "unknown",
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
     "stab_defence_bonus": 0,
     "slash_defence_bonus": 0,
     "crush_defence_bonus": 0,
@@ -157962,8 +158032,12 @@
     "flat_armour": 0,
     "attack_speed": 4,
     "attribute": [],
-    "max_hit": "unknown",
-    "attack_style": "unknown",
+    "max_hit": [
+      "16"
+    ],
+    "attack_style": [
+      "Slash"
+    ],
     "experience_bonus": 0,
     "is_members_only": true,
     "slayer_level": 1,
@@ -157971,7 +158045,7 @@
     "size": 1,
     "examine": "He looks really nasty. Smells bad too.",
     "poison_immune": "Immune",
-    "venom_immune": "unknown",
+    "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "Immune",
     "burn_immune": "unknown"
@@ -158115,7 +158189,7 @@
     "attack_style": [
       "Stab"
     ],
-    "experience_bonus": 0,
+    "experience_bonus": 107.5,
     "is_members_only": true,
     "slayer_level": 1,
     "slayer_experience": 0,
@@ -158164,7 +158238,7 @@
     "attack_style": [
       "Stab"
     ],
-    "experience_bonus": 0,
+    "experience_bonus": 107.5,
     "is_members_only": true,
     "slayer_level": 1,
     "slayer_experience": 0,
@@ -158241,7 +158315,7 @@
     "attack_bonus": 250,
     "strength_bonus": 5,
     "magic_attack_bonus": 0,
-    "magic_damage_bonus": "unknown",
+    "magic_damage_bonus": 0,
     "range_attack_bonus": 150,
     "range_strength_bonus": 5,
     "stab_defence_bonus": 65,

@@ -327012,12 +327012,12 @@
           "quantity": "1"
         },
         {
-          "name": "Hydra's heart",
+          "name": "Hydra's fang",
           "rarity": "1/1,800.72",
           "quantity": "1"
         },
         {
-          "name": "Hydra's fang",
+          "name": "Hydra's heart",
           "rarity": "1/1,800.72",
           "quantity": "1"
         },
@@ -349323,12 +349323,12 @@
           "quantity": "1"
         },
         {
-          "name": "Hydra's heart",
+          "name": "Hydra's fang",
           "rarity": "1/360.72",
           "quantity": "1"
         },
         {
-          "name": "Hydra's fang",
+          "name": "Hydra's heart",
           "rarity": "1/360.72",
           "quantity": "1"
         },
@@ -419833,7 +419833,7 @@
         },
         {
           "name": "Clue scroll (elite)",
-          "rarity": "Rare",
+          "rarity": "1/92,070",
           "quantity": "1"
         }
       ],
@@ -427756,6 +427756,209 @@
         }
       ],
       "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Hermit crab",
+    "id": [
+      "14853",
+      "14854",
+      "14855",
+      "14856"
+    ],
+    "combat_level": 19,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Coins",
+          "rarity": "29/128",
+          "quantity": "4"
+        },
+        {
+          "name": "Coins",
+          "rarity": "18/128",
+          "quantity": "8"
+        },
+        {
+          "name": "Coins",
+          "rarity": "8/128",
+          "quantity": "36"
+        },
+        {
+          "name": "Big fishing net",
+          "rarity": "2/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Casket",
+          "rarity": "1/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Coconut shell",
+          "rarity": "1/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Edible seaweed",
+          "rarity": "2/128",
+          "quantity": "2"
+        },
+        {
+          "name": "Empty oyster",
+          "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Fishing bait",
+          "rarity": "2/128",
+          "quantity": "10"
+        },
+        {
+          "name": "Fishing rod",
+          "rarity": "2/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Giant seaweed",
+          "rarity": "2/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Iron cannonball",
+          "rarity": "6/128",
+          "quantity": "5–9"
+        },
+        {
+          "name": "Iron claws",
+          "rarity": "2/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Opal bolt tips",
+          "rarity": "2/128",
+          "quantity": "5"
+        },
+        {
+          "name": "Raw anchovies",
+          "rarity": "1/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Raw herring",
+          "rarity": "9/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Raw sardine",
+          "rarity": "6/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Raw shrimps",
+          "rarity": "6/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Seaweed",
+          "rarity": "2/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Seaweed spore",
+          "rarity": "4/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Small fishing net",
+          "rarity": "5/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Elkhorn frag",
+          "rarity": "6/1,280",
+          "quantity": "1"
+        },
+        {
+          "name": "Pillar frag",
+          "rarity": "3/1,280",
+          "quantity": "1"
+        },
+        {
+          "name": "Umbral frag",
+          "rarity": "1/1,280",
+          "quantity": "1"
+        },
+        {
+          "name": "Sandy paint",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Clue scroll (easy)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": [
+        {
+          "name": "Uncut sapphire",
+          "rarity": "1/512",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut emerald",
+          "rarity": "1/1,024",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut ruby",
+          "rarity": "1/2,048",
+          "quantity": "1"
+        },
+        {
+          "name": "Nature talisman",
+          "rarity": "1/5,461.33",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut diamond",
+          "rarity": "1/8,192",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune javelin",
+          "rarity": "1/16,384",
+          "quantity": "5"
+        },
+        {
+          "name": "Loop half of key",
+          "rarity": "1/16,384",
+          "quantity": "1"
+        },
+        {
+          "name": "Tooth half of key",
+          "rarity": "1/16,384",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune spear",
+          "rarity": "1/262,144",
+          "quantity": "1"
+        },
+        {
+          "name": "Shield left half",
+          "rarity": "1/524,288",
+          "quantity": "1"
+        },
+        {
+          "name": "Dragon spear",
+          "rarity": "1/699,050.67",
+          "quantity": "1"
+        }
+      ]
     }
   },
   {
