@@ -27821,6 +27821,60 @@
       "high_alchemy_value": 0,
       "buy_limit": 0,
       "is_members_only": true
+    },
+    {
+      "item_name": "25th anniversary 5x5 hat",
+      "item_name_variant": "25th anniversary 5x5 hat",
+      "item_id": [
+        "33086"
+      ],
+      "equipment_slot": "head",
+      "stab_attack_bonus": 0,
+      "slash_attack_bonus": 0,
+      "crush_attack_bonus": 0,
+      "range_attack_bonus": 0,
+      "magic_attack_bonus": 0,
+      "stab_defence_bonus": 0,
+      "slash_defence_bonus": 0,
+      "crush_defence_bonus": 0,
+      "range_defence_bonus": 0,
+      "magic_defence_bonus": 0,
+      "strength_bonus": 0,
+      "ranged_strength_bonus": 0,
+      "magic_damage_bonus": 0,
+      "prayer_bonus": 0,
+      "weight": 0.28,
+      "value": 0,
+      "high_alchemy_value": 0,
+      "buy_limit": 0,
+      "is_members_only": false
+    },
+    {
+      "item_name": "25th anniversary helmet",
+      "item_name_variant": "25th anniversary helmet",
+      "item_id": [
+        "33080"
+      ],
+      "equipment_slot": "head",
+      "stab_attack_bonus": 0,
+      "slash_attack_bonus": 0,
+      "crush_attack_bonus": 0,
+      "range_attack_bonus": 0,
+      "magic_attack_bonus": 0,
+      "stab_defence_bonus": 0,
+      "slash_defence_bonus": 0,
+      "crush_defence_bonus": 0,
+      "range_defence_bonus": 0,
+      "magic_defence_bonus": 0,
+      "strength_bonus": 0,
+      "ranged_strength_bonus": 0,
+      "magic_damage_bonus": 0,
+      "prayer_bonus": 0,
+      "weight": 0.88,
+      "value": 0,
+      "high_alchemy_value": 0,
+      "buy_limit": 0,
+      "is_members_only": false
     }
   ],
   "weapon": [
@@ -91468,6 +91522,60 @@
       "high_alchemy_value": 0,
       "buy_limit": 0,
       "is_members_only": true
+    },
+    {
+      "item_name": "25th anniversary skeleton tabard",
+      "item_name_variant": "25th anniversary skeleton tabard",
+      "item_id": [
+        "33084"
+      ],
+      "equipment_slot": "body",
+      "stab_attack_bonus": 0,
+      "slash_attack_bonus": 0,
+      "crush_attack_bonus": 0,
+      "range_attack_bonus": 0,
+      "magic_attack_bonus": 0,
+      "stab_defence_bonus": 0,
+      "slash_defence_bonus": 0,
+      "crush_defence_bonus": 0,
+      "range_defence_bonus": 0,
+      "magic_defence_bonus": 0,
+      "strength_bonus": 0,
+      "ranged_strength_bonus": 0,
+      "magic_damage_bonus": 0,
+      "prayer_bonus": 0,
+      "weight": 0.455,
+      "value": 0,
+      "high_alchemy_value": 0,
+      "buy_limit": 0,
+      "is_members_only": false
+    },
+    {
+      "item_name": "25th anniversary warrior tabard",
+      "item_name_variant": "25th anniversary warrior tabard",
+      "item_id": [
+        "33082"
+      ],
+      "equipment_slot": "body",
+      "stab_attack_bonus": 0,
+      "slash_attack_bonus": 0,
+      "crush_attack_bonus": 0,
+      "range_attack_bonus": 0,
+      "magic_attack_bonus": 0,
+      "stab_defence_bonus": 0,
+      "slash_defence_bonus": 0,
+      "crush_defence_bonus": 0,
+      "range_defence_bonus": 0,
+      "magic_defence_bonus": 0,
+      "strength_bonus": 0,
+      "ranged_strength_bonus": 0,
+      "magic_damage_bonus": 0,
+      "prayer_bonus": 0,
+      "weight": 0.455,
+      "value": 0,
+      "high_alchemy_value": 0,
+      "buy_limit": 0,
+      "is_members_only": false
     }
   ],
   "legs": [
@@ -138708,7 +138816,7 @@
       "value": 2,
       "high_alchemy_value": 0,
       "buy_limit": 0,
-      "is_members_only": true
+      "is_members_only": false
     },
     {
       "item_name": "Deadman's cape",

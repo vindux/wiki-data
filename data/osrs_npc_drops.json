@@ -13812,11 +13812,7 @@
     "id": [
       "1173",
       "1174",
-      "10495",
-      "10496",
-      "9488",
-      "10494",
-      "10497"
+      "9488"
     ],
     "combat_level": 1,
     "slayer_level": 1,
@@ -13867,6 +13863,53 @@
     "combat_level": 1,
     "slayer_level": 1,
     "is_members_only": false,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Raw chicken",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Feather",
+          "rarity": "64/128",
+          "quantity": "5"
+        },
+        {
+          "name": "Feather",
+          "rarity": "32/128",
+          "quantity": "15"
+        },
+        {
+          "name": "Key (medium)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Clue scroll (beginner)",
+          "rarity": "1/300",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Chicken",
+    "id": [
+      "10495",
+      "10496",
+      "10494",
+      "10497"
+    ],
+    "combat_level": 1,
+    "slayer_level": 1,
+    "is_members_only": true,
     "drops": {
       "regular": [
         {
@@ -20476,9 +20519,9 @@
   {
     "name": "Minotaur",
     "id": [
-      "2483"
+      "2482"
     ],
-    "combat_level": 27,
+    "combat_level": 19,
     "slayer_level": 1,
     "is_members_only": false,
     "drops": {
@@ -20644,6 +20687,171 @@
       "2481"
     ],
     "combat_level": 12,
+    "slayer_level": 1,
+    "is_members_only": false,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Iron arrow",
+          "rarity": "10/101",
+          "quantity": "5–14"
+        },
+        {
+          "name": "Bronze spear",
+          "rarity": "10/101",
+          "quantity": "1"
+        },
+        {
+          "name": "Bronze full helm",
+          "rarity": "10/101",
+          "quantity": "1"
+        },
+        {
+          "name": "Bronze arrow",
+          "rarity": "3/101",
+          "quantity": "3"
+        },
+        {
+          "name": "Bronze dagger",
+          "rarity": "4/101",
+          "quantity": "1"
+        },
+        {
+          "name": "Mind rune",
+          "rarity": "1/101",
+          "quantity": "1"
+        },
+        {
+          "name": "Coins",
+          "rarity": "11/101",
+          "quantity": "2"
+        },
+        {
+          "name": "Coins",
+          "rarity": "20/101",
+          "quantity": "7"
+        },
+        {
+          "name": "Coins",
+          "rarity": "7/101",
+          "quantity": "5–84"
+        },
+        {
+          "name": "Copper ore",
+          "rarity": "6/101",
+          "quantity": "1 (noted)"
+        },
+        {
+          "name": "Tin ore",
+          "rarity": "6/101",
+          "quantity": "1 (noted)"
+        },
+        {
+          "name": "Pure essence",
+          "rarity": "5/101",
+          "quantity": "15 (noted)"
+        },
+        {
+          "name": "Rune essence",
+          "rarity": "5/101",
+          "quantity": "5 (noted)"
+        },
+        {
+          "name": "Cooked meat",
+          "rarity": "3/101",
+          "quantity": "1"
+        },
+        {
+          "name": "Right skull half",
+          "rarity": "3/101",
+          "quantity": "1"
+        },
+        {
+          "name": "Ensouled minotaur head",
+          "rarity": "1/50",
+          "quantity": "1"
+        },
+        {
+          "name": "Clue scroll (beginner)",
+          "rarity": "1/60",
+          "quantity": "1"
+        },
+        {
+          "name": "Clue scroll (easy)",
+          "rarity": "1/101",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": [
+        {
+          "name": "Uncut sapphire",
+          "rarity": "1/404",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut emerald",
+          "rarity": "1/808",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut ruby",
+          "rarity": "1/1,616",
+          "quantity": "1"
+        },
+        {
+          "name": "Nature talisman",
+          "rarity": "1/4,309.33",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut diamond",
+          "rarity": "1/6,464",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune javelin",
+          "rarity": "1/12,928",
+          "quantity": "5"
+        },
+        {
+          "name": "Loop half of key",
+          "rarity": "1/12,928",
+          "quantity": "1"
+        },
+        {
+          "name": "Tooth half of key",
+          "rarity": "1/12,928",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune spear",
+          "rarity": "1/206,848",
+          "quantity": "1"
+        },
+        {
+          "name": "Shield left half",
+          "rarity": "1/413,696",
+          "quantity": "1"
+        },
+        {
+          "name": "Dragon spear",
+          "rarity": "1/551,594.67",
+          "quantity": "1"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Minotaur",
+    "id": [
+      "2483"
+    ],
+    "combat_level": 27,
     "slayer_level": 1,
     "is_members_only": false,
     "drops": {
@@ -115542,8 +115750,7 @@
       "2858",
       "2859",
       "2860",
-      "2861",
-      "9483"
+      "2861"
     ],
     "combat_level": 3,
     "slayer_level": 1,
@@ -130795,11 +131002,8 @@
       "91",
       "92",
       "93",
-      "94",
       "95",
-      "96",
       "97",
-      "98",
       "99",
       "472",
       "473",
@@ -329612,8 +329816,7 @@
   {
     "name": "Guard",
     "id": [
-      "15567",
-      "15568"
+      "15566"
     ],
     "combat_level": 1337,
     "slayer_level": 1,
@@ -329730,8 +329933,7 @@
   {
     "name": "Guard",
     "id": [
-      "15565",
-      "15566"
+      "15568"
     ],
     "combat_level": 1337,
     "slayer_level": 1,
@@ -350963,7 +351165,8 @@
   {
     "name": "Troll",
     "id": [
-      "hist10588"
+      "hist10588",
+      "15613"
     ],
     "combat_level": null,
     "slayer_level": 1,
@@ -350976,7 +351179,8 @@
   {
     "name": "Lizard man",
     "id": [
-      "hist10587"
+      "hist10587",
+      "15612"
     ],
     "combat_level": null,
     "slayer_level": 1,
@@ -350989,11 +351193,12 @@
   {
     "name": "King black dragon",
     "id": [
-      "hist10579"
+      "hist10579",
+      "15604"
     ],
     "combat_level": null,
     "slayer_level": 1,
-    "is_members_only": false,
+    "is_members_only": true,
     "drops": {
       "regular": [],
       "rare_drop_table": []
@@ -351002,7 +351207,8 @@
   {
     "name": "Black dragon",
     "id": [
-      "hist10576"
+      "hist10576",
+      "15601"
     ],
     "combat_level": null,
     "slayer_level": 1,
@@ -351015,7 +351221,8 @@
   {
     "name": "Blue dragon",
     "id": [
-      "hist10578"
+      "hist10578",
+      "15603"
     ],
     "combat_level": null,
     "slayer_level": 1,
@@ -351028,7 +351235,8 @@
   {
     "name": "Red dragon",
     "id": [
-      "hist10577"
+      "hist10577",
+      "15602"
     ],
     "combat_level": null,
     "slayer_level": 1,
@@ -351041,7 +351249,8 @@
   {
     "name": "Baby blue dragon",
     "id": [
-      "hist10580"
+      "hist10580",
+      "15605"
     ],
     "combat_level": null,
     "slayer_level": 1,
@@ -351054,7 +351263,8 @@
   {
     "name": "Lesser demon",
     "id": [
-      "hist10581"
+      "hist10581",
+      "15606"
     ],
     "combat_level": null,
     "slayer_level": 1,
@@ -351067,7 +351277,8 @@
   {
     "name": "Greater demon",
     "id": [
-      "hist10582"
+      "hist10582",
+      "15607"
     ],
     "combat_level": null,
     "slayer_level": 1,
@@ -351080,7 +351291,8 @@
   {
     "name": "Black demon",
     "id": [
-      "hist10583"
+      "hist10583",
+      "15608"
     ],
     "combat_level": null,
     "slayer_level": 1,
@@ -351093,7 +351305,8 @@
   {
     "name": "Scorpion",
     "id": [
-      "hist10584"
+      "hist10584",
+      "15609"
     ],
     "combat_level": null,
     "slayer_level": 1,
@@ -351106,7 +351319,8 @@
   {
     "name": "King Scorpion",
     "id": [
-      "hist10585"
+      "hist10585",
+      "15610"
     ],
     "combat_level": null,
     "slayer_level": 1,
@@ -351119,7 +351333,8 @@
   {
     "name": "Orc",
     "id": [
-      "hist10586"
+      "hist10586",
+      "15611"
     ],
     "combat_level": null,
     "slayer_level": 1,
@@ -370269,6 +370484,25 @@
     "name": "Giant rat",
     "id": [
       "3314"
+    ],
+    "combat_level": 3,
+    "slayer_level": 1,
+    "is_members_only": false,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones (Tutorial Island)",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Giant rat",
+    "id": [
+      "9483"
     ],
     "combat_level": 3,
     "slayer_level": 1,
@@ -431079,6 +431313,16 @@
           "quantity": "1"
         },
         {
+          "name": "Clue scroll (elite)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Reward casket (elite)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Brimstone key",
           "rarity": "1/58",
           "quantity": "1"
@@ -439881,6 +440125,85 @@
       "11729"
     ],
     "combat_level": 0,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Cave Bug",
+    "id": [
+      "15614"
+    ],
+    "combat_level": null,
+    "slayer_level": 1,
+    "is_members_only": false,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Fire giant",
+    "id": [
+      "15619"
+    ],
+    "combat_level": null,
+    "slayer_level": 1,
+    "is_members_only": false,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Goblin",
+    "id": [
+      "15621"
+    ],
+    "combat_level": null,
+    "slayer_level": 1,
+    "is_members_only": false,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Hill Giant",
+    "id": [
+      "15620"
+    ],
+    "combat_level": null,
+    "slayer_level": 1,
+    "is_members_only": false,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Kalphite Queen",
+    "id": [
+      "15618"
+    ],
+    "combat_level": null,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Kalphite Queen",
+    "id": [
+      "15616",
+      "15617"
+    ],
+    "combat_level": null,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {

@@ -48571,6 +48571,19 @@
     "item_name": "Slice of birthday cake",
     "item_name_variant": "Slice of birthday cake#2025",
     "item_id": [
+      "hist11916"
+    ],
+    "weight": 0.1,
+    "value": 30,
+    "high_alchemy_value": 18,
+    "buy_limit": 0,
+    "examine": "I'd rather have a whole cake.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Slice of birthday cake",
+    "item_name_variant": "Slice of birthday cake#2026",
+    "item_id": [
       "11916"
     ],
     "weight": 0.1,
@@ -76979,7 +76992,7 @@
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Dark and sinister, just like a deadman.",
-    "is_members_only": true
+    "is_members_only": false
   },
   {
     "item_name": "Deadman's cape",
@@ -107558,8 +107571,8 @@
     "is_members_only": false
   },
   {
-    "item_name": "Hoop",
-    "item_name_variant": "Hoop",
+    "item_name": "Hoop (animation item)",
+    "item_name_variant": "Hoop (animation item)",
     "item_id": [
       "7682"
     ],
@@ -131816,7 +131829,7 @@
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Good for rubbing.",
-    "is_members_only": false
+    "is_members_only": true
   },
   {
     "item_name": "Antique lamp (A Kingdom Divided)",
@@ -139655,7 +139668,7 @@
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "This will help with farming.",
-    "is_members_only": false
+    "is_members_only": true
   },
   {
     "item_name": "Farmer's strawhat (animation item)",
@@ -160913,7 +160926,7 @@
     ],
     "weight": 0.4,
     "value": 75000,
-    "high_alchemy_value": 45000,
+    "high_alchemy_value": 0,
     "buy_limit": 50,
     "examine": "A mysterious orb of unknown power. What could it do?",
     "is_members_only": true
@@ -178691,11 +178704,11 @@
     "item_name": "Clue scroll (master) - Think on the western coast of Salvager Overlook",
     "item_name_variant": "Clue scroll (master) - Think on the western coast of Salvager Overlook",
     "item_id": [
-      "undefined"
+      "19835"
     ],
-    "weight": 0,
-    "value": 0,
-    "high_alchemy_value": 0,
+    "weight": 0.02,
+    "value": 20,
+    "high_alchemy_value": 12,
     "buy_limit": 0,
     "examine": "Hopefully leads to treasure.",
     "is_members_only": true
@@ -187047,7 +187060,7 @@
     "weight": 0.7,
     "value": 170,
     "high_alchemy_value": 102,
-    "buy_limit": 0,
+    "buy_limit": 15000,
     "examine": "I should try cooking this.",
     "is_members_only": true
   },
@@ -187060,7 +187073,7 @@
     "weight": 0.7,
     "value": 170,
     "high_alchemy_value": 102,
-    "buy_limit": 0,
+    "buy_limit": 15000,
     "examine": "I should try cooking this.",
     "is_members_only": true
   },
@@ -187086,7 +187099,7 @@
     "weight": 0.7,
     "value": 170,
     "high_alchemy_value": 102,
-    "buy_limit": 0,
+    "buy_limit": 15000,
     "examine": "I should try cooking this.",
     "is_members_only": true
   },
@@ -187099,7 +187112,7 @@
     "weight": 0.7,
     "value": 170,
     "high_alchemy_value": 102,
-    "buy_limit": 0,
+    "buy_limit": 15000,
     "examine": "I should try cooking this.",
     "is_members_only": true
   },
@@ -197798,7 +197811,7 @@
     "weight": 0.7,
     "value": 170,
     "high_alchemy_value": 102,
-    "buy_limit": 0,
+    "buy_limit": 15000,
     "examine": "I should try cooking this.",
     "is_members_only": true
   },
@@ -209765,6 +209778,71 @@
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": null,
+    "is_members_only": false
+  },
+  {
+    "item_name": "25th anniversary 5x5 hat",
+    "item_name_variant": "25th anniversary 5x5 hat",
+    "item_id": [
+      "33086"
+    ],
+    "weight": 0.28,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "25 years, 25 mementos in a 5x5 grid.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "25th anniversary skeleton tabard",
+    "item_name_variant": "25th anniversary skeleton tabard",
+    "item_id": [
+      "33084"
+    ],
+    "weight": 0.455,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Celebrating the 25th Anniversary of RuneScape.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "25th anniversary helmet",
+    "item_name_variant": "25th anniversary helmet",
+    "item_id": [
+      "33080"
+    ],
+    "weight": 0.88,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Celebrating the 25th Anniversary of RuneScape.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "25th anniversary warrior tabard",
+    "item_name_variant": "25th anniversary warrior tabard",
+    "item_id": [
+      "33082"
+    ],
+    "weight": 0.455,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Celebrating the 25th Anniversary of RuneScape.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Gary (item)",
+    "item_name_variant": "Gary (item)",
+    "item_id": [
+      "33088"
+    ],
+    "weight": 0.001,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "It's Gary.",
     "is_members_only": false
   }
 ]
