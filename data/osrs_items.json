@@ -84548,6 +84548,19 @@
     "is_members_only": true
   },
   {
+    "item_name": "Beef",
+    "item_name_variant": "Beef",
+    "item_id": [
+      "33124"
+    ],
+    "weight": 0.015,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Commonly referred to as Sir Loin.",
+    "is_members_only": true
+  },
+  {
     "item_name": "Ahab's beer",
     "item_name_variant": "Ahab's beer",
     "item_id": [
@@ -113822,19 +113835,6 @@
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Fuel made from pure, mixed chocolate.",
-    "is_members_only": false
-  },
-  {
-    "item_name": "Treasure Trails/Full guide/Beginner",
-    "item_name_variant": "Treasure Trails/Full guide/Beginner",
-    "item_id": [
-      "23182"
-    ],
-    "weight": 0.02,
-    "value": 20,
-    "high_alchemy_value": 12,
-    "buy_limit": 0,
-    "examine": "Hopefully leads to treasure.",
     "is_members_only": false
   },
   {
@@ -176206,7 +176206,7 @@
     "weight": 0.1,
     "value": 25000,
     "high_alchemy_value": 15000,
-    "buy_limit": 6,
+    "buy_limit": 5,
     "examine": "Take this to Nigel to give the imbued Saradomin, Guthix or Zamorak Cape a cosmetic theme from Deadman: Armageddon.",
     "is_members_only": true
   },
@@ -176232,7 +176232,7 @@
     "weight": 0.1,
     "value": 50000,
     "high_alchemy_value": 30000,
-    "buy_limit": 0,
+    "buy_limit": 5,
     "examine": "A fearsome yet stylish souvenir from Deadman: Armageddon.",
     "is_members_only": true
   },
@@ -199550,8 +199550,23 @@
   },
   {
     "item_name": "Stone tablet (The Final Dawn)",
-    "item_name_variant": "Stone tablet (The Final Dawn)",
-    "item_id": null,
+    "item_name_variant": "Stone tablet (The Final Dawn)#Mokhaiotl",
+    "item_id": [
+      "30952"
+    ],
+    "weight": 1,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Some writing has been carved into it.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Stone tablet (The Final Dawn)",
+    "item_name_variant": "Stone tablet (The Final Dawn)#Puzzle",
+    "item_id": [
+      "30954"
+    ],
     "weight": 1,
     "value": 30,
     "high_alchemy_value": 0,
@@ -201271,7 +201286,7 @@
     "weight": 0.02,
     "value": 250,
     "high_alchemy_value": 150,
-    "buy_limit": 0,
+    "buy_limit": 2000,
     "examine": "4 applications of haemostatic dressing.",
     "is_members_only": true
   },
@@ -209185,7 +209200,7 @@
     "weight": 0.1,
     "value": 25000,
     "high_alchemy_value": 0,
-    "buy_limit": 0,
+    "buy_limit": 5,
     "examine": "Take this to Nigel to give the Toxic Staff of the Dead, Bow of Faerdhinen (c) or Crystal armour a cosmetic theme from Deadman: Annihilation.",
     "is_members_only": true
   },
@@ -209276,7 +209291,7 @@
     "weight": 0.1,
     "value": 25000,
     "high_alchemy_value": 0,
-    "buy_limit": 0,
+    "buy_limit": 5,
     "examine": "Take this to an estate agent and ask them to redecorate your player-owned house for a Wilderness theme.",
     "is_members_only": true
   },
@@ -209289,7 +209304,7 @@
     "weight": 0.1,
     "value": 25000,
     "high_alchemy_value": 0,
-    "buy_limit": 0,
+    "buy_limit": 5,
     "examine": "A scroll which unlocks the Deadman: Annihilation home teleport animation.",
     "is_members_only": true
   },
@@ -209578,12 +209593,14 @@
   {
     "item_name": "Mooleta",
     "item_name_variant": "Mooleta",
-    "item_id": null,
-    "weight": 0,
-    "value": 0,
+    "item_id": [
+      "33101"
+    ],
+    "weight": 0.453,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": null,
+    "examine": "A defensive weapon.",
     "is_members_only": false
   },
   {
@@ -209704,80 +209721,120 @@
     "is_members_only": true
   },
   {
-    "item_name": "Cow bell amulet",
-    "item_name_variant": "Cow bell amulet",
-    "item_id": null,
-    "weight": 0,
-    "value": 0,
+    "item_name": "Cowbell amulet",
+    "item_name_variant": "Cowbell amulet#Charged",
+    "item_id": [
+      "33104"
+    ],
+    "weight": 0.06,
+    "value": 351,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": null,
+    "examine": "A very fashionable a-moo-let.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Cowbell amulet",
+    "item_name_variant": "Cowbell amulet#Empty",
+    "item_id": [
+      "33103"
+    ],
+    "weight": 0.06,
+    "value": 350,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A very fashionable a-moo-let.",
     "is_members_only": false
   },
   {
     "item_name": "Cow slippers",
-    "item_name_variant": "Cow slippers",
-    "item_id": null,
-    "weight": 0,
-    "value": 0,
-    "high_alchemy_value": 0,
+    "item_name_variant": "Cow slippers#1",
+    "item_id": [
+      "33093"
+    ],
+    "weight": 0.2,
+    "value": 1000,
+    "high_alchemy_value": 600,
+    "buy_limit": 4,
+    "examine": "Cute cow slippers.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Cow slippers",
+    "item_name_variant": "Cow slippers#4",
+    "item_id": [
+      "33098"
+    ],
+    "weight": 0.2,
+    "value": 1000,
+    "high_alchemy_value": 600,
     "buy_limit": 0,
-    "examine": null,
-    "is_members_only": false
+    "examine": "Cute cow slippers.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Cow slippers",
+    "item_name_variant": "Cow slippers#3",
+    "item_id": [
+      "33097"
+    ],
+    "weight": 0.2,
+    "value": 1000,
+    "high_alchemy_value": 600,
+    "buy_limit": 0,
+    "examine": "Cute cow slippers.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Cow slippers",
+    "item_name_variant": "Cow slippers#2",
+    "item_id": [
+      "33096"
+    ],
+    "weight": 0.2,
+    "value": 1000,
+    "high_alchemy_value": 600,
+    "buy_limit": 0,
+    "examine": "Cute cow slippers.",
+    "is_members_only": true
   },
   {
     "item_name": "Bottomless milk bucket",
-    "item_name_variant": "Bottomless milk bucket",
-    "item_id": null,
-    "weight": 0,
-    "value": 0,
-    "high_alchemy_value": 0,
+    "item_name_variant": "Bottomless milk bucket#Full",
+    "item_id": [
+      "33089"
+    ],
+    "weight": 1,
+    "value": 45000,
+    "high_alchemy_value": 27000,
     "buy_limit": 0,
-    "examine": null,
-    "is_members_only": false
+    "examine": "It's a bucket that can hold a lot of milk at once.",
+    "is_members_only": true
   },
   {
-    "item_name": "Rump steak",
-    "item_name_variant": "Rump steak",
-    "item_id": null,
-    "weight": 0,
-    "value": 0,
-    "high_alchemy_value": 0,
+    "item_name": "Bottomless milk bucket",
+    "item_name_variant": "Bottomless milk bucket#Empty",
+    "item_id": [
+      "33091"
+    ],
+    "weight": 1,
+    "value": 45000,
+    "high_alchemy_value": 27000,
     "buy_limit": 0,
-    "examine": null,
-    "is_members_only": false
-  },
-  {
-    "item_name": "Raw rump steak",
-    "item_name_variant": "Raw rump steak",
-    "item_id": null,
-    "weight": 0,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": null,
-    "is_members_only": false
-  },
-  {
-    "item_name": "Burnt rump steak",
-    "item_name_variant": "Burnt rump steak",
-    "item_id": null,
-    "weight": 0,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": null,
-    "is_members_only": false
+    "examine": "It's a bucket that can hold a lot of milk at once.",
+    "is_members_only": true
   },
   {
     "item_name": "Bull bones",
     "item_name_variant": "Bull bones",
-    "item_id": null,
-    "weight": 0,
-    "value": 0,
+    "item_id": [
+      "33115"
+    ],
+    "weight": 7,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": null,
+    "examine": "Bigger than cow bones.",
     "is_members_only": false
   },
   {
@@ -209844,5 +209901,187 @@
     "buy_limit": 0,
     "examine": "It's Gary.",
     "is_members_only": false
+  },
+  {
+    "item_name": "Raw t-bone steak",
+    "item_name_variant": "Raw t-bone steak",
+    "item_id": [
+      "33106"
+    ],
+    "weight": 0.34,
+    "value": 10,
+    "high_alchemy_value": 6,
+    "buy_limit": 13000,
+    "examine": "I need to cook this first.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Brutus slippers",
+    "item_name_variant": "Brutus slippers",
+    "item_id": [
+      "33099"
+    ],
+    "weight": 0.2,
+    "value": 1000,
+    "high_alchemy_value": 600,
+    "buy_limit": 0,
+    "examine": "Less cute cow slippers.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Abyssal potato",
+    "item_name_variant": "Abyssal potato",
+    "item_id": [
+      "33118"
+    ],
+    "weight": 0.666,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Seems like something a bovine would still eat.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Cooked t-bone steak",
+    "item_name_variant": "Cooked t-bone steak",
+    "item_id": [
+      "33109"
+    ],
+    "weight": 0.34,
+    "value": 10,
+    "high_alchemy_value": 6,
+    "buy_limit": 6000,
+    "examine": "Seared to perfection.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Burnt t-bone steak",
+    "item_name_variant": "Burnt t-bone steak",
+    "item_id": [
+      "33112"
+    ],
+    "weight": 0.34,
+    "value": 10,
+    "high_alchemy_value": 6,
+    "buy_limit": 0,
+    "examine": "Looks a bit overdone if you ask me.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "The groats principles",
+    "item_name_variant": "The groats principles",
+    "item_id": [
+      "33126"
+    ],
+    "weight": 0.51,
+    "value": 3,
+    "high_alchemy_value": 1,
+    "buy_limit": 0,
+    "examine": "A book containing the teachings of Old Farmer Groats.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Magic lamp (The Ides of Milk)",
+    "item_name_variant": "Magic lamp (The Ides of Milk)",
+    "item_id": [
+      "33117"
+    ],
+    "weight": 0.1,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Good for rubbing.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Milk sample",
+    "item_name_variant": "Milk sample#Second sample",
+    "item_id": [
+      "33130"
+    ],
+    "weight": 0.035,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A second, slighly milkier sample of milk from Cassius.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Milk sample",
+    "item_name_variant": "Milk sample#First sample",
+    "item_id": [
+      "33128"
+    ],
+    "weight": 0.035,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A sample of milk from Cassius.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Pristine spider silk",
+    "item_name_variant": "Pristine spider silk",
+    "item_id": [
+      "33133"
+    ],
+    "weight": 1,
+    "value": 1000,
+    "high_alchemy_value": 600,
+    "buy_limit": 0,
+    "examine": "It's a sheet of fine silk.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Silklined herb sack",
+    "item_name_variant": "Silklined herb sack#Open",
+    "item_id": [
+      "33137"
+    ],
+    "weight": 1,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A sack for storing grimy herbs.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Silklined herb sack",
+    "item_name_variant": "Silklined herb sack#Closed",
+    "item_id": [
+      "33135"
+    ],
+    "weight": 1,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A sack for storing grimy herbs.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Annihilation exit portal blueprints",
+    "item_name_variant": "Annihilation exit portal blueprints",
+    "item_id": [
+      "33122"
+    ],
+    "weight": 0,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Blueprints used to build an exit portal in your player-owned house.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Perfected quetzal whistle(i)",
+    "item_name_variant": "Perfected quetzal whistle(i)",
+    "item_id": [
+      "33120"
+    ],
+    "weight": 0.004,
+    "value": 10,
+    "high_alchemy_value": 6,
+    "buy_limit": 0,
+    "examine": "A perfected quetzal whistle with unlimited charges crafted from redwood logs.",
+    "is_members_only": true
   }
 ]
