@@ -176193,7 +176193,7 @@
     "weight": 0.1,
     "value": 25000,
     "high_alchemy_value": 15000,
-    "buy_limit": 0,
+    "buy_limit": 5,
     "examine": "Take this to Nigel to give the Armadyl Godsword, Volatile Nightmare Staff, Dark Bow or Voidwaker a cosmetic theme from Deadman: Armageddon.",
     "is_members_only": true
   },
@@ -176219,7 +176219,7 @@
     "weight": 0.1,
     "value": 25000,
     "high_alchemy_value": 15000,
-    "buy_limit": 0,
+    "buy_limit": 5,
     "examine": "A scroll which unlocks the Deadman: Armageddon home teleport animation.",
     "is_members_only": true
   },
@@ -197850,7 +197850,7 @@
     "weight": 0,
     "value": 50,
     "high_alchemy_value": 30,
-    "buy_limit": 0,
+    "buy_limit": 11000,
     "examine": "Small shiny scales.",
     "is_members_only": true
   },
@@ -209805,8 +209805,8 @@
       "33089"
     ],
     "weight": 1,
-    "value": 45000,
-    "high_alchemy_value": 27000,
+    "value": 15000,
+    "high_alchemy_value": 9000,
     "buy_limit": 0,
     "examine": "It's a bucket that can hold a lot of milk at once.",
     "is_members_only": true
@@ -209818,8 +209818,8 @@
       "33091"
     ],
     "weight": 1,
-    "value": 45000,
-    "high_alchemy_value": 27000,
+    "value": 15000,
+    "high_alchemy_value": 9000,
     "buy_limit": 0,
     "examine": "It's a bucket that can hold a lot of milk at once.",
     "is_members_only": true
@@ -209893,7 +209893,7 @@
     "item_name": "Gary (item)",
     "item_name_variant": "Gary (item)",
     "item_id": [
-      "33088"
+      "hist33088"
     ],
     "weight": 0.001,
     "value": 1,
@@ -210003,7 +210003,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A second, slighly milkier sample of milk from Cassius.",
+    "examine": "A second, slightly milkier sample of milk from Cassius.",
     "is_members_only": false
   },
   {
@@ -210083,5 +210083,16 @@
     "buy_limit": 0,
     "examine": "A perfected quetzal whistle with unlimited charges crafted from redwood logs.",
     "is_members_only": true
+  },
+  {
+    "item_name": "Crimson kisten",
+    "item_name_variant": "Crimson kisten",
+    "item_id": null,
+    "weight": 0,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": false
   }
 ]

@@ -4053,42 +4053,44 @@
       "2482"
     ],
     "combat_level": 19,
-    "hitpoints": "unknown",
-    "attack_level": "unknown",
-    "strength_level": "unknown",
-    "defence_level": "unknown",
-    "magic_level": "unknown",
-    "ranged_level": "unknown",
-    "attack_bonus": "unknown",
-    "strength_bonus": "unknown",
-    "magic_attack_bonus": "unknown",
-    "magic_damage_bonus": "unknown",
-    "range_attack_bonus": "unknown",
-    "range_strength_bonus": "unknown",
-    "stab_defence_bonus": "unknown",
-    "slash_defence_bonus": "unknown",
-    "crush_defence_bonus": "unknown",
-    "magic_defence_bonus": "unknown",
+    "hitpoints": 13,
+    "attack_level": 22,
+    "strength_level": 15,
+    "defence_level": 15,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 1,
+    "slash_defence_bonus": 1,
+    "crush_defence_bonus": 1,
+    "magic_defence_bonus": 1,
     "elemental_weakness": "None",
     "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": "unknown",
-    "standard_range_defence_bonus": "unknown",
-    "heavy_range_defence_bonus": "unknown",
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
     "flat_armour": 0,
-    "attack_speed": "unknown",
+    "attack_speed": 4,
     "attribute": [],
     "max_hit": "unknown",
-    "attack_style": "unknown",
+    "attack_style": [
+      "Crush"
+    ],
     "experience_bonus": 0,
     "is_members_only": false,
     "slayer_level": 1,
-    "slayer_experience": 0,
+    "slayer_experience": 13,
     "size": 1,
     "examine": "He doesn't look very pleased to see you.",
-    "poison_immune": "unknown",
-    "venom_immune": "unknown",
-    "thrall_immune": "unknown",
-    "cannon_immune": "unknown",
+    "poison_immune": "Not immune",
+    "venom_immune": "Not immune",
+    "thrall_immune": "Not immune",
+    "cannon_immune": "Not immune",
     "burn_immune": "unknown"
   },
   {
@@ -4155,7 +4157,7 @@
     "ranged_level": 1,
     "attack_bonus": 0,
     "strength_bonus": 0,
-    "magic_attack_bonus": "unknown",
+    "magic_attack_bonus": 0,
     "magic_damage_bonus": 0,
     "range_attack_bonus": 0,
     "range_strength_bonus": 0,
@@ -17534,57 +17536,6 @@
     "page_name": "Turoth",
     "name": "Turoth",
     "id": [
-      "428"
-    ],
-    "combat_level": 87,
-    "hitpoints": 79,
-    "attack_level": 56,
-    "strength_level": 86,
-    "defence_level": 86,
-    "magic_level": 1,
-    "ranged_level": 1,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 0,
-    "magic_damage_bonus": 0,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 0,
-    "slash_defence_bonus": 20,
-    "crush_defence_bonus": 20,
-    "magic_defence_bonus": 0,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": 0,
-    "standard_range_defence_bonus": 0,
-    "heavy_range_defence_bonus": 0,
-    "flat_armour": 0,
-    "attack_speed": 4,
-    "attribute": [
-      "leafy"
-    ],
-    "max_hit": [
-      "10"
-    ],
-    "attack_style": [
-      "Stab"
-    ],
-    "experience_bonus": 0,
-    "is_members_only": true,
-    "slayer_level": 55,
-    "slayer_experience": 79,
-    "size": 2,
-    "examine": "She's one leg short!",
-    "poison_immune": "Not immune",
-    "venom_immune": "Not immune",
-    "thrall_immune": "Immune",
-    "cannon_immune": "Immune",
-    "burn_immune": "unknown"
-  },
-  {
-    "page_name": "Turoth",
-    "name": "Turoth",
-    "id": [
       "429"
     ],
     "combat_level": 85,
@@ -17636,57 +17587,6 @@
     "page_name": "Turoth",
     "name": "Turoth",
     "id": [
-      "430"
-    ],
-    "combat_level": 83,
-    "hitpoints": 76,
-    "attack_level": 53,
-    "strength_level": 83,
-    "defence_level": 83,
-    "magic_level": 1,
-    "ranged_level": 1,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 0,
-    "magic_damage_bonus": 0,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 0,
-    "slash_defence_bonus": 20,
-    "crush_defence_bonus": 20,
-    "magic_defence_bonus": 0,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": 0,
-    "standard_range_defence_bonus": 0,
-    "heavy_range_defence_bonus": 0,
-    "flat_armour": 0,
-    "attack_speed": 4,
-    "attribute": [
-      "leafy"
-    ],
-    "max_hit": [
-      "9"
-    ],
-    "attack_style": [
-      "Stab"
-    ],
-    "experience_bonus": 0,
-    "is_members_only": true,
-    "slayer_level": 55,
-    "slayer_experience": 76,
-    "size": 1,
-    "examine": "It's one small leg short!",
-    "poison_immune": "Not immune",
-    "venom_immune": "Not immune",
-    "thrall_immune": "Immune",
-    "cannon_immune": "Immune",
-    "burn_immune": "unknown"
-  },
-  {
-    "page_name": "Turoth",
-    "name": "Turoth",
-    "id": [
       "427"
     ],
     "combat_level": 89,
@@ -17728,6 +17628,108 @@
     "slayer_experience": 81,
     "size": 2,
     "examine": "He's one big leg short!",
+    "poison_immune": "Not immune",
+    "venom_immune": "Not immune",
+    "thrall_immune": "Immune",
+    "cannon_immune": "Immune",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Turoth",
+    "name": "Turoth",
+    "id": [
+      "428"
+    ],
+    "combat_level": 87,
+    "hitpoints": 79,
+    "attack_level": 56,
+    "strength_level": 86,
+    "defence_level": 86,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 20,
+    "crush_defence_bonus": 20,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [
+      "leafy"
+    ],
+    "max_hit": [
+      "10"
+    ],
+    "attack_style": [
+      "Stab"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 55,
+    "slayer_experience": 79,
+    "size": 2,
+    "examine": "She's one leg short!",
+    "poison_immune": "Not immune",
+    "venom_immune": "Not immune",
+    "thrall_immune": "Immune",
+    "cannon_immune": "Immune",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Turoth",
+    "name": "Turoth",
+    "id": [
+      "430"
+    ],
+    "combat_level": 83,
+    "hitpoints": 76,
+    "attack_level": 53,
+    "strength_level": 83,
+    "defence_level": 83,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 20,
+    "crush_defence_bonus": 20,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [
+      "leafy"
+    ],
+    "max_hit": [
+      "9"
+    ],
+    "attack_style": [
+      "Stab"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 55,
+    "slayer_experience": 76,
+    "size": 1,
+    "examine": "It's one small leg short!",
     "poison_immune": "Not immune",
     "venom_immune": "Not immune",
     "thrall_immune": "Immune",
@@ -43935,7 +43937,7 @@
       "Magic",
       "Ranged"
     ],
-    "experience_bonus": 7.5,
+    "experience_bonus": -100,
     "is_members_only": true,
     "slayer_level": 1,
     "slayer_experience": 161,
@@ -83453,8 +83455,8 @@
     "slash_defence_bonus": 72,
     "crush_defence_bonus": 50,
     "magic_defence_bonus": 60,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
+    "elemental_weakness": "earth",
+    "elemental_weakness_percent": 40,
     "light_range_defence_bonus": 0,
     "standard_range_defence_bonus": 0,
     "heavy_range_defence_bonus": 0,
@@ -83507,8 +83509,8 @@
     "slash_defence_bonus": 82,
     "crush_defence_bonus": 60,
     "magic_defence_bonus": 75,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
+    "elemental_weakness": "earth",
+    "elemental_weakness_percent": 40,
     "light_range_defence_bonus": 0,
     "standard_range_defence_bonus": 0,
     "heavy_range_defence_bonus": 0,
@@ -83563,8 +83565,8 @@
     "slash_defence_bonus": 72,
     "crush_defence_bonus": 50,
     "magic_defence_bonus": 60,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
+    "elemental_weakness": "earth",
+    "elemental_weakness_percent": 40,
     "light_range_defence_bonus": 0,
     "standard_range_defence_bonus": 0,
     "heavy_range_defence_bonus": 0,
@@ -83617,8 +83619,8 @@
     "slash_defence_bonus": 82,
     "crush_defence_bonus": 60,
     "magic_defence_bonus": 75,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
+    "elemental_weakness": "earth",
+    "elemental_weakness_percent": 40,
     "light_range_defence_bonus": 0,
     "standard_range_defence_bonus": 0,
     "heavy_range_defence_bonus": 0,
@@ -87248,7 +87250,7 @@
     "attack_speed": 10,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-000000AC-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-00000011-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -87298,7 +87300,7 @@
     "attack_speed": 7,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-000000AC-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-00000011-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -108883,7 +108885,7 @@
     "name": "Troll",
     "id": [
       "hist10588",
-      "15613"
+      "hist15613"
     ],
     "combat_level": "unknown",
     "hitpoints": 55,
@@ -108929,7 +108931,7 @@
     "name": "Lizard man",
     "id": [
       "hist10587",
-      "15612"
+      "hist15612"
     ],
     "combat_level": "unknown",
     "hitpoints": 35,
@@ -108975,7 +108977,7 @@
     "name": "King black dragon",
     "id": [
       "hist10579",
-      "15604"
+      "hist15604"
     ],
     "combat_level": "unknown",
     "hitpoints": 240,
@@ -109024,7 +109026,7 @@
     "name": "Black dragon",
     "id": [
       "hist10576",
-      "15601"
+      "hist15601"
     ],
     "combat_level": "unknown",
     "hitpoints": 190,
@@ -109072,7 +109074,7 @@
     "name": "Blue dragon",
     "id": [
       "hist10578",
-      "15603"
+      "hist15603"
     ],
     "combat_level": "unknown",
     "hitpoints": 105,
@@ -109120,7 +109122,7 @@
     "name": "Red dragon",
     "id": [
       "hist10577",
-      "15602"
+      "hist15602"
     ],
     "combat_level": "unknown",
     "hitpoints": 140,
@@ -109168,7 +109170,7 @@
     "name": "Baby blue dragon",
     "id": [
       "hist10580",
-      "15605"
+      "hist15605"
     ],
     "combat_level": "unknown",
     "hitpoints": 50,
@@ -109218,7 +109220,7 @@
     "name": "Lesser demon",
     "id": [
       "hist10581",
-      "15606"
+      "hist15606"
     ],
     "combat_level": "unknown",
     "hitpoints": 79,
@@ -109266,7 +109268,7 @@
     "name": "Greater demon",
     "id": [
       "hist10582",
-      "15607"
+      "hist15607"
     ],
     "combat_level": "unknown",
     "hitpoints": 87,
@@ -109314,7 +109316,7 @@
     "name": "Black demon",
     "id": [
       "hist10583",
-      "15608"
+      "hist15608"
     ],
     "combat_level": "unknown",
     "hitpoints": 157,
@@ -109364,7 +109366,7 @@
     "name": "Scorpion",
     "id": [
       "hist10584",
-      "15609"
+      "hist15609"
     ],
     "combat_level": "unknown",
     "hitpoints": 17,
@@ -109410,7 +109412,7 @@
     "name": "King Scorpion",
     "id": [
       "hist10585",
-      "15610"
+      "hist15610"
     ],
     "combat_level": "unknown",
     "hitpoints": 30,
@@ -109456,7 +109458,7 @@
     "name": "Orc",
     "id": [
       "hist10586",
-      "15611"
+      "hist15611"
     ],
     "combat_level": "unknown",
     "hitpoints": 29,
@@ -111043,7 +111045,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "30-37 (Melee)'\"`UNIQ--ref-00000062-QINU`\"'",
+      "30-37 (Melee)'\"`UNIQ--ref-00000027-QINU`\"'",
       "?? (axes)"
     ],
     "attack_style": [
@@ -111094,7 +111096,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "46-61 (Melee)'\"`UNIQ--ref-00000061-QINU`\"'",
+      "46-61 (Melee)'\"`UNIQ--ref-00000026-QINU`\"'",
       "96 (axes)"
     ],
     "attack_style": [
@@ -111145,7 +111147,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "32-43 (Melee)'\"`UNIQ--ref-00000060-QINU`\"'",
+      "32-43 (Melee)'\"`UNIQ--ref-00000025-QINU`\"'",
       "35 (axes)"
     ],
     "attack_style": [
@@ -111207,7 +111209,7 @@
     "size": 2,
     "examine": "Albatross!",
     "poison_immune": "Not immune",
-    "venom_immune": "Poisons",
+    "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
     "burn_immune": "unknown"
@@ -114191,8 +114193,8 @@
     "slayer_experience": 0,
     "size": 1,
     "examine": "A mourner, or plague healer.",
-    "poison_immune": "Not immune",
-    "venom_immune": "Not immune",
+    "poison_immune": "Immune",
+    "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "Not immune",
     "burn_immune": "unknown"
@@ -121656,7 +121658,7 @@
     "attack_style": [
       "Crush"
     ],
-    "experience_bonus": 5,
+    "experience_bonus": -100,
     "is_members_only": true,
     "slayer_level": 1,
     "slayer_experience": 63,
@@ -121705,7 +121707,7 @@
     "attack_style": [
       "Ranged"
     ],
-    "experience_bonus": 5,
+    "experience_bonus": -100,
     "is_members_only": true,
     "slayer_level": 1,
     "slayer_experience": 84,
@@ -121754,7 +121756,7 @@
     "attack_style": [
       "Crush"
     ],
-    "experience_bonus": 5,
+    "experience_bonus": -100,
     "is_members_only": true,
     "slayer_level": 1,
     "slayer_experience": 84,
@@ -121803,7 +121805,7 @@
     "attack_style": [
       "Crush"
     ],
-    "experience_bonus": 5,
+    "experience_bonus": -100,
     "is_members_only": true,
     "slayer_level": 1,
     "slayer_experience": 84,
@@ -130091,7 +130093,7 @@
     ],
     "attack_style": [
       "Crush",
-      "'\"`UNIQ--ref-00000179-QINU`\"' Magic",
+      "'\"`UNIQ--ref-00000055-QINU`\"' Magic",
       "Ranged"
     ],
     "experience_bonus": 67.5,
@@ -145675,7 +145677,7 @@
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 1,
-    "examine": "'\"`UNIQ--nowiki-00000069-QINU`\"'whispers*The seas are not lackin' kraken.",
+    "examine": "'\"`UNIQ--nowiki-00000084-QINU`\"'whispers*The seas are not lackin' kraken.",
     "poison_immune": "Not immune",
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
@@ -155435,10 +155437,11 @@
       "dragon"
     ],
     "max_hit": [
-      "12"
+      "10 (Melee)",
+      "12 (Ranged)"
     ],
     "attack_style": [
-      "Melee",
+      "Crush",
       "Ranged"
     ],
     "experience_bonus": 0,
@@ -156135,56 +156138,7 @@
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 4,
-    "examine": "Good luck finding a krack in this armour!",
-    "poison_immune": "Not immune",
-    "venom_immune": "Immune",
-    "thrall_immune": "unknown",
-    "cannon_immune": "unknown",
-    "burn_immune": "Immune (strong)"
-  },
-  {
-    "page_name": "Armoured kraken",
-    "name": "Armoured kraken",
-    "id": [
-      "15211"
-    ],
-    "combat_level": 163,
-    "hitpoints": 175,
-    "attack_level": 1,
-    "strength_level": 1,
-    "defence_level": 140,
-    "magic_level": 175,
-    "ranged_level": 1,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 0,
-    "magic_damage_bonus": 0,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 0,
-    "slash_defence_bonus": 0,
-    "crush_defence_bonus": 0,
-    "magic_defence_bonus": -63,
-    "elemental_weakness": "Earth",
-    "elemental_weakness_percent": 50,
-    "light_range_defence_bonus": 100,
-    "standard_range_defence_bonus": 50,
-    "heavy_range_defence_bonus": 100,
-    "flat_armour": 0,
-    "attack_speed": 5,
-    "attribute": [],
-    "max_hit": [
-      "18"
-    ],
-    "attack_style": [
-      "Magic"
-    ],
-    "experience_bonus": 0,
-    "is_members_only": true,
-    "slayer_level": 1,
-    "slayer_experience": 0,
-    "size": 4,
-    "examine": "Seems like you found the krack!",
+    "examine": "unknown",
     "poison_immune": "Not immune",
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
@@ -156283,55 +156237,6 @@
     "slayer_experience": 0,
     "size": 2,
     "examine": "Disappointingly free of pretty patterns.",
-    "poison_immune": "Not immune",
-    "venom_immune": "Immune",
-    "thrall_immune": "unknown",
-    "cannon_immune": "unknown",
-    "burn_immune": "Immune (strong)"
-  },
-  {
-    "page_name": "Butterfly ray",
-    "name": "Butterfly ray",
-    "id": [
-      "15217"
-    ],
-    "combat_level": 61,
-    "hitpoints": 70,
-    "attack_level": 100,
-    "strength_level": 35,
-    "defence_level": 0,
-    "magic_level": 1,
-    "ranged_level": 0,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 0,
-    "magic_damage_bonus": 0,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 0,
-    "slash_defence_bonus": 0,
-    "crush_defence_bonus": 0,
-    "magic_defence_bonus": 0,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": 50,
-    "standard_range_defence_bonus": 50,
-    "heavy_range_defence_bonus": 20,
-    "flat_armour": 0,
-    "attack_speed": 4,
-    "attribute": [],
-    "max_hit": [
-      "4"
-    ],
-    "attack_style": [
-      "Slash"
-    ],
-    "experience_bonus": 0,
-    "is_members_only": true,
-    "slayer_level": 1,
-    "slayer_experience": 0,
-    "size": 2,
-    "examine": "Disappointingly free of pretty patterns. Also free of lifesigns.",
     "poison_immune": "Not immune",
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
@@ -156671,55 +156576,6 @@
     "slayer_experience": 0,
     "size": 2,
     "examine": "Can't fly, despite its best efforts.",
-    "poison_immune": "Not immune",
-    "venom_immune": "Immune",
-    "thrall_immune": "unknown",
-    "cannon_immune": "unknown",
-    "burn_immune": "Immune (strong)"
-  },
-  {
-    "page_name": "Eagle ray",
-    "name": "Eagle ray",
-    "id": [
-      "15215"
-    ],
-    "combat_level": 43,
-    "hitpoints": 50,
-    "attack_level": 70,
-    "strength_level": 1,
-    "defence_level": 0,
-    "magic_level": 1,
-    "ranged_level": 0,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 0,
-    "magic_damage_bonus": 0,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 0,
-    "slash_defence_bonus": 0,
-    "crush_defence_bonus": 0,
-    "magic_defence_bonus": 0,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": 50,
-    "standard_range_defence_bonus": 50,
-    "heavy_range_defence_bonus": 20,
-    "flat_armour": 0,
-    "attack_speed": 4,
-    "attribute": [],
-    "max_hit": [
-      "3"
-    ],
-    "attack_style": [
-      "Slash"
-    ],
-    "experience_bonus": 0,
-    "is_members_only": true,
-    "slayer_level": 1,
-    "slayer_experience": 0,
-    "size": 2,
-    "examine": "Couldn't fly, and now never will.",
     "poison_immune": "Not immune",
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
@@ -157152,55 +157008,6 @@
     "burn_immune": "Immune (strong)"
   },
   {
-    "page_name": "Manta ray (monster)",
-    "name": "Manta ray",
-    "id": [
-      "15221"
-    ],
-    "combat_level": 114,
-    "hitpoints": 160,
-    "attack_level": 155,
-    "strength_level": 75,
-    "defence_level": 0,
-    "magic_level": 1,
-    "ranged_level": 0,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 0,
-    "magic_damage_bonus": 0,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 0,
-    "slash_defence_bonus": 0,
-    "crush_defence_bonus": 0,
-    "magic_defence_bonus": 0,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": 50,
-    "standard_range_defence_bonus": 50,
-    "heavy_range_defence_bonus": 20,
-    "flat_armour": 0,
-    "attack_speed": 4,
-    "attribute": [],
-    "max_hit": [
-      "8"
-    ],
-    "attack_style": [
-      "Slash"
-    ],
-    "experience_bonus": 0,
-    "is_members_only": true,
-    "slayer_level": 1,
-    "slayer_experience": 0,
-    "size": 3,
-    "examine": "Might be feeling even more flat.",
-    "poison_immune": "Not immune",
-    "venom_immune": "Immune",
-    "thrall_immune": "unknown",
-    "cannon_immune": "unknown",
-    "burn_immune": "Immune (strong)"
-  },
-  {
     "page_name": "Praying mantis",
     "name": "Praying mantis",
     "id": [
@@ -157485,55 +157292,6 @@
     "slayer_experience": 0,
     "size": 5,
     "examine": "Well, that's just terrifying.",
-    "poison_immune": "Not immune",
-    "venom_immune": "Immune",
-    "thrall_immune": "unknown",
-    "cannon_immune": "unknown",
-    "burn_immune": "Immune (strong)"
-  },
-  {
-    "page_name": "Vampyre kraken",
-    "name": "Vampyre kraken",
-    "id": [
-      "15213"
-    ],
-    "combat_level": 189,
-    "hitpoints": 225,
-    "attack_level": 1,
-    "strength_level": 1,
-    "defence_level": 115,
-    "magic_level": 215,
-    "ranged_level": 1,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 0,
-    "magic_damage_bonus": 0,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 0,
-    "slash_defence_bonus": 0,
-    "crush_defence_bonus": 0,
-    "magic_defence_bonus": -63,
-    "elemental_weakness": "Earth",
-    "elemental_weakness_percent": 50,
-    "light_range_defence_bonus": 50,
-    "standard_range_defence_bonus": 25,
-    "heavy_range_defence_bonus": 50,
-    "flat_armour": 0,
-    "attack_speed": 5,
-    "attribute": [],
-    "max_hit": [
-      "22"
-    ],
-    "attack_style": [
-      "Magic"
-    ],
-    "experience_bonus": 0,
-    "is_members_only": true,
-    "slayer_level": 1,
-    "slayer_experience": 0,
-    "size": 5,
-    "examine": "Well, that was just terrifying.",
     "poison_immune": "Not immune",
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
@@ -158928,7 +158686,7 @@
     "page_name": "Cave Bug (Realm of Memories)",
     "name": "Cave Bug",
     "id": [
-      "15614"
+      "hist15614"
     ],
     "combat_level": "unknown",
     "hitpoints": 5,
@@ -158975,7 +158733,7 @@
     "page_name": "Fire giant (Realm of Memories)",
     "name": "Fire giant",
     "id": [
-      "15619"
+      "hist15619"
     ],
     "combat_level": "unknown",
     "hitpoints": 111,
@@ -159022,7 +158780,7 @@
     "page_name": "Goblin (Realm of Memories)",
     "name": "Goblin",
     "id": [
-      "15621"
+      "hist15621"
     ],
     "combat_level": "unknown",
     "hitpoints": 5,
@@ -159067,7 +158825,7 @@
     "page_name": "Hill Giant (Realm of Memories)",
     "name": "Hill Giant",
     "id": [
-      "15620"
+      "hist15620"
     ],
     "combat_level": "unknown",
     "hitpoints": 35,
@@ -159112,7 +158870,7 @@
     "page_name": "Kalphite Queen (Realm of Memories)",
     "name": "Kalphite Queen",
     "id": [
-      "15618"
+      "hist15618"
     ],
     "combat_level": "unknown",
     "hitpoints": 255,
@@ -159159,8 +158917,8 @@
     "page_name": "Kalphite Queen (Realm of Memories)",
     "name": "Kalphite Queen",
     "id": [
-      "15616",
-      "15617"
+      "hist15616",
+      "hist15617"
     ],
     "combat_level": "unknown",
     "hitpoints": 255,
@@ -159300,7 +159058,7 @@
     "examine": "Doesn't look particularly happy.",
     "poison_immune": "Immune",
     "venom_immune": "Immune",
-    "thrall_immune": "Immune",
+    "thrall_immune": "Not immune",
     "cannon_immune": "Immune",
     "burn_immune": "unknown"
   },
@@ -159350,8 +159108,51 @@
     "examine": "Doesn't look particularly happy.",
     "poison_immune": "Immune",
     "venom_immune": "Immune",
-    "thrall_immune": "Immune",
+    "thrall_immune": "Not immune",
     "cannon_immune": "Immune",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Maggot King",
+    "name": "Maggot King",
+    "id": "unknown",
+    "combat_level": "unknown",
+    "hitpoints": "unknown",
+    "attack_level": "unknown",
+    "strength_level": "unknown",
+    "defence_level": "unknown",
+    "magic_level": "unknown",
+    "ranged_level": "unknown",
+    "attack_bonus": "unknown",
+    "strength_bonus": "unknown",
+    "magic_attack_bonus": "unknown",
+    "magic_damage_bonus": "unknown",
+    "range_attack_bonus": "unknown",
+    "range_strength_bonus": "unknown",
+    "stab_defence_bonus": "unknown",
+    "slash_defence_bonus": "unknown",
+    "crush_defence_bonus": "unknown",
+    "magic_defence_bonus": "unknown",
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": "unknown",
+    "standard_range_defence_bonus": "unknown",
+    "heavy_range_defence_bonus": "unknown",
+    "flat_armour": 0,
+    "attack_speed": "unknown",
+    "attribute": [],
+    "max_hit": "unknown",
+    "attack_style": "unknown",
+    "experience_bonus": 0,
+    "is_members_only": false,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": "unknown",
+    "examine": "unknown",
+    "poison_immune": "unknown",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "unknown",
     "burn_immune": "unknown"
   }
 ]
