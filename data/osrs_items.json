@@ -115898,8 +115898,8 @@
       "23514"
     ],
     "weight": 0,
-    "value": 2,
-    "high_alchemy_value": 1,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A torn page detailing the existence of the Forthos Dungeon under Hosidius. Now where is the book?",
     "is_members_only": true
@@ -115911,8 +115911,8 @@
       "23510"
     ],
     "weight": 0,
-    "value": 2,
-    "high_alchemy_value": 1,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A torn page detailing the religion of Ranul. Now where is the book?",
     "is_members_only": true
@@ -115924,8 +115924,8 @@
       "23512"
     ],
     "weight": 0,
-    "value": 2,
-    "high_alchemy_value": 1,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A torn page detailing the religion of Ralos. Now where is the book?",
     "is_members_only": true
@@ -126976,7 +126976,7 @@
     "weight": 0.056,
     "value": 1,
     "high_alchemy_value": 0,
-    "buy_limit": 0,
+    "buy_limit": 3000,
     "examine": "A heap of ashes.",
     "is_members_only": false
   },
@@ -172742,7 +172742,7 @@
     "weight": 1,
     "value": 1000,
     "high_alchemy_value": 600,
-    "buy_limit": 0,
+    "buy_limit": 2000,
     "examine": "A full-bodied Aldarin Red that's generally considered the finest wine available.",
     "is_members_only": true
   },
@@ -210083,16 +210083,5 @@
     "buy_limit": 0,
     "examine": "A perfected quetzal whistle with unlimited charges crafted from redwood logs.",
     "is_members_only": true
-  },
-  {
-    "item_name": "Crimson kisten",
-    "item_name_variant": "Crimson kisten",
-    "item_id": null,
-    "weight": 0,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": null,
-    "is_members_only": false
   }
 ]

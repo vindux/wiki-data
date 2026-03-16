@@ -1515,55 +1515,6 @@
     "burn_immune": "unknown"
   },
   {
-    "page_name": "Cockatrice",
-    "name": "Cockatrice",
-    "id": [
-      "420"
-    ],
-    "combat_level": 37,
-    "hitpoints": 37,
-    "attack_level": 22,
-    "strength_level": 37,
-    "defence_level": 37,
-    "magic_level": 1,
-    "ranged_level": 1,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 0,
-    "magic_damage_bonus": 0,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 10,
-    "slash_defence_bonus": 10,
-    "crush_defence_bonus": 0,
-    "magic_defence_bonus": 10,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": 0,
-    "standard_range_defence_bonus": 0,
-    "heavy_range_defence_bonus": 0,
-    "flat_armour": 0,
-    "attack_speed": 4,
-    "attribute": [],
-    "max_hit": [
-      "5"
-    ],
-    "attack_style": [
-      "Stab"
-    ],
-    "experience_bonus": 0,
-    "is_members_only": true,
-    "slayer_level": 25,
-    "slayer_experience": 37,
-    "size": 2,
-    "examine": "The winged reptile.",
-    "poison_immune": "Not immune",
-    "venom_immune": "Not immune",
-    "thrall_immune": "Not immune",
-    "cannon_immune": "Not immune",
-    "burn_immune": "unknown"
-  },
-  {
     "page_name": "Elvarg",
     "name": "Elvarg",
     "id": [
@@ -1724,15 +1675,64 @@
     "page_name": "Feral Vampyre",
     "name": "Feral Vampyre",
     "id": [
-      "3707",
-      "3708",
-      "4431"
+      "5640"
     ],
-    "combat_level": 64,
-    "hitpoints": 80,
-    "attack_level": 55,
-    "strength_level": 30,
-    "defence_level": 60,
+    "combat_level": 70,
+    "hitpoints": 75,
+    "attack_level": 90,
+    "strength_level": 46,
+    "defence_level": 30,
+    "magic_level": 0,
+    "ranged_level": 0,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [
+      "vampyre1"
+    ],
+    "max_hit": [
+      "6"
+    ],
+    "attack_style": [
+      "Slash"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 75,
+    "size": 1,
+    "examine": "A feral vampyre. It looks really hungry!",
+    "poison_immune": "Not immune",
+    "venom_immune": "Not immune",
+    "thrall_immune": "Not immune",
+    "cannon_immune": "Not immune",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Feral Vampyre",
+    "name": "Feral Vampyre",
+    "id": [
+      "3137"
+    ],
+    "combat_level": 77,
+    "hitpoints": 60,
+    "attack_level": 65,
+    "strength_level": 66,
+    "defence_level": 81,
     "magic_level": 1,
     "ranged_level": 1,
     "attack_bonus": 0,
@@ -1756,7 +1756,7 @@
       "vampyre1"
     ],
     "max_hit": [
-      "7"
+      "8"
     ],
     "attack_style": [
       "Slash"
@@ -1764,7 +1764,7 @@
     "experience_bonus": 0,
     "is_members_only": true,
     "slayer_level": 1,
-    "slayer_experience": 80,
+    "slayer_experience": 60,
     "size": 1,
     "examine": "A feral vampyre. It looks really hungry!",
     "poison_immune": "Not immune",
@@ -1828,57 +1828,6 @@
     "page_name": "Feral Vampyre",
     "name": "Feral Vampyre",
     "id": [
-      "5640"
-    ],
-    "combat_level": 70,
-    "hitpoints": 75,
-    "attack_level": 90,
-    "strength_level": 46,
-    "defence_level": 30,
-    "magic_level": 0,
-    "ranged_level": 0,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 0,
-    "magic_damage_bonus": 0,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 0,
-    "slash_defence_bonus": 0,
-    "crush_defence_bonus": 0,
-    "magic_defence_bonus": 0,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": 0,
-    "standard_range_defence_bonus": 0,
-    "heavy_range_defence_bonus": 0,
-    "flat_armour": 0,
-    "attack_speed": 4,
-    "attribute": [
-      "vampyre1"
-    ],
-    "max_hit": [
-      "6"
-    ],
-    "attack_style": [
-      "Slash"
-    ],
-    "experience_bonus": 0,
-    "is_members_only": true,
-    "slayer_level": 1,
-    "slayer_experience": 75,
-    "size": 1,
-    "examine": "A feral vampyre. It looks really hungry!",
-    "poison_immune": "Not immune",
-    "venom_immune": "Not immune",
-    "thrall_immune": "Not immune",
-    "cannon_immune": "Not immune",
-    "burn_immune": "unknown"
-  },
-  {
-    "page_name": "Feral Vampyre",
-    "name": "Feral Vampyre",
-    "id": [
       "5641"
     ],
     "combat_level": 100,
@@ -1930,6 +1879,59 @@
     "page_name": "Feral Vampyre",
     "name": "Feral Vampyre",
     "id": [
+      "3707",
+      "3708",
+      "4431"
+    ],
+    "combat_level": 64,
+    "hitpoints": 80,
+    "attack_level": 55,
+    "strength_level": 30,
+    "defence_level": 60,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [
+      "vampyre1"
+    ],
+    "max_hit": [
+      "7"
+    ],
+    "attack_style": [
+      "Slash"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 80,
+    "size": 1,
+    "examine": "A feral vampyre. It looks really hungry!",
+    "poison_immune": "Not immune",
+    "venom_immune": "Not immune",
+    "thrall_immune": "Not immune",
+    "cannon_immune": "Not immune",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Feral Vampyre",
+    "name": "Feral Vampyre",
+    "id": [
       "5642"
     ],
     "combat_level": 130,
@@ -1969,57 +1971,6 @@
     "is_members_only": true,
     "slayer_level": 1,
     "slayer_experience": 185,
-    "size": 1,
-    "examine": "A feral vampyre. It looks really hungry!",
-    "poison_immune": "Not immune",
-    "venom_immune": "Not immune",
-    "thrall_immune": "Not immune",
-    "cannon_immune": "Not immune",
-    "burn_immune": "unknown"
-  },
-  {
-    "page_name": "Feral Vampyre",
-    "name": "Feral Vampyre",
-    "id": [
-      "3137"
-    ],
-    "combat_level": 77,
-    "hitpoints": 60,
-    "attack_level": 65,
-    "strength_level": 66,
-    "defence_level": 81,
-    "magic_level": 1,
-    "ranged_level": 1,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 0,
-    "magic_damage_bonus": 0,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 0,
-    "slash_defence_bonus": 0,
-    "crush_defence_bonus": 0,
-    "magic_defence_bonus": 0,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": 0,
-    "standard_range_defence_bonus": 0,
-    "heavy_range_defence_bonus": 0,
-    "flat_armour": 0,
-    "attack_speed": 4,
-    "attribute": [
-      "vampyre1"
-    ],
-    "max_hit": [
-      "8"
-    ],
-    "attack_style": [
-      "Slash"
-    ],
-    "experience_bonus": 0,
-    "is_members_only": true,
-    "slayer_level": 1,
-    "slayer_experience": 60,
     "size": 1,
     "examine": "A feral vampyre. It looks really hungry!",
     "poison_immune": "Not immune",
@@ -18401,55 +18352,6 @@
     "burn_immune": "unknown"
   },
   {
-    "page_name": "Basilisk",
-    "name": "Basilisk",
-    "id": [
-      "418"
-    ],
-    "combat_level": 61,
-    "hitpoints": 75,
-    "attack_level": 30,
-    "strength_level": 45,
-    "defence_level": 75,
-    "magic_level": 1,
-    "ranged_level": 1,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 0,
-    "magic_damage_bonus": 0,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 20,
-    "slash_defence_bonus": 20,
-    "crush_defence_bonus": 0,
-    "magic_defence_bonus": 20,
-    "elemental_weakness": "Earth",
-    "elemental_weakness_percent": 40,
-    "light_range_defence_bonus": 0,
-    "standard_range_defence_bonus": 0,
-    "heavy_range_defence_bonus": 0,
-    "flat_armour": 0,
-    "attack_speed": 4,
-    "attribute": [],
-    "max_hit": [
-      "5"
-    ],
-    "attack_style": [
-      "Slash"
-    ],
-    "experience_bonus": 0,
-    "is_members_only": true,
-    "slayer_level": 40,
-    "slayer_experience": 75,
-    "size": 2,
-    "examine": "The eyes of evil.",
-    "poison_immune": "Not immune",
-    "venom_immune": "Not immune",
-    "thrall_immune": "Not immune",
-    "cannon_immune": "Not immune",
-    "burn_immune": "unknown"
-  },
-  {
     "page_name": "Duck",
     "name": "Duck",
     "id": [
@@ -24109,7 +24011,7 @@
     "experience_bonus": 2.5,
     "is_members_only": true,
     "slayer_level": 1,
-    "slayer_experience": 204.5,
+    "slayer_experience": 199.5,
     "size": 4,
     "examine": "Its scales seem to be made of iron.",
     "poison_immune": "Not immune",
@@ -29717,7 +29619,7 @@
     "slayer_level": 1,
     "slayer_experience": 90,
     "size": 1,
-    "examine": "<span style=\"user-select:none;\">'''&bull;'''</span> An evil, bloodsucking vampyre. <br/><span style=\"user-select:none;\">'''&bull;'''</span> A thirsty-looking, airborne bloodsucker! ''(when flying)''",
+    "examine": "An evil, bloodsucking vampyre.",
     "poison_immune": "Immune",
     "venom_immune": "Immune",
     "thrall_immune": "Immune",
@@ -31946,7 +31848,7 @@
     "attack_speed": 4,
     "attribute": [],
     "max_hit": [
-      "115% of targeted player's max hit'\"`UNIQ--ref-000000B1-QINU`\"'"
+      "115% of targeted player's max hit'\"`UNIQ--ref-00000002-QINU`\"'"
     ],
     "attack_style": [
       "Slash"
@@ -32445,7 +32347,7 @@
       "Magic"
     ],
     "experience_bonus": 0,
-    "is_members_only": false,
+    "is_members_only": true,
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 1,
@@ -32488,14 +32390,15 @@
     "attack_speed": 4,
     "attribute": [],
     "max_hit": [
-      "2"
+      "2 (Melee)",
+      "10 (Magic)"
     ],
     "attack_style": [
       "Crush",
       "Magic"
     ],
     "experience_bonus": 0,
-    "is_members_only": false,
+    "is_members_only": true,
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 1,
@@ -32546,7 +32449,7 @@
       "Magic"
     ],
     "experience_bonus": 0,
-    "is_members_only": false,
+    "is_members_only": true,
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 1,
@@ -39745,7 +39648,7 @@
     "slayer_level": 1,
     "slayer_experience": 150,
     "size": 1,
-    "examine": "A juvinate vampyre. It looks really hungry!<br/>A juvinate vampyre, held in a powerful spell.",
+    "examine": "A juvinate vampyre. It looks really hungry!<br/>'''When bound by [[Retainer]]:''' A juvinate vampyre, held in a powerful spell.",
     "poison_immune": "Immune",
     "venom_immune": "Immune",
     "thrall_immune": "Immune",
@@ -39756,14 +39659,10 @@
     "page_name": "Vampyre Juvinate",
     "name": "Vampyre Juvinate",
     "id": [
-      "3690",
-      "3691",
-      "3694",
-      "3695",
-      "3698",
-      "3699",
+      "9727",
       "9728",
-      "9727"
+      "9729",
+      "9730"
     ],
     "combat_level": 54,
     "hitpoints": 85,
@@ -39803,7 +39702,163 @@
     "slayer_level": 1,
     "slayer_experience": 85,
     "size": 1,
-    "examine": "A juvinate vampyre.",
+    "examine": "A juvinate vampyre.<br/>'''When bound by [[Retainer]]:''' A juvinate vampyre, held in a powerful spell.",
+    "poison_immune": "Immune",
+    "venom_immune": "Immune",
+    "thrall_immune": "Immune",
+    "cannon_immune": "Not immune",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Vampyre Juvinate",
+    "name": "Vampyre Juvinate",
+    "id": [
+      "5634",
+      "5637"
+    ],
+    "combat_level": 59,
+    "hitpoints": 50,
+    "attack_level": 95,
+    "strength_level": 16,
+    "defence_level": 45,
+    "magic_level": 50,
+    "ranged_level": 50,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [
+      "vampyre2"
+    ],
+    "max_hit": [
+      "6"
+    ],
+    "attack_style": [
+      "Slash"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 50,
+    "size": 1,
+    "examine": "A juvinate vampyre. It looks really hungry!<br/>'''When bound by [[Retainer]]:''' A juvinate vampyre, held in a powerful spell.",
+    "poison_immune": "Immune",
+    "venom_immune": "Immune",
+    "thrall_immune": "Immune",
+    "cannon_immune": "Not immune",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Vampyre Juvinate",
+    "name": "Vampyre Juvinate",
+    "id": [
+      "4443",
+      "4486"
+    ],
+    "combat_level": 50,
+    "hitpoints": 60,
+    "attack_level": 50,
+    "strength_level": 37,
+    "defence_level": 30,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [
+      "vampyre2"
+    ],
+    "max_hit": [
+      "5"
+    ],
+    "attack_style": [
+      "Crush"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 60,
+    "size": 1,
+    "examine": "A juvinate vampyre. It looks really hungry!",
+    "poison_immune": "Immune",
+    "venom_immune": "Immune",
+    "thrall_immune": "Immune",
+    "cannon_immune": "Not immune",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Vampyre Juvinate",
+    "name": "Vampyre Juvinate",
+    "id": [
+      "5635",
+      "5638"
+    ],
+    "combat_level": 90,
+    "hitpoints": 100,
+    "attack_level": 113,
+    "strength_level": 46,
+    "defence_level": 55,
+    "magic_level": 50,
+    "ranged_level": 50,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [
+      "vampyre2"
+    ],
+    "max_hit": [
+      "6"
+    ],
+    "attack_style": [
+      "Slash"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 100,
+    "size": 1,
+    "examine": "A juvinate vampyre. It looks really hungry!<br/>'''When bound by [[Retainer]]:''' A juvinate vampyre, held in a powerful spell.",
     "poison_immune": "Immune",
     "venom_immune": "Immune",
     "thrall_immune": "Immune",
@@ -39859,7 +39914,7 @@
     "slayer_level": 1,
     "slayer_experience": 65,
     "size": 1,
-    "examine": "A juvinate vampyre. It looks really hungry!<br/>A juvinate vampyre, held in a powerful spell.",
+    "examine": "A juvinate vampyre. It looks really hungry!<br/>'''When bound by [[Retainer]]:''' A juvinate vampyre, held in a powerful spell.",
     "poison_immune": "Immune",
     "venom_immune": "Immune",
     "thrall_immune": "Immune",
@@ -39870,14 +39925,70 @@
     "page_name": "Vampyre Juvinate",
     "name": "Vampyre Juvinate",
     "id": [
-      "5634",
-      "5637"
+      "3694",
+      "3695",
+      "3698",
+      "3699"
     ],
-    "combat_level": 59,
-    "hitpoints": 50,
-    "attack_level": 95,
-    "strength_level": 16,
-    "defence_level": 45,
+    "combat_level": 54,
+    "hitpoints": 85,
+    "attack_level": 40,
+    "strength_level": 40,
+    "defence_level": 30,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [
+      "vampyre2"
+    ],
+    "max_hit": [
+      "5"
+    ],
+    "attack_style": [
+      "Crush"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 85,
+    "size": 1,
+    "examine": "A juvinate vampyre.<br/>'''When bound by [[Retainer]]:''' A juvinate vampyre, held in a powerful spell.",
+    "poison_immune": "Immune",
+    "venom_immune": "Immune",
+    "thrall_immune": "Immune",
+    "cannon_immune": "Not immune",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Vampyre Juvinate",
+    "name": "Vampyre Juvinate",
+    "id": [
+      "9614",
+      "9615",
+      "9616",
+      "9617"
+    ],
+    "combat_level": 119,
+    "hitpoints": 150,
+    "attack_level": 127,
+    "strength_level": 76,
+    "defence_level": 65,
     "magic_level": 50,
     "ranged_level": 50,
     "attack_bonus": 0,
@@ -39901,7 +40012,7 @@
       "vampyre2"
     ],
     "max_hit": [
-      "6"
+      "9"
     ],
     "attack_style": [
       "Slash"
@@ -39909,61 +40020,9 @@
     "experience_bonus": 0,
     "is_members_only": true,
     "slayer_level": 1,
-    "slayer_experience": 50,
+    "slayer_experience": 150,
     "size": 1,
-    "examine": "A juvinate vampyre. It looks really hungry!<br/>A juvinate vampyre, held in a powerful spell.",
-    "poison_immune": "Immune",
-    "venom_immune": "Immune",
-    "thrall_immune": "Immune",
-    "cannon_immune": "Not immune",
-    "burn_immune": "unknown"
-  },
-  {
-    "page_name": "Vampyre Juvinate",
-    "name": "Vampyre Juvinate",
-    "id": [
-      "5635",
-      "5638"
-    ],
-    "combat_level": 90,
-    "hitpoints": 100,
-    "attack_level": 113,
-    "strength_level": 46,
-    "defence_level": 55,
-    "magic_level": 50,
-    "ranged_level": 50,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 0,
-    "magic_damage_bonus": 0,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 0,
-    "slash_defence_bonus": 0,
-    "crush_defence_bonus": 0,
-    "magic_defence_bonus": 0,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": 0,
-    "standard_range_defence_bonus": 0,
-    "heavy_range_defence_bonus": 0,
-    "flat_armour": 0,
-    "attack_speed": 4,
-    "attribute": [
-      "vampyre2"
-    ],
-    "max_hit": [
-      "6"
-    ],
-    "attack_style": [
-      "Slash"
-    ],
-    "experience_bonus": 0,
-    "is_members_only": true,
-    "slayer_level": 1,
-    "slayer_experience": 100,
-    "size": 1,
-    "examine": "A juvinate vampyre. It looks really hungry!<br/>A juvinate vampyre, held in a powerful spell.",
+    "examine": "A juvinate vampyre. It looks really hungry!<br/>'''When bound by [[Retainer]]:''' A juvinate vampyre, held in a powerful spell.",
     "poison_immune": "Immune",
     "venom_immune": "Immune",
     "thrall_immune": "Immune",
@@ -40013,58 +40072,6 @@
     "is_members_only": true,
     "slayer_level": 1,
     "slayer_experience": 110,
-    "size": 1,
-    "examine": "A juvinate vampyre. It looks really hungry!",
-    "poison_immune": "Immune",
-    "venom_immune": "Immune",
-    "thrall_immune": "Immune",
-    "cannon_immune": "Not immune",
-    "burn_immune": "unknown"
-  },
-  {
-    "page_name": "Vampyre Juvinate",
-    "name": "Vampyre Juvinate",
-    "id": [
-      "4443",
-      "4486"
-    ],
-    "combat_level": 50,
-    "hitpoints": 60,
-    "attack_level": 50,
-    "strength_level": 37,
-    "defence_level": 30,
-    "magic_level": 1,
-    "ranged_level": 1,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 0,
-    "magic_damage_bonus": 0,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 0,
-    "slash_defence_bonus": 0,
-    "crush_defence_bonus": 0,
-    "magic_defence_bonus": 0,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": 0,
-    "standard_range_defence_bonus": 0,
-    "heavy_range_defence_bonus": 0,
-    "flat_armour": 0,
-    "attack_speed": 4,
-    "attribute": [
-      "vampyre2"
-    ],
-    "max_hit": [
-      "5"
-    ],
-    "attack_style": [
-      "Crush"
-    ],
-    "experience_bonus": 0,
-    "is_members_only": true,
-    "slayer_level": 1,
-    "slayer_experience": 60,
     "size": 1,
     "examine": "A juvinate vampyre. It looks really hungry!",
     "poison_immune": "Immune",
@@ -70970,62 +70977,6 @@
     "page_name": "Vampyre Juvenile",
     "name": "Vampyre Juvenile",
     "id": [
-      "3692",
-      "3693",
-      "3696",
-      "3697",
-      "9731",
-      "9732"
-    ],
-    "combat_level": 45,
-    "hitpoints": 60,
-    "attack_level": 40,
-    "strength_level": 30,
-    "defence_level": 30,
-    "magic_level": 1,
-    "ranged_level": 1,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 0,
-    "magic_damage_bonus": 0,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 0,
-    "slash_defence_bonus": 0,
-    "crush_defence_bonus": 0,
-    "magic_defence_bonus": 0,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": 0,
-    "standard_range_defence_bonus": 0,
-    "heavy_range_defence_bonus": 0,
-    "flat_armour": 0,
-    "attack_speed": 4,
-    "attribute": [
-      "vampyre1"
-    ],
-    "max_hit": [
-      "4"
-    ],
-    "attack_style": [
-      "Crush"
-    ],
-    "experience_bonus": 0,
-    "is_members_only": true,
-    "slayer_level": 1,
-    "slayer_experience": 60,
-    "size": 1,
-    "examine": "A juvenile vampyre.<br/>A juvenile vampyre, held in a powerful spell.",
-    "poison_immune": "Immune",
-    "venom_immune": "Immune",
-    "thrall_immune": "Immune",
-    "cannon_immune": "Not immune",
-    "burn_immune": "unknown"
-  },
-  {
-    "page_name": "Vampyre Juvenile",
-    "name": "Vampyre Juvenile",
-    "id": [
       "4436",
       "4437",
       "4438",
@@ -71069,7 +71020,115 @@
     "slayer_level": 1,
     "slayer_experience": 60,
     "size": 1,
-    "examine": "A juvenile vampyre. It looks really hungry!<br/>A juvenile vampyre, held in a powerful spell.",
+    "examine": "A juvenile vampyre. It looks really hungry!<br/>'''When bound by [[Retainer]]:''' A juvenile vampyre, held in a powerful spell.",
+    "poison_immune": "Immune",
+    "venom_immune": "Immune",
+    "thrall_immune": "Immune",
+    "cannon_immune": "Not immune",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Vampyre Juvenile",
+    "name": "Vampyre Juvenile",
+    "id": [
+      "9731",
+      "9732",
+      "9733",
+      "9744"
+    ],
+    "combat_level": 45,
+    "hitpoints": 60,
+    "attack_level": 40,
+    "strength_level": 30,
+    "defence_level": 30,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [
+      "vampyre1"
+    ],
+    "max_hit": [
+      "4"
+    ],
+    "attack_style": [
+      "Crush"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 60,
+    "size": 1,
+    "examine": "A juvenile vampyre.<br/>'''When bound by [[Retainer]]:''' A juvenile vampyre, held in a powerful spell.",
+    "poison_immune": "Immune",
+    "venom_immune": "Immune",
+    "thrall_immune": "Immune",
+    "cannon_immune": "Not immune",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Vampyre Juvenile",
+    "name": "Vampyre Juvenile",
+    "id": [
+      "3692",
+      "3693",
+      "3696",
+      "3697"
+    ],
+    "combat_level": 45,
+    "hitpoints": 60,
+    "attack_level": 40,
+    "strength_level": 30,
+    "defence_level": 30,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [
+      "vampyre1"
+    ],
+    "max_hit": [
+      "4"
+    ],
+    "attack_style": [
+      "Crush"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 60,
+    "size": 1,
+    "examine": "A juvenile vampyre.<br/>'''When bound by [[Retainer]]:''' A juvenile vampyre, held in a powerful spell.",
     "poison_immune": "Immune",
     "venom_immune": "Immune",
     "thrall_immune": "Immune",
@@ -72084,7 +72143,7 @@
     "slayer_level": 85,
     "slayer_experience": 50,
     "size": 2,
-    "examine": "'\"`UNIQ--nowiki-00000077-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
+    "examine": "'\"`UNIQ--nowiki-0000015B-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
     "poison_immune": "Immune",
     "venom_immune": "Immune",
     "thrall_immune": "Not immune",
@@ -87250,7 +87309,7 @@
     "attack_speed": 10,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-00000011-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-000000E9-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -87300,7 +87359,7 @@
     "attack_speed": 7,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-00000011-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-000000E9-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -89429,7 +89488,7 @@
       "15 (melee) 33 (special attack)"
     ],
     "attack_style": [
-      "Slash '\"`UNIQ--ref-0000003F-QINU`\"'"
+      "Slash '\"`UNIQ--ref-000000BF-QINU`\"'"
     ],
     "experience_bonus": 0,
     "is_members_only": true,
@@ -99433,7 +99492,7 @@
     "experience_bonus": -97.5,
     "is_members_only": false,
     "slayer_level": 1,
-    "slayer_experience": 0,
+    "slayer_experience": 0.5,
     "size": 1,
     "examine": "It rattles when it walks.",
     "poison_immune": "Not immune",
@@ -99669,8 +99728,8 @@
     "slash_defence_bonus": 11,
     "crush_defence_bonus": -2,
     "magic_defence_bonus": 1,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
+    "elemental_weakness": "earth",
+    "elemental_weakness_percent": 35,
     "light_range_defence_bonus": 4,
     "standard_range_defence_bonus": 4,
     "heavy_range_defence_bonus": 4,
@@ -99685,7 +99744,7 @@
     "attack_style": [
       "Slash"
     ],
-    "experience_bonus": 0,
+    "experience_bonus": -97.5,
     "is_members_only": false,
     "slayer_level": 1,
     "slayer_experience": 29,
@@ -111045,7 +111104,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "30-37 (Melee)'\"`UNIQ--ref-00000027-QINU`\"'",
+      "30-37 (Melee)'\"`UNIQ--ref-000000E3-QINU`\"'",
       "?? (axes)"
     ],
     "attack_style": [
@@ -111096,7 +111155,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "46-61 (Melee)'\"`UNIQ--ref-00000026-QINU`\"'",
+      "46-61 (Melee)'\"`UNIQ--ref-000000E2-QINU`\"'",
       "96 (axes)"
     ],
     "attack_style": [
@@ -111147,7 +111206,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "32-43 (Melee)'\"`UNIQ--ref-00000025-QINU`\"'",
+      "32-43 (Melee)'\"`UNIQ--ref-000000E1-QINU`\"'",
       "35 (axes)"
     ],
     "attack_style": [
@@ -114988,6 +115047,7 @@
     "attack_speed": 4,
     "attribute": [],
     "max_hit": [
+      "? (melee)",
       "80 (lightning)"
     ],
     "attack_style": [
@@ -130093,7 +130153,7 @@
     ],
     "attack_style": [
       "Crush",
-      "'\"`UNIQ--ref-00000055-QINU`\"' Magic",
+      "'\"`UNIQ--ref-00000036-QINU`\"' Magic",
       "Ranged"
     ],
     "experience_bonus": 67.5,
@@ -137452,7 +137512,7 @@
     "experience_bonus": 27.5,
     "is_members_only": true,
     "slayer_level": 92,
-    "slayer_experience": 4658,
+    "slayer_experience": 4462.5,
     "size": 3,
     "examine": "A very large odd-looking spider.",
     "poison_immune": "Not immune",
@@ -142583,7 +142643,7 @@
       "demon"
     ],
     "max_hit": [
-      "48 <br/>60 (charge)"
+      "50 <br/>60 (charge)"
     ],
     "attack_style": [
       "Melee",
@@ -145677,7 +145737,7 @@
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 1,
-    "examine": "'\"`UNIQ--nowiki-00000084-QINU`\"'whispers*The seas are not lackin' kraken.",
+    "examine": "'\"`UNIQ--nowiki-00000070-QINU`\"'whispers*The seas are not lackin' kraken.",
     "poison_immune": "Not immune",
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
@@ -146373,7 +146433,8 @@
       "12738",
       "12739",
       "12761",
-      "12763"
+      "12763",
+      "12764"
     ],
     "combat_level": 82,
     "hitpoints": 75,
@@ -156429,8 +156490,8 @@
     "slayer_experience": 4,
     "size": "unknown",
     "examine": "Likes drink... hates people stepping on him.",
-    "poison_immune": "unknown",
-    "venom_immune": "unknown",
+    "poison_immune": "Not immune",
+    "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
     "burn_immune": "unknown"
@@ -159113,46 +159174,101 @@
     "burn_immune": "unknown"
   },
   {
-    "page_name": "Maggot King",
-    "name": "Maggot King",
-    "id": "unknown",
-    "combat_level": "unknown",
-    "hitpoints": "unknown",
-    "attack_level": "unknown",
-    "strength_level": "unknown",
-    "defence_level": "unknown",
-    "magic_level": "unknown",
-    "ranged_level": "unknown",
-    "attack_bonus": "unknown",
-    "strength_bonus": "unknown",
-    "magic_attack_bonus": "unknown",
-    "magic_damage_bonus": "unknown",
-    "range_attack_bonus": "unknown",
-    "range_strength_bonus": "unknown",
-    "stab_defence_bonus": "unknown",
-    "slash_defence_bonus": "unknown",
-    "crush_defence_bonus": "unknown",
-    "magic_defence_bonus": "unknown",
+    "page_name": "Basilisk (unused)",
+    "name": "Basilisk",
+    "id": [
+      "418"
+    ],
+    "combat_level": 61,
+    "hitpoints": 75,
+    "attack_level": 30,
+    "strength_level": 45,
+    "defence_level": 75,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 20,
+    "slash_defence_bonus": 20,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 20,
+    "elemental_weakness": "Earth",
+    "elemental_weakness_percent": 40,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [],
+    "max_hit": [
+      "5"
+    ],
+    "attack_style": [
+      "Slash"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 40,
+    "slayer_experience": 75,
+    "size": 2,
+    "examine": "The eyes of evil.",
+    "poison_immune": "Not immune",
+    "venom_immune": "Not immune",
+    "thrall_immune": "Not immune",
+    "cannon_immune": "Not immune",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Cockatrice (unused)",
+    "name": "Cockatrice",
+    "id": [
+      "420"
+    ],
+    "combat_level": 37,
+    "hitpoints": 37,
+    "attack_level": 22,
+    "strength_level": 37,
+    "defence_level": 37,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 10,
+    "slash_defence_bonus": 10,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 10,
     "elemental_weakness": "None",
     "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": "unknown",
-    "standard_range_defence_bonus": "unknown",
-    "heavy_range_defence_bonus": "unknown",
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
     "flat_armour": 0,
-    "attack_speed": "unknown",
+    "attack_speed": 4,
     "attribute": [],
-    "max_hit": "unknown",
-    "attack_style": "unknown",
+    "max_hit": [
+      "5"
+    ],
+    "attack_style": [
+      "Stab"
+    ],
     "experience_bonus": 0,
-    "is_members_only": false,
-    "slayer_level": 1,
-    "slayer_experience": 0,
-    "size": "unknown",
-    "examine": "unknown",
-    "poison_immune": "unknown",
-    "venom_immune": "unknown",
-    "thrall_immune": "unknown",
-    "cannon_immune": "unknown",
+    "is_members_only": true,
+    "slayer_level": 25,
+    "slayer_experience": 37,
+    "size": 2,
+    "examine": "The winged reptile.",
+    "poison_immune": "Not immune",
+    "venom_immune": "Not immune",
+    "thrall_immune": "Not immune",
+    "cannon_immune": "Not immune",
     "burn_immune": "unknown"
   }
 ]
