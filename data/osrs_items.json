@@ -178607,7 +178607,7 @@
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A key stolen from Constantinius.",
-    "is_members_only": false
+    "is_members_only": true
   },
   {
     "item_name": "Chichilihui rosé",
@@ -210082,6 +210082,45 @@
     "high_alchemy_value": 6,
     "buy_limit": 0,
     "examine": "A perfected quetzal whistle with unlimited charges crafted from redwood logs.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ballistic attractor schematic",
+    "item_name_variant": "Ballistic attractor schematic",
+    "item_id": [
+      "33143"
+    ],
+    "weight": 0.01,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Appears to be some kind of blueprint for a boat part.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Veiled kraken ink sac",
+    "item_name_variant": "Veiled kraken ink sac",
+    "item_id": [
+      "33145"
+    ],
+    "weight": 0.8,
+    "value": 200,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The ink sac of a veiled kraken.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Veiled kraken tentacle",
+    "item_name_variant": "Veiled kraken tentacle",
+    "item_id": [
+      "33144"
+    ],
+    "weight": 0.8,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The elusive tentacle of a veiled kraken.",
     "is_members_only": true
   }
 ]

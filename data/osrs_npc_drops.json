@@ -224053,9 +224053,9 @@
   {
     "name": "Scarab Mage",
     "id": [
-      "11508"
+      "799"
     ],
-    "combat_level": 119,
+    "combat_level": 66,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -224833,9 +224833,9 @@
   {
     "name": "Scarab Mage",
     "id": [
-      "799"
+      "11508"
     ],
-    "combat_level": 66,
+    "combat_level": 119,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -305785,9 +305785,9 @@
           "quantity": "15"
         },
         {
-          "name": "Mud rune",
-          "rarity": "18/118",
-          "quantity": "10"
+          "name": "Grimy kwuarm",
+          "rarity": "15/472",
+          "quantity": "1"
         },
         {
           "name": "Grimy torstol",
@@ -305795,24 +305795,19 @@
           "quantity": "1"
         },
         {
-          "name": "Grimy kwuarm",
-          "rarity": "15/472",
-          "quantity": "1 (noted)"
+          "name": "Grimy dwarf weed",
+          "rarity": "12/472",
+          "quantity": "1"
         },
         {
           "name": "Grimy cadantine",
           "rarity": "12/472",
-          "quantity": "1 (noted)"
-        },
-        {
-          "name": "Grimy dwarf weed",
-          "rarity": "12/472",
-          "quantity": "1 (noted)"
+          "quantity": "1"
         },
         {
           "name": "Grimy lantadyme",
           "rarity": "9/472",
-          "quantity": "1 (noted)"
+          "quantity": "1"
         },
         {
           "name": "Mushroom spore",
@@ -352785,14 +352780,14 @@
     "id": [
       "15224"
     ],
-    "combat_level": 93,
+    "combat_level": 121,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
       "regular": [
         {
           "name": "Swift albatross feather",
-          "rarity": "1/29.1",
+          "rarity": "1/35",
           "quantity": "1"
         },
         {
@@ -352886,11 +352881,6 @@
           "quantity": "1"
         },
         {
-          "name": "Clue scroll (hard)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
           "name": "Albatross feather",
           "rarity": "1/2",
           "quantity": "1"
@@ -352898,6 +352888,11 @@
         {
           "name": "Albatross beak",
           "rarity": "1/10",
+          "quantity": "1"
+        },
+        {
+          "name": "Clue scroll (hard)",
+          "rarity": "1/130",
           "quantity": "1"
         }
       ],
@@ -384920,14 +384915,14 @@
     "id": [
       "15218"
     ],
-    "combat_level": 82,
+    "combat_level": 98,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
       "regular": [
         {
           "name": "Ray barbs",
-          "rarity": "1/22.8",
+          "rarity": "1/30",
           "quantity": "1"
         },
         {
@@ -385207,7 +385202,7 @@
         },
         {
           "name": "Clue scroll (hard)",
-          "rarity": "Rare",
+          "rarity": "1/225",
           "quantity": "1"
         }
       ],
@@ -419596,7 +419591,7 @@
     "id": [
       "15200"
     ],
-    "combat_level": 141,
+    "combat_level": 175,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -419624,12 +419619,12 @@
         {
           "name": "Rune cannonball",
           "rarity": "4/100",
-          "quantity": "20–30"
+          "quantity": "24–36"
         },
         {
           "name": "Dragon cannonball",
           "rarity": "2/100",
-          "quantity": "10–15"
+          "quantity": "12–18"
         },
         {
           "name": "Fremennik salvage",
@@ -419723,7 +419718,7 @@
         },
         {
           "name": "Clue scroll (elite)",
-          "rarity": "1/92,070",
+          "rarity": "1/200",
           "quantity": "1"
         }
       ],
@@ -419910,7 +419905,7 @@
     "id": [
       "15206"
     ],
-    "combat_level": 87,
+    "combat_level": 100,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -419938,7 +419933,7 @@
         {
           "name": "Adamant cannonball",
           "rarity": "2/108",
-          "quantity": "10–25"
+          "quantity": "18–24"
         },
         {
           "name": "Water battlestaff",
@@ -422677,7 +422672,7 @@
     "id": [
       "15196"
     ],
-    "combat_level": 69,
+    "combat_level": 91,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -422765,7 +422760,7 @@
         {
           "name": "Mithril cannonball",
           "rarity": "4/100",
-          "quantity": "40–50"
+          "quantity": "48–60"
         },
         {
           "name": "Barracuda salvage",
@@ -428057,7 +428052,7 @@
     "id": [
       "15222"
     ],
-    "combat_level": 55,
+    "combat_level": 74,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -428176,7 +428171,7 @@
     "id": [
       "15226"
     ],
-    "combat_level": 70,
+    "combat_level": 89,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -428602,14 +428597,14 @@
     "id": [
       "15234"
     ],
-    "combat_level": 25,
+    "combat_level": 29,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
       "regular": [
         {
           "name": "Echo pearl",
-          "rarity": "1/927",
+          "rarity": "1/1,000",
           "quantity": "1"
         },
         {
@@ -428625,12 +428620,12 @@
         {
           "name": "Iron cannonball",
           "rarity": "8/50",
-          "quantity": "20–40"
+          "quantity": "30–42"
         },
         {
           "name": "Bronze cannonball",
           "rarity": "6/50",
-          "quantity": "30–45"
+          "quantity": "36–54"
         },
         {
           "name": "Seaweed",
@@ -428664,7 +428659,7 @@
         },
         {
           "name": "Clue scroll (easy)",
-          "rarity": "Uncommon",
+          "rarity": "1/60",
           "quantity": "1"
         }
       ],
@@ -430184,7 +430179,7 @@
         },
         {
           "name": "Clue scroll (hard)",
-          "rarity": "Unknown",
+          "rarity": "1/128",
           "quantity": "1"
         }
       ],
@@ -431055,7 +431050,7 @@
     "id": [
       "15194"
     ],
-    "combat_level": 63,
+    "combat_level": 77,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -431143,7 +431138,7 @@
         {
           "name": "Steel cannonball",
           "rarity": "4/100",
-          "quantity": "40–50"
+          "quantity": "48–60"
         },
         {
           "name": "Fishy salvage",
@@ -431230,19 +431225,19 @@
     "id": [
       "15202"
     ],
-    "combat_level": 103,
+    "combat_level": 119,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
       "regular": [
         {
           "name": "Narwhal horn",
-          "rarity": "1/100",
+          "rarity": "1/20",
           "quantity": "1"
         },
         {
           "name": "Dragon nails",
-          "rarity": "1/120.4",
+          "rarity": "1/150",
           "quantity": "2–3"
         },
         {
@@ -431252,92 +431247,92 @@
         },
         {
           "name": "Rune mace",
-          "rarity": "2/120",
+          "rarity": "1/60",
           "quantity": "1"
         },
         {
           "name": "Rune scimitar",
-          "rarity": "2/120",
+          "rarity": "1/60",
           "quantity": "1"
         },
         {
           "name": "Rune sword",
-          "rarity": "2/120",
+          "rarity": "1/60",
           "quantity": "1"
         },
         {
           "name": "Water rune",
-          "rarity": "30/120",
+          "rarity": "15/60",
           "quantity": "300–800"
         },
         {
           "name": "Adamant arrow",
-          "rarity": "8/120",
+          "rarity": "4/60",
           "quantity": "1"
         },
         {
           "name": "Rune arrow",
-          "rarity": "8/120",
+          "rarity": "4/60",
           "quantity": "1"
         },
         {
           "name": "Adamant cannonball",
-          "rarity": "8/120",
-          "quantity": "30–45"
+          "rarity": "4/60",
+          "quantity": "36–54"
         },
         {
           "name": "Rune cannonball",
-          "rarity": "4/120",
-          "quantity": "20–40"
+          "rarity": "2/60",
+          "quantity": "30–42"
         },
         {
           "name": "Flax seed",
-          "rarity": "5/150",
+          "rarity": "5/75",
           "quantity": "2–3"
         },
         {
           "name": "Hemp seed",
-          "rarity": "3/150",
+          "rarity": "3/75",
           "quantity": "2–3"
         },
         {
           "name": "Cotton seed",
-          "rarity": "2/150",
+          "rarity": "2/75",
           "quantity": "2–3"
         },
         {
           "name": "Elkhorn frag",
-          "rarity": "6/400",
+          "rarity": "6/200",
           "quantity": "1–2"
         },
         {
           "name": "Pillar frag",
-          "rarity": "3/400",
+          "rarity": "3/200",
           "quantity": "1–2"
         },
         {
           "name": "Umbral frag",
-          "rarity": "1/400",
+          "rarity": "1/200",
           "quantity": "1–2"
         },
         {
           "name": "Swamp paste",
-          "rarity": "16/120",
+          "rarity": "8/60",
           "quantity": "40–60"
         },
         {
           "name": "Giant seaweed",
-          "rarity": "12/120",
+          "rarity": "6/60",
           "quantity": "1 (noted)"
         },
         {
           "name": "Casket",
-          "rarity": "2/120",
+          "rarity": "1/60",
           "quantity": "1"
         },
         {
           "name": "Old boot",
-          "rarity": "2/120",
+          "rarity": "1/60",
           "quantity": "1"
         },
         {
@@ -431352,7 +431347,7 @@
         },
         {
           "name": "Clue scroll (hard)",
-          "rarity": "Rare",
+          "rarity": "1/170",
           "quantity": "1"
         }
       ],
@@ -431420,7 +431415,7 @@
     "id": [
       "15228"
     ],
-    "combat_level": 22,
+    "combat_level": 26,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -431539,7 +431534,7 @@
     "id": [
       "15198"
     ],
-    "combat_level": 97,
+    "combat_level": 125,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -431622,7 +431617,7 @@
         {
           "name": "Steel cannonball",
           "rarity": "4/100",
-          "quantity": "40–50"
+          "quantity": "48–60"
         },
         {
           "name": "Fishy salvage",
@@ -431709,7 +431704,7 @@
     "id": [
       "15208"
     ],
-    "combat_level": 121,
+    "combat_level": 128,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -431737,12 +431732,12 @@
         {
           "name": "Adamant cannonball",
           "rarity": "4/109",
-          "quantity": "20–30"
+          "quantity": "24–36"
         },
         {
           "name": "Rune cannonball",
           "rarity": "2/109",
-          "quantity": "10–25"
+          "quantity": "18–24"
         },
         {
           "name": "Water battlestaff",
@@ -432209,14 +432204,14 @@
     "id": [
       "15204"
     ],
-    "combat_level": 173,
+    "combat_level": 205,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
       "regular": [
         {
           "name": "Echo pearl",
-          "rarity": "1/65.5",
+          "rarity": "1/70",
           "quantity": "1"
         },
         {
@@ -432232,7 +432227,7 @@
         {
           "name": "Rune cannonball",
           "rarity": "5/92",
-          "quantity": "20–35"
+          "quantity": "24–42"
         },
         {
           "name": "Blood rune",
@@ -432242,7 +432237,7 @@
         {
           "name": "Dragon cannonball",
           "rarity": "2/92",
-          "quantity": "15–20"
+          "quantity": "18–24"
         },
         {
           "name": "Rune longsword",
@@ -432336,7 +432331,7 @@
         },
         {
           "name": "Clue scroll (elite)",
-          "rarity": "Rare",
+          "rarity": "1/120",
           "quantity": "1"
         }
       ],
@@ -432405,7 +432400,7 @@
       "15230",
       "15232"
     ],
-    "combat_level": 54,
+    "combat_level": 61,
     "slayer_level": 32,
     "is_members_only": true,
     "drops": {
@@ -432677,7 +432672,7 @@
     "id": [
       "15210"
     ],
-    "combat_level": 163,
+    "combat_level": 180,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -432725,7 +432720,7 @@
         {
           "name": "Rune cannonball",
           "rarity": "4/119",
-          "quantity": "20–30"
+          "quantity": "24–36"
         },
         {
           "name": "Battlestaff",
@@ -433091,14 +433086,14 @@
     "id": [
       "15216"
     ],
-    "combat_level": 61,
+    "combat_level": 72,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
       "regular": [
         {
           "name": "Ray barbs",
-          "rarity": "1/41.2",
+          "rarity": "1/45",
           "quantity": "1"
         },
         {
@@ -433510,31 +433505,7 @@
     "id": [
       "15175"
     ],
-    "combat_level": 194,
-    "slayer_level": 1,
-    "is_members_only": true,
-    "drops": {
-      "regular": [
-        {
-          "name": "Bones",
-          "rarity": "Always",
-          "quantity": "1"
-        },
-        {
-          "name": "Beer",
-          "rarity": "Always",
-          "quantity": "1"
-        }
-      ],
-      "rare_drop_table": []
-    }
-  },
-  {
-    "name": "Drink troll queen",
-    "id": [
-      "15176"
-    ],
-    "combat_level": 194,
+    "combat_level": 217,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -433558,14 +433529,14 @@
     "id": [
       "15214"
     ],
-    "combat_level": 43,
+    "combat_level": 49,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
       "regular": [
         {
           "name": "Ray barbs",
-          "rarity": "1/41.2",
+          "rarity": "1/50",
           "quantity": "1"
         },
         {
@@ -434620,14 +434591,14 @@
     "id": [
       "15220"
     ],
-    "combat_level": 114,
+    "combat_level": 141,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
       "regular": [
         {
           "name": "Ray barbs",
-          "rarity": "1/16.2",
+          "rarity": "1/20",
           "quantity": "1"
         },
         {
@@ -434796,12 +434767,12 @@
           "quantity": "1"
         },
         {
-          "name": "Poison ivy seed",
+          "name": "Avantoe seed",
           "rarity": "1/174.6",
           "quantity": "1"
         },
         {
-          "name": "Avantoe seed",
+          "name": "Poison ivy seed",
           "rarity": "1/178.1",
           "quantity": "1"
         },
@@ -434822,7 +434793,7 @@
         },
         {
           "name": "Snapdragon seed",
-          "rarity": "1/391",
+          "rarity": "1/141.2",
           "quantity": "1"
         },
         {
@@ -434837,7 +434808,7 @@
         },
         {
           "name": "Snape grass seed",
-          "rarity": "1/899.2",
+          "rarity": "1/899.3",
           "quantity": "3"
         },
         {
@@ -434847,22 +434818,12 @@
         },
         {
           "name": "Torstol seed",
-          "rarity": "1/1,998.3",
+          "rarity": "1/246.5",
           "quantity": "1"
         },
         {
           "name": "Ranarr seed",
           "rarity": "1/206.3",
-          "quantity": "1"
-        },
-        {
-          "name": "Snapdragon seed",
-          "rarity": "1/221",
-          "quantity": "1"
-        },
-        {
-          "name": "Torstol seed",
-          "rarity": "1/281.3",
           "quantity": "1"
         },
         {
@@ -434952,7 +434913,7 @@
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "1/60.6",
+          "rarity": "1/46.4",
           "quantity": "2–3"
         },
         {
@@ -434962,7 +434923,7 @@
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "1/111.2",
+          "rarity": "1/65.3",
           "quantity": "2–3"
         },
         {
@@ -434983,16 +434944,6 @@
         {
           "name": "Grimy dwarf weed",
           "rarity": "1/222.3",
-          "quantity": "2–3"
-        },
-        {
-          "name": "Grimy avantoe",
-          "rarity": "1/158.4",
-          "quantity": "2–3"
-        },
-        {
-          "name": "Grimy ranarr weed",
-          "rarity": "1/198",
           "quantity": "2–3"
         },
         {
@@ -435047,7 +434998,7 @@
         },
         {
           "name": "Clue scroll (hard)",
-          "rarity": "Rare",
+          "rarity": "1/150",
           "quantity": "1"
         }
       ],
@@ -435135,7 +435086,7 @@
     "id": [
       "15212"
     ],
-    "combat_level": 189,
+    "combat_level": 211,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -435183,12 +435134,12 @@
         {
           "name": "Rune cannonball",
           "rarity": "4/120",
-          "quantity": "40–50"
+          "quantity": "48–60"
         },
         {
           "name": "Dragon cannonball",
           "rarity": "2/120",
-          "quantity": "25–35"
+          "quantity": "30–42"
         },
         {
           "name": "Battlestaff",
@@ -435402,7 +435353,7 @@
         },
         {
           "name": "Clue scroll (elite)",
-          "rarity": "1/180",
+          "rarity": "1/150",
           "quantity": "1"
         }
       ],
@@ -438333,6 +438284,255 @@
     "is_members_only": true,
     "drops": {
       "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Veiled kraken",
+    "id": [
+      "15576"
+    ],
+    "combat_level": 210,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Dragon cannon barrel",
+          "rarity": "1/1,000",
+          "quantity": "1"
+        },
+        {
+          "name": "Dragon metal sheet",
+          "rarity": "1/1,150",
+          "quantity": "1–2"
+        },
+        {
+          "name": "Dragon keel parts",
+          "rarity": "1/1,850",
+          "quantity": "1"
+        },
+        {
+          "name": "Inky paint",
+          "rarity": "1/1,900",
+          "quantity": "1"
+        },
+        {
+          "name": "Large dragon keel parts",
+          "rarity": "1/2,100",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune cannonball",
+          "rarity": "10/272",
+          "quantity": "80–100"
+        },
+        {
+          "name": "Earth rune",
+          "rarity": "10/272",
+          "quantity": "500–750"
+        },
+        {
+          "name": "Water rune",
+          "rarity": "10/272",
+          "quantity": "500–750"
+        },
+        {
+          "name": "Death rune",
+          "rarity": "8/272",
+          "quantity": "50–75"
+        },
+        {
+          "name": "Blood rune",
+          "rarity": "5/272",
+          "quantity": "30–40"
+        },
+        {
+          "name": "Dragon cannonball",
+          "rarity": "3/272",
+          "quantity": "25–35"
+        },
+        {
+          "name": "Onyx bolts",
+          "rarity": "2/272",
+          "quantity": "10–20"
+        },
+        {
+          "name": "Earth battlestaff",
+          "rarity": "30/272",
+          "quantity": "1"
+        },
+        {
+          "name": "Mystic earth staff",
+          "rarity": "30/272",
+          "quantity": "1"
+        },
+        {
+          "name": "Water battlestaff",
+          "rarity": "30/272",
+          "quantity": "1"
+        },
+        {
+          "name": "Mystic water staff",
+          "rarity": "30/272",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune full helm",
+          "rarity": "20/272",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune platelegs",
+          "rarity": "20/272",
+          "quantity": "1"
+        },
+        {
+          "name": "Mystic hat",
+          "rarity": "3/272",
+          "quantity": "1"
+        },
+        {
+          "name": "Mystic gloves",
+          "rarity": "3/272",
+          "quantity": "1"
+        },
+        {
+          "name": "Mystic boots",
+          "rarity": "3/272",
+          "quantity": "1"
+        },
+        {
+          "name": "Grimy guam leaf",
+          "rarity": "1/120.9",
+          "quantity": "1"
+        },
+        {
+          "name": "Grimy marrentill",
+          "rarity": "1/161.2",
+          "quantity": "1"
+        },
+        {
+          "name": "Grimy tarromin",
+          "rarity": "1/214.9",
+          "quantity": "1"
+        },
+        {
+          "name": "Grimy harralander",
+          "rarity": "1/276.3",
+          "quantity": "1"
+        },
+        {
+          "name": "Grimy ranarr weed",
+          "rarity": "1/351.7",
+          "quantity": "1"
+        },
+        {
+          "name": "Grimy irit leaf",
+          "rarity": "1/483.6",
+          "quantity": "1"
+        },
+        {
+          "name": "Grimy avantoe",
+          "rarity": "1/644.7",
+          "quantity": "1"
+        },
+        {
+          "name": "Grimy kwuarm",
+          "rarity": "1/773.7",
+          "quantity": "1"
+        },
+        {
+          "name": "Grimy cadantine",
+          "rarity": "1/967.1",
+          "quantity": "1"
+        },
+        {
+          "name": "Grimy lantadyme",
+          "rarity": "1/1,289.5",
+          "quantity": "1"
+        },
+        {
+          "name": "Grimy dwarf weed",
+          "rarity": "1/1,289.5",
+          "quantity": "1"
+        },
+        {
+          "name": "Camphor seed",
+          "rarity": "1/181.3",
+          "quantity": "1"
+        },
+        {
+          "name": "Ironwood seed",
+          "rarity": "1/680",
+          "quantity": "1"
+        },
+        {
+          "name": "Rosewood seed",
+          "rarity": "1/2,720",
+          "quantity": "1"
+        },
+        {
+          "name": "Oyster pearls",
+          "rarity": "10/272",
+          "quantity": "1"
+        },
+        {
+          "name": "Ironwood repair kit",
+          "rarity": "5/272",
+          "quantity": "1"
+        },
+        {
+          "name": "Opulent salvage",
+          "rarity": "5/272",
+          "quantity": "1"
+        },
+        {
+          "name": "Giant seaweed",
+          "rarity": "5/272",
+          "quantity": "1"
+        },
+        {
+          "name": "Snake hide",
+          "rarity": "5/272",
+          "quantity": "1"
+        },
+        {
+          "name": "Raw bluefin",
+          "rarity": "5/272",
+          "quantity": "1"
+        },
+        {
+          "name": "Raw halibut",
+          "rarity": "5/272",
+          "quantity": "1"
+        },
+        {
+          "name": "Camphor plank",
+          "rarity": "3/272",
+          "quantity": "1"
+        },
+        {
+          "name": "Rosewood repair kit",
+          "rarity": "1/272",
+          "quantity": "1"
+        },
+        {
+          "name": "Veiled kraken ink sac",
+          "rarity": "1/10",
+          "quantity": "1"
+        },
+        {
+          "name": "Veiled kraken tentacle",
+          "rarity": "1/5",
+          "quantity": "1"
+        },
+        {
+          "name": "Clue scroll (elite)",
+          "rarity": "1/150",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   }
