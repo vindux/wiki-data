@@ -121512,7 +121512,7 @@
         {
           "name": "Feather",
           "rarity": "Always",
-          "quantity": "50–250"
+          "quantity": "3–242"
         }
       ],
       "rare_drop_table": []
@@ -154224,7 +154224,8 @@
   {
     "name": "Seagull",
     "id": [
-      "1339"
+      "1339",
+      "14938"
     ],
     "combat_level": 3,
     "slayer_level": 1,
@@ -201367,7 +201368,8 @@
     "name": "Yt-HurKot",
     "id": [
       "7701",
-      "7705"
+      "7705",
+      "10624"
     ],
     "combat_level": 141,
     "slayer_level": 1,
@@ -217055,6 +217057,54 @@
     "name": "Snake",
     "id": [
       "2845"
+    ],
+    "combat_level": 5,
+    "slayer_level": 1,
+    "is_members_only": false,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Snake spine",
+          "rarity": "1/4",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Snake",
+    "id": [
+      "14916"
+    ],
+    "combat_level": 5,
+    "slayer_level": 1,
+    "is_members_only": false,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Snake spine",
+          "rarity": "1/4",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Snake",
+    "id": [
+      "13002"
     ],
     "combat_level": 5,
     "slayer_level": 1,
@@ -314584,47 +314634,6 @@
     }
   },
   {
-    "name": "Hazeel Cultist",
-    "id": [
-      "1207",
-      "12048",
-      "12097"
-    ],
-    "combat_level": 13,
-    "slayer_level": 1,
-    "is_members_only": true,
-    "drops": {
-      "regular": [
-        {
-          "name": "Bones",
-          "rarity": "Always",
-          "quantity": "1"
-        }
-      ],
-      "rare_drop_table": []
-    }
-  },
-  {
-    "name": "Hazeel Cultist",
-    "id": [
-      "12096",
-      "12098"
-    ],
-    "combat_level": 13,
-    "slayer_level": 1,
-    "is_members_only": true,
-    "drops": {
-      "regular": [
-        {
-          "name": "Bones",
-          "rarity": "Always",
-          "quantity": "1"
-        }
-      ],
-      "rare_drop_table": []
-    }
-  },
-  {
     "name": "Abomination",
     "id": [
       "8260",
@@ -327249,17 +327258,17 @@
         },
         {
           "name": "Hydra's eye",
-          "rarity": "1/181",
+          "rarity": "1/181.1",
           "quantity": "1"
         },
         {
           "name": "Hydra's fang",
-          "rarity": "1/181",
+          "rarity": "1/181.1",
           "quantity": "1"
         },
         {
           "name": "Hydra's heart",
-          "rarity": "1/181",
+          "rarity": "1/181.1",
           "quantity": "1"
         },
         {
@@ -327715,17 +327724,17 @@
         },
         {
           "name": "Hydra's eye",
-          "rarity": "1/181",
+          "rarity": "1/181.1",
           "quantity": "1"
         },
         {
           "name": "Hydra's fang",
-          "rarity": "1/181",
+          "rarity": "1/181.1",
           "quantity": "1"
         },
         {
           "name": "Hydra's heart",
-          "rarity": "1/181",
+          "rarity": "1/181.1",
           "quantity": "1"
         },
         {
@@ -328181,17 +328190,17 @@
         },
         {
           "name": "Hydra's eye",
-          "rarity": "1/181",
+          "rarity": "1/181.1",
           "quantity": "1"
         },
         {
           "name": "Hydra's fang",
-          "rarity": "1/181",
+          "rarity": "1/181.1",
           "quantity": "1"
         },
         {
           "name": "Hydra's heart",
-          "rarity": "1/181",
+          "rarity": "1/181.1",
           "quantity": "1"
         },
         {
@@ -328647,17 +328656,17 @@
         },
         {
           "name": "Hydra's eye",
-          "rarity": "1/181",
+          "rarity": "1/181.1",
           "quantity": "1"
         },
         {
           "name": "Hydra's fang",
-          "rarity": "1/181",
+          "rarity": "1/181.1",
           "quantity": "1"
         },
         {
           "name": "Hydra's heart",
-          "rarity": "1/181",
+          "rarity": "1/181.1",
           "quantity": "1"
         },
         {
@@ -387361,25 +387370,6 @@
     }
   },
   {
-    "name": "Snake",
-    "id": [
-      "13002"
-    ],
-    "combat_level": 5,
-    "slayer_level": 1,
-    "is_members_only": true,
-    "drops": {
-      "regular": [
-        {
-          "name": "Bones",
-          "rarity": "Always",
-          "quantity": "1"
-        }
-      ],
-      "rare_drop_table": []
-    }
-  },
-  {
     "name": "Knight of Varlamore",
     "id": [
       "12916"
@@ -422590,84 +422580,6 @@
     }
   },
   {
-    "name": "Elder Hubber",
-    "id": [
-      "15003"
-    ],
-    "combat_level": null,
-    "slayer_level": 1,
-    "is_members_only": true,
-    "drops": {
-      "regular": [],
-      "rare_drop_table": []
-    }
-  },
-  {
-    "name": "Elder Hubber",
-    "id": [
-      "15004"
-    ],
-    "combat_level": null,
-    "slayer_level": 1,
-    "is_members_only": true,
-    "drops": {
-      "regular": [],
-      "rare_drop_table": []
-    }
-  },
-  {
-    "name": "Elder Hubber",
-    "id": [
-      "15005"
-    ],
-    "combat_level": null,
-    "slayer_level": 1,
-    "is_members_only": true,
-    "drops": {
-      "regular": [],
-      "rare_drop_table": []
-    }
-  },
-  {
-    "name": "Elder Root",
-    "id": [
-      "15006"
-    ],
-    "combat_level": null,
-    "slayer_level": 1,
-    "is_members_only": true,
-    "drops": {
-      "regular": [],
-      "rare_drop_table": []
-    }
-  },
-  {
-    "name": "Elder Root",
-    "id": [
-      "15007"
-    ],
-    "combat_level": 71,
-    "slayer_level": 1,
-    "is_members_only": true,
-    "drops": {
-      "regular": [],
-      "rare_drop_table": []
-    }
-  },
-  {
-    "name": "Elder Root",
-    "id": [
-      "15008"
-    ],
-    "combat_level": 71,
-    "slayer_level": 1,
-    "is_members_only": true,
-    "drops": {
-      "regular": [],
-      "rare_drop_table": []
-    }
-  },
-  {
     "name": "Hammerhead shark",
     "id": [
       "15196"
@@ -429605,6 +429517,19 @@
     }
   },
   {
+    "name": "Pirate captain",
+    "id": [
+      "15455"
+    ],
+    "combat_level": 67,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
     "name": "Elder aquanite",
     "id": [
       "15502"
@@ -430943,16 +430868,6 @@
         {
           "name": "Basket",
           "rarity": "3/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Clue scroll (elite)",
-          "rarity": "Always",
-          "quantity": "1"
-        },
-        {
-          "name": "Reward casket (elite)",
-          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -435008,7 +434923,7 @@
   {
     "name": "Praying mantis",
     "id": [
-      "15430"
+      "15431"
     ],
     "combat_level": 14,
     "slayer_level": 1,
@@ -435034,7 +434949,7 @@
   {
     "name": "Praying mantis",
     "id": [
-      "15431"
+      "15430"
     ],
     "combat_level": 14,
     "slayer_level": 1,
@@ -438533,6 +438448,30 @@
           "quantity": "1"
         }
       ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Pirate",
+    "id": [
+      "15456"
+    ],
+    "combat_level": 32,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Amoxliatl (Echo)",
+    "id": null,
+    "combat_level": null,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
       "rare_drop_table": []
     }
   }
