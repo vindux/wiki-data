@@ -171599,7 +171599,7 @@
     "weight": 0.05,
     "value": 145000,
     "high_alchemy_value": 87000,
-    "buy_limit": 0,
+    "buy_limit": 2,
     "examine": "A set containing a Torva full helm, Torva platebody and Torva platelegs.",
     "is_members_only": true
   },
@@ -176778,7 +176778,7 @@
     "weight": 0.05,
     "value": 145000,
     "high_alchemy_value": 87000,
-    "buy_limit": 0,
+    "buy_limit": 2,
     "examine": "A set containing a Blue moon helm, Blue moon chestplate, Blue moon tassets and Blue moon spear.",
     "is_members_only": true
   },
@@ -185630,7 +185630,7 @@
     "weight": 0.05,
     "value": 145000,
     "high_alchemy_value": 87000,
-    "buy_limit": 0,
+    "buy_limit": 2,
     "examine": "A set containing a Blood moon helm, Blood moon chestplate, Blood moon tassets and Dual macuahuitl.",
     "is_members_only": true
   },
@@ -186579,7 +186579,7 @@
     "weight": 0.028,
     "value": 52,
     "high_alchemy_value": 31,
-    "buy_limit": 0,
+    "buy_limit": 13000,
     "examine": "No elks were harmed in the making of this coral.",
     "is_members_only": true
   },
@@ -186904,7 +186904,7 @@
     "weight": 0.028,
     "value": 50,
     "high_alchemy_value": 30,
-    "buy_limit": 0,
+    "buy_limit": 13000,
     "examine": "A real community of the pillar.",
     "is_members_only": true
   },
@@ -187216,7 +187216,7 @@
     "weight": 0.3,
     "value": 2500,
     "high_alchemy_value": 1500,
-    "buy_limit": 0,
+    "buy_limit": 8,
     "examine": "Breath powered dart delivering system with a hint of rosewood.",
     "is_members_only": true
   },
@@ -196342,7 +196342,7 @@
     "weight": 0.3,
     "value": 2200,
     "high_alchemy_value": 1320,
-    "buy_limit": 0,
+    "buy_limit": 8,
     "examine": "Breath powered dart delivering system with a hint of camphor.",
     "is_members_only": true
   },
@@ -196368,7 +196368,7 @@
     "weight": 0.3,
     "value": 3600,
     "high_alchemy_value": 2160,
-    "buy_limit": 0,
+    "buy_limit": 8,
     "examine": "Breath powered dart delivering system with a hint of ironwood.",
     "is_members_only": true
   },
@@ -196862,7 +196862,7 @@
     "weight": 0.453,
     "value": 30,
     "high_alchemy_value": 18,
-    "buy_limit": 0,
+    "buy_limit": 13000,
     "examine": "I should use this with a spinning wheel.",
     "is_members_only": true
   },
@@ -200051,7 +200051,7 @@
     "weight": 0.05,
     "value": 145000,
     "high_alchemy_value": 87000,
-    "buy_limit": 0,
+    "buy_limit": 2,
     "examine": "A set containing a Virtus mask, Virtus robe top and Virtus robe bottom.",
     "is_members_only": true
   },
@@ -200064,7 +200064,7 @@
     "weight": 0.05,
     "value": 145000,
     "high_alchemy_value": 87000,
-    "buy_limit": 0,
+    "buy_limit": 2,
     "examine": "A set containing a Eclipse moon helm, Eclipse moon chestplate, Eclipse moon tassets and Eclipse atlatl.",
     "is_members_only": true
   },
@@ -200090,7 +200090,7 @@
     "weight": 0.05,
     "value": 145000,
     "high_alchemy_value": 87000,
-    "buy_limit": 0,
+    "buy_limit": 2,
     "examine": "A set containing a Skeletal helm, Skeletal top, Skeletal bottoms, Skeletal boots and Skeletal gloves.",
     "is_members_only": true
   },
@@ -200116,7 +200116,7 @@
     "weight": 0.05,
     "value": 145000,
     "high_alchemy_value": 87000,
-    "buy_limit": 0,
+    "buy_limit": 2,
     "examine": "A set containing a Swampbark helm, Swampbark body, Swampbark legs, Swampbark boots and Swampbark gloves.",
     "is_members_only": true
   },
@@ -200129,7 +200129,7 @@
     "weight": 0.05,
     "value": 145000,
     "high_alchemy_value": 87000,
-    "buy_limit": 0,
+    "buy_limit": 2,
     "examine": "A set containing a Bloodbark helm, Bloodbark body, Bloodbark legs, Bloodbark boots and Bloodbark gloves.",
     "is_members_only": true
   },
@@ -200793,7 +200793,7 @@
     "value": 40,
     "high_alchemy_value": 24,
     "buy_limit": 2000,
-    "examine": "1 dose of Armadyl brewn.",
+    "examine": "1 dose of Armadyl brew.",
     "is_members_only": true
   },
   {
@@ -202014,7 +202014,7 @@
     "weight": 1,
     "value": 1,
     "high_alchemy_value": 0,
-    "buy_limit": 0,
+    "buy_limit": 5,
     "examine": "An inky black paint. This might look good on a boat.",
     "is_members_only": true
   },
@@ -209052,7 +209052,7 @@
     "item_name": "Accursed sceptre (a) (beta)",
     "item_name_variant": "Accursed sceptre (a) (beta)#Charged",
     "item_id": [
-      "27679"
+      "beta27679"
     ],
     "weight": 0.198,
     "value": 120000,
@@ -210302,6 +210302,756 @@
   {
     "item_name": "Flask of fervour (item)",
     "item_name_variant": "Flask of fervour (item)",
+    "item_id": null,
+    "weight": 0,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": true
+  },
+  {
+    "item_name": "Searing boots",
+    "item_name_variant": "Searing boots",
+    "item_id": null,
+    "weight": 0,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": true
+  },
+  {
+    "item_name": "Dragon claws ornament kit (beta)",
+    "item_name_variant": "Dragon claws ornament kit (beta)",
+    "item_id": [
+      "beta26707"
+    ],
+    "weight": 0.5,
+    "value": 5000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Use on some dragon claws to make them look fancier!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Dragon warhammer ornament kit (beta)",
+    "item_name_variant": "Dragon warhammer ornament kit (beta)",
+    "item_id": [
+      "beta26709"
+    ],
+    "weight": 0.5,
+    "value": 5000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Use on a dragon warhammer to make it look fancier!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Heavy ballista ornament kit (beta)",
+    "item_name_variant": "Heavy ballista ornament kit (beta)",
+    "item_id": [
+      "beta26711"
+    ],
+    "weight": 0.5,
+    "value": 5000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Use on a heavy ballista to make it look fancier!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Armadyl armour ornament kit (beta)",
+    "item_name_variant": "Armadyl armour ornament kit (beta)",
+    "item_id": [
+      "beta26713"
+    ],
+    "weight": 0.5,
+    "value": 5000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Use on an armadyl armour piece to make it look fancier!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Bandos armour ornament kit (beta)",
+    "item_name_variant": "Bandos armour ornament kit (beta)",
+    "item_id": [
+      "beta26717"
+    ],
+    "weight": 0.5,
+    "value": 5000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Use on a bandos armour piece to make it look fancier!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Dragon claws (or) (beta)",
+    "item_name_variant": "Dragon claws (or) (beta)",
+    "item_id": [
+      "beta26708"
+    ],
+    "weight": 0.907,
+    "value": 205000,
+    "high_alchemy_value": 123000,
+    "buy_limit": 0,
+    "examine": "A set of pretty fighting claws.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Dragon warhammer (or) (beta)",
+    "item_name_variant": "Dragon warhammer (or) (beta)",
+    "item_id": [
+      "beta26710"
+    ],
+    "weight": 2,
+    "value": 120000,
+    "high_alchemy_value": 72000,
+    "buy_limit": 0,
+    "examine": "Spikey and stylish, close combat weapon.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Heavy ballista (or) (beta)",
+    "item_name_variant": "Heavy ballista (or) (beta)",
+    "item_id": [
+      "beta26712"
+    ],
+    "weight": 6,
+    "value": 950000,
+    "high_alchemy_value": 570000,
+    "buy_limit": 0,
+    "examine": "A powerful and good looking weapon forged from the wreckage of an airship.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Armadyl helmet (or) (beta)",
+    "item_name_variant": "Armadyl helmet (or) (beta)",
+    "item_id": [
+      "beta26714"
+    ],
+    "weight": 0.5,
+    "value": 289000,
+    "high_alchemy_value": 173400,
+    "buy_limit": 0,
+    "examine": "A helmet of great craftsmanship.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Centurion cuirass (beta)",
+    "item_name_variant": "Centurion cuirass (beta)#Broken",
+    "item_id": [
+      "beta26695"
+    ],
+    "weight": 6,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A chest piece worn by the mightiest warriors of the arena, but it's broken.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Centurion cuirass (beta)",
+    "item_name_variant": "Centurion cuirass (beta)#Locked",
+    "item_id": [
+      "beta26722"
+    ],
+    "weight": 6,
+    "value": 79006,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A chest piece worn by the mightiest warriors of the arena.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Centurion cuirass (beta)",
+    "item_name_variant": "Centurion cuirass (beta)#Normal",
+    "item_id": [
+      "beta26721"
+    ],
+    "weight": 6,
+    "value": 79006,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A chest piece worn by the mightiest warriors of the arena.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Aranea boots (Last Man Standing)",
+    "item_name_variant": "Aranea boots (Last Man Standing)",
+    "item_id": [
+      "33202"
+    ],
+    "weight": 1,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Boots that are surrounded with spider folicles. Great web resistance!",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Avernic treads (max) (Last Man Standing)",
+    "item_name_variant": "Avernic treads (max) (Last Man Standing)",
+    "item_id": [
+      "33172"
+    ],
+    "weight": 1.814,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A pair of boots with the power of Primordial, Pegasian and Eternal boots.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Bow of faerdhinen (c) (Last Man Standing)",
+    "item_name_variant": "Bow of faerdhinen (c) (Last Man Standing)",
+    "item_id": [
+      "27187"
+    ],
+    "weight": 1.5,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A magical elven bow, corrupted through the addition of too many shards.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Wristbands of the arena (beta)",
+    "item_name_variant": "Wristbands of the arena (beta)#Normal",
+    "item_id": [
+      "beta26723"
+    ],
+    "weight": 0.25,
+    "value": 85000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A pair of wristbands to protect your hands in combat.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wristbands of the arena (beta)",
+    "item_name_variant": "Wristbands of the arena (beta)#Charged",
+    "item_id": [
+      "beta26725"
+    ],
+    "weight": 0.25,
+    "value": 85001,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A pair of wristbands to protect your hands in combat.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wristbands of the arena (beta)",
+    "item_name_variant": "Wristbands of the arena (beta)#Locked",
+    "item_id": [
+      "beta26724"
+    ],
+    "weight": 0.25,
+    "value": 85002,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A pair of wristbands to protect your hands in combat.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wristbands of the arena (beta)",
+    "item_name_variant": "Wristbands of the arena (beta)#Charged and Locked",
+    "item_id": [
+      "beta26726"
+    ],
+    "weight": 0.25,
+    "value": 85008,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A pair of wristbands to protect your hands in combat.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wristbands of the arena (beta)",
+    "item_name_variant": "Wristbands of the arena (beta)#Broken",
+    "item_id": [
+      "beta26696"
+    ],
+    "weight": 0.25,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A pair of wristbands to protect your hands in combat, but they're broken.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Burning claws (Last Man Standing)",
+    "item_name_variant": "Burning claws (Last Man Standing)",
+    "item_id": [
+      "33200"
+    ],
+    "weight": 0.907,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Torn from the hands of ancient demons.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Crystal body (Last Man Standing)",
+    "item_name_variant": "Crystal body (Last Man Standing)",
+    "item_id": [
+      "33166"
+    ],
+    "weight": 2,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Sturdier than it looks.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Crystal helm (Last Man Standing)",
+    "item_name_variant": "Crystal helm (Last Man Standing)",
+    "item_id": [
+      "33170"
+    ],
+    "weight": 0.5,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This helmet shines bright, like a diamond.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Crystal legs (Last Man Standing)",
+    "item_name_variant": "Crystal legs (Last Man Standing)",
+    "item_id": [
+      "33168"
+    ],
+    "weight": 1,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A bright, shiny set of leg armour.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Wristbands of the arena (i) (beta)",
+    "item_name_variant": "Wristbands of the arena (i) (beta)#Normal",
+    "item_id": [
+      "beta26727"
+    ],
+    "weight": 0.25,
+    "value": 86000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A pair of imbued wristbands to protect your hands in combat.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wristbands of the arena (i) (beta)",
+    "item_name_variant": "Wristbands of the arena (i) (beta)#Charged",
+    "item_id": [
+      "beta26729"
+    ],
+    "weight": 0.25,
+    "value": 86001,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A pair of imbued wristbands to protect your hands in combat.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wristbands of the arena (i) (beta)",
+    "item_name_variant": "Wristbands of the arena (i) (beta)#Locked",
+    "item_id": [
+      "beta26728"
+    ],
+    "weight": 0.25,
+    "value": 86002,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A pair of imbued wristbands to protect your hands in combat.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wristbands of the arena (i) (beta)",
+    "item_name_variant": "Wristbands of the arena (i) (beta)#Charged and Locked",
+    "item_id": [
+      "beta26730"
+    ],
+    "weight": 0.25,
+    "value": 86003,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A pair of imbued wristbands to protect your hands in combat.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wristbands of the arena (i) (beta)",
+    "item_name_variant": "Wristbands of the arena (i) (beta)#Broken",
+    "item_id": [
+      "beta26697"
+    ],
+    "weight": 0.25,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A pair of hardened wristbands to protect your hands in combat, but they're broken.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Dragonfire shield (Last Man Standing)",
+    "item_name_variant": "Dragonfire shield (Last Man Standing)",
+    "item_id": [
+      "33186"
+    ],
+    "weight": 7.257,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A heavy shield with a snarling, draconic visage.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Elidinis' ward (f) (Last Man Standing)",
+    "item_name_variant": "Elidinis' ward (f) (Last Man Standing)",
+    "item_id": [
+      "33176"
+    ],
+    "weight": 3.708,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A fortified ward once used by Elidinis herself.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Magus ring (Last Man Standing)",
+    "item_name_variant": "Magus ring (Last Man Standing)",
+    "item_id": [
+      "33180"
+    ],
+    "weight": 0.012,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "An occult ring that grants immense magical power.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Masori body (f) (Last Man Standing)",
+    "item_name_variant": "Masori body (f) (Last Man Standing)",
+    "item_id": [
+      "33190"
+    ],
+    "weight": 10,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Fortified armour once worn by a powerful ranger.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Masori chaps (f) (Last Man Standing)",
+    "item_name_variant": "Masori chaps (f) (Last Man Standing)",
+    "item_id": [
+      "33192"
+    ],
+    "weight": 8.5,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Fortified armour once worn by a powerful ranger.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Noxious halberd (Last Man Standing)",
+    "item_name_variant": "Noxious halberd (Last Man Standing)",
+    "item_id": [
+      "33178"
+    ],
+    "weight": 2.721,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A venomous halberd created from the parts of an araxyte.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Osmumten's fang (Last Man Standing)",
+    "item_name_variant": "Osmumten's fang (Last Man Standing)",
+    "item_id": [
+      "33174"
+    ],
+    "weight": 1.814,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A deadly sword created long ago.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Purging staff (Last Man Standing)",
+    "item_name_variant": "Purging staff (Last Man Standing)",
+    "item_id": [
+      "33184"
+    ],
+    "weight": 2.721,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Fire and lightning sizzle in the brazier.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Torva platelegs (Last Man Standing)",
+    "item_name_variant": "Torva platelegs (Last Man Standing)",
+    "item_id": [
+      "33194"
+    ],
+    "weight": 9.071,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "An ancient warrior's platelegs.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Twisted buckler (Last Man Standing)",
+    "item_name_variant": "Twisted buckler (Last Man Standing)",
+    "item_id": [
+      "33188"
+    ],
+    "weight": 5.443,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A buckler carved from the twisted remains of the Great Olm.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Ultor ring (Last Man Standing)",
+    "item_name_variant": "Ultor ring (Last Man Standing)",
+    "item_id": [
+      "33188"
+    ],
+    "weight": 5.443,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A buckler carved from the twisted remains of the Great Olm.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Virtus robe bottom (Last Man Standing)",
+    "item_name_variant": "Virtus robe bottom (Last Man Standing)",
+    "item_id": [
+      "33198"
+    ],
+    "weight": 3.79,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "An ancient mage's robe bottom.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Virtus robe top (Last Man Standing)",
+    "item_name_variant": "Virtus robe top (Last Man Standing)",
+    "item_id": [
+      "33196"
+    ],
+    "weight": 2.895,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "An ancient mage's robe top.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Dynamite(p) (beta)",
+    "item_name_variant": "Dynamite(p) (beta)",
+    "item_id": [
+      "beta27426"
+    ],
+    "weight": 1.36,
+    "value": 100,
+    "high_alchemy_value": 60,
+    "buy_limit": 0,
+    "examine": "A pot of Poison dynamite, with a fuse ready to light.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Dark bow (bh) (beta)",
+    "item_name_variant": "Dark bow (bh) (beta)",
+    "item_id": [
+      "beta27853"
+    ],
+    "weight": 1.814,
+    "value": 120002,
+    "high_alchemy_value": 72001,
+    "buy_limit": 0,
+    "examine": "A bow from a darker dimension.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Barrelchest anchor (bh) (beta)",
+    "item_name_variant": "Barrelchest anchor (bh) (beta)",
+    "item_id": [
+      "beta27855"
+    ],
+    "weight": 30,
+    "value": 230000,
+    "high_alchemy_value": 138000,
+    "buy_limit": 0,
+    "examine": "This is likely to put my back out...",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Dragon longsword (bh) (beta)",
+    "item_name_variant": "Dragon longsword (bh) (beta)",
+    "item_id": [
+      "beta27859"
+    ],
+    "weight": 1.814,
+    "value": 100000,
+    "high_alchemy_value": 60000,
+    "buy_limit": 0,
+    "examine": "A very powerful sword.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Dragon mace (bh) (beta)",
+    "item_name_variant": "Dragon mace (bh) (beta)",
+    "item_id": [
+      "beta27857"
+    ],
+    "weight": 1.814,
+    "value": 50000,
+    "high_alchemy_value": 30000,
+    "buy_limit": 0,
+    "examine": "A spiky mace.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Abyssal dagger (bh) (beta)",
+    "item_name_variant": "Abyssal dagger (bh) (beta)#Unpoisoned",
+    "item_id": [
+      "beta27861"
+    ],
+    "weight": 0.453,
+    "value": 115001,
+    "high_alchemy_value": 69000,
+    "buy_limit": 0,
+    "examine": "Something sharp from the body of a defeated Abyssal Sire.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Abyssal dagger (bh) (beta)",
+    "item_name_variant": "Abyssal dagger (bh) (beta)#Poison",
+    "item_id": [
+      "beta27863"
+    ],
+    "weight": 0.453,
+    "value": 115002,
+    "high_alchemy_value": 69001,
+    "buy_limit": 0,
+    "examine": "Something sharp and poisonous from the body of a defeated Abyssal Sire.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Abyssal dagger (bh) (beta)",
+    "item_name_variant": "Abyssal dagger (bh) (beta)#Poison++",
+    "item_id": [
+      "beta27867"
+    ],
+    "weight": 0.453,
+    "value": 115004,
+    "high_alchemy_value": 69002,
+    "buy_limit": 0,
+    "examine": "Something sharp and extremely poisonous from the body of a defeated Abyssal Sire.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Abyssal dagger (bh) (beta)",
+    "item_name_variant": "Abyssal dagger (bh) (beta)#Poison+",
+    "item_id": [
+      "beta27865"
+    ],
+    "weight": 0.453,
+    "value": 115003,
+    "high_alchemy_value": 69001,
+    "buy_limit": 0,
+    "examine": "Something sharp and very poisonous from the body of a defeated Abyssal Sire.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Armadyl chestplate (or) (beta)",
+    "item_name_variant": "Armadyl chestplate (or) (beta)",
+    "item_id": [
+      "beta26715"
+    ],
+    "weight": 4,
+    "value": 290000,
+    "high_alchemy_value": 174000,
+    "buy_limit": 0,
+    "examine": "Armour of great craftsmanship.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Armadyl chainskirt (or) (beta)",
+    "item_name_variant": "Armadyl chainskirt (or) (beta)",
+    "item_id": [
+      "beta26716"
+    ],
+    "weight": 1,
+    "value": 289900,
+    "high_alchemy_value": 173940,
+    "buy_limit": 0,
+    "examine": "A chainskirt of great craftsmanship.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Bandos chestplate (or) (beta)",
+    "item_name_variant": "Bandos chestplate (or) (beta)",
+    "item_id": [
+      "beta26718"
+    ],
+    "weight": 12,
+    "value": 290010,
+    "high_alchemy_value": 174006,
+    "buy_limit": 0,
+    "examine": "A sturdy chestplate.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Bandos tassets (or) (beta)",
+    "item_name_variant": "Bandos tassets (or) (beta)",
+    "item_id": [
+      "beta26719"
+    ],
+    "weight": 8,
+    "value": 289910,
+    "high_alchemy_value": 173946,
+    "buy_limit": 0,
+    "examine": "A sturdy pair of tassets.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Bandos boots (or) (beta)",
+    "item_name_variant": "Bandos boots (or) (beta)",
+    "item_id": [
+      "beta26720"
+    ],
+    "weight": 6,
+    "value": 289010,
+    "high_alchemy_value": 173406,
+    "buy_limit": 0,
+    "examine": "Some sturdy boots.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Map of alacrity (item)",
+    "item_name_variant": "Map of alacrity (item)",
     "item_id": null,
     "weight": 0,
     "value": 0,

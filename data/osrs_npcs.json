@@ -31848,7 +31848,7 @@
     "attack_speed": 4,
     "attribute": [],
     "max_hit": [
-      "115% of targeted player's max hit'\"`UNIQ--ref-00000002-QINU`\"'"
+      "115% of targeted player's max hit'\"`UNIQ--ref-0000004A-QINU`\"'"
     ],
     "attack_style": [
       "Slash"
@@ -63356,15 +63356,15 @@
     "page_name": "Rock Golem (monster)",
     "name": "Rock Golem",
     "id": [
-      "6728"
+      "6729"
     ],
-    "combat_level": 79,
-    "hitpoints": 85,
-    "attack_level": 65,
-    "strength_level": 65,
-    "defence_level": 65,
+    "combat_level": 115,
+    "hitpoints": 100,
+    "attack_level": 100,
+    "strength_level": 100,
+    "defence_level": 100,
     "magic_level": 1,
-    "ranged_level": 70,
+    "ranged_level": 75,
     "attack_bonus": 0,
     "strength_bonus": 0,
     "magic_attack_bonus": 0,
@@ -63387,6 +63387,108 @@
     ],
     "max_hit": [
       "8"
+    ],
+    "attack_style": [
+      "Ranged"
+    ],
+    "experience_bonus": -97.5,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 1,
+    "examine": "Rock with attitude.",
+    "poison_immune": "Not immune",
+    "venom_immune": "Not immune",
+    "thrall_immune": "Not immune",
+    "cannon_immune": "Not immune",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Rock Golem (monster)",
+    "name": "Rock Golem",
+    "id": [
+      "6726"
+    ],
+    "combat_level": 27,
+    "hitpoints": 30,
+    "attack_level": 22,
+    "strength_level": 22,
+    "defence_level": 22,
+    "magic_level": 1,
+    "ranged_level": 20,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "Earth",
+    "elemental_weakness_percent": 40,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 1,
+    "attack_speed": 4,
+    "attribute": [
+      "golem"
+    ],
+    "max_hit": [
+      "3"
+    ],
+    "attack_style": [
+      "Ranged"
+    ],
+    "experience_bonus": -97.5,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 1,
+    "examine": "Rock with attitude.",
+    "poison_immune": "Not immune",
+    "venom_immune": "Not immune",
+    "thrall_immune": "Not immune",
+    "cannon_immune": "Not immune",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Rock Golem (monster)",
+    "name": "Rock Golem",
+    "id": [
+      "6727"
+    ],
+    "combat_level": 46,
+    "hitpoints": 50,
+    "attack_level": 38,
+    "strength_level": 38,
+    "defence_level": 38,
+    "magic_level": 1,
+    "ranged_level": 35,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "Earth",
+    "elemental_weakness_percent": 40,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 1,
+    "attack_speed": 4,
+    "attribute": [
+      "golem"
+    ],
+    "max_hit": [
+      "4"
     ],
     "attack_style": [
       "Ranged"
@@ -63458,15 +63560,15 @@
     "page_name": "Rock Golem (monster)",
     "name": "Rock Golem",
     "id": [
-      "6726"
+      "6728"
     ],
-    "combat_level": 29,
-    "hitpoints": 40,
-    "attack_level": 22,
-    "strength_level": 22,
-    "defence_level": 22,
+    "combat_level": 76,
+    "hitpoints": 70,
+    "attack_level": 65,
+    "strength_level": 65,
+    "defence_level": 65,
     "magic_level": 1,
-    "ranged_level": 20,
+    "ranged_level": 70,
     "attack_bonus": 0,
     "strength_bonus": 0,
     "magic_attack_bonus": 0,
@@ -63482,109 +63584,7 @@
     "light_range_defence_bonus": 0,
     "standard_range_defence_bonus": 0,
     "heavy_range_defence_bonus": 0,
-    "flat_armour": 2,
-    "attack_speed": 4,
-    "attribute": [
-      "golem"
-    ],
-    "max_hit": [
-      "3"
-    ],
-    "attack_style": [
-      "Ranged"
-    ],
-    "experience_bonus": -97.5,
-    "is_members_only": true,
-    "slayer_level": 1,
-    "slayer_experience": 0,
-    "size": 1,
-    "examine": "Rock with attitude.",
-    "poison_immune": "Not immune",
-    "venom_immune": "Not immune",
-    "thrall_immune": "Not immune",
-    "cannon_immune": "Not immune",
-    "burn_immune": "unknown"
-  },
-  {
-    "page_name": "Rock Golem (monster)",
-    "name": "Rock Golem",
-    "id": [
-      "6725"
-    ],
-    "combat_level": 14,
-    "hitpoints": 25,
-    "attack_level": 9,
-    "strength_level": 9,
-    "defence_level": 9,
-    "magic_level": 1,
-    "ranged_level": 8,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 0,
-    "magic_damage_bonus": 0,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 0,
-    "slash_defence_bonus": 0,
-    "crush_defence_bonus": 0,
-    "magic_defence_bonus": 0,
-    "elemental_weakness": "Earth",
-    "elemental_weakness_percent": 40,
-    "light_range_defence_bonus": 0,
-    "standard_range_defence_bonus": 0,
-    "heavy_range_defence_bonus": 0,
-    "flat_armour": 2,
-    "attack_speed": 4,
-    "attribute": [
-      "golem"
-    ],
-    "max_hit": [
-      "2"
-    ],
-    "attack_style": [
-      "Ranged"
-    ],
-    "experience_bonus": -97.5,
-    "is_members_only": true,
-    "slayer_level": 1,
-    "slayer_experience": 0,
-    "size": 1,
-    "examine": "Rock with attitude.",
-    "poison_immune": "Not immune",
-    "venom_immune": "Not immune",
-    "thrall_immune": "Not immune",
-    "cannon_immune": "Not immune",
-    "burn_immune": "unknown"
-  },
-  {
-    "page_name": "Rock Golem (monster)",
-    "name": "Rock Golem",
-    "id": [
-      "6729"
-    ],
-    "combat_level": 120,
-    "hitpoints": 120,
-    "attack_level": 100,
-    "strength_level": 100,
-    "defence_level": 100,
-    "magic_level": 1,
-    "ranged_level": 75,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 0,
-    "magic_damage_bonus": 0,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 0,
-    "slash_defence_bonus": 0,
-    "crush_defence_bonus": 0,
-    "magic_defence_bonus": 0,
-    "elemental_weakness": "Earth",
-    "elemental_weakness_percent": 40,
-    "light_range_defence_bonus": 0,
-    "standard_range_defence_bonus": 0,
-    "heavy_range_defence_bonus": 0,
-    "flat_armour": 2,
+    "flat_armour": 1,
     "attack_speed": 4,
     "attribute": [
       "golem"
@@ -63611,15 +63611,15 @@
     "page_name": "Rock Golem (monster)",
     "name": "Rock Golem",
     "id": [
-      "6727"
+      "6725"
     ],
-    "combat_level": 49,
-    "hitpoints": 60,
-    "attack_level": 38,
-    "strength_level": 38,
-    "defence_level": 38,
+    "combat_level": 13,
+    "hitpoints": 20,
+    "attack_level": 9,
+    "strength_level": 9,
+    "defence_level": 9,
     "magic_level": 1,
-    "ranged_level": 35,
+    "ranged_level": 8,
     "attack_bonus": 0,
     "strength_bonus": 0,
     "magic_attack_bonus": 0,
@@ -63635,13 +63635,13 @@
     "light_range_defence_bonus": 0,
     "standard_range_defence_bonus": 0,
     "heavy_range_defence_bonus": 0,
-    "flat_armour": 2,
+    "flat_armour": 1,
     "attack_speed": 4,
     "attribute": [
       "golem"
     ],
     "max_hit": [
-      "4"
+      "2"
     ],
     "attack_style": [
       "Ranged"
@@ -72243,7 +72243,7 @@
     "slayer_level": 85,
     "slayer_experience": 50,
     "size": 2,
-    "examine": "'\"`UNIQ--nowiki-00000113-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
+    "examine": "'\"`UNIQ--nowiki-00000078-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
     "poison_immune": "Immune",
     "venom_immune": "Immune",
     "thrall_immune": "Not immune",
@@ -77930,7 +77930,9 @@
     "heavy_range_defence_bonus": 0,
     "flat_armour": 0,
     "attack_speed": 5,
-    "attribute": [],
+    "attribute": [
+      "flying"
+    ],
     "max_hit": [
       "1"
     ],
@@ -79619,7 +79621,7 @@
     "standard_range_defence_bonus": 130,
     "heavy_range_defence_bonus": 130,
     "flat_armour": 0,
-    "attack_speed": 6,
+    "attack_speed": 0,
     "attribute": [
       "demon"
     ],
@@ -87409,7 +87411,7 @@
     "attack_speed": 10,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-00000057-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-00000047-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -87459,7 +87461,7 @@
     "attack_speed": 7,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-00000057-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-00000047-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -89588,7 +89590,7 @@
       "15 (melee) 33 (special attack)"
     ],
     "attack_style": [
-      "Slash '\"`UNIQ--ref-00000153-QINU`\"'"
+      "Slash '\"`UNIQ--ref-000000D0-QINU`\"'"
     ],
     "experience_bonus": 0,
     "is_members_only": true,
@@ -111103,7 +111105,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "30-37 (Melee)'\"`UNIQ--ref-00000084-QINU`\"'",
+      "30-37 (Melee)'\"`UNIQ--ref-0000004E-QINU`\"'",
       "?? (axes)"
     ],
     "attack_style": [
@@ -111154,7 +111156,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "46-61 (Melee)'\"`UNIQ--ref-00000083-QINU`\"'",
+      "46-61 (Melee)'\"`UNIQ--ref-0000004D-QINU`\"'",
       "96 (axes)"
     ],
     "attack_style": [
@@ -111205,7 +111207,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "32-43 (Melee)'\"`UNIQ--ref-00000082-QINU`\"'",
+      "32-43 (Melee)'\"`UNIQ--ref-0000004C-QINU`\"'",
       "35 (axes)"
     ],
     "attack_style": [
@@ -111229,8 +111231,8 @@
     "id": [
       "15224"
     ],
-    "combat_level": 121,
-    "hitpoints": 179,
+    "combat_level": 110,
+    "hitpoints": 135,
     "attack_level": 100,
     "strength_level": 90,
     "defence_level": 60,
@@ -130152,7 +130154,7 @@
     ],
     "attack_style": [
       "Crush",
-      "'\"`UNIQ--ref-00000031-QINU`\"' Magic",
+      "'\"`UNIQ--ref-00000020-QINU`\"' Magic",
       "Ranged"
     ],
     "experience_bonus": 67.5,
@@ -130222,8 +130224,8 @@
     "id": [
       "15218"
     ],
-    "combat_level": 98,
-    "hitpoints": 128,
+    "combat_level": 92,
+    "hitpoints": 106,
     "attack_level": 130,
     "strength_level": 55,
     "defence_level": 25,
@@ -145687,7 +145689,7 @@
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 1,
-    "examine": "'\"`UNIQ--nowiki-000000C1-QINU`\"'whispers*The seas are not lackin' kraken.",
+    "examine": "'\"`UNIQ--nowiki-000000BA-QINU`\"'whispers*The seas are not lackin' kraken.",
     "poison_immune": "Not immune",
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
@@ -145700,8 +145702,8 @@
     "id": [
       "15206"
     ],
-    "combat_level": 100,
-    "hitpoints": 177,
+    "combat_level": 93,
+    "hitpoints": 150,
     "attack_level": 1,
     "strength_level": 1,
     "defence_level": 50,
@@ -152076,8 +152078,8 @@
     "id": [
       "15196"
     ],
-    "combat_level": 91,
-    "hitpoints": 128,
+    "combat_level": 90,
+    "hitpoints": 125,
     "attack_level": 80,
     "strength_level": 65,
     "defence_level": 50,
@@ -154417,8 +154419,8 @@
     "id": [
       "15222"
     ],
-    "combat_level": 74,
-    "hitpoints": 114,
+    "combat_level": 63,
+    "hitpoints": 72,
     "attack_level": 60,
     "strength_level": 50,
     "defence_level": 40,
@@ -154466,8 +154468,8 @@
     "id": [
       "15226"
     ],
-    "combat_level": 89,
-    "hitpoints": 121,
+    "combat_level": 78,
+    "hitpoints": 79,
     "attack_level": 80,
     "strength_level": 70,
     "defence_level": 40,
@@ -154707,8 +154709,8 @@
     "id": [
       "15234"
     ],
-    "combat_level": 29,
-    "hitpoints": 74,
+    "combat_level": 22,
+    "hitpoints": 45,
     "attack_level": 25,
     "strength_level": 10,
     "defence_level": 0,
@@ -155397,8 +155399,8 @@
     "id": [
       "15194"
     ],
-    "combat_level": 77,
-    "hitpoints": 128,
+    "combat_level": 65,
+    "hitpoints": 81,
     "attack_level": 80,
     "strength_level": 45,
     "defence_level": 20,
@@ -155446,8 +155448,8 @@
     "id": [
       "15202"
     ],
-    "combat_level": 119,
-    "hitpoints": 220,
+    "combat_level": 111,
+    "hitpoints": 187,
     "attack_level": 95,
     "strength_level": 65,
     "defence_level": 50,
@@ -155495,8 +155497,8 @@
     "id": [
       "15228"
     ],
-    "combat_level": 26,
-    "hitpoints": 46,
+    "combat_level": 20,
+    "hitpoints": 22,
     "attack_level": 25,
     "strength_level": 20,
     "defence_level": 0,
@@ -155741,8 +155743,8 @@
       "15230",
       "15232"
     ],
-    "combat_level": 61,
-    "hitpoints": 87,
+    "combat_level": 54,
+    "hitpoints": 59,
     "attack_level": 40,
     "strength_level": 50,
     "defence_level": 40,
@@ -155986,8 +155988,8 @@
     "id": [
       "15216"
     ],
-    "combat_level": 72,
-    "hitpoints": 101,
+    "combat_level": 68,
+    "hitpoints": 83,
     "attack_level": 100,
     "strength_level": 35,
     "defence_level": 15,
@@ -156276,8 +156278,8 @@
     "id": [
       "15214"
     ],
-    "combat_level": 49,
-    "hitpoints": 74,
+    "combat_level": 44,
+    "hitpoints": 55,
     "attack_level": 70,
     "strength_level": 1,
     "defence_level": 0,
@@ -156701,8 +156703,8 @@
     "id": [
       "15220"
     ],
-    "combat_level": 141,
-    "hitpoints": 225,
+    "combat_level": 133,
+    "hitpoints": 194,
     "attack_level": 155,
     "strength_level": 75,
     "defence_level": 40,

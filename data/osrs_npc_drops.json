@@ -229219,9 +229219,409 @@
   {
     "name": "Rock Golem",
     "id": [
-      "6728"
+      "6729"
     ],
-    "combat_level": 79,
+    "combat_level": 115,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Earth rune",
+          "rarity": "30/78",
+          "quantity": "5"
+        },
+        {
+          "name": "Earth rune",
+          "rarity": "4/78",
+          "quantity": "42"
+        },
+        {
+          "name": "Chaos rune",
+          "rarity": "4/78",
+          "quantity": "2"
+        },
+        {
+          "name": "Bronze bar",
+          "rarity": "7/78",
+          "quantity": "1"
+        },
+        {
+          "name": "Iron ore",
+          "rarity": "4/78",
+          "quantity": "1"
+        },
+        {
+          "name": "Tin ore",
+          "rarity": "3/78",
+          "quantity": "1"
+        },
+        {
+          "name": "Copper ore",
+          "rarity": "3/78",
+          "quantity": "1"
+        },
+        {
+          "name": "Hammer",
+          "rarity": "10/78",
+          "quantity": "1"
+        },
+        {
+          "name": "Dwarven stout",
+          "rarity": "13/78",
+          "quantity": "1"
+        },
+        {
+          "name": "Bronze pickaxe",
+          "rarity": "4/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Adamant pickaxe",
+          "rarity": "1/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune pickaxe",
+          "rarity": "1/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Earth rune",
+          "rarity": "30/128",
+          "quantity": "5"
+        },
+        {
+          "name": "Earth rune",
+          "rarity": "4/128",
+          "quantity": "42"
+        },
+        {
+          "name": "Chaos rune",
+          "rarity": "4/128",
+          "quantity": "2"
+        },
+        {
+          "name": "Bronze bar",
+          "rarity": "7/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Iron bar",
+          "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Tin ore",
+          "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Copper ore",
+          "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Coal",
+          "rarity": "25/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Iron ore",
+          "rarity": "4/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Mithril ore",
+          "rarity": "10/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Adamantite ore",
+          "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Runite ore",
+          "rarity": "1/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Hammer",
+          "rarity": "10/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Dwarven stout",
+          "rarity": "13/128",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": [
+        {
+          "name": "Uncut sapphire",
+          "rarity": "1/256",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut emerald",
+          "rarity": "1/512",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut ruby",
+          "rarity": "1/1,024",
+          "quantity": "1"
+        },
+        {
+          "name": "Nature talisman",
+          "rarity": "1/2,730.67",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut diamond",
+          "rarity": "1/4,096",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune javelin",
+          "rarity": "1/8,192",
+          "quantity": "5"
+        },
+        {
+          "name": "Loop half of key",
+          "rarity": "1/8,192",
+          "quantity": "1"
+        },
+        {
+          "name": "Tooth half of key",
+          "rarity": "1/8,192",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune spear",
+          "rarity": "1/131,072",
+          "quantity": "1"
+        },
+        {
+          "name": "Shield left half",
+          "rarity": "1/262,144",
+          "quantity": "1"
+        },
+        {
+          "name": "Dragon spear",
+          "rarity": "1/349,525.33",
+          "quantity": "1"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Rock Golem",
+    "id": [
+      "6726"
+    ],
+    "combat_level": 27,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Earth rune",
+          "rarity": "30/78",
+          "quantity": "5"
+        },
+        {
+          "name": "Earth rune",
+          "rarity": "4/78",
+          "quantity": "42"
+        },
+        {
+          "name": "Chaos rune",
+          "rarity": "4/78",
+          "quantity": "2"
+        },
+        {
+          "name": "Bronze bar",
+          "rarity": "7/78",
+          "quantity": "1"
+        },
+        {
+          "name": "Iron ore",
+          "rarity": "4/78",
+          "quantity": "1"
+        },
+        {
+          "name": "Tin ore",
+          "rarity": "3/78",
+          "quantity": "1"
+        },
+        {
+          "name": "Copper ore",
+          "rarity": "3/78",
+          "quantity": "1"
+        },
+        {
+          "name": "Hammer",
+          "rarity": "10/78",
+          "quantity": "1"
+        },
+        {
+          "name": "Dwarven stout",
+          "rarity": "13/78",
+          "quantity": "1"
+        },
+        {
+          "name": "Bronze pickaxe",
+          "rarity": "4/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Adamant pickaxe",
+          "rarity": "1/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune pickaxe",
+          "rarity": "1/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Earth rune",
+          "rarity": "30/128",
+          "quantity": "5"
+        },
+        {
+          "name": "Earth rune",
+          "rarity": "4/128",
+          "quantity": "42"
+        },
+        {
+          "name": "Chaos rune",
+          "rarity": "4/128",
+          "quantity": "2"
+        },
+        {
+          "name": "Bronze bar",
+          "rarity": "7/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Iron bar",
+          "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Tin ore",
+          "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Copper ore",
+          "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Coal",
+          "rarity": "25/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Iron ore",
+          "rarity": "4/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Mithril ore",
+          "rarity": "10/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Adamantite ore",
+          "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Runite ore",
+          "rarity": "1/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Hammer",
+          "rarity": "10/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Dwarven stout",
+          "rarity": "13/128",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": [
+        {
+          "name": "Uncut sapphire",
+          "rarity": "1/256",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut emerald",
+          "rarity": "1/512",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut ruby",
+          "rarity": "1/1,024",
+          "quantity": "1"
+        },
+        {
+          "name": "Nature talisman",
+          "rarity": "1/2,730.67",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut diamond",
+          "rarity": "1/4,096",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune javelin",
+          "rarity": "1/8,192",
+          "quantity": "5"
+        },
+        {
+          "name": "Loop half of key",
+          "rarity": "1/8,192",
+          "quantity": "1"
+        },
+        {
+          "name": "Tooth half of key",
+          "rarity": "1/8,192",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune spear",
+          "rarity": "1/131,072",
+          "quantity": "1"
+        },
+        {
+          "name": "Shield left half",
+          "rarity": "1/262,144",
+          "quantity": "1"
+        },
+        {
+          "name": "Dragon spear",
+          "rarity": "1/349,525.33",
+          "quantity": "1"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Rock Golem",
+    "id": [
+      "6727"
+    ],
+    "combat_level": 46,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -229619,9 +230019,9 @@
   {
     "name": "Rock Golem",
     "id": [
-      "6726"
+      "6728"
     ],
-    "combat_level": 29,
+    "combat_level": 76,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -229821,407 +230221,7 @@
     "id": [
       "6725"
     ],
-    "combat_level": 14,
-    "slayer_level": 1,
-    "is_members_only": true,
-    "drops": {
-      "regular": [
-        {
-          "name": "Earth rune",
-          "rarity": "30/78",
-          "quantity": "5"
-        },
-        {
-          "name": "Earth rune",
-          "rarity": "4/78",
-          "quantity": "42"
-        },
-        {
-          "name": "Chaos rune",
-          "rarity": "4/78",
-          "quantity": "2"
-        },
-        {
-          "name": "Bronze bar",
-          "rarity": "7/78",
-          "quantity": "1"
-        },
-        {
-          "name": "Iron ore",
-          "rarity": "4/78",
-          "quantity": "1"
-        },
-        {
-          "name": "Tin ore",
-          "rarity": "3/78",
-          "quantity": "1"
-        },
-        {
-          "name": "Copper ore",
-          "rarity": "3/78",
-          "quantity": "1"
-        },
-        {
-          "name": "Hammer",
-          "rarity": "10/78",
-          "quantity": "1"
-        },
-        {
-          "name": "Dwarven stout",
-          "rarity": "13/78",
-          "quantity": "1"
-        },
-        {
-          "name": "Bronze pickaxe",
-          "rarity": "4/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Adamant pickaxe",
-          "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Rune pickaxe",
-          "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Earth rune",
-          "rarity": "30/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Earth rune",
-          "rarity": "4/128",
-          "quantity": "42"
-        },
-        {
-          "name": "Chaos rune",
-          "rarity": "4/128",
-          "quantity": "2"
-        },
-        {
-          "name": "Bronze bar",
-          "rarity": "7/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Iron bar",
-          "rarity": "3/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Tin ore",
-          "rarity": "3/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Copper ore",
-          "rarity": "3/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Coal",
-          "rarity": "25/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Iron ore",
-          "rarity": "4/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Mithril ore",
-          "rarity": "10/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Adamantite ore",
-          "rarity": "3/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Runite ore",
-          "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Hammer",
-          "rarity": "10/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Dwarven stout",
-          "rarity": "13/128",
-          "quantity": "1"
-        }
-      ],
-      "rare_drop_table": [
-        {
-          "name": "Uncut sapphire",
-          "rarity": "1/256",
-          "quantity": "1"
-        },
-        {
-          "name": "Uncut emerald",
-          "rarity": "1/512",
-          "quantity": "1"
-        },
-        {
-          "name": "Uncut ruby",
-          "rarity": "1/1,024",
-          "quantity": "1"
-        },
-        {
-          "name": "Nature talisman",
-          "rarity": "1/2,730.67",
-          "quantity": "1"
-        },
-        {
-          "name": "Uncut diamond",
-          "rarity": "1/4,096",
-          "quantity": "1"
-        },
-        {
-          "name": "Rune javelin",
-          "rarity": "1/8,192",
-          "quantity": "5"
-        },
-        {
-          "name": "Loop half of key",
-          "rarity": "1/8,192",
-          "quantity": "1"
-        },
-        {
-          "name": "Tooth half of key",
-          "rarity": "1/8,192",
-          "quantity": "1"
-        },
-        {
-          "name": "Rune spear",
-          "rarity": "1/131,072",
-          "quantity": "1"
-        },
-        {
-          "name": "Shield left half",
-          "rarity": "1/262,144",
-          "quantity": "1"
-        },
-        {
-          "name": "Dragon spear",
-          "rarity": "1/349,525.33",
-          "quantity": "1"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Rock Golem",
-    "id": [
-      "6729"
-    ],
-    "combat_level": 120,
-    "slayer_level": 1,
-    "is_members_only": true,
-    "drops": {
-      "regular": [
-        {
-          "name": "Earth rune",
-          "rarity": "30/78",
-          "quantity": "5"
-        },
-        {
-          "name": "Earth rune",
-          "rarity": "4/78",
-          "quantity": "42"
-        },
-        {
-          "name": "Chaos rune",
-          "rarity": "4/78",
-          "quantity": "2"
-        },
-        {
-          "name": "Bronze bar",
-          "rarity": "7/78",
-          "quantity": "1"
-        },
-        {
-          "name": "Iron ore",
-          "rarity": "4/78",
-          "quantity": "1"
-        },
-        {
-          "name": "Tin ore",
-          "rarity": "3/78",
-          "quantity": "1"
-        },
-        {
-          "name": "Copper ore",
-          "rarity": "3/78",
-          "quantity": "1"
-        },
-        {
-          "name": "Hammer",
-          "rarity": "10/78",
-          "quantity": "1"
-        },
-        {
-          "name": "Dwarven stout",
-          "rarity": "13/78",
-          "quantity": "1"
-        },
-        {
-          "name": "Bronze pickaxe",
-          "rarity": "4/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Adamant pickaxe",
-          "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Rune pickaxe",
-          "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Earth rune",
-          "rarity": "30/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Earth rune",
-          "rarity": "4/128",
-          "quantity": "42"
-        },
-        {
-          "name": "Chaos rune",
-          "rarity": "4/128",
-          "quantity": "2"
-        },
-        {
-          "name": "Bronze bar",
-          "rarity": "7/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Iron bar",
-          "rarity": "3/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Tin ore",
-          "rarity": "3/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Copper ore",
-          "rarity": "3/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Coal",
-          "rarity": "25/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Iron ore",
-          "rarity": "4/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Mithril ore",
-          "rarity": "10/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Adamantite ore",
-          "rarity": "3/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Runite ore",
-          "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Hammer",
-          "rarity": "10/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Dwarven stout",
-          "rarity": "13/128",
-          "quantity": "1"
-        }
-      ],
-      "rare_drop_table": [
-        {
-          "name": "Uncut sapphire",
-          "rarity": "1/256",
-          "quantity": "1"
-        },
-        {
-          "name": "Uncut emerald",
-          "rarity": "1/512",
-          "quantity": "1"
-        },
-        {
-          "name": "Uncut ruby",
-          "rarity": "1/1,024",
-          "quantity": "1"
-        },
-        {
-          "name": "Nature talisman",
-          "rarity": "1/2,730.67",
-          "quantity": "1"
-        },
-        {
-          "name": "Uncut diamond",
-          "rarity": "1/4,096",
-          "quantity": "1"
-        },
-        {
-          "name": "Rune javelin",
-          "rarity": "1/8,192",
-          "quantity": "5"
-        },
-        {
-          "name": "Loop half of key",
-          "rarity": "1/8,192",
-          "quantity": "1"
-        },
-        {
-          "name": "Tooth half of key",
-          "rarity": "1/8,192",
-          "quantity": "1"
-        },
-        {
-          "name": "Rune spear",
-          "rarity": "1/131,072",
-          "quantity": "1"
-        },
-        {
-          "name": "Shield left half",
-          "rarity": "1/262,144",
-          "quantity": "1"
-        },
-        {
-          "name": "Dragon spear",
-          "rarity": "1/349,525.33",
-          "quantity": "1"
-        }
-      ]
-    }
-  },
-  {
-    "name": "Rock Golem",
-    "id": [
-      "6727"
-    ],
-    "combat_level": 49,
+    "combat_level": 13,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -343608,7 +343608,7 @@
         },
         {
           "name": "Nightmare staff",
-          "rarity": "1/533",
+          "rarity": "69/35,000",
           "quantity": "1"
         },
         {
@@ -343628,7 +343628,7 @@
         },
         {
           "name": "Inquisitor's mace",
-          "rarity": "1/1,250",
+          "rarity": "31/35,000",
           "quantity": "1"
         },
         {
@@ -352789,7 +352789,7 @@
     "id": [
       "15224"
     ],
-    "combat_level": 121,
+    "combat_level": 110,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -384924,7 +384924,7 @@
     "id": [
       "15218"
     ],
-    "combat_level": 98,
+    "combat_level": 92,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -419895,7 +419895,7 @@
     "id": [
       "15206"
     ],
-    "combat_level": 100,
+    "combat_level": 93,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -422584,7 +422584,7 @@
     "id": [
       "15196"
     ],
-    "combat_level": 91,
+    "combat_level": 90,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -427964,7 +427964,7 @@
     "id": [
       "15222"
     ],
-    "combat_level": 74,
+    "combat_level": 63,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -428083,7 +428083,7 @@
     "id": [
       "15226"
     ],
-    "combat_level": 89,
+    "combat_level": 78,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -428509,7 +428509,7 @@
     "id": [
       "15234"
     ],
-    "combat_level": 29,
+    "combat_level": 22,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -430965,7 +430965,7 @@
     "id": [
       "15194"
     ],
-    "combat_level": 77,
+    "combat_level": 65,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -431140,7 +431140,7 @@
     "id": [
       "15202"
     ],
-    "combat_level": 119,
+    "combat_level": 111,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -431330,7 +431330,7 @@
     "id": [
       "15228"
     ],
-    "combat_level": 26,
+    "combat_level": 20,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -432315,7 +432315,7 @@
       "15230",
       "15232"
     ],
-    "combat_level": 61,
+    "combat_level": 54,
     "slayer_level": 32,
     "is_members_only": true,
     "drops": {
@@ -433001,7 +433001,7 @@
     "id": [
       "15216"
     ],
-    "combat_level": 72,
+    "combat_level": 68,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -433444,7 +433444,7 @@
     "id": [
       "15214"
     ],
-    "combat_level": 49,
+    "combat_level": 44,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -434506,7 +434506,7 @@
     "id": [
       "15220"
     ],
-    "combat_level": 141,
+    "combat_level": 133,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
