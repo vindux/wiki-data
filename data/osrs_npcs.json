@@ -31848,7 +31848,7 @@
     "attack_speed": 4,
     "attribute": [],
     "max_hit": [
-      "115% of targeted player's max hit'\"`UNIQ--ref-0000004A-QINU`\"'"
+      "115% of targeted player's max hit'\"`UNIQ--ref-00000026-QINU`\"'"
     ],
     "attack_style": [
       "Slash"
@@ -50645,8 +50645,8 @@
     "slash_defence_bonus": 0,
     "crush_defence_bonus": 0,
     "magic_defence_bonus": 130,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
+    "elemental_weakness": "Water",
+    "elemental_weakness_percent": 40,
     "light_range_defence_bonus": 130,
     "standard_range_defence_bonus": 130,
     "heavy_range_defence_bonus": 130,
@@ -50694,8 +50694,8 @@
     "slash_defence_bonus": 0,
     "crush_defence_bonus": 0,
     "magic_defence_bonus": 100,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
+    "elemental_weakness": "Water",
+    "elemental_weakness_percent": 40,
     "light_range_defence_bonus": 100,
     "standard_range_defence_bonus": 100,
     "heavy_range_defence_bonus": 100,
@@ -72243,7 +72243,7 @@
     "slayer_level": 85,
     "slayer_experience": 50,
     "size": 2,
-    "examine": "'\"`UNIQ--nowiki-00000078-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
+    "examine": "'\"`UNIQ--nowiki-00000067-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
     "poison_immune": "Immune",
     "venom_immune": "Immune",
     "thrall_immune": "Not immune",
@@ -87402,8 +87402,8 @@
     "slash_defence_bonus": 0,
     "crush_defence_bonus": 0,
     "magic_defence_bonus": 350,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
+    "elemental_weakness": "Water",
+    "elemental_weakness_percent": 40,
     "light_range_defence_bonus": 100,
     "standard_range_defence_bonus": 100,
     "heavy_range_defence_bonus": 100,
@@ -87411,7 +87411,7 @@
     "attack_speed": 10,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-00000047-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-0000015B-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -87452,8 +87452,8 @@
     "slash_defence_bonus": 0,
     "crush_defence_bonus": 0,
     "magic_defence_bonus": 350,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
+    "elemental_weakness": "Water",
+    "elemental_weakness_percent": 40,
     "light_range_defence_bonus": 100,
     "standard_range_defence_bonus": 100,
     "heavy_range_defence_bonus": 100,
@@ -87461,7 +87461,7 @@
     "attack_speed": 7,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-00000047-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-0000015B-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -88004,8 +88004,8 @@
     "slash_defence_bonus": 0,
     "crush_defence_bonus": 0,
     "magic_defence_bonus": 0,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
+    "elemental_weakness": "Water",
+    "elemental_weakness_percent": 40,
     "light_range_defence_bonus": 0,
     "standard_range_defence_bonus": 0,
     "heavy_range_defence_bonus": 0,
@@ -89590,7 +89590,7 @@
       "15 (melee) 33 (special attack)"
     ],
     "attack_style": [
-      "Slash '\"`UNIQ--ref-000000D0-QINU`\"'"
+      "Slash '\"`UNIQ--ref-00000099-QINU`\"'"
     ],
     "experience_bonus": 0,
     "is_members_only": true,
@@ -111105,7 +111105,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "30-37 (Melee)'\"`UNIQ--ref-0000004E-QINU`\"'",
+      "30-37 (Melee)'\"`UNIQ--ref-0000000F-QINU`\"'",
       "?? (axes)"
     ],
     "attack_style": [
@@ -111156,7 +111156,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "46-61 (Melee)'\"`UNIQ--ref-0000004D-QINU`\"'",
+      "46-61 (Melee)'\"`UNIQ--ref-0000000E-QINU`\"'",
       "96 (axes)"
     ],
     "attack_style": [
@@ -111207,7 +111207,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "32-43 (Melee)'\"`UNIQ--ref-0000004C-QINU`\"'",
+      "32-43 (Melee)'\"`UNIQ--ref-0000000D-QINU`\"'",
       "35 (axes)"
     ],
     "attack_style": [
@@ -121411,8 +121411,8 @@
     "slash_defence_bonus": -42,
     "crush_defence_bonus": -42,
     "magic_defence_bonus": -42,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
+    "elemental_weakness": "Air",
+    "elemental_weakness_percent": 20,
     "light_range_defence_bonus": -42,
     "standard_range_defence_bonus": -42,
     "heavy_range_defence_bonus": -42,
@@ -130154,7 +130154,7 @@
     ],
     "attack_style": [
       "Crush",
-      "'\"`UNIQ--ref-00000020-QINU`\"' Magic",
+      "'\"`UNIQ--ref-0000003C-QINU`\"' Magic",
       "Ranged"
     ],
     "experience_bonus": 67.5,
@@ -145689,7 +145689,7 @@
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 1,
-    "examine": "'\"`UNIQ--nowiki-000000BA-QINU`\"'whispers*The seas are not lackin' kraken.",
+    "examine": "'\"`UNIQ--nowiki-00000019-QINU`\"'whispers*The seas are not lackin' kraken.",
     "poison_immune": "Not immune",
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
@@ -155338,7 +155338,7 @@
     "size": 3,
     "examine": "A vicious predator, strong enough to hook and rip the shells off the largest tortugans.",
     "poison_immune": "unknown",
-    "venom_immune": "unknown",
+    "venom_immune": "Not immune",
     "thrall_immune": "unknown",
     "cannon_immune": "Not immune",
     "burn_immune": "unknown"

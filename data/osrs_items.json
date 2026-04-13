@@ -29146,8 +29146,8 @@
     "is_members_only": false
   },
   {
-    "item_name": "Enchanted key (item)",
-    "item_name_variant": "Enchanted key (item)",
+    "item_name": "Enchanted key",
+    "item_name_variant": "Enchanted key",
     "item_id": [
       "6754"
     ],
@@ -43111,7 +43111,8 @@
     "item_name": "Tea flask",
     "item_name_variant": "Tea flask",
     "item_id": [
-      "10859"
+      "10859",
+      "25617"
     ],
     "weight": 0.1,
     "value": 1,
@@ -47128,7 +47129,8 @@
     "item_name": "Plain satchel",
     "item_name_variant": "Plain satchel",
     "item_id": [
-      "10877"
+      "10877",
+      "25618"
     ],
     "weight": 0.15,
     "value": 100,
@@ -47141,7 +47143,8 @@
     "item_name": "Black satchel",
     "item_name_variant": "Black satchel",
     "item_id": [
-      "10880"
+      "10880",
+      "25621"
     ],
     "weight": 0.15,
     "value": 100,
@@ -47206,7 +47209,8 @@
     "item_name": "Gold satchel",
     "item_name_variant": "Gold satchel",
     "item_id": [
-      "10881"
+      "10881",
+      "25622"
     ],
     "weight": 0.15,
     "value": 100,
@@ -56697,7 +56701,8 @@
     "item_name": "Coal bag",
     "item_name_variant": "Coal bag#Open",
     "item_id": [
-      "24480"
+      "24480",
+      "25627"
     ],
     "weight": 10,
     "value": 100,
@@ -56723,7 +56728,8 @@
     "item_name": "Gem bag",
     "item_name_variant": "Gem bag#Open",
     "item_id": [
-      "24481"
+      "24481",
+      "25628"
     ],
     "weight": 1,
     "value": 100,
@@ -66605,7 +66611,8 @@
     "item_name": "Flamtaer bag",
     "item_name_variant": "Flamtaer bag",
     "item_id": [
-      "12854"
+      "12854",
+      "25630"
     ],
     "weight": 6,
     "value": 150,
@@ -73124,7 +73131,8 @@
     "item_name": "Green satchel",
     "item_name_variant": "Green satchel",
     "item_id": [
-      "10878"
+      "10878",
+      "25619"
     ],
     "weight": 0.15,
     "value": 100,
@@ -73137,7 +73145,8 @@
     "item_name": "Red satchel",
     "item_name_variant": "Red satchel",
     "item_id": [
-      "10879"
+      "10879",
+      "25620"
     ],
     "weight": 0.15,
     "value": 100,
@@ -73150,7 +73159,8 @@
     "item_name": "Rune satchel",
     "item_name_variant": "Rune satchel",
     "item_id": [
-      "10882"
+      "10882",
+      "25623"
     ],
     "weight": 0.15,
     "value": 100,
@@ -75360,7 +75370,8 @@
     "item_name": "Unsired",
     "item_name_variant": "Unsired",
     "item_id": [
-      "13273"
+      "13273",
+      "25624"
     ],
     "weight": 1.4,
     "value": 140000,
@@ -100463,7 +100474,8 @@
     "item_name": "Heat-proof vessel",
     "item_name_variant": "Heat-proof vessel",
     "item_id": [
-      "21539"
+      "21539",
+      "25615"
     ],
     "weight": 4,
     "value": 1,
@@ -124722,7 +124734,8 @@
     "item_name": "Plank sack",
     "item_name_variant": "Plank sack",
     "item_id": [
-      "24882"
+      "24882",
+      "25629"
     ],
     "weight": 5.25,
     "value": 370,
@@ -183331,7 +183344,7 @@
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A squishy mushroom from a fairy ring.",
-    "is_members_only": false
+    "is_members_only": true
   },
   {
     "item_name": "Crystal of echoes",
@@ -210832,13 +210845,13 @@
     "item_name": "Ultor ring (Last Man Standing)",
     "item_name_variant": "Ultor ring (Last Man Standing)",
     "item_id": [
-      "33188"
+      "33182"
     ],
-    "weight": 5.443,
+    "weight": 0.012,
     "value": 100,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A buckler carved from the twisted remains of the Great Olm.",
+    "examine": "An occult ring that grants immense physical power.",
     "is_members_only": false
   },
   {
@@ -211058,6 +211071,129 @@
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": null,
+    "is_members_only": true
+  },
+  {
+    "item_name": "Butler's bell (item)",
+    "item_name_variant": "Butler's bell (item)",
+    "item_id": null,
+    "weight": 0,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": true
+  },
+  {
+    "item_name": "Transmutation ledger",
+    "item_name_variant": "Transmutation ledger",
+    "item_id": null,
+    "weight": 0,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": true
+  },
+  {
+    "item_name": "Soul shards",
+    "item_name_variant": "Soul shards",
+    "item_id": null,
+    "weight": 0,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": true
+  },
+  {
+    "item_name": "Infernal tecpatl",
+    "item_name_variant": "Infernal tecpatl",
+    "item_id": null,
+    "weight": 3.628,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": true
+  },
+  {
+    "item_name": "Fang of the hound",
+    "item_name_variant": "Fang of the hound",
+    "item_id": null,
+    "weight": 0.666,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shadowflame quadrant",
+    "item_name_variant": "Shadowflame quadrant",
+    "item_id": null,
+    "weight": 0,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": true
+  },
+  {
+    "item_name": "Nature's recurve",
+    "item_name_variant": "Nature's recurve",
+    "item_id": null,
+    "weight": 0,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": true
+  },
+  {
+    "item_name": "V's helm",
+    "item_name_variant": "V's helm",
+    "item_id": null,
+    "weight": 0,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": true
+  },
+  {
+    "item_name": "King's barrage",
+    "item_name_variant": "King's barrage",
+    "item_id": null,
+    "weight": 0,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": true
+  },
+  {
+    "item_name": "Lithic sceptre",
+    "item_name_variant": "Lithic sceptre",
+    "item_id": null,
+    "weight": 0,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shark jaw (Sailing alpha)",
+    "item_name_variant": "Shark jaw (Sailing alpha)",
+    "item_id": [
+      "beta31176"
+    ],
+    "weight": 1.285,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A tiger shark jaw full of teeth. Perfect for a necklace.",
     "is_members_only": true
   }
 ]
