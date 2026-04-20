@@ -162732,7 +162732,7 @@
     "item_name": "Sage's greaves",
     "item_name_variant": "Sage's greaves",
     "item_id": [
-      "28771"
+      "hist28771"
     ],
     "weight": 0,
     "value": 1,
@@ -183387,7 +183387,20 @@
   },
   {
     "item_name": "Asgarnia echo orb",
-    "item_name_variant": "Asgarnia echo orb",
+    "item_name_variant": "Asgarnia echo orb#Raging Echoes League",
+    "item_id": [
+      "30393"
+    ],
+    "weight": 0.4,
+    "value": 75000,
+    "high_alchemy_value": 45000,
+    "buy_limit": 0,
+    "examine": "Crystallised, infernal fire swirls within it...",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Asgarnia echo orb",
+    "item_name_variant": "Asgarnia echo orb#Demonic Pacts League",
     "item_id": [
       "30393"
     ],
@@ -183400,7 +183413,20 @@
   },
   {
     "item_name": "Desert echo orb",
-    "item_name_variant": "Desert echo orb",
+    "item_name_variant": "Desert echo orb#Raging Echoes League",
+    "item_id": [
+      "30394"
+    ],
+    "weight": 0.4,
+    "value": 75000,
+    "high_alchemy_value": 45000,
+    "buy_limit": 0,
+    "examine": "Crystallised, queenly rage swirls within it...",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Desert echo orb",
+    "item_name_variant": "Desert echo orb#Demonic Pacts League",
     "item_id": [
       "30394"
     ],
@@ -183413,7 +183439,7 @@
   },
   {
     "item_name": "Varlamore echo orb",
-    "item_name_variant": "Varlamore echo orb",
+    "item_name_variant": "Varlamore echo orb#Raging Echoes League",
     "item_id": [
       "30401"
     ],
@@ -183425,8 +183451,34 @@
     "is_members_only": true
   },
   {
+    "item_name": "Varlamore echo orb",
+    "item_name_variant": "Varlamore echo orb#Demonic Pacts League",
+    "item_id": [
+      "30401"
+    ],
+    "weight": 0.4,
+    "value": 75000,
+    "high_alchemy_value": 45000,
+    "buy_limit": 0,
+    "examine": "Crystallised, lunar rage swirls within it...",
+    "is_members_only": true
+  },
+  {
     "item_name": "Kourend echo orb",
-    "item_name_variant": "Kourend echo orb",
+    "item_name_variant": "Kourend echo orb#Raging Echoes League",
+    "item_id": [
+      "30400"
+    ],
+    "weight": 0.4,
+    "value": 75000,
+    "high_alchemy_value": 45000,
+    "buy_limit": 0,
+    "examine": "Crystallised, tangled rage swirls within it...",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Kourend echo orb",
+    "item_name_variant": "Kourend echo orb#Demonic Pacts League",
     "item_id": [
       "30400"
     ],
@@ -183439,7 +183491,20 @@
   },
   {
     "item_name": "Tirannwn echo orb",
-    "item_name_variant": "Tirannwn echo orb",
+    "item_name_variant": "Tirannwn echo orb#Raging Echoes League",
+    "item_id": [
+      "30398"
+    ],
+    "weight": 0.4,
+    "value": 75000,
+    "high_alchemy_value": 45000,
+    "buy_limit": 0,
+    "examine": "Crystallised, bestial rage swirls within it...",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Tirannwn echo orb",
+    "item_name_variant": "Tirannwn echo orb#Demonic Pacts League",
     "item_id": [
       "30398"
     ],
@@ -183452,7 +183517,20 @@
   },
   {
     "item_name": "Morytania echo orb",
-    "item_name_variant": "Morytania echo orb",
+    "item_name_variant": "Morytania echo orb#Raging Echoes League",
+    "item_id": [
+      "30397"
+    ],
+    "weight": 0.4,
+    "value": 75000,
+    "high_alchemy_value": 45000,
+    "buy_limit": 0,
+    "examine": "Crystallised, stonebound rage swirls within it...",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Morytania echo orb",
+    "item_name_variant": "Morytania echo orb#Demonic Pacts League",
     "item_id": [
       "30397"
     ],
@@ -183465,7 +183543,20 @@
   },
   {
     "item_name": "Kandarin echo orb",
-    "item_name_variant": "Kandarin echo orb",
+    "item_name_variant": "Kandarin echo orb#Raging Echoes League",
+    "item_id": [
+      "30396"
+    ],
+    "weight": 0.4,
+    "value": 75000,
+    "high_alchemy_value": 45000,
+    "buy_limit": 0,
+    "examine": "Crystallised, explosive rage swirls within it...",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Kandarin echo orb",
+    "item_name_variant": "Kandarin echo orb#Demonic Pacts League",
     "item_id": [
       "30396"
     ],
@@ -183491,7 +183582,20 @@
   },
   {
     "item_name": "Fremennik echo orb",
-    "item_name_variant": "Fremennik echo orb",
+    "item_name_variant": "Fremennik echo orb#Raging Echoes League",
+    "item_id": [
+      "30395"
+    ],
+    "weight": 0.4,
+    "value": 75000,
+    "high_alchemy_value": 45000,
+    "buy_limit": 0,
+    "examine": "Crystallised, queenly rage swirls within it...",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Fremennik echo orb",
+    "item_name_variant": "Fremennik echo orb#Demonic Pacts League",
     "item_id": [
       "30395"
     ],
@@ -183504,7 +183608,20 @@
   },
   {
     "item_name": "Wilderness echo orb",
-    "item_name_variant": "Wilderness echo orb",
+    "item_name_variant": "Wilderness echo orb#Raging Echoes League",
+    "item_id": [
+      "30399"
+    ],
+    "weight": 0.4,
+    "value": 75000,
+    "high_alchemy_value": 45000,
+    "buy_limit": 0,
+    "examine": "Crystallised, draconic rage swirls within it...",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wilderness echo orb",
+    "item_name_variant": "Wilderness echo orb#Demonic Pacts League",
     "item_id": [
       "30399"
     ],
@@ -210151,24 +210268,41 @@
   },
   {
     "item_name": "Knapsack",
-    "item_name_variant": "Knapsack",
-    "item_id": null,
-    "weight": 0,
-    "value": 0,
+    "item_name_variant": "Knapsack#Open",
+    "item_id": [
+      "33218"
+    ],
+    "weight": 10,
+    "value": 100,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": null,
+    "examine": "A rustic-looking bag for storing resources.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Knapsack",
+    "item_name_variant": "Knapsack#Closed",
+    "item_id": [
+      "33220"
+    ],
+    "weight": 10,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A rustic-looking bag for storing resources.",
     "is_members_only": true
   },
   {
     "item_name": "Minion whistle",
     "item_name_variant": "Minion whistle",
-    "item_id": null,
+    "item_id": [
+      "28769"
+    ],
     "weight": 0,
     "value": 0,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": null,
+    "examine": "A whistle to summon a demonic ally.",
     "is_members_only": true
   },
   {
@@ -210304,34 +210438,53 @@
   {
     "item_name": "Evil eye (item)",
     "item_name_variant": "Evil eye (item)",
-    "item_id": null,
-    "weight": 0,
-    "value": 0,
+    "item_id": [
+      "33227"
+    ],
+    "weight": 0.25,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": null,
+    "examine": "A evil pendant... Always watching.",
     "is_members_only": true
   },
   {
     "item_name": "Flask of fervour (item)",
-    "item_name_variant": "Flask of fervour (item)",
-    "item_id": null,
-    "weight": 0,
-    "value": 0,
+    "item_name_variant": "Flask of fervour (item)#Full",
+    "item_id": [
+      "33239"
+    ],
+    "weight": 0.004,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": null,
+    "examine": "A flask generously filled with demonic energy.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Flask of fervour (item)",
+    "item_name_variant": "Flask of fervour (item)#Empty",
+    "item_id": [
+      "33241"
+    ],
+    "weight": 0.004,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "An ornate flask of demonic origin. It seems to be slowly refilling itself.",
     "is_members_only": true
   },
   {
     "item_name": "Searing boots",
     "item_name_variant": "Searing boots",
-    "item_id": null,
+    "item_id": [
+      "28771"
+    ],
     "weight": 0,
-    "value": 0,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": null,
+    "examine": "Greaves that give you blazing speed.",
     "is_members_only": true
   },
   {
@@ -211065,122 +211218,157 @@
   {
     "item_name": "Map of alacrity (item)",
     "item_name_variant": "Map of alacrity (item)",
-    "item_id": null,
-    "weight": 0,
-    "value": 0,
+    "item_id": [
+      "33233"
+    ],
+    "weight": 0.01,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": null,
+    "examine": "This map is signed 'Q.Q'. They must have been a particularly agile cartographer.",
     "is_members_only": true
   },
   {
     "item_name": "Butler's bell (item)",
     "item_name_variant": "Butler's bell (item)",
-    "item_id": null,
-    "weight": 0,
-    "value": 0,
+    "item_id": [
+      "33237"
+    ],
+    "weight": 0.028,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": null,
+    "examine": "This should get his attention...",
     "is_members_only": true
   },
   {
     "item_name": "Transmutation ledger",
     "item_name_variant": "Transmutation ledger",
-    "item_id": null,
-    "weight": 0,
-    "value": 0,
+    "item_id": [
+      "33229"
+    ],
+    "weight": 0.014,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": null,
+    "examine": "A source of all possible transmutations.",
     "is_members_only": true
   },
   {
-    "item_name": "Soul shards",
-    "item_name_variant": "Soul shards",
-    "item_id": null,
+    "item_name": "Soul shard",
+    "item_name_variant": "Soul shard",
+    "item_id": [
+      "33231"
+    ],
     "weight": 0,
-    "value": 0,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": null,
+    "examine": "Some poor souls' sole remains. Use on the Libation Bowl at the Teomat to put them to rest.",
     "is_members_only": true
   },
   {
     "item_name": "Infernal tecpatl",
     "item_name_variant": "Infernal tecpatl",
-    "item_id": null,
+    "item_id": [
+      "33243"
+    ],
     "weight": 3.628,
-    "value": 0,
-    "high_alchemy_value": 0,
+    "value": 30000,
+    "high_alchemy_value": 18000,
     "buy_limit": 0,
-    "examine": null,
+    "examine": "Shaped from molten rock, tainted by demonic blood.",
     "is_members_only": true
   },
   {
     "item_name": "Fang of the hound",
     "item_name_variant": "Fang of the hound",
-    "item_id": null,
+    "item_id": [
+      "33249"
+    ],
     "weight": 0.666,
-    "value": 0,
-    "high_alchemy_value": 0,
+    "value": 75000,
+    "high_alchemy_value": 45000,
     "buy_limit": 0,
-    "examine": null,
+    "examine": "From the mouth of an infernal beastie.",
     "is_members_only": true
   },
   {
     "item_name": "Shadowflame quadrant",
     "item_name_variant": "Shadowflame quadrant",
-    "item_id": null,
-    "weight": 0,
-    "value": 0,
-    "high_alchemy_value": 0,
+    "item_id": [
+      "33253"
+    ],
+    "weight": 2.267,
+    "value": 75000,
+    "high_alchemy_value": 45000,
     "buy_limit": 0,
-    "examine": null,
+    "examine": "An elemental trident, with a devilish extra prong.",
     "is_members_only": true
   },
   {
     "item_name": "Nature's recurve",
     "item_name_variant": "Nature's recurve",
-    "item_id": null,
-    "weight": 0,
-    "value": 0,
-    "high_alchemy_value": 0,
+    "item_id": [
+      "33245"
+    ],
+    "weight": 1.36,
+    "value": 75000,
+    "high_alchemy_value": 45000,
     "buy_limit": 0,
-    "examine": null,
+    "examine": "Short and magical, but still effective.",
     "is_members_only": true
   },
   {
     "item_name": "V's helm",
     "item_name_variant": "V's helm",
-    "item_id": null,
-    "weight": 0,
-    "value": 0,
-    "high_alchemy_value": 0,
+    "item_id": [
+      "33247"
+    ],
+    "weight": 2.721,
+    "value": 75000,
+    "high_alchemy_value": 45000,
     "buy_limit": 0,
-    "examine": null,
+    "examine": "A helmet from a legendary Viking.",
     "is_members_only": true
   },
   {
     "item_name": "King's barrage",
     "item_name_variant": "King's barrage",
-    "item_id": null,
-    "weight": 0,
-    "value": 0,
-    "high_alchemy_value": 0,
+    "item_id": [
+      "33251"
+    ],
+    "weight": 6,
+    "value": 75000,
+    "high_alchemy_value": 45000,
     "buy_limit": 0,
-    "examine": null,
+    "examine": "A powerful crossbow surging with draconic power.",
     "is_members_only": true
   },
   {
     "item_name": "Lithic sceptre",
-    "item_name_variant": "Lithic sceptre",
-    "item_id": null,
-    "weight": 0,
-    "value": 0,
-    "high_alchemy_value": 0,
+    "item_name_variant": "Lithic sceptre#Charged",
+    "item_id": [
+      "33255"
+    ],
+    "weight": 2,
+    "value": 75000,
+    "high_alchemy_value": 45000,
     "buy_limit": 0,
-    "examine": null,
+    "examine": "A powerful staff that can shatter enemies.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Lithic sceptre",
+    "item_name_variant": "Lithic sceptre#Uncharged",
+    "item_id": [
+      "33257"
+    ],
+    "weight": 2,
+    "value": 75000,
+    "high_alchemy_value": 45000,
+    "buy_limit": 0,
+    "examine": "A powerful staff that can shatter enemies, when charged.",
     "is_members_only": true
   },
   {
@@ -211194,6 +211382,409 @@
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A tiger shark jaw full of teeth. Perfect for a necklace.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Clue contract",
+    "item_name_variant": "Clue contract",
+    "item_id": [
+      "33235"
+    ],
+    "weight": 0,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Good for one teleport!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Barbarian arm",
+    "item_name_variant": "Barbarian arm",
+    "item_id": [
+      "33221"
+    ],
+    "weight": 0.001,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A barbarian arm.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Demonic sceptre",
+    "item_name_variant": "Demonic sceptre",
+    "item_id": [
+      "33296"
+    ],
+    "weight": 1.814,
+    "value": 1000,
+    "high_alchemy_value": 600,
+    "buy_limit": 0,
+    "examine": "The sceptre of a Demonic Relic Hunter.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic pacts banner",
+    "item_name_variant": "Demonic pacts banner",
+    "item_id": [
+      "33299"
+    ],
+    "weight": 2.267,
+    "value": 1000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A banner showcasing the colours of Leagues VI: Demonic Pacts.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic skin contract",
+    "item_name_variant": "Demonic skin contract",
+    "item_id": [
+      "33302"
+    ],
+    "weight": 0.1,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Embrace your inner demon.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic axe ornament kit",
+    "item_name_variant": "Demonic axe ornament kit",
+    "item_id": [
+      "33305"
+    ],
+    "weight": 0.1,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Used on a Soul Reaper axe, to decorate it in the style of Leagues VI: Demonic Pacts.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic staff ornament kit",
+    "item_name_variant": "Demonic staff ornament kit",
+    "item_id": [
+      "33308"
+    ],
+    "weight": 0.1,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Used on Iban's Staff to decorate it in the style of Leagues VI: Demonic Pacts.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic trident ornament kit",
+    "item_name_variant": "Demonic trident ornament kit",
+    "item_id": [
+      "33311"
+    ],
+    "weight": 0.1,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Used on a Trident of the Seas or Swamp, to decorate it in the style of Leagues VI: Demonic Pacts.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic pacts dragon trophy",
+    "item_name_variant": "Demonic pacts dragon trophy",
+    "item_id": [
+      "33345"
+    ],
+    "weight": 1.5,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A Dragon trophy for competing in Leagues VI - Demonic Pacts (15th April 2026 to 10th June 2026).",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic pacts rune trophy",
+    "item_name_variant": "Demonic pacts rune trophy",
+    "item_id": [
+      "33347"
+    ],
+    "weight": 1.5,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A Rune trophy for competing in Leagues VI - Demonic Pacts (15th April 2026 to 10th June 2026).",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic pacts adamant trophy",
+    "item_name_variant": "Demonic pacts adamant trophy",
+    "item_id": [
+      "33349"
+    ],
+    "weight": 1.5,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "An Adamant trophy for competing in Leagues VI - Demonic Pacts (15th April 2026 to 10th June 2026).",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic pacts mithril trophy",
+    "item_name_variant": "Demonic pacts mithril trophy",
+    "item_id": [
+      "33351"
+    ],
+    "weight": 1,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A Mithril trophy for competing in Leagues VI - Demonic Pacts (15th April 2026 to 10th June 2026).",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic pacts steel trophy",
+    "item_name_variant": "Demonic pacts steel trophy",
+    "item_id": [
+      "33353"
+    ],
+    "weight": 1,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A Steel trophy for competing in Leagues VI - Demonic Pacts (15th April 2026 to 10th June 2026).",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic pacts iron trophy",
+    "item_name_variant": "Demonic pacts iron trophy",
+    "item_id": [
+      "33355"
+    ],
+    "weight": 1,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "An Iron trophy for competing in Leagues VI - Demonic Pacts (15th April 2026 to 10th June 2026).",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic pacts bronze trophy",
+    "item_name_variant": "Demonic pacts bronze trophy",
+    "item_id": [
+      "33357"
+    ],
+    "weight": 1,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A Bronze trophy for competing in Leagues VI - Demonic Pacts (15th April 2026 to 10th June 2026).",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Impish ritual kit",
+    "item_name_variant": "Impish ritual kit",
+    "item_id": [
+      "33359"
+    ],
+    "weight": 0.1,
+    "value": 25000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Can be read to unlock a new home teleport animation.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic pacts throne scroll",
+    "item_name_variant": "Demonic pacts throne scroll",
+    "item_id": [
+      "33362"
+    ],
+    "weight": 0.1,
+    "value": 25000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Use it on the Throne inside your Player Owned House to decorate it in the style of Leagues VI: Demonic Pacts",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Impish whistle",
+    "item_name_variant": "Impish whistle",
+    "item_id": [
+      "33365"
+    ],
+    "weight": 0.1,
+    "value": 25000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Used to unlock the Impish overrides for your Arceuus thralls.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic pacts demon butler scroll",
+    "item_name_variant": "Demonic pacts demon butler scroll",
+    "item_id": [
+      "33368"
+    ],
+    "weight": 0.1,
+    "value": 25000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Used on a Demon Butler inside your Player Owned House to decorate it in the style of Leagues VI - Demonic Pacts.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic hood (t1)",
+    "item_name_variant": "Demonic hood (t1)",
+    "item_id": [
+      "33260"
+    ],
+    "weight": 0.453,
+    "value": 100000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The hood of a Demonic Relic Hunter.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic hood (t2)",
+    "item_name_variant": "Demonic hood (t2)",
+    "item_id": [
+      "33272"
+    ],
+    "weight": 0.453,
+    "value": 100000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The hood of a Demonic Relic Hunter.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic hood (t3)",
+    "item_name_variant": "Demonic hood (t3)",
+    "item_id": [
+      "33284"
+    ],
+    "weight": 0.453,
+    "value": 100000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The hood of a Demonic Relic Hunter.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic robe top (t1)",
+    "item_name_variant": "Demonic robe top (t1)",
+    "item_id": [
+      "33263"
+    ],
+    "weight": 0.907,
+    "value": 100000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The robe top of a Demonic Relic Hunter.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic robe top (t2)",
+    "item_name_variant": "Demonic robe top (t2)",
+    "item_id": [
+      "33275"
+    ],
+    "weight": 0.907,
+    "value": 100000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The robe top of a Demonic Relic Hunter.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic robe top (t3)",
+    "item_name_variant": "Demonic robe top (t3)",
+    "item_id": [
+      "33287"
+    ],
+    "weight": 0.907,
+    "value": 100000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The robe top of a Demonic Relic Hunter.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic robe bottom (t1)",
+    "item_name_variant": "Demonic robe bottom (t1)",
+    "item_id": [
+      "33266"
+    ],
+    "weight": 0.907,
+    "value": 100000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The robe bottom of a Demonic Relic Hunter.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic robe bottom (t2)",
+    "item_name_variant": "Demonic robe bottom (t2)",
+    "item_id": [
+      "33278"
+    ],
+    "weight": 0.907,
+    "value": 100000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The robe bottom of a Demonic Relic Hunter.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic robe bottom (t3)",
+    "item_name_variant": "Demonic robe bottom (t3)",
+    "item_id": [
+      "33290"
+    ],
+    "weight": 0.907,
+    "value": 100000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The robe bottom of a Demonic Relic Hunter.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic boots (t1)",
+    "item_name_variant": "Demonic boots (t1)",
+    "item_id": [
+      "33269"
+    ],
+    "weight": 0.34,
+    "value": 100000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The boots of a Demonic Relic Hunter.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic boots (t2)",
+    "item_name_variant": "Demonic boots (t2)",
+    "item_id": [
+      "33281"
+    ],
+    "weight": 0.34,
+    "value": 100000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The boots of a Demonic Relic Hunter.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic boots (t3)",
+    "item_name_variant": "Demonic boots (t3)",
+    "item_id": [
+      "33293"
+    ],
+    "weight": 0.34,
+    "value": 100000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The boots of a Demonic Relic Hunter.",
     "is_members_only": true
   }
 ]

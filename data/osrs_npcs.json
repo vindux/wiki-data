@@ -31848,7 +31848,7 @@
     "attack_speed": 4,
     "attribute": [],
     "max_hit": [
-      "115% of targeted player's max hit'\"`UNIQ--ref-00000026-QINU`\"'"
+      "115% of targeted player's max hit'\"`UNIQ--ref-00000124-QINU`\"'"
     ],
     "attack_style": [
       "Slash"
@@ -72243,7 +72243,7 @@
     "slayer_level": 85,
     "slayer_experience": 50,
     "size": 2,
-    "examine": "'\"`UNIQ--nowiki-00000067-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
+    "examine": "'\"`UNIQ--nowiki-00000053-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
     "poison_immune": "Immune",
     "venom_immune": "Immune",
     "thrall_immune": "Not immune",
@@ -87411,7 +87411,7 @@
     "attack_speed": 10,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-0000015B-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-000000AB-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -87461,7 +87461,7 @@
     "attack_speed": 7,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-0000015B-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-000000AB-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -89590,7 +89590,7 @@
       "15 (melee) 33 (special attack)"
     ],
     "attack_style": [
-      "Slash '\"`UNIQ--ref-00000099-QINU`\"'"
+      "Slash '\"`UNIQ--ref-00000027-QINU`\"'"
     ],
     "experience_bonus": 0,
     "is_members_only": true,
@@ -111105,7 +111105,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "30-37 (Melee)'\"`UNIQ--ref-0000000F-QINU`\"'",
+      "30-37 (Melee)'\"`UNIQ--ref-0000001A-QINU`\"'",
       "?? (axes)"
     ],
     "attack_style": [
@@ -111156,7 +111156,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "46-61 (Melee)'\"`UNIQ--ref-0000000E-QINU`\"'",
+      "46-61 (Melee)'\"`UNIQ--ref-00000019-QINU`\"'",
       "96 (axes)"
     ],
     "attack_style": [
@@ -111207,7 +111207,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "32-43 (Melee)'\"`UNIQ--ref-0000000D-QINU`\"'",
+      "32-43 (Melee)'\"`UNIQ--ref-00000018-QINU`\"'",
       "35 (axes)"
     ],
     "attack_style": [
@@ -130154,7 +130154,7 @@
     ],
     "attack_style": [
       "Crush",
-      "'\"`UNIQ--ref-0000003C-QINU`\"' Magic",
+      "'\"`UNIQ--ref-00000090-QINU`\"' Magic",
       "Ranged"
     ],
     "experience_bonus": 67.5,
@@ -141218,8 +141218,8 @@
     "slash_defence_bonus": 4,
     "crush_defence_bonus": 9,
     "magic_defence_bonus": 800,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
+    "elemental_weakness": "air",
+    "elemental_weakness_percent": 20,
     "light_range_defence_bonus": 900,
     "standard_range_defence_bonus": 900,
     "heavy_range_defence_bonus": 900,
@@ -141236,8 +141236,8 @@
     ],
     "experience_bonus": 0,
     "is_members_only": true,
-    "slayer_level": 1,
-    "slayer_experience": 0,
+    "slayer_level": 93,
+    "slayer_experience": 1200,
     "size": 3,
     "examine": "Woah.",
     "poison_immune": "Immune",
@@ -145689,7 +145689,7 @@
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 1,
-    "examine": "'\"`UNIQ--nowiki-00000019-QINU`\"'whispers*The seas are not lackin' kraken.",
+    "examine": "'\"`UNIQ--nowiki-0000011B-QINU`\"'whispers*The seas are not lackin' kraken.",
     "poison_immune": "Not immune",
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
@@ -159046,44 +159046,52 @@
   {
     "page_name": "Amoxliatl (Echo)",
     "name": "Amoxliatl (Echo)",
-    "id": "unknown",
-    "combat_level": "unknown",
-    "hitpoints": "unknown",
-    "attack_level": "unknown",
-    "strength_level": "unknown",
-    "defence_level": "unknown",
-    "magic_level": "unknown",
-    "ranged_level": "unknown",
-    "attack_bonus": "unknown",
-    "strength_bonus": "unknown",
-    "magic_attack_bonus": "unknown",
-    "magic_damage_bonus": "unknown",
-    "range_attack_bonus": "unknown",
-    "range_strength_bonus": "unknown",
-    "stab_defence_bonus": "unknown",
-    "slash_defence_bonus": "unknown",
-    "crush_defence_bonus": "unknown",
-    "magic_defence_bonus": "unknown",
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": "unknown",
-    "standard_range_defence_bonus": "unknown",
-    "heavy_range_defence_bonus": "unknown",
-    "flat_armour": 0,
-    "attack_speed": "unknown",
-    "attribute": [],
-    "max_hit": "unknown",
-    "attack_style": "unknown",
+    "id": [
+      "13685"
+    ],
+    "combat_level": 328,
+    "hitpoints": 650,
+    "attack_level": 0,
+    "strength_level": 0,
+    "defence_level": 80,
+    "magic_level": 240,
+    "ranged_level": 0,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 160,
+    "magic_damage_bonus": 15,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 100,
+    "slash_defence_bonus": 100,
+    "crush_defence_bonus": 40,
+    "magic_defence_bonus": 100,
+    "elemental_weakness": "fire",
+    "elemental_weakness_percent": 30,
+    "light_range_defence_bonus": 200,
+    "standard_range_defence_bonus": 200,
+    "heavy_range_defence_bonus": 200,
+    "flat_armour": -2,
+    "attack_speed": 8,
+    "attribute": [
+      "spectral"
+    ],
+    "max_hit": [
+      "93"
+    ],
+    "attack_style": [
+      "Magic"
+    ],
     "experience_bonus": 0,
     "is_members_only": true,
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": "unknown",
-    "examine": "unknown",
-    "poison_immune": "unknown",
-    "venom_immune": "unknown",
+    "examine": "A powerful frost nagua.",
+    "poison_immune": "Immune",
+    "venom_immune": "Immune",
     "thrall_immune": "unknown",
-    "cannon_immune": "unknown",
+    "cannon_immune": "Immune",
     "burn_immune": "unknown"
   }
 ]

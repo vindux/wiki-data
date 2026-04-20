@@ -26520,7 +26520,7 @@
         },
         {
           "name": "Frozen tear",
-          "rarity": "Unknown",
+          "rarity": "1/150",
           "quantity": "5"
         }
       ],
@@ -26640,7 +26640,7 @@
         },
         {
           "name": "Frozen tear",
-          "rarity": "Unknown",
+          "rarity": "1/150",
           "quantity": "5"
         }
       ],
@@ -277379,6 +277379,11 @@
           "name": "Goblin champion scroll",
           "rarity": "1/5,000",
           "quantity": "1"
+        },
+        {
+          "name": "Goblin skull",
+          "rarity": "1/4",
+          "quantity": "1"
         }
       ],
       "rare_drop_table": []
@@ -373565,7 +373570,13 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [],
+      "regular": [
+        {
+          "name": "Lesser demon champion scroll",
+          "rarity": "1/5,000",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   },
@@ -373578,7 +373589,13 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [],
+      "regular": [
+        {
+          "name": "Lesser demon champion scroll",
+          "rarity": "1/5,000",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   },
@@ -373591,7 +373608,13 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [],
+      "regular": [
+        {
+          "name": "Lesser demon champion scroll",
+          "rarity": "1/5,000",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   },
@@ -373604,7 +373627,13 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [],
+      "regular": [
+        {
+          "name": "Lesser demon champion scroll",
+          "rarity": "1/5,000",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   },
@@ -373617,7 +373646,13 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [],
+      "regular": [
+        {
+          "name": "Lesser demon champion scroll",
+          "rarity": "1/5,000",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   },
@@ -409281,7 +409316,7 @@
     "name": "Thermonuclear smoke devil (Echo)",
     "id": null,
     "combat_level": 602,
-    "slayer_level": 1,
+    "slayer_level": 93,
     "is_members_only": true,
     "drops": {
       "regular": [
@@ -409406,13 +409441,7 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [
-        {
-          "name": "Gloves of the damned",
-          "rarity": "1/25",
-          "quantity": "1"
-        }
-      ],
+      "regular": [],
       "rare_drop_table": []
     }
   },
@@ -420216,13 +420245,7 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [
-        {
-          "name": "Sea hawk feather",
-          "rarity": "Always",
-          "quantity": "1"
-        }
-      ],
+      "regular": [],
       "rare_drop_table": []
     }
   },
@@ -438342,8 +438365,10 @@
   },
   {
     "name": "Amoxliatl (Echo)",
-    "id": null,
-    "combat_level": null,
+    "id": [
+      "13685"
+    ],
+    "combat_level": 328,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
