@@ -200930,7 +200930,7 @@
     "item_name": "Guardian horn",
     "item_name_variant": "Guardian horn",
     "item_id": [
-      "28769"
+      "hist28769"
     ],
     "weight": 0.2,
     "value": 1,
@@ -210298,7 +210298,7 @@
     "item_id": [
       "28769"
     ],
-    "weight": 0,
+    "weight": 0.2,
     "value": 0,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -211785,6 +211785,188 @@
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "The boots of a Demonic Relic Hunter.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Soulreaper axe (o)",
+    "item_name_variant": "Soulreaper axe (o)",
+    "item_id": [
+      "33335"
+    ],
+    "weight": 2.825,
+    "value": 240000,
+    "high_alchemy_value": 144000,
+    "buy_limit": 0,
+    "examine": "An axe that manipulates the very lifeforce of those who touch it.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Iban's staff (o)",
+    "item_name_variant": "Iban's staff (o)#Broken",
+    "item_id": [
+      "33333"
+    ],
+    "weight": 1.814,
+    "value": 20,
+    "high_alchemy_value": 12,
+    "buy_limit": 0,
+    "examine": "I'll need to get this repaired before I can use it.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Iban's staff (o)",
+    "item_name_variant": "Iban's staff (o)#Regular",
+    "item_id": [
+      "33330"
+    ],
+    "weight": 2.267,
+    "value": 42500,
+    "high_alchemy_value": 25500,
+    "buy_limit": 0,
+    "examine": "An ancient staff, formerly the property of Iban.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Iban's staff (u) (o)",
+    "item_name_variant": "Iban's staff (u) (o)",
+    "item_id": [
+      "33332"
+    ],
+    "weight": 2.267,
+    "value": 85000,
+    "high_alchemy_value": 51000,
+    "buy_limit": 0,
+    "examine": "An ancient staff, formerly owned by Iban, now upgraded to hold more charges.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Trident of the swamp (o)",
+    "item_name_variant": "Trident of the swamp (o)#Charged",
+    "item_id": [
+      "33314"
+    ],
+    "weight": 1.814,
+    "value": 78500,
+    "high_alchemy_value": 47100,
+    "buy_limit": 0,
+    "examine": "A toxic weapon from the deep.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Trident of the swamp (o)",
+    "item_name_variant": "Trident of the swamp (o)#Uncharged",
+    "item_id": [
+      "33316"
+    ],
+    "weight": 1.814,
+    "value": 78000,
+    "high_alchemy_value": 46800,
+    "buy_limit": 0,
+    "examine": "It needs to be charged with death runes, chaos runes, fire runes and Zulrah's scales.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Trident of the swamp (e) (o)",
+    "item_name_variant": "Trident of the swamp (e) (o)#Charged",
+    "item_id": [
+      "33318"
+    ],
+    "weight": 1.814,
+    "value": 108500,
+    "high_alchemy_value": 65100,
+    "buy_limit": 0,
+    "examine": "An enhanced toxic weapon from the deep.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Trident of the swamp (e) (o)",
+    "item_name_variant": "Trident of the swamp (e) (o)#Uncharged",
+    "item_id": [
+      "33320"
+    ],
+    "weight": 1.814,
+    "value": 108000,
+    "high_alchemy_value": 64800,
+    "buy_limit": 8,
+    "examine": "It needs to be charged with death runes, chaos runes, fire runes and Zulrah's scales.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Trident of the seas (o)",
+    "item_name_variant": "Trident of the seas (o)#Fully charged",
+    "item_id": [
+      "33323"
+    ],
+    "weight": 1.814,
+    "value": 69000,
+    "high_alchemy_value": 41400,
+    "buy_limit": 0,
+    "examine": "A weapon from the deep.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Trident of the seas (o)",
+    "item_name_variant": "Trident of the seas (o)#Partially charged",
+    "item_id": [
+      "33322"
+    ],
+    "weight": 1.814,
+    "value": 68500,
+    "high_alchemy_value": 41100,
+    "buy_limit": 0,
+    "examine": "A weapon from the deep.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Trident of the seas (e) (o)",
+    "item_name_variant": "Trident of the seas (e) (o)#Charged",
+    "item_id": [
+      "33326"
+    ],
+    "weight": 1.814,
+    "value": 98500,
+    "high_alchemy_value": 59100,
+    "buy_limit": 0,
+    "examine": "An enhanced weapon from the deep.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Trident of the seas (e) (o)",
+    "item_name_variant": "Trident of the seas (e) (o)#Uncharged",
+    "item_id": [
+      "33328"
+    ],
+    "weight": 1.814,
+    "value": 98000,
+    "high_alchemy_value": 58800,
+    "buy_limit": 0,
+    "examine": "It needs to be charged with death runes, chaos runes, fire runes and coins.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic slayer helmet",
+    "item_name_variant": "Demonic slayer helmet#Radiant",
+    "item_id": [
+      "33340"
+    ],
+    "weight": 1.814,
+    "value": 90000,
+    "high_alchemy_value": 54000,
+    "buy_limit": 0,
+    "examine": "You don't want to wear it inside-out.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic slayer helmet",
+    "item_name_variant": "Demonic slayer helmet#Regular",
+    "item_id": [
+      "33338"
+    ],
+    "weight": 1.814,
+    "value": 90000,
+    "high_alchemy_value": 54000,
+    "buy_limit": 0,
+    "examine": "You don't want to wear it inside-out.",
     "is_members_only": true
   }
 ]

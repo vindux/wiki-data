@@ -56913,11 +56913,6 @@
           "quantity": "1"
         },
         {
-          "name": "Ecumenical key",
-          "rarity": "1/60",
-          "quantity": "1"
-        },
-        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/70",
           "quantity": "1"
@@ -57605,11 +57600,6 @@
         {
           "name": "Looting bag",
           "rarity": "1/5",
-          "quantity": "1"
-        },
-        {
-          "name": "Ecumenical key",
-          "rarity": "1/60",
           "quantity": "1"
         },
         {
@@ -58303,11 +58293,6 @@
           "quantity": "1"
         },
         {
-          "name": "Ecumenical key",
-          "rarity": "1/60",
-          "quantity": "1"
-        },
-        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/70",
           "quantity": "1"
@@ -58995,11 +58980,6 @@
         {
           "name": "Looting bag",
           "rarity": "1/5",
-          "quantity": "1"
-        },
-        {
-          "name": "Ecumenical key",
-          "rarity": "1/60",
           "quantity": "1"
         },
         {
@@ -59693,11 +59673,6 @@
           "quantity": "1"
         },
         {
-          "name": "Ecumenical key",
-          "rarity": "1/60",
-          "quantity": "1"
-        },
-        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/70",
           "quantity": "1"
@@ -60388,11 +60363,6 @@
           "quantity": "1"
         },
         {
-          "name": "Ecumenical key",
-          "rarity": "1/60",
-          "quantity": "1"
-        },
-        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/70",
           "quantity": "1"
@@ -61080,11 +61050,6 @@
         {
           "name": "Looting bag",
           "rarity": "1/5",
-          "quantity": "1"
-        },
-        {
-          "name": "Ecumenical key",
-          "rarity": "1/60",
           "quantity": "1"
         },
         {
@@ -240765,7 +240730,7 @@
       "9731",
       "9732",
       "9733",
-      "9744"
+      "9734"
     ],
     "combat_level": 45,
     "slayer_level": 1,
@@ -438365,11 +438330,9 @@
   },
   {
     "name": "Amoxliatl (Echo)",
-    "id": [
-      "13685"
-    ],
+    "id": null,
     "combat_level": 328,
-    "slayer_level": 1,
+    "slayer_level": 48,
     "is_members_only": true,
     "drops": {
       "regular": [
@@ -438379,6 +438342,20 @@
           "quantity": "1"
         }
       ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Black dragon",
+    "id": [
+      "14146",
+      "15610"
+    ],
+    "combat_level": 227,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
       "rare_drop_table": []
     }
   }

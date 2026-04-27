@@ -31848,7 +31848,7 @@
     "attack_speed": 4,
     "attribute": [],
     "max_hit": [
-      "115% of targeted player's max hit'\"`UNIQ--ref-00000124-QINU`\"'"
+      "115% of targeted player's max hit'\"`UNIQ--ref-000000B0-QINU`\"'"
     ],
     "attack_style": [
       "Slash"
@@ -59039,7 +59039,7 @@
     "venom_immune": "Immune",
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
-    "burn_immune": "unknown"
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "Enormous Tentacle",
@@ -71134,7 +71134,7 @@
       "9731",
       "9732",
       "9733",
-      "9744"
+      "9734"
     ],
     "combat_level": 45,
     "hitpoints": 60,
@@ -72243,7 +72243,7 @@
     "slayer_level": 85,
     "slayer_experience": 50,
     "size": 2,
-    "examine": "'\"`UNIQ--nowiki-00000053-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
+    "examine": "'\"`UNIQ--nowiki-000000C9-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
     "poison_immune": "Immune",
     "venom_immune": "Immune",
     "thrall_immune": "Not immune",
@@ -87411,7 +87411,7 @@
     "attack_speed": 10,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-000000AB-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-00000121-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -87461,7 +87461,7 @@
     "attack_speed": 7,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-000000AB-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-00000121-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -89590,7 +89590,7 @@
       "15 (melee) 33 (special attack)"
     ],
     "attack_style": [
-      "Slash '\"`UNIQ--ref-00000027-QINU`\"'"
+      "Slash '\"`UNIQ--ref-000000FB-QINU`\"'"
     ],
     "experience_bonus": 0,
     "is_members_only": true,
@@ -99376,7 +99376,7 @@
     ],
     "max_hit": [
       "46 (auto-attacks)",
-      "121 (Meteor Strike)",
+      "160 (Meteor Strike)",
       "80 (Shadow Stomp)"
     ],
     "attack_style": [
@@ -99431,7 +99431,7 @@
     ],
     "max_hit": [
       "46 (auto-attacks)",
-      "121 (Meteor Strike)",
+      "160 (Meteor Strike)",
       "80 (Shadow Stomp)"
     ],
     "attack_style": [
@@ -111105,7 +111105,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "30-37 (Melee)'\"`UNIQ--ref-0000001A-QINU`\"'",
+      "30-37 (Melee)'\"`UNIQ--ref-0000000F-QINU`\"'",
       "?? (axes)"
     ],
     "attack_style": [
@@ -111156,7 +111156,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "46-61 (Melee)'\"`UNIQ--ref-00000019-QINU`\"'",
+      "46-61 (Melee)'\"`UNIQ--ref-0000000E-QINU`\"'",
       "96 (axes)"
     ],
     "attack_style": [
@@ -111207,7 +111207,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "32-43 (Melee)'\"`UNIQ--ref-00000018-QINU`\"'",
+      "32-43 (Melee)'\"`UNIQ--ref-0000000D-QINU`\"'",
       "35 (axes)"
     ],
     "attack_style": [
@@ -122617,7 +122617,7 @@
     "poison_immune": "Not immune",
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
-    "cannon_immune": "unknown",
+    "cannon_immune": "Immune",
     "burn_immune": "unknown"
   },
   {
@@ -122668,7 +122668,7 @@
     "poison_immune": "Not immune",
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
-    "cannon_immune": "unknown",
+    "cannon_immune": "Immune",
     "burn_immune": "unknown"
   },
   {
@@ -123554,7 +123554,7 @@
     "crush_defence_bonus": 80,
     "magic_defence_bonus": 200,
     "elemental_weakness": "Air",
-    "elemental_weakness_percent": "unknown",
+    "elemental_weakness_percent": 15,
     "light_range_defence_bonus": 50,
     "standard_range_defence_bonus": 50,
     "heavy_range_defence_bonus": 50,
@@ -130154,7 +130154,7 @@
     ],
     "attack_style": [
       "Crush",
-      "'\"`UNIQ--ref-00000090-QINU`\"' Magic",
+      "'\"`UNIQ--ref-00000047-QINU`\"' Magic",
       "Ranged"
     ],
     "experience_bonus": 67.5,
@@ -140723,9 +140723,9 @@
     "magic_damage_bonus": 0,
     "range_attack_bonus": 0,
     "range_strength_bonus": 0,
-    "stab_defence_bonus": 100,
-    "slash_defence_bonus": 100,
-    "crush_defence_bonus": 100,
+    "stab_defence_bonus": 50,
+    "slash_defence_bonus": 50,
+    "crush_defence_bonus": 50,
     "magic_defence_bonus": 10,
     "elemental_weakness": "None",
     "elemental_weakness_percent": 0,
@@ -140777,12 +140777,12 @@
     "stab_defence_bonus": 50,
     "slash_defence_bonus": 50,
     "crush_defence_bonus": 10,
-    "magic_defence_bonus": 100,
+    "magic_defence_bonus": 65,
     "elemental_weakness": "None",
     "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": 100,
-    "standard_range_defence_bonus": 100,
-    "heavy_range_defence_bonus": 100,
+    "light_range_defence_bonus": 65,
+    "standard_range_defence_bonus": 65,
+    "heavy_range_defence_bonus": 65,
     "flat_armour": 0,
     "attack_speed": 4,
     "attribute": [
@@ -140827,12 +140827,12 @@
     "stab_defence_bonus": 50,
     "slash_defence_bonus": 100,
     "crush_defence_bonus": 25,
-    "magic_defence_bonus": 100,
+    "magic_defence_bonus": 70,
     "elemental_weakness": "Water",
     "elemental_weakness_percent": 40,
-    "light_range_defence_bonus": 100,
-    "standard_range_defence_bonus": 100,
-    "heavy_range_defence_bonus": 100,
+    "light_range_defence_bonus": 70,
+    "standard_range_defence_bonus": 70,
+    "heavy_range_defence_bonus": 70,
     "flat_armour": 0,
     "attack_speed": 6,
     "attribute": [
@@ -140929,14 +140929,16 @@
     "slash_defence_bonus": 0,
     "crush_defence_bonus": 0,
     "magic_defence_bonus": 80,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
+    "elemental_weakness": "Earth",
+    "elemental_weakness_percent": 70,
     "light_range_defence_bonus": 0,
     "standard_range_defence_bonus": 0,
     "heavy_range_defence_bonus": 0,
     "flat_armour": 0,
     "attack_speed": 6,
-    "attribute": [],
+    "attribute": [
+      "golem"
+    ],
     "max_hit": [
       "12"
     ],
@@ -140978,14 +140980,16 @@
     "slash_defence_bonus": 0,
     "crush_defence_bonus": 0,
     "magic_defence_bonus": 0,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
+    "elemental_weakness": "Earth",
+    "elemental_weakness_percent": 40,
     "light_range_defence_bonus": 0,
     "standard_range_defence_bonus": 0,
     "heavy_range_defence_bonus": 0,
     "flat_armour": 0,
     "attack_speed": 6,
-    "attribute": [],
+    "attribute": [
+      "golem"
+    ],
     "max_hit": [
       "17"
     ],
@@ -141027,14 +141031,16 @@
     "slash_defence_bonus": 0,
     "crush_defence_bonus": 0,
     "magic_defence_bonus": 0,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
+    "elemental_weakness": "Earth",
+    "elemental_weakness_percent": 40,
     "light_range_defence_bonus": 0,
     "standard_range_defence_bonus": 0,
     "heavy_range_defence_bonus": 0,
     "flat_armour": 0,
     "attack_speed": 6,
-    "attribute": [],
+    "attribute": [
+      "golem"
+    ],
     "max_hit": [
       "32 (flame cone)",
       "21 x 2 (ranged orbs)",
@@ -141220,9 +141226,9 @@
     "magic_defence_bonus": 800,
     "elemental_weakness": "air",
     "elemental_weakness_percent": 20,
-    "light_range_defence_bonus": 900,
-    "standard_range_defence_bonus": 900,
-    "heavy_range_defence_bonus": 900,
+    "light_range_defence_bonus": 90,
+    "standard_range_defence_bonus": 90,
+    "heavy_range_defence_bonus": 90,
     "flat_armour": 0,
     "attack_speed": 2,
     "attribute": [],
@@ -141406,12 +141412,12 @@
     "stab_defence_bonus": 10,
     "slash_defence_bonus": 10,
     "crush_defence_bonus": 10,
-    "magic_defence_bonus": 255,
+    "magic_defence_bonus": 100,
     "elemental_weakness": "None",
     "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": 550,
-    "standard_range_defence_bonus": 550,
-    "heavy_range_defence_bonus": 550,
+    "light_range_defence_bonus": 150,
+    "standard_range_defence_bonus": 150,
+    "heavy_range_defence_bonus": 150,
     "flat_armour": 0,
     "attack_speed": 5,
     "attribute": [],
@@ -141450,15 +141456,15 @@
     "magic_damage_bonus": 0,
     "range_attack_bonus": 0,
     "range_strength_bonus": 0,
-    "stab_defence_bonus": 255,
-    "slash_defence_bonus": 255,
-    "crush_defence_bonus": 255,
+    "stab_defence_bonus": 100,
+    "slash_defence_bonus": 100,
+    "crush_defence_bonus": 100,
     "magic_defence_bonus": 10,
     "elemental_weakness": "None",
     "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": 255,
-    "standard_range_defence_bonus": 255,
-    "heavy_range_defence_bonus": 255,
+    "light_range_defence_bonus": 100,
+    "standard_range_defence_bonus": 100,
+    "heavy_range_defence_bonus": 100,
     "flat_armour": 0,
     "attack_speed": 5,
     "attribute": [],
@@ -141497,10 +141503,10 @@
     "magic_damage_bonus": 0,
     "range_attack_bonus": 0,
     "range_strength_bonus": 0,
-    "stab_defence_bonus": 255,
-    "slash_defence_bonus": 255,
-    "crush_defence_bonus": 255,
-    "magic_defence_bonus": 255,
+    "stab_defence_bonus": 100,
+    "slash_defence_bonus": 100,
+    "crush_defence_bonus": 100,
+    "magic_defence_bonus": 100,
     "elemental_weakness": "None",
     "elemental_weakness_percent": 0,
     "light_range_defence_bonus": 10,
@@ -141534,7 +141540,7 @@
       "override7888"
     ],
     "combat_level": 656,
-    "hitpoints": 450,
+    "hitpoints": 1080,
     "attack_level": 345,
     "strength_level": 287,
     "defence_level": 187,
@@ -141559,7 +141565,10 @@
     "attack_speed": 6,
     "attribute": [],
     "max_hit": [
-      "32 (flame cone)\n\n21 x 2 (ranged orbs)\n\n20 x 4 (flame wall)\n\n32 (trample)"
+      "32 (flame cone)",
+      "21 x 2 (ranged orbs)",
+      "20 x 4 (flame wall)",
+      "32 (trample)"
     ],
     "attack_style": [
       "Slash"
@@ -145689,7 +145698,7 @@
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 1,
-    "examine": "'\"`UNIQ--nowiki-0000011B-QINU`\"'whispers*The seas are not lackin' kraken.",
+    "examine": "'\"`UNIQ--nowiki-0000011C-QINU`\"'whispers*The seas are not lackin' kraken.",
     "poison_immune": "Not immune",
     "venom_immune": "Not immune",
     "thrall_immune": "unknown",
@@ -159046,9 +159055,7 @@
   {
     "page_name": "Amoxliatl (Echo)",
     "name": "Amoxliatl (Echo)",
-    "id": [
-      "13685"
-    ],
+    "id": "unknown",
     "combat_level": 328,
     "hitpoints": 650,
     "attack_level": 0,
@@ -159065,12 +159072,12 @@
     "stab_defence_bonus": 100,
     "slash_defence_bonus": 100,
     "crush_defence_bonus": 40,
-    "magic_defence_bonus": 100,
+    "magic_defence_bonus": 20,
     "elemental_weakness": "fire",
     "elemental_weakness_percent": 30,
-    "light_range_defence_bonus": 200,
-    "standard_range_defence_bonus": 200,
-    "heavy_range_defence_bonus": 200,
+    "light_range_defence_bonus": 40,
+    "standard_range_defence_bonus": 40,
+    "heavy_range_defence_bonus": 40,
     "flat_armour": -2,
     "attack_speed": 8,
     "attribute": [
@@ -159084,14 +159091,60 @@
     ],
     "experience_bonus": 0,
     "is_members_only": true,
-    "slayer_level": 1,
+    "slayer_level": 48,
     "slayer_experience": 0,
-    "size": "unknown",
+    "size": 3,
     "examine": "A powerful frost nagua.",
     "poison_immune": "Immune",
     "venom_immune": "Immune",
     "thrall_immune": "unknown",
     "cannon_immune": "Immune",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Black dragon (Echo)",
+    "name": "Black dragon",
+    "id": [
+      "14146",
+      "15610"
+    ],
+    "combat_level": 227,
+    "hitpoints": "unknown",
+    "attack_level": "unknown",
+    "strength_level": "unknown",
+    "defence_level": "unknown",
+    "magic_level": "unknown",
+    "ranged_level": "unknown",
+    "attack_bonus": "unknown",
+    "strength_bonus": "unknown",
+    "magic_attack_bonus": "unknown",
+    "magic_damage_bonus": "unknown",
+    "range_attack_bonus": "unknown",
+    "range_strength_bonus": "unknown",
+    "stab_defence_bonus": "unknown",
+    "slash_defence_bonus": "unknown",
+    "crush_defence_bonus": "unknown",
+    "magic_defence_bonus": "unknown",
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": "unknown",
+    "standard_range_defence_bonus": "unknown",
+    "heavy_range_defence_bonus": "unknown",
+    "flat_armour": 0,
+    "attack_speed": "unknown",
+    "attribute": [],
+    "max_hit": "unknown",
+    "attack_style": "unknown",
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 4,
+    "examine": "A fierce dragon with black scales!",
+    "poison_immune": "unknown",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "unknown",
     "burn_immune": "unknown"
   }
 ]
