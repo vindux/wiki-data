@@ -383793,7 +383793,7 @@
   {
     "name": "Unbound JalTok-Jad",
     "id": [
-      "hist10623"
+      "override10623"
     ],
     "combat_level": 1350,
     "slayer_level": 1,
@@ -409172,7 +409172,9 @@
   },
   {
     "name": "King Black Dragon (Echo)",
-    "id": null,
+    "id": [
+      "239"
+    ],
     "combat_level": 414,
     "slayer_level": 1,
     "is_members_only": true,
@@ -409301,7 +409303,9 @@
   },
   {
     "name": "Corrupted Hunllef (Echo)",
-    "id": null,
+    "id": [
+      "override9037"
+    ],
     "combat_level": 1117,
     "slayer_level": 1,
     "is_members_only": true,
@@ -409318,7 +409322,9 @@
   },
   {
     "name": "Hespori (Echo)",
-    "id": null,
+    "id": [
+      "override8583"
+    ],
     "combat_level": 426,
     "slayer_level": 1,
     "is_members_only": true,
@@ -409348,7 +409354,9 @@
   },
   {
     "name": "Dagannoth Supreme (Echo)",
-    "id": null,
+    "id": [
+      "override2265"
+    ],
     "combat_level": 681,
     "slayer_level": 1,
     "is_members_only": true,
@@ -409365,7 +409373,9 @@
   },
   {
     "name": "Dagannoth Rex (Echo)",
-    "id": null,
+    "id": [
+      "override2267"
+    ],
     "combat_level": 454,
     "slayer_level": 1,
     "is_members_only": true,
@@ -409382,7 +409392,9 @@
   },
   {
     "name": "Dagannoth Prime (Echo)",
-    "id": null,
+    "id": [
+      "override2266"
+    ],
     "combat_level": 454,
     "slayer_level": 1,
     "is_members_only": true,
@@ -419715,18 +419727,7 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [
-        {
-          "name": "Raw seal meat",
-          "rarity": "1/18",
-          "quantity": "1"
-        },
-        {
-          "name": "Famished shark fin",
-          "rarity": "1/3",
-          "quantity": "1"
-        }
-      ],
+      "regular": [],
       "rare_drop_table": []
     }
   },
@@ -419739,13 +419740,7 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [
-        {
-          "name": "Raw seal meat",
-          "rarity": "1/18",
-          "quantity": "1"
-        }
-      ],
+      "regular": [],
       "rare_drop_table": []
     }
   },
@@ -419758,13 +419753,7 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [
-        {
-          "name": "Raw seal meat",
-          "rarity": "1/18",
-          "quantity": "1"
-        }
-      ],
+      "regular": [],
       "rare_drop_table": []
     }
   },
@@ -420331,13 +420320,7 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [
-        {
-          "name": "Raw seal meat",
-          "rarity": "Unknown",
-          "quantity": "1"
-        }
-      ],
+      "regular": [],
       "rare_drop_table": []
     }
   },
@@ -438330,7 +438313,9 @@
   },
   {
     "name": "Amoxliatl (Echo)",
-    "id": null,
+    "id": [
+      "override13685"
+    ],
     "combat_level": 328,
     "slayer_level": 48,
     "is_members_only": true,
