@@ -50967,7 +50967,6 @@
     "item_name": "Lava scale shard",
     "item_name_variant": "Lava scale shard",
     "item_id": [
-      "3256",
       "11994"
     ],
     "weight": 0,
@@ -185939,7 +185938,7 @@
     "item_id": [
       "30843"
     ],
-    "weight": 0.002,
+    "weight": 0,
     "value": 300,
     "high_alchemy_value": 180,
     "buy_limit": 25000,
@@ -187829,7 +187828,7 @@
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Get your maces from Iwan's Maces.",
-    "is_members_only": true
+    "is_members_only": false
   },
   {
     "item_name": "Beaver (larch)",
@@ -200350,7 +200349,7 @@
     "weight": 1,
     "value": 5,
     "high_alchemy_value": 3,
-    "buy_limit": 0,
+    "buy_limit": 250,
     "examine": "A sturdy container packed with ice and full to the brim with giant krill.",
     "is_members_only": true
   },
@@ -200376,7 +200375,7 @@
     "weight": 1,
     "value": 5,
     "high_alchemy_value": 3,
-    "buy_limit": 0,
+    "buy_limit": 250,
     "examine": "A sturdy container packed with ice and full to the brim with haddock.",
     "is_members_only": true
   },
@@ -200402,7 +200401,7 @@
     "weight": 1,
     "value": 5,
     "high_alchemy_value": 3,
-    "buy_limit": 0,
+    "buy_limit": 250,
     "examine": "A sturdy container packed with ice and full to the brim with yellowfin.",
     "is_members_only": true
   },
@@ -200428,7 +200427,7 @@
     "weight": 1,
     "value": 5,
     "high_alchemy_value": 3,
-    "buy_limit": 0,
+    "buy_limit": 250,
     "examine": "A sturdy container packed with ice and full to the brim with halibut.",
     "is_members_only": true
   },
@@ -200454,7 +200453,7 @@
     "weight": 1,
     "value": 5,
     "high_alchemy_value": 3,
-    "buy_limit": 0,
+    "buy_limit": 250,
     "examine": "A sturdy container packed with ice and full to the brim with bluefin.",
     "is_members_only": true
   },

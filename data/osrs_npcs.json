@@ -87411,7 +87411,7 @@
     "attack_speed": 10,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-0000007A-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-000000AF-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -87461,7 +87461,7 @@
     "attack_speed": 7,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-0000007A-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-000000AF-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -111105,7 +111105,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "30-37 (Melee)'\"`UNIQ--ref-0000007A-QINU`\"'",
+      "30-37 (Melee)'\"`UNIQ--ref-00000034-QINU`\"'",
       "?? (axes)"
     ],
     "attack_style": [
@@ -111156,7 +111156,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "46-61 (Melee)'\"`UNIQ--ref-00000079-QINU`\"'",
+      "46-61 (Melee)'\"`UNIQ--ref-00000033-QINU`\"'",
       "96 (axes)"
     ],
     "attack_style": [
@@ -111207,7 +111207,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "32-43 (Melee)'\"`UNIQ--ref-00000078-QINU`\"'",
+      "32-43 (Melee)'\"`UNIQ--ref-00000032-QINU`\"'",
       "35 (axes)"
     ],
     "attack_style": [
@@ -120323,7 +120323,9 @@
     "attribute": [
       "undead"
     ],
-    "max_hit": "unknown",
+    "max_hit": [
+      "10?"
+    ],
     "attack_style": "unknown",
     "experience_bonus": 0,
     "is_members_only": false,
@@ -120370,7 +120372,9 @@
     "attribute": [
       "undead"
     ],
-    "max_hit": "unknown",
+    "max_hit": [
+      "10?"
+    ],
     "attack_style": "unknown",
     "experience_bonus": 0,
     "is_members_only": false,
@@ -120417,7 +120421,9 @@
     "attribute": [
       "undead"
     ],
-    "max_hit": "unknown",
+    "max_hit": [
+      "10?"
+    ],
     "attack_style": "unknown",
     "experience_bonus": 0,
     "is_members_only": false,
@@ -120464,7 +120470,9 @@
     "attribute": [
       "undead"
     ],
-    "max_hit": "unknown",
+    "max_hit": [
+      "10?"
+    ],
     "attack_style": "unknown",
     "experience_bonus": 0,
     "is_members_only": false,
@@ -120511,7 +120519,9 @@
     "attribute": [
       "undead"
     ],
-    "max_hit": "unknown",
+    "max_hit": [
+      "10?"
+    ],
     "attack_style": "unknown",
     "experience_bonus": 0,
     "is_members_only": false,
@@ -120558,7 +120568,9 @@
     "attribute": [
       "undead"
     ],
-    "max_hit": "unknown",
+    "max_hit": [
+      "10?"
+    ],
     "attack_style": "unknown",
     "experience_bonus": 0,
     "is_members_only": false,
@@ -120605,7 +120617,9 @@
     "attribute": [
       "undead"
     ],
-    "max_hit": "unknown",
+    "max_hit": [
+      "10?"
+    ],
     "attack_style": "unknown",
     "experience_bonus": 0,
     "is_members_only": false,
@@ -129417,8 +129431,8 @@
     "slash_defence_bonus": 0,
     "crush_defence_bonus": 0,
     "magic_defence_bonus": 0,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
+    "elemental_weakness": "Water",
+    "elemental_weakness_percent": 40,
     "light_range_defence_bonus": 0,
     "standard_range_defence_bonus": 0,
     "heavy_range_defence_bonus": 0,
@@ -129443,7 +129457,7 @@
     "venom_immune": "unknown",
     "thrall_immune": "unknown",
     "cannon_immune": "Immune",
-    "burn_immune": "unknown"
+    "burn_immune": "Immune (normal)"
   },
   {
     "page_name": "Earth warrior (RuneScape 2 Beta)",
@@ -130154,7 +130168,7 @@
     ],
     "attack_style": [
       "Crush",
-      "'\"`UNIQ--ref-000000A7-QINU`\"' Magic",
+      "'\"`UNIQ--ref-000000A9-QINU`\"' Magic",
       "Ranged"
     ],
     "experience_bonus": 67.5,
@@ -140894,7 +140908,7 @@
     ],
     "max_hit": "unknown",
     "attack_style": [
-      "Dragonbreath"
+      "Dragonfire"
     ],
     "experience_bonus": 0,
     "is_members_only": true,
@@ -141208,7 +141222,9 @@
   {
     "page_name": "Thermonuclear smoke devil (Echo)",
     "name": "Thermonuclear smoke devil (Echo)",
-    "id": "unknown",
+    "id": [
+      "override499"
+    ],
     "combat_level": 602,
     "hitpoints": 1200,
     "attack_level": 230,
@@ -145715,7 +145731,7 @@
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 1,
-    "examine": "'\"`UNIQ--nowiki-00000076-QINU`\"'whispers*The seas are not lackin' kraken.",
+    "examine": "'\"`UNIQ--nowiki-00000080-QINU`\"'whispers*The seas are not lackin' kraken.",
     "poison_immune": "unknown",
     "venom_immune": "unknown",
     "thrall_immune": "unknown",
@@ -159108,10 +159124,10 @@
     "attack_style": [
       "Magic"
     ],
-    "experience_bonus": 0,
+    "experience_bonus": 5,
     "is_members_only": true,
     "slayer_level": 48,
-    "slayer_experience": 0,
+    "slayer_experience": 682.5,
     "size": 3,
     "examine": "A powerful frost nagua.",
     "poison_immune": "unknown",
@@ -159128,12 +159144,12 @@
       "15610"
     ],
     "combat_level": 227,
-    "hitpoints": "unknown",
-    "attack_level": "unknown",
-    "strength_level": "unknown",
-    "defence_level": "unknown",
-    "magic_level": "unknown",
-    "ranged_level": "unknown",
+    "hitpoints": 190,
+    "attack_level": 200,
+    "strength_level": 200,
+    "defence_level": 200,
+    "magic_level": 100,
+    "ranged_level": 1,
     "attack_bonus": "unknown",
     "strength_bonus": "unknown",
     "magic_attack_bonus": "unknown",

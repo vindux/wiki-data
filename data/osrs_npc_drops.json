@@ -409281,7 +409281,9 @@
   },
   {
     "name": "Thermonuclear smoke devil (Echo)",
-    "id": null,
+    "id": [
+      "override499"
+    ],
     "combat_level": 602,
     "slayer_level": 93,
     "is_members_only": true,
