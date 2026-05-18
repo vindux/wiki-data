@@ -86929,55 +86929,7 @@
     "page_name": "Bear Cub",
     "name": "Bear Cub",
     "id": [
-      "3908"
-    ],
-    "combat_level": 15,
-    "hitpoints": 20,
-    "attack_level": 10,
-    "strength_level": 15,
-    "defence_level": 10,
-    "magic_level": 1,
-    "ranged_level": 1,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 0,
-    "magic_damage_bonus": 0,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 0,
-    "slash_defence_bonus": 0,
-    "crush_defence_bonus": 0,
-    "magic_defence_bonus": 0,
-    "elemental_weakness": "Fire",
-    "elemental_weakness_percent": 25,
-    "light_range_defence_bonus": 0,
-    "standard_range_defence_bonus": 0,
-    "heavy_range_defence_bonus": 0,
-    "flat_armour": 0,
-    "attack_speed": 4,
-    "attribute": [],
-    "max_hit": [
-      "2"
-    ],
-    "attack_style": [
-      "Slash"
-    ],
-    "experience_bonus": 0,
-    "is_members_only": true,
-    "slayer_level": 1,
-    "slayer_experience": 20,
-    "size": 2,
-    "examine": "Cute. But deadly.",
-    "poison_immune": "unknown",
-    "venom_immune": "unknown",
-    "thrall_immune": "unknown",
-    "cannon_immune": "unknown",
-    "burn_immune": "unknown"
-  },
-  {
-    "page_name": "Bear Cub",
-    "name": "Bear Cub",
-    "id": [
+      "3908",
       "3909"
     ],
     "combat_level": 15,
@@ -87411,7 +87363,7 @@
     "attack_speed": 10,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-000000AF-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-00000001-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -87461,7 +87413,7 @@
     "attack_speed": 7,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-000000AF-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-00000001-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -111105,7 +111057,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "30-37 (Melee)'\"`UNIQ--ref-00000034-QINU`\"'",
+      "30-37 (Melee)'\"`UNIQ--ref-0000009C-QINU`\"'",
       "?? (axes)"
     ],
     "attack_style": [
@@ -111156,7 +111108,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "46-61 (Melee)'\"`UNIQ--ref-00000033-QINU`\"'",
+      "46-61 (Melee)'\"`UNIQ--ref-0000009B-QINU`\"'",
       "96 (axes)"
     ],
     "attack_style": [
@@ -111207,7 +111159,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "32-43 (Melee)'\"`UNIQ--ref-00000032-QINU`\"'",
+      "32-43 (Melee)'\"`UNIQ--ref-0000009A-QINU`\"'",
       "35 (axes)"
     ],
     "attack_style": [
@@ -113992,10 +113944,10 @@
     "magic_damage_bonus": "unknown",
     "range_attack_bonus": "unknown",
     "range_strength_bonus": "unknown",
-    "stab_defence_bonus": "unknown",
-    "slash_defence_bonus": "unknown",
-    "crush_defence_bonus": "unknown",
-    "magic_defence_bonus": "unknown",
+    "stab_defence_bonus": 275,
+    "slash_defence_bonus": 275,
+    "crush_defence_bonus": 275,
+    "magic_defence_bonus": 900,
     "elemental_weakness": "None",
     "elemental_weakness_percent": 0,
     "light_range_defence_bonus": "unknown",
@@ -114037,10 +113989,10 @@
     "magic_damage_bonus": "unknown",
     "range_attack_bonus": "unknown",
     "range_strength_bonus": "unknown",
-    "stab_defence_bonus": "unknown",
-    "slash_defence_bonus": "unknown",
-    "crush_defence_bonus": "unknown",
-    "magic_defence_bonus": "unknown",
+    "stab_defence_bonus": 275,
+    "slash_defence_bonus": 275,
+    "crush_defence_bonus": 275,
+    "magic_defence_bonus": 900,
     "elemental_weakness": "None",
     "elemental_weakness_percent": 0,
     "light_range_defence_bonus": "unknown",
@@ -130168,7 +130120,7 @@
     ],
     "attack_style": [
       "Crush",
-      "'\"`UNIQ--ref-000000A9-QINU`\"' Magic",
+      "'\"`UNIQ--ref-000000B5-QINU`\"' Magic",
       "Ranged"
     ],
     "experience_bonus": 67.5,
@@ -130859,8 +130811,8 @@
     "attack_speed": 0,
     "attribute": [],
     "max_hit": [
-      "45 (Typeless AOE)",
-      "45 (Grapple)",
+      "44 (Typeless AOE)",
+      "44 (Grapple)",
       "15-25-35 (Triple Parry 1)",
       "15-30-45 (Triple Parry 2)"
     ],
@@ -145731,7 +145683,7 @@
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 1,
-    "examine": "'\"`UNIQ--nowiki-00000080-QINU`\"'whispers*The seas are not lackin' kraken.",
+    "examine": "'\"`UNIQ--nowiki-00000055-QINU`\"'whispers*The seas are not lackin' kraken.",
     "poison_immune": "unknown",
     "venom_immune": "unknown",
     "thrall_immune": "unknown",

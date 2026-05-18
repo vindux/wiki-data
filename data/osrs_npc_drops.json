@@ -24480,6 +24480,11 @@
           "quantity": "1"
         },
         {
+          "name": "Immaculate mole skin",
+          "rarity": "1/50",
+          "quantity": "1"
+        },
+        {
           "name": "Brimstone key",
           "rarity": "1/74",
           "quantity": "1"
@@ -146850,6 +146855,11 @@
           "name": "Casket",
           "rarity": "5/128",
           "quantity": "1"
+        },
+        {
+          "name": "Troll bone",
+          "rarity": "1/4",
+          "quantity": "1"
         }
       ],
       "rare_drop_table": []
@@ -146943,6 +146953,11 @@
         {
           "name": "Casket",
           "rarity": "5/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Troll bone",
+          "rarity": "1/4",
           "quantity": "1"
         }
       ],
@@ -147038,6 +147053,11 @@
           "name": "Casket",
           "rarity": "5/128",
           "quantity": "1"
+        },
+        {
+          "name": "Troll bone",
+          "rarity": "1/4",
+          "quantity": "1"
         }
       ],
       "rare_drop_table": []
@@ -147131,6 +147151,11 @@
         {
           "name": "Casket",
           "rarity": "5/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Troll bone",
+          "rarity": "1/4",
           "quantity": "1"
         }
       ],
@@ -147226,6 +147251,11 @@
           "name": "Casket",
           "rarity": "5/128",
           "quantity": "1"
+        },
+        {
+          "name": "Troll bone",
+          "rarity": "1/4",
+          "quantity": "1"
         }
       ],
       "rare_drop_table": []
@@ -147319,6 +147349,11 @@
         {
           "name": "Casket",
           "rarity": "5/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Troll bone",
+          "rarity": "1/4",
           "quantity": "1"
         }
       ],
@@ -302859,50 +302894,7 @@
   {
     "name": "Bear Cub",
     "id": [
-      "3908"
-    ],
-    "combat_level": 15,
-    "slayer_level": 1,
-    "is_members_only": true,
-    "drops": {
-      "regular": [
-        {
-          "name": "Bones",
-          "rarity": "Always",
-          "quantity": "1"
-        },
-        {
-          "name": "Bear fur",
-          "rarity": "Always",
-          "quantity": "1"
-        },
-        {
-          "name": "Raw bear meat",
-          "rarity": "Always",
-          "quantity": "1"
-        },
-        {
-          "name": "Bear ribs",
-          "rarity": "Always",
-          "quantity": "1"
-        },
-        {
-          "name": "Ensouled bear head",
-          "rarity": "1/25",
-          "quantity": "1"
-        },
-        {
-          "name": "Clue scroll (beginner)",
-          "rarity": "1/90",
-          "quantity": "1"
-        }
-      ],
-      "rare_drop_table": []
-    }
-  },
-  {
-    "name": "Bear Cub",
-    "id": [
+      "3908",
       "3909"
     ],
     "combat_level": 15,

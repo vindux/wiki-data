@@ -112211,6 +112211,32 @@
     "is_members_only": true
   },
   {
+    "item_name": "Gem sack",
+    "item_name_variant": "Gem sack#Open",
+    "item_id": [
+      "33395"
+    ],
+    "weight": 1,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "You can carry uncut gems in here.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Gem sack",
+    "item_name_variant": "Gem sack#Closed",
+    "item_id": [
+      "33393"
+    ],
+    "weight": 1,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "You can carry uncut gems in here.",
+    "is_members_only": true
+  },
+  {
     "item_name": "Coin purse",
     "item_name_variant": "Coin purse#Empty",
     "item_id": [
@@ -113990,6 +114016,32 @@
     "buy_limit": 0,
     "examine": "Pie might just about meet the critera.",
     "is_members_only": false
+  },
+  {
+    "item_name": "Gem pouch",
+    "item_name_variant": "Gem pouch#Open",
+    "item_id": [
+      "33386"
+    ],
+    "weight": 1,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "You can carry uncut gems in here.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Gem pouch",
+    "item_name_variant": "Gem pouch#Closed",
+    "item_id": [
+      "33384"
+    ],
+    "weight": 1,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "You can carry uncut gems in here.",
+    "is_members_only": true
   },
   {
     "item_name": "Larran's key",
@@ -173131,7 +173183,7 @@
     "weight": 3,
     "value": 80,
     "high_alchemy_value": 48,
-    "buy_limit": 0,
+    "buy_limit": 10000,
     "examine": "This would make nice clothing.",
     "is_members_only": true
   },
@@ -210448,6 +210500,32 @@
     "is_members_only": true
   },
   {
+    "item_name": "Gem tote",
+    "item_name_variant": "Gem tote#Open",
+    "item_id": [
+      "33392"
+    ],
+    "weight": 1,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "You can carry uncut gems in here.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Gem tote",
+    "item_name_variant": "Gem tote#Closed",
+    "item_id": [
+      "33390"
+    ],
+    "weight": 1,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "You can carry uncut gems in here.",
+    "is_members_only": true
+  },
+  {
     "item_name": "Flask of fervour (item)",
     "item_name_variant": "Flask of fervour (item)#Full",
     "item_id": [
@@ -211948,7 +212026,7 @@
     "item_id": [
       "33340"
     ],
-    "weight": 1.814,
+    "weight": 2.267,
     "value": 90000,
     "high_alchemy_value": 54000,
     "buy_limit": 0,
@@ -211961,11 +212039,50 @@
     "item_id": [
       "33338"
     ],
-    "weight": 1.814,
+    "weight": 2.267,
     "value": 90000,
     "high_alchemy_value": 54000,
     "buy_limit": 0,
     "examine": "You don't want to wear it inside-out.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Gem satchel",
+    "item_name_variant": "Gem satchel#Open",
+    "item_id": [
+      "33389"
+    ],
+    "weight": 1,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "You can carry uncut gems in here.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Gem satchel",
+    "item_name_variant": "Gem satchel#Closed",
+    "item_id": [
+      "33387"
+    ],
+    "weight": 1,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "You can carry uncut gems in here.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Immaculate mole skin",
+    "item_name_variant": "Immaculate mole skin",
+    "item_id": [
+      "33382"
+    ],
+    "weight": 0.001,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "The immaculate skin of a large mole.",
     "is_members_only": true
   }
 ]
