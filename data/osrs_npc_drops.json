@@ -46898,7 +46898,8 @@
   {
     "name": "Rockslug",
     "id": [
-      "422"
+      "421",
+      "14423"
     ],
     "combat_level": 29,
     "slayer_level": 20,
@@ -47078,8 +47079,7 @@
   {
     "name": "Rockslug",
     "id": [
-      "421",
-      "14423"
+      "422"
     ],
     "combat_level": 29,
     "slayer_level": 20,
@@ -62040,11 +62040,6 @@
           "quantity": "1"
         },
         {
-          "name": "Adamant arrow",
-          "rarity": "4/100",
-          "quantity": "5–14"
-        },
-        {
           "name": "Death rune",
           "rarity": "10/100",
           "quantity": "10"
@@ -62055,8 +62050,13 @@
           "quantity": "11"
         },
         {
-          "name": "Law rune",
+          "name": "Adamant arrow",
           "rarity": "4/100",
+          "quantity": "5–14"
+        },
+        {
+          "name": "Law rune",
+          "rarity": "7/100",
           "quantity": "2"
         },
         {
@@ -62266,7 +62266,7 @@
         },
         {
           "name": "Dark fishing bait",
-          "rarity": "33/100",
+          "rarity": "38/100",
           "quantity": "60"
         },
         {
@@ -62940,11 +62940,6 @@
           "quantity": "1"
         },
         {
-          "name": "Adamant arrow",
-          "rarity": "4/100",
-          "quantity": "5–14"
-        },
-        {
           "name": "Death rune",
           "rarity": "10/100",
           "quantity": "10"
@@ -62955,8 +62950,13 @@
           "quantity": "11"
         },
         {
-          "name": "Law rune",
+          "name": "Adamant arrow",
           "rarity": "4/100",
+          "quantity": "5–14"
+        },
+        {
+          "name": "Law rune",
+          "rarity": "7/100",
           "quantity": "2"
         },
         {
@@ -63166,7 +63166,7 @@
         },
         {
           "name": "Dark fishing bait",
-          "rarity": "33/100",
+          "rarity": "38/100",
           "quantity": "60"
         },
         {
@@ -63840,11 +63840,6 @@
           "quantity": "1"
         },
         {
-          "name": "Adamant arrow",
-          "rarity": "4/100",
-          "quantity": "5–14"
-        },
-        {
           "name": "Death rune",
           "rarity": "10/100",
           "quantity": "10"
@@ -63855,8 +63850,13 @@
           "quantity": "11"
         },
         {
-          "name": "Law rune",
+          "name": "Adamant arrow",
           "rarity": "4/100",
+          "quantity": "5–14"
+        },
+        {
+          "name": "Law rune",
+          "rarity": "7/100",
           "quantity": "2"
         },
         {
@@ -64066,7 +64066,7 @@
         },
         {
           "name": "Dark fishing bait",
-          "rarity": "33/100",
+          "rarity": "38/100",
           "quantity": "60"
         },
         {
@@ -64741,11 +64741,6 @@
           "quantity": "1"
         },
         {
-          "name": "Adamant arrow",
-          "rarity": "4/100",
-          "quantity": "5–14"
-        },
-        {
           "name": "Death rune",
           "rarity": "10/100",
           "quantity": "10"
@@ -64756,8 +64751,13 @@
           "quantity": "11"
         },
         {
-          "name": "Law rune",
+          "name": "Adamant arrow",
           "rarity": "4/100",
+          "quantity": "5–14"
+        },
+        {
+          "name": "Law rune",
+          "rarity": "7/100",
           "quantity": "2"
         },
         {
@@ -64967,7 +64967,7 @@
         },
         {
           "name": "Dark fishing bait",
-          "rarity": "33/100",
+          "rarity": "38/100",
           "quantity": "60"
         },
         {
@@ -65642,11 +65642,6 @@
           "quantity": "1"
         },
         {
-          "name": "Adamant arrow",
-          "rarity": "4/100",
-          "quantity": "5–14"
-        },
-        {
           "name": "Death rune",
           "rarity": "10/100",
           "quantity": "10"
@@ -65657,8 +65652,13 @@
           "quantity": "11"
         },
         {
-          "name": "Law rune",
+          "name": "Adamant arrow",
           "rarity": "4/100",
+          "quantity": "5–14"
+        },
+        {
+          "name": "Law rune",
+          "rarity": "7/100",
           "quantity": "2"
         },
         {
@@ -65868,7 +65868,7 @@
         },
         {
           "name": "Dark fishing bait",
-          "rarity": "33/100",
+          "rarity": "38/100",
           "quantity": "60"
         },
         {
@@ -96957,7 +96957,7 @@
         },
         {
           "name": "Scaly blue dragonhide",
-          "rarity": "1/100",
+          "rarity": "1/200",
           "quantity": "1"
         },
         {
@@ -97001,7 +97001,7 @@
         },
         {
           "name": "Scaly blue dragonhide",
-          "rarity": "1/100",
+          "rarity": "1/200",
           "quantity": "1"
         },
         {
@@ -97045,7 +97045,7 @@
         },
         {
           "name": "Scaly blue dragonhide",
-          "rarity": "1/100",
+          "rarity": "1/200",
           "quantity": "1"
         },
         {
@@ -97089,7 +97089,7 @@
         },
         {
           "name": "Scaly blue dragonhide",
-          "rarity": "1/100",
+          "rarity": "1/200",
           "quantity": "1"
         },
         {
@@ -97133,7 +97133,7 @@
         },
         {
           "name": "Scaly blue dragonhide",
-          "rarity": "1/100",
+          "rarity": "1/200",
           "quantity": "1"
         },
         {
@@ -97432,7 +97432,8 @@
   {
     "name": "Gargoyle",
     "id": [
-      "1543"
+      "1543",
+      "413"
     ],
     "combat_level": 111,
     "slayer_level": 75,
@@ -175858,6 +175859,19 @@
     }
   },
   {
+    "name": "Lowerniel Drakan",
+    "id": [
+      "16204"
+    ],
+    "combat_level": 1063,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
     "name": "Vanstrom Klause",
     "id": [
       "3734",
@@ -207788,8 +207802,7 @@
   {
     "name": "Shadow",
     "id": [
-      "4004",
-      "764"
+      "4004"
     ],
     "combat_level": 73,
     "slayer_level": 1,
@@ -213621,32 +213634,32 @@
         {
           "name": "Logs",
           "rarity": "Varies",
-          "quantity": "1 (noted)"
+          "quantity": "1 (noted), 2 (noted)"
         },
         {
           "name": "Oak logs",
           "rarity": "Varies",
-          "quantity": "1 (noted)"
+          "quantity": "1 (noted), 2 (noted)"
         },
         {
           "name": "Willow logs",
           "rarity": "Varies",
-          "quantity": "1 (noted)"
+          "quantity": "1 (noted), 2 (noted)"
         },
         {
           "name": "Maple logs",
           "rarity": "Varies",
-          "quantity": "1 (noted)"
+          "quantity": "1 (noted), 2 (noted)"
         },
         {
           "name": "Yew logs",
           "rarity": "Varies",
-          "quantity": "1 (noted)"
+          "quantity": "1 (noted), 2 (noted)"
         },
         {
           "name": "Magic logs",
           "rarity": "Varies",
-          "quantity": "1 (noted)"
+          "quantity": "1 (noted), 2 (noted)"
         },
         {
           "name": "Slayer's enchantment",
@@ -213670,32 +213683,32 @@
         {
           "name": "Logs",
           "rarity": "Varies",
-          "quantity": "1 (noted)"
+          "quantity": "1 (noted), 2 (noted)"
         },
         {
           "name": "Oak logs",
           "rarity": "Varies",
-          "quantity": "1 (noted)"
+          "quantity": "1 (noted), 2 (noted)"
         },
         {
           "name": "Willow logs",
           "rarity": "Varies",
-          "quantity": "1 (noted)"
+          "quantity": "1 (noted), 2 (noted)"
         },
         {
           "name": "Maple logs",
           "rarity": "Varies",
-          "quantity": "1 (noted)"
+          "quantity": "1 (noted), 2 (noted)"
         },
         {
           "name": "Yew logs",
           "rarity": "Varies",
-          "quantity": "1 (noted)"
+          "quantity": "1 (noted), 2 (noted)"
         },
         {
           "name": "Magic logs",
           "rarity": "Varies",
-          "quantity": "1 (noted)"
+          "quantity": "1 (noted), 2 (noted)"
         },
         {
           "name": "Slayer's enchantment",
@@ -221589,9 +221602,27 @@
     "id": [
       "5185",
       "5186",
-      "5187",
       "5188",
       "5189"
+    ],
+    "combat_level": 10,
+    "slayer_level": 1,
+    "is_members_only": false,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Guard",
+    "id": [
+      "5187"
     ],
     "combat_level": 10,
     "slayer_level": 1,
@@ -227947,7 +227978,7 @@
         },
         {
           "name": "Dragon metal sheet",
-          "rarity": "1/200",
+          "rarity": "1/100",
           "quantity": "1"
         },
         {
@@ -228058,7 +228089,7 @@
         {
           "name": "Dragon nails",
           "rarity": "2/130",
-          "quantity": "5–15"
+          "quantity": "10–20"
         },
         {
           "name": "Coins",
@@ -228077,7 +228108,7 @@
         },
         {
           "name": "Clue scroll (hard)",
-          "rarity": "Rare",
+          "rarity": "1/128",
           "quantity": "1"
         },
         {
@@ -290441,6 +290472,11 @@
           "quantity": "1"
         },
         {
+          "name": "Crystal shard",
+          "rarity": "Always",
+          "quantity": "6–10"
+        },
+        {
           "name": "Brimstone key",
           "rarity": "Always",
           "quantity": "1"
@@ -290639,11 +290675,6 @@
           "name": "Malicious ashes",
           "rarity": "Always",
           "quantity": "1"
-        },
-        {
-          "name": "Crystal shard",
-          "rarity": "Always",
-          "quantity": "6–10"
         },
         {
           "name": "Brimstone key",
@@ -295086,7 +295117,7 @@
         {
           "name": "Stinkhorn mushroom",
           "rarity": "Always",
-          "quantity": "2"
+          "quantity": "1–3"
         },
         {
           "name": "Long bone",
@@ -295146,7 +295177,7 @@
         {
           "name": "Stinkhorn mushroom",
           "rarity": "Always",
-          "quantity": "2"
+          "quantity": "1–3"
         },
         {
           "name": "Long bone",
@@ -295205,7 +295236,7 @@
         {
           "name": "Stinkhorn mushroom",
           "rarity": "Always",
-          "quantity": "2"
+          "quantity": "1–3"
         },
         {
           "name": "Long bone",
@@ -295265,7 +295296,7 @@
         {
           "name": "Stinkhorn mushroom",
           "rarity": "Always",
-          "quantity": "2"
+          "quantity": "1–3"
         },
         {
           "name": "Long bone",
@@ -340424,7 +340455,7 @@
     "id": [
       "9118"
     ],
-    "combat_level": 2,
+    "combat_level": null,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -340456,7 +340487,7 @@
         {
           "name": "Crystal shards (The Gauntlet)",
           "rarity": "Always",
-          "quantity": "10–30"
+          "quantity": "20–30"
         },
         {
           "name": "Raw paddlefish",
@@ -340487,7 +340518,7 @@
     "id": [
       "9026"
     ],
-    "combat_level": 24,
+    "combat_level": 23,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -340495,7 +340526,7 @@
         {
           "name": "Crystal shards (The Gauntlet)",
           "rarity": "Always",
-          "quantity": "10–30"
+          "quantity": "20–30"
         },
         {
           "name": "Raw paddlefish",
@@ -340534,7 +340565,7 @@
         {
           "name": "Crystal shards (The Gauntlet)",
           "rarity": "Always",
-          "quantity": "10–30"
+          "quantity": "20–30"
         },
         {
           "name": "Raw paddlefish",
@@ -340565,7 +340596,7 @@
     "id": [
       "9029"
     ],
-    "combat_level": 48,
+    "combat_level": 45,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -340573,7 +340604,7 @@
         {
           "name": "Crystal shards (The Gauntlet)",
           "rarity": "Always",
-          "quantity": "50–105"
+          "quantity": "80–100"
         },
         {
           "name": "Raw paddlefish",
@@ -340607,7 +340638,7 @@
         {
           "name": "Crystal shards (The Gauntlet)",
           "rarity": "Always",
-          "quantity": "50–105"
+          "quantity": "80–100"
         },
         {
           "name": "Raw paddlefish",
@@ -340633,7 +340664,7 @@
     "id": [
       "9031"
     ],
-    "combat_level": 74,
+    "combat_level": 69,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -340641,7 +340672,7 @@
         {
           "name": "Crystal shards (The Gauntlet)",
           "rarity": "Always",
-          "quantity": "50–105"
+          "quantity": "80–100"
         },
         {
           "name": "Raw paddlefish",
@@ -340675,7 +340706,7 @@
         {
           "name": "Crystal shards (The Gauntlet)",
           "rarity": "Always",
-          "quantity": "Unknown"
+          "quantity": "50–60"
         },
         {
           "name": "Weapon frame",
@@ -340724,7 +340755,7 @@
         {
           "name": "Crystal shards (The Gauntlet)",
           "rarity": "Always",
-          "quantity": "Unknown"
+          "quantity": "50–60"
         },
         {
           "name": "Weapon frame",
@@ -340773,7 +340804,7 @@
         {
           "name": "Crystal shards (The Gauntlet)",
           "rarity": "Always",
-          "quantity": "Unknown"
+          "quantity": "50–60"
         },
         {
           "name": "Weapon frame",
@@ -340822,7 +340853,7 @@
         {
           "name": "Corrupted shards",
           "rarity": "Always",
-          "quantity": "10–30"
+          "quantity": "20–30"
         },
         {
           "name": "Corrupted shards",
@@ -340866,7 +340897,7 @@
         {
           "name": "Corrupted shards",
           "rarity": "Always",
-          "quantity": "10–30"
+          "quantity": "20–30"
         },
         {
           "name": "Corrupted shards",
@@ -340902,7 +340933,7 @@
     "id": [
       "9040"
     ],
-    "combat_level": 34,
+    "combat_level": 33,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -340910,7 +340941,7 @@
         {
           "name": "Corrupted shards",
           "rarity": "Always",
-          "quantity": "10–30"
+          "quantity": "20–30"
         },
         {
           "name": "Corrupted shards",
@@ -340946,7 +340977,7 @@
     "id": [
       "9043"
     ],
-    "combat_level": 64,
+    "combat_level": 61,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -340954,7 +340985,7 @@
         {
           "name": "Corrupted shards",
           "rarity": "Always",
-          "quantity": "50–100"
+          "quantity": "80–100"
         },
         {
           "name": "Corrupted shards",
@@ -340998,7 +341029,7 @@
         {
           "name": "Corrupted shards",
           "rarity": "Always",
-          "quantity": "50–100"
+          "quantity": "80–100"
         },
         {
           "name": "Corrupted shards",
@@ -341034,7 +341065,7 @@
     "id": [
       "9045"
     ],
-    "combat_level": 102,
+    "combat_level": 97,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -341042,7 +341073,7 @@
         {
           "name": "Corrupted shards",
           "rarity": "Always",
-          "quantity": "50–100"
+          "quantity": "80–100"
         },
         {
           "name": "Corrupted shards",
@@ -341086,7 +341117,7 @@
         {
           "name": "Corrupted shards",
           "rarity": "Always",
-          "quantity": "30–60"
+          "quantity": "50–60"
         },
         {
           "name": "Weapon frame (corrupted)",
@@ -341145,7 +341176,7 @@
         {
           "name": "Corrupted shards",
           "rarity": "Always",
-          "quantity": "30–60"
+          "quantity": "50–60"
         },
         {
           "name": "Weapon frame (corrupted)",
@@ -341204,7 +341235,7 @@
         {
           "name": "Corrupted shards",
           "rarity": "Always",
-          "quantity": "30–60"
+          "quantity": "50–60"
         },
         {
           "name": "Weapon frame (corrupted)",
@@ -351397,7 +351428,7 @@
           "quantity": "1"
         },
         {
-          "name": "Scroll box (beginner)",
+          "name": "Clue scroll (beginner)",
           "rarity": "1/62",
           "quantity": "1"
         }
@@ -351486,7 +351517,7 @@
           "quantity": "1"
         },
         {
-          "name": "Scroll box (beginner)",
+          "name": "Clue scroll (beginner)",
           "rarity": "1/62",
           "quantity": "1"
         }
@@ -358074,7 +358105,7 @@
     "drops": {
       "regular": [
         {
-          "name": "Araxyte venom sack",
+          "name": "Araxyte venom sac",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -358339,7 +358370,7 @@
           "quantity": "1"
         },
         {
-          "name": "Araxyte venom sack",
+          "name": "Araxyte venom sac",
           "rarity": "5/127",
           "quantity": "2"
         },
@@ -358364,7 +358395,7 @@
           "quantity": "1"
         },
         {
-          "name": "Araxyte venom sack",
+          "name": "Araxyte venom sac",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -358629,7 +358660,7 @@
           "quantity": "2"
         },
         {
-          "name": "Araxyte venom sack",
+          "name": "Araxyte venom sac",
           "rarity": "5/127",
           "quantity": "4"
         },
@@ -358669,7 +358700,7 @@
     "drops": {
       "regular": [
         {
-          "name": "Araxyte venom sack",
+          "name": "Araxyte venom sac",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -358934,7 +358965,7 @@
           "quantity": "1"
         },
         {
-          "name": "Araxyte venom sack",
+          "name": "Araxyte venom sac",
           "rarity": "5/127",
           "quantity": "2"
         },
@@ -358959,7 +358990,7 @@
           "quantity": "1"
         },
         {
-          "name": "Araxyte venom sack",
+          "name": "Araxyte venom sac",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -359224,7 +359255,7 @@
           "quantity": "2"
         },
         {
-          "name": "Araxyte venom sack",
+          "name": "Araxyte venom sac",
           "rarity": "5/127",
           "quantity": "4"
         },
@@ -359480,7 +359511,13 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [],
+      "regular": [
+        {
+          "name": "Key (Biohazard)",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   },
@@ -373886,6 +373923,140 @@
     "id": [
       "12452"
     ],
+    "combat_level": 397,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archaic emblem (tier 5)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of advanced weaponry",
+          "rarity": "60/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fairies",
+          "rarity": "20/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of avarice",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of undead",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's throwing axe (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Morrigan's javelin (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Statius's warhammer (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's staff (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's spear (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's longsword (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fortuity (inactive)",
+          "rarity": "1/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's full helm (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platebody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platelegs (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's chainbody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's plateskirt (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's hood (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe top (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe bottom (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's coif (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather body (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather chaps (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Chitin",
+          "rarity": "1/2",
+          "quantity": "1 (noted)"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Giant goblin",
+    "id": [
+      "12452"
+    ],
     "combat_level": 347,
     "slayer_level": 1,
     "is_members_only": true,
@@ -374288,6 +374459,140 @@
     "id": [
       "12439"
     ],
+    "combat_level": 479,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archaic emblem (tier 5)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of advanced weaponry",
+          "rarity": "60/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fairies",
+          "rarity": "20/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of avarice",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of undead",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's throwing axe (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Morrigan's javelin (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Statius's warhammer (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's staff (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's spear (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's longsword (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fortuity (inactive)",
+          "rarity": "1/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's full helm (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platebody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platelegs (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's chainbody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's plateskirt (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's hood (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe top (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe bottom (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's coif (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather body (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather chaps (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Chitin",
+          "rarity": "1/2",
+          "quantity": "1 (noted)"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Dagannoth Rex",
+    "id": [
+      "12439"
+    ],
     "combat_level": 417,
     "slayer_level": 1,
     "is_members_only": true,
@@ -374423,6 +374728,140 @@
       "12440"
     ],
     "combat_level": 318,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archaic emblem (tier 5)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of advanced weaponry",
+          "rarity": "60/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fairies",
+          "rarity": "20/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of avarice",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of undead",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's throwing axe (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Morrigan's javelin (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Statius's warhammer (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's staff (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's spear (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's longsword (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fortuity (inactive)",
+          "rarity": "1/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's full helm (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platebody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platelegs (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's chainbody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's plateskirt (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's hood (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe top (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe bottom (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's coif (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather body (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather chaps (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Chitin",
+          "rarity": "1/2",
+          "quantity": "1 (noted)"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "King Black Dragon",
+    "id": [
+      "12440"
+    ],
+    "combat_level": 281,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -375092,6 +375531,140 @@
     "id": [
       "12441"
     ],
+    "combat_level": 436,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archaic emblem (tier 5)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of advanced weaponry",
+          "rarity": "60/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fairies",
+          "rarity": "20/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of avarice",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of undead",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's throwing axe (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Morrigan's javelin (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Statius's warhammer (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's staff (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's spear (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's longsword (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fortuity (inactive)",
+          "rarity": "1/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's full helm (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platebody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platelegs (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's chainbody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's plateskirt (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's hood (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe top (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe bottom (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's coif (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather body (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather chaps (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Chitin",
+          "rarity": "1/2",
+          "quantity": "1 (noted)"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Dagannoth Supreme",
+    "id": [
+      "12441"
+    ],
     "combat_level": 385,
     "slayer_level": 1,
     "is_members_only": true,
@@ -375227,6 +375800,140 @@
       "12442"
     ],
     "combat_level": 947,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archaic emblem (tier 5)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of advanced weaponry",
+          "rarity": "60/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fairies",
+          "rarity": "20/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of avarice",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of undead",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's throwing axe (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Morrigan's javelin (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Statius's warhammer (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's staff (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's spear (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's longsword (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fortuity (inactive)",
+          "rarity": "1/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's full helm (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platebody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platelegs (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's chainbody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's plateskirt (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's hood (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe top (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe bottom (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's coif (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather body (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather chaps (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Chitin",
+          "rarity": "1/2",
+          "quantity": "1 (noted)"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Dagannoth Prime",
+    "id": [
+      "12442"
+    ],
+    "combat_level": 447,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -376294,6 +377001,274 @@
     }
   },
   {
+    "name": "General Graardor",
+    "id": [
+      "12444"
+    ],
+    "combat_level": 624,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archaic emblem (tier 5)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of advanced weaponry",
+          "rarity": "60/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fairies",
+          "rarity": "20/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of avarice",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of undead",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's throwing axe (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Morrigan's javelin (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Statius's warhammer (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's staff (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's spear (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's longsword (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fortuity (inactive)",
+          "rarity": "1/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's full helm (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platebody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platelegs (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's chainbody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's plateskirt (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's hood (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe top (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe bottom (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's coif (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather body (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather chaps (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Chitin",
+          "rarity": "1/2",
+          "quantity": "1 (noted)"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Commander Zilyana",
+    "id": [
+      "12445"
+    ],
+    "combat_level": 596,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archaic emblem (tier 5)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of advanced weaponry",
+          "rarity": "60/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fairies",
+          "rarity": "20/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of avarice",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of undead",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's throwing axe (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Morrigan's javelin (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Statius's warhammer (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's staff (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's spear (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's longsword (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fortuity (inactive)",
+          "rarity": "1/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's full helm (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platebody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platelegs (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's chainbody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's plateskirt (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's hood (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe top (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe bottom (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's coif (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather body (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather chaps (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Chitin",
+          "rarity": "1/2",
+          "quantity": "1 (noted)"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
     "name": "Commander Zilyana",
     "id": [
       "12445"
@@ -376969,6 +377944,274 @@
       "12446"
     ],
     "combat_level": 650,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archaic emblem (tier 5)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of advanced weaponry",
+          "rarity": "60/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fairies",
+          "rarity": "20/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of avarice",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of undead",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's throwing axe (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Morrigan's javelin (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Statius's warhammer (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's staff (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's spear (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's longsword (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fortuity (inactive)",
+          "rarity": "1/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's full helm (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platebody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platelegs (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's chainbody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's plateskirt (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's hood (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe top (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe bottom (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's coif (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather body (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather chaps (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Chitin",
+          "rarity": "1/2",
+          "quantity": "1 (noted)"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "K'ril Tsutsaroth",
+    "id": [
+      "12446"
+    ],
+    "combat_level": 650,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archaic emblem (tier 5)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of advanced weaponry",
+          "rarity": "60/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fairies",
+          "rarity": "20/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of avarice",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of undead",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's throwing axe (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Morrigan's javelin (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Statius's warhammer (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's staff (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's spear (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's longsword (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fortuity (inactive)",
+          "rarity": "1/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's full helm (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platebody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platelegs (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's chainbody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's plateskirt (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's hood (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe top (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe bottom (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's coif (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather body (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather chaps (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Chitin",
+          "rarity": "1/2",
+          "quantity": "1 (noted)"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Dharok the Wretched",
+    "id": [
+      "12447"
+    ],
+    "combat_level": 666,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -377505,6 +378748,140 @@
       "12448"
     ],
     "combat_level": 655,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archaic emblem (tier 5)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of advanced weaponry",
+          "rarity": "60/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fairies",
+          "rarity": "20/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of avarice",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of undead",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's throwing axe (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Morrigan's javelin (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Statius's warhammer (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's staff (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's spear (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's longsword (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fortuity (inactive)",
+          "rarity": "1/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's full helm (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platebody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platelegs (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's chainbody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's plateskirt (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's hood (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe top (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe bottom (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's coif (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather body (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather chaps (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Chitin",
+          "rarity": "1/2",
+          "quantity": "1 (noted)"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Porazdir",
+    "id": [
+      "12448"
+    ],
+    "combat_level": 280,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -378174,6 +379551,140 @@
     "id": [
       "12449"
     ],
+    "combat_level": 393,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archaic emblem (tier 5)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of advanced weaponry",
+          "rarity": "60/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fairies",
+          "rarity": "20/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of avarice",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of undead",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's throwing axe (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Morrigan's javelin (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Statius's warhammer (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's staff (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's spear (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's longsword (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fortuity (inactive)",
+          "rarity": "1/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's full helm (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platebody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platelegs (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's chainbody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's plateskirt (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's hood (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe top (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe bottom (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's coif (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather body (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather chaps (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Chitin",
+          "rarity": "1/2",
+          "quantity": "1 (noted)"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Justiciar Zachariah",
+    "id": [
+      "12449"
+    ],
     "combat_level": 348,
     "slayer_level": 1,
     "is_members_only": true,
@@ -378309,6 +379820,140 @@
       "12450"
     ],
     "combat_level": 655,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archaic emblem (tier 5)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of advanced weaponry",
+          "rarity": "60/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fairies",
+          "rarity": "20/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of avarice",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of undead",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's throwing axe (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Morrigan's javelin (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Statius's warhammer (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's staff (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's spear (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's longsword (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fortuity (inactive)",
+          "rarity": "1/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's full helm (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platebody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platelegs (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's chainbody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's plateskirt (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's hood (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe top (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe bottom (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's coif (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather body (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather chaps (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Chitin",
+          "rarity": "1/2",
+          "quantity": "1 (noted)"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Derwen",
+    "id": [
+      "12450"
+    ],
+    "combat_level": 280,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -378978,6 +380623,140 @@
     "id": [
       "12451"
     ],
+    "combat_level": 407,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archaic emblem (tier 5)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of advanced weaponry",
+          "rarity": "60/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fairies",
+          "rarity": "20/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of avarice",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of undead",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's throwing axe (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Morrigan's javelin (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Statius's warhammer (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's staff (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's spear (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's longsword (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fortuity (inactive)",
+          "rarity": "1/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's full helm (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platebody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platelegs (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's chainbody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's plateskirt (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's hood (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe top (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe bottom (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's coif (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather body (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather chaps (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Chitin",
+          "rarity": "1/2",
+          "quantity": "1 (noted)"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Greater abyssal demon",
+    "id": [
+      "12451"
+    ],
     "combat_level": 429,
     "slayer_level": 1,
     "is_members_only": true,
@@ -379380,7 +381159,275 @@
     "id": [
       "12453"
     ],
+    "combat_level": 338,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archaic emblem (tier 5)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of advanced weaponry",
+          "rarity": "60/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fairies",
+          "rarity": "20/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of avarice",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of undead",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's throwing axe (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Morrigan's javelin (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Statius's warhammer (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's staff (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's spear (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's longsword (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fortuity (inactive)",
+          "rarity": "1/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's full helm (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platebody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platelegs (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's chainbody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's plateskirt (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's hood (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe top (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe bottom (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's coif (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather body (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather chaps (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Chitin",
+          "rarity": "1/2",
+          "quantity": "1 (noted)"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Flaming pyrelord",
+    "id": [
+      "12453"
+    ],
     "combat_level": 363,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archaic emblem (tier 5)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of advanced weaponry",
+          "rarity": "60/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fairies",
+          "rarity": "20/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of avarice",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of undead",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's throwing axe (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Morrigan's javelin (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Statius's warhammer (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's staff (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's spear (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's longsword (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fortuity (inactive)",
+          "rarity": "1/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's full helm (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platebody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platelegs (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's chainbody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's plateskirt (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's hood (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe top (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe bottom (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's coif (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather body (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather chaps (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Chitin",
+          "rarity": "1/2",
+          "quantity": "1 (noted)"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Cave abomination",
+    "id": [
+      "12454"
+    ],
+    "combat_level": 957,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -379648,7 +381695,141 @@
     "id": [
       "12454"
     ],
-    "combat_level": 957,
+    "combat_level": 395,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archaic emblem (tier 5)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of advanced weaponry",
+          "rarity": "60/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fairies",
+          "rarity": "20/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of avarice",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of undead",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's throwing axe (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Morrigan's javelin (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Statius's warhammer (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's staff (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's spear (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's longsword (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fortuity (inactive)",
+          "rarity": "1/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's full helm (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platebody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platelegs (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's chainbody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's plateskirt (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's hood (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe top (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe bottom (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's coif (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather body (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather chaps (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Chitin",
+          "rarity": "1/2",
+          "quantity": "1 (noted)"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Jal-ImKot",
+    "id": [
+      "12455"
+    ],
+    "combat_level": 240,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -380582,11 +382763,279 @@
     }
   },
   {
+    "name": "Malevolent Mage",
+    "id": [
+      "12456"
+    ],
+    "combat_level": 286,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archaic emblem (tier 5)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of advanced weaponry",
+          "rarity": "60/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fairies",
+          "rarity": "20/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of avarice",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of undead",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's throwing axe (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Morrigan's javelin (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Statius's warhammer (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's staff (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's spear (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's longsword (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fortuity (inactive)",
+          "rarity": "1/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's full helm (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platebody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platelegs (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's chainbody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's plateskirt (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's hood (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe top (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe bottom (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's coif (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather body (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather chaps (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Chitin",
+          "rarity": "1/2",
+          "quantity": "1 (noted)"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
     "name": "Vitreous warped Jelly",
     "id": [
       "12457"
     ],
     "combat_level": 908,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archaic emblem (tier 5)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of advanced weaponry",
+          "rarity": "60/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fairies",
+          "rarity": "20/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of avarice",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of undead",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's throwing axe (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Morrigan's javelin (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Statius's warhammer (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's staff (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's spear (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's longsword (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fortuity (inactive)",
+          "rarity": "1/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's full helm (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platebody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platelegs (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's chainbody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's plateskirt (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's hood (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe top (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe bottom (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's coif (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather body (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather chaps (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Chitin",
+          "rarity": "1/2",
+          "quantity": "1 (noted)"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Vitreous warped Jelly",
+    "id": [
+      "12457"
+    ],
+    "combat_level": 283,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -380988,6 +383437,140 @@
     "id": [
       "12458"
     ],
+    "combat_level": 757,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archaic emblem (tier 5)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of advanced weaponry",
+          "rarity": "60/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fairies",
+          "rarity": "20/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of avarice",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of undead",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's throwing axe (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Morrigan's javelin (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Statius's warhammer (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's staff (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's spear (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's longsword (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fortuity (inactive)",
+          "rarity": "1/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's full helm (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platebody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platelegs (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's chainbody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's plateskirt (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's hood (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe top (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe bottom (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's coif (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather body (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather chaps (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Chitin",
+          "rarity": "1/2",
+          "quantity": "1 (noted)"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Sulphur Lizard",
+    "id": [
+      "12458"
+    ],
     "combat_level": 257,
     "slayer_level": 1,
     "is_members_only": true,
@@ -381122,7 +383705,7 @@
     "id": [
       "12458"
     ],
-    "combat_level": 757,
+    "combat_level": 257,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -381257,6 +383840,140 @@
       "12459"
     ],
     "combat_level": 457,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archaic emblem (tier 5)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of advanced weaponry",
+          "rarity": "60/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fairies",
+          "rarity": "20/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of avarice",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of undead",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's throwing axe (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Morrigan's javelin (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Statius's warhammer (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's staff (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's spear (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's longsword (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fortuity (inactive)",
+          "rarity": "1/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's full helm (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platebody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platelegs (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's chainbody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's plateskirt (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's hood (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe top (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe bottom (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's coif (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather body (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather chaps (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Chitin",
+          "rarity": "1/2",
+          "quantity": "1 (noted)"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Night beast",
+    "id": [
+      "12459"
+    ],
+    "combat_level": 332,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -384032,7 +386749,7 @@
           "quantity": "1"
         },
         {
-          "name": "Araxyte venom sack",
+          "name": "Araxyte venom sac",
           "rarity": "1/16",
           "quantity": "1"
         },
@@ -384257,7 +386974,7 @@
           "quantity": "45 (noted)"
         },
         {
-          "name": "Araxyte venom sack",
+          "name": "Araxyte venom sac",
           "rarity": "5/115",
           "quantity": "6"
         },
@@ -384282,7 +386999,7 @@
           "quantity": "40 (noted)"
         },
         {
-          "name": "Araxyte venom sack",
+          "name": "Araxyte venom sac",
           "rarity": "2/115",
           "quantity": "12"
         },
@@ -384487,7 +387204,7 @@
           "quantity": "1"
         },
         {
-          "name": "Araxyte venom sack",
+          "name": "Araxyte venom sac",
           "rarity": "1/16",
           "quantity": "1"
         },
@@ -384712,7 +387429,7 @@
           "quantity": "45 (noted)"
         },
         {
-          "name": "Araxyte venom sack",
+          "name": "Araxyte venom sac",
           "rarity": "5/115",
           "quantity": "6"
         },
@@ -384737,7 +387454,7 @@
           "quantity": "40 (noted)"
         },
         {
-          "name": "Araxyte venom sack",
+          "name": "Araxyte venom sac",
           "rarity": "2/115",
           "quantity": "12"
         },
@@ -385449,7 +388166,7 @@
       "regular": [
         {
           "name": "Sulphur blades",
-          "rarity": "1/450",
+          "rarity": "1/250",
           "quantity": "1"
         },
         {
@@ -395016,7 +397733,7 @@
     "id": [
       "13664"
     ],
-    "combat_level": 223,
+    "combat_level": 473,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -395418,7 +398135,7 @@
     "id": [
       "13663"
     ],
-    "combat_level": 217,
+    "combat_level": 467,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -398165,7 +400882,7 @@
     "id": [
       "13660"
     ],
-    "combat_level": 331,
+    "combat_level": 518,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -398299,7 +401016,7 @@
     "id": [
       "13660"
     ],
-    "combat_level": 518,
+    "combat_level": 393,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -398567,7 +401284,7 @@
     "id": [
       "13661"
     ],
-    "combat_level": 527,
+    "combat_level": 1527,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -398701,7 +401418,141 @@
     "id": [
       "13661"
     ],
-    "combat_level": 1527,
+    "combat_level": 1008,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archaic emblem (tier 5)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of advanced weaponry",
+          "rarity": "60/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fairies",
+          "rarity": "20/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of avarice",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of undead",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's throwing axe (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Morrigan's javelin (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Statius's warhammer (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's staff (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's spear (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's longsword (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fortuity (inactive)",
+          "rarity": "1/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's full helm (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platebody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platelegs (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's chainbody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's plateskirt (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's hood (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe top (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe bottom (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's coif (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather body (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather chaps (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Chitin",
+          "rarity": "1/2",
+          "quantity": "1 (noted)"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Thermonuclear smoke devil",
+    "id": [
+      "13659"
+    ],
+    "combat_level": 563,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -398969,7 +401820,7 @@
     "id": [
       "13659"
     ],
-    "combat_level": 563,
+    "combat_level": 313,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -399237,7 +402088,7 @@
     "id": [
       "13656"
     ],
-    "combat_level": 296,
+    "combat_level": 558,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -399371,7 +402222,141 @@
     "id": [
       "13656"
     ],
-    "combat_level": 558,
+    "combat_level": 402,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archaic emblem (tier 5)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of advanced weaponry",
+          "rarity": "60/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fairies",
+          "rarity": "20/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of avarice",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of undead",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's throwing axe (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Morrigan's javelin (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Statius's warhammer (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's staff (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's spear (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's longsword (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fortuity (inactive)",
+          "rarity": "1/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's full helm (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platebody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platelegs (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's chainbody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's plateskirt (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's hood (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe top (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe bottom (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's coif (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather body (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather chaps (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Chitin",
+          "rarity": "1/2",
+          "quantity": "1 (noted)"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Cerberus",
+    "id": [
+      "13657"
+    ],
+    "combat_level": 726,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -399639,7 +402624,7 @@
     "id": [
       "13657"
     ],
-    "combat_level": 726,
+    "combat_level": 413,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -399907,7 +402892,7 @@
     "id": [
       "13662"
     ],
-    "combat_level": 209,
+    "combat_level": 334,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -400041,7 +403026,7 @@
     "id": [
       "13662"
     ],
-    "combat_level": 334,
+    "combat_level": 272,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -400309,7 +403294,7 @@
     "id": [
       "13658"
     ],
-    "combat_level": 357,
+    "combat_level": 670,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -400443,7 +403428,7 @@
     "id": [
       "13658"
     ],
-    "combat_level": 670,
+    "combat_level": 545,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -400596,7 +403581,7 @@
     "drops": {
       "regular": [
         {
-          "name": "Araxyte venom sack",
+          "name": "Araxyte venom sac",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -400866,7 +403851,7 @@
           "quantity": "2"
         },
         {
-          "name": "Araxyte venom sack",
+          "name": "Araxyte venom sac",
           "rarity": "5/127",
           "quantity": "4"
         },
@@ -401358,6 +404343,216 @@
     "drops": {
       "regular": [],
       "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Amoxliatl",
+    "id": [
+      "13686"
+    ],
+    "combat_level": 226,
+    "slayer_level": 48,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Frozen tear",
+          "rarity": "6/10",
+          "quantity": "2–4"
+        },
+        {
+          "name": "Frozen tear",
+          "rarity": "3/10",
+          "quantity": "5–10"
+        },
+        {
+          "name": "Frozen tear",
+          "rarity": "1/10",
+          "quantity": "10–20"
+        },
+        {
+          "name": "Rune mace",
+          "rarity": "2/58",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune pickaxe",
+          "rarity": "2/58",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune platebody",
+          "rarity": "1/58",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune platelegs",
+          "rarity": "1/58",
+          "quantity": "1"
+        },
+        {
+          "name": "Water rune",
+          "rarity": "5/58",
+          "quantity": "200–400"
+        },
+        {
+          "name": "Chaos rune",
+          "rarity": "4/58",
+          "quantity": "30–60"
+        },
+        {
+          "name": "Death rune",
+          "rarity": "4/58",
+          "quantity": "20–40"
+        },
+        {
+          "name": "Blood rune",
+          "rarity": "4/58",
+          "quantity": "15–30"
+        },
+        {
+          "name": "Soul rune",
+          "rarity": "4/58",
+          "quantity": "30–45"
+        },
+        {
+          "name": "Nature rune",
+          "rarity": "4/58",
+          "quantity": "30–60"
+        },
+        {
+          "name": "Coal",
+          "rarity": "5/58",
+          "quantity": "20–30 (noted)"
+        },
+        {
+          "name": "Gold ore",
+          "rarity": "5/58",
+          "quantity": "20–30 (noted)"
+        },
+        {
+          "name": "Adamantite ore",
+          "rarity": "4/58",
+          "quantity": "5–10 (noted)"
+        },
+        {
+          "name": "Prayer potion(3)",
+          "rarity": "2/58",
+          "quantity": "1"
+        },
+        {
+          "name": "Runite ore",
+          "rarity": "2/58",
+          "quantity": "1 (noted)"
+        },
+        {
+          "name": "Blessed bone shards",
+          "rarity": "2/58",
+          "quantity": "60–100"
+        },
+        {
+          "name": "Water orb",
+          "rarity": "2/58",
+          "quantity": "10–20 (noted)"
+        },
+        {
+          "name": "Water talisman",
+          "rarity": "2/58",
+          "quantity": "1"
+        },
+        {
+          "name": "Huasca seed",
+          "rarity": "1/58",
+          "quantity": "1"
+        },
+        {
+          "name": "Pendant of ates#Inert",
+          "rarity": "1/25",
+          "quantity": "1"
+        },
+        {
+          "name": "Glacial temotli",
+          "rarity": "1/100",
+          "quantity": "1"
+        },
+        {
+          "name": "Tooth half of key (moon key)",
+          "rarity": "1/125",
+          "quantity": "1"
+        },
+        {
+          "name": "Clue scroll (elite)",
+          "rarity": "1/200",
+          "quantity": "1"
+        },
+        {
+          "name": "Brimstone key",
+          "rarity": "1/54",
+          "quantity": "1"
+        },
+        {
+          "name": "Moxi",
+          "rarity": "1/3,000",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": [
+        {
+          "name": "Uncut sapphire",
+          "rarity": "1/116",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut emerald",
+          "rarity": "1/232",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut ruby",
+          "rarity": "1/464",
+          "quantity": "1"
+        },
+        {
+          "name": "Nature talisman",
+          "rarity": "1/1,237.33",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut diamond",
+          "rarity": "1/1,856",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune javelin",
+          "rarity": "1/3,712",
+          "quantity": "5"
+        },
+        {
+          "name": "Loop half of key",
+          "rarity": "1/3,712",
+          "quantity": "1"
+        },
+        {
+          "name": "Tooth half of key",
+          "rarity": "1/3,712",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune spear",
+          "rarity": "1/59,392",
+          "quantity": "1"
+        },
+        {
+          "name": "Shield left half",
+          "rarity": "1/118,784",
+          "quantity": "1"
+        },
+        {
+          "name": "Dragon spear",
+          "rarity": "1/158,378.67",
+          "quantity": "1"
+        }
+      ]
     }
   },
   {
@@ -409113,7 +412308,9 @@
   },
   {
     "name": "Kalphite Queen (Echo)",
-    "id": null,
+    "id": [
+      "15617"
+    ],
     "combat_level": 748,
     "slayer_level": 1,
     "is_members_only": true,
@@ -409130,7 +412327,9 @@
   },
   {
     "name": "Kalphite Queen (Echo)",
-    "id": null,
+    "id": [
+      "15616"
+    ],
     "combat_level": 499,
     "slayer_level": 1,
     "is_members_only": true,
@@ -409147,7 +412346,9 @@
   },
   {
     "name": "Cerberus (Echo)",
-    "id": null,
+    "id": [
+      "15612"
+    ],
     "combat_level": 477,
     "slayer_level": 91,
     "is_members_only": true,
@@ -409164,9 +412365,7 @@
   },
   {
     "name": "King Black Dragon (Echo)",
-    "id": [
-      "239"
-    ],
+    "id": null,
     "combat_level": 414,
     "slayer_level": 1,
     "is_members_only": true,
@@ -409240,7 +412439,9 @@
   },
   {
     "name": "Dagannoth Rex (Echo)",
-    "id": null,
+    "id": [
+      "15620"
+    ],
     "combat_level": 454,
     "slayer_level": 1,
     "is_members_only": true,
@@ -409251,7 +412452,9 @@
   },
   {
     "name": "Dagannoth Prime (Echo)",
-    "id": null,
+    "id": [
+      "15619"
+    ],
     "combat_level": 454,
     "slayer_level": 1,
     "is_members_only": true,
@@ -409262,7 +412465,9 @@
   },
   {
     "name": "Dagannoth Supreme (Echo)",
-    "id": null,
+    "id": [
+      "15618"
+    ],
     "combat_level": 681,
     "slayer_level": 1,
     "is_members_only": true,
@@ -409597,7 +412802,7 @@
   {
     "name": "Mummy",
     "id": [
-      "7661"
+      "7660"
     ],
     "combat_level": 84,
     "slayer_level": 1,
@@ -409654,7 +412859,7 @@
   {
     "name": "Mummy",
     "id": [
-      "7660"
+      "7661"
     ],
     "combat_level": 84,
     "slayer_level": 1,
@@ -409890,7 +413095,7 @@
         {
           "name": "Sun-kissed bones",
           "rarity": "5/104",
-          "quantity": "25–75"
+          "quantity": "18–75"
         },
         {
           "name": "Tooth half of key (moon key)",
@@ -410054,7 +413259,7 @@
         {
           "name": "Sun-kissed bones",
           "rarity": "5/104",
-          "quantity": "25–75"
+          "quantity": "18–75"
         },
         {
           "name": "Tooth half of key (moon key)",
@@ -410218,7 +413423,7 @@
         {
           "name": "Sun-kissed bones",
           "rarity": "5/104",
-          "quantity": "25–75"
+          "quantity": "18–75"
         },
         {
           "name": "Tooth half of key (moon key)",
@@ -410382,7 +413587,7 @@
         {
           "name": "Sun-kissed bones",
           "rarity": "5/104",
-          "quantity": "25–75"
+          "quantity": "18–75"
         },
         {
           "name": "Tooth half of key (moon key)",
@@ -410546,7 +413751,7 @@
         {
           "name": "Sun-kissed bones",
           "rarity": "5/104",
-          "quantity": "25–75"
+          "quantity": "18–75"
         },
         {
           "name": "Tooth half of key (moon key)",
@@ -410710,7 +413915,7 @@
         {
           "name": "Sun-kissed bones",
           "rarity": "5/104",
-          "quantity": "25–75"
+          "quantity": "18–75"
         },
         {
           "name": "Tooth half of key (moon key)",
@@ -410874,7 +414079,7 @@
         {
           "name": "Sun-kissed bones",
           "rarity": "5/104",
-          "quantity": "25–75"
+          "quantity": "18–75"
         },
         {
           "name": "Tooth half of key (moon key)",
@@ -411038,7 +414243,7 @@
         {
           "name": "Sun-kissed bones",
           "rarity": "5/104",
-          "quantity": "25–75"
+          "quantity": "18–75"
         },
         {
           "name": "Tooth half of key (moon key)",
@@ -411202,7 +414407,7 @@
         {
           "name": "Sun-kissed bones",
           "rarity": "5/104",
-          "quantity": "25–75"
+          "quantity": "18–75"
         },
         {
           "name": "Tooth half of key (moon key)",
@@ -411366,7 +414571,7 @@
         {
           "name": "Sun-kissed bones",
           "rarity": "5/104",
-          "quantity": "25–75"
+          "quantity": "18–75"
         },
         {
           "name": "Tooth half of key (moon key)",
@@ -411530,7 +414735,7 @@
         {
           "name": "Sun-kissed bones",
           "rarity": "5/104",
-          "quantity": "25–75"
+          "quantity": "18–75"
         },
         {
           "name": "Tooth half of key (moon key)",
@@ -411694,7 +414899,7 @@
         {
           "name": "Sun-kissed bones",
           "rarity": "5/104",
-          "quantity": "25–75"
+          "quantity": "18–75"
         },
         {
           "name": "Tooth half of key (moon key)",
@@ -411858,7 +415063,7 @@
         {
           "name": "Sun-kissed bones",
           "rarity": "5/104",
-          "quantity": "25–75"
+          "quantity": "18–75"
         },
         {
           "name": "Tooth half of key (moon key)",
@@ -412022,7 +415227,7 @@
         {
           "name": "Sun-kissed bones",
           "rarity": "5/104",
-          "quantity": "25–75"
+          "quantity": "18–75"
         },
         {
           "name": "Tooth half of key (moon key)",
@@ -412186,7 +415391,7 @@
         {
           "name": "Sun-kissed bones",
           "rarity": "5/104",
-          "quantity": "25–75"
+          "quantity": "18–75"
         },
         {
           "name": "Tooth half of key (moon key)",
@@ -412350,7 +415555,7 @@
         {
           "name": "Sun-kissed bones",
           "rarity": "5/104",
-          "quantity": "25–75"
+          "quantity": "18–75"
         },
         {
           "name": "Tooth half of key (moon key)",
@@ -412514,7 +415719,7 @@
         {
           "name": "Sun-kissed bones",
           "rarity": "5/104",
-          "quantity": "25–75"
+          "quantity": "18–75"
         },
         {
           "name": "Tooth half of key (moon key)",
@@ -412678,7 +415883,7 @@
         {
           "name": "Sun-kissed bones",
           "rarity": "5/104",
-          "quantity": "25–75"
+          "quantity": "18–75"
         },
         {
           "name": "Tooth half of key (moon key)",
@@ -412842,7 +416047,7 @@
         {
           "name": "Sun-kissed bones",
           "rarity": "5/104",
-          "quantity": "25–75"
+          "quantity": "18–75"
         },
         {
           "name": "Tooth half of key (moon key)",
@@ -413006,7 +416211,7 @@
         {
           "name": "Sun-kissed bones",
           "rarity": "5/104",
-          "quantity": "25–75"
+          "quantity": "18–75"
         },
         {
           "name": "Tooth half of key (moon key)",
@@ -413170,7 +416375,7 @@
         {
           "name": "Sun-kissed bones",
           "rarity": "5/104",
-          "quantity": "25–75"
+          "quantity": "18–75"
         },
         {
           "name": "Tooth half of key (moon key)",
@@ -413334,7 +416539,7 @@
         {
           "name": "Sun-kissed bones",
           "rarity": "5/104",
-          "quantity": "25–75"
+          "quantity": "18–75"
         },
         {
           "name": "Tooth half of key (moon key)",
@@ -413498,7 +416703,7 @@
         {
           "name": "Sun-kissed bones",
           "rarity": "5/104",
-          "quantity": "25–75"
+          "quantity": "18–75"
         },
         {
           "name": "Tooth half of key (moon key)",
@@ -419529,22 +422734,22 @@
       "regular": [
         {
           "name": "Broken dragon hook",
-          "rarity": "1/1,023",
+          "rarity": "1/500",
           "quantity": "1"
         },
         {
           "name": "Large dragon keel parts",
-          "rarity": "1/6,138",
+          "rarity": "1/500",
           "quantity": "1"
         },
         {
           "name": "Dragon keel parts",
-          "rarity": "1/6,138",
+          "rarity": "1/1,000",
           "quantity": "1"
         },
         {
           "name": "Dragon metal sheet",
-          "rarity": "4/6,138",
+          "rarity": "1/200",
           "quantity": "1–2"
         },
         {
@@ -422421,6 +425626,32 @@
     }
   },
   {
+    "name": "Black Eye Bethel",
+    "id": [
+      "15025"
+    ],
+    "combat_level": 191,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Black Eye Bethel",
+    "id": [
+      "15025"
+    ],
+    "combat_level": 191,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
     "name": "Hammerhead shark",
     "id": [
       "15196"
@@ -422710,7 +425941,13 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [],
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   },
@@ -422723,7 +425960,13 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [],
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   },
@@ -422736,7 +425979,13 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [],
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   },
@@ -422749,7 +425998,13 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [],
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   },
@@ -429700,7 +432955,7 @@
       "regular": [
         {
           "name": "Dragon metal sheet",
-          "rarity": "1/400",
+          "rarity": "1/115",
           "quantity": "1"
         },
         {
@@ -429963,11 +433218,6 @@
     "drops": {
       "regular": [
         {
-          "name": "Dragon metal sheet",
-          "rarity": "1/100",
-          "quantity": "1"
-        },
-        {
           "name": "Strykewyrm bones",
           "rarity": "Always",
           "quantity": "1"
@@ -429975,6 +433225,11 @@
         {
           "name": "Brimstone key",
           "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Dragon metal sheet",
+          "rarity": "1/45",
           "quantity": "1"
         },
         {
@@ -430538,7 +433793,7 @@
       "regular": [
         {
           "name": "Belle's folly (tarnished)",
-          "rarity": "1/256",
+          "rarity": "1/75",
           "quantity": "1"
         },
         {
@@ -430993,8 +434248,8 @@
         },
         {
           "name": "Dragon nails",
-          "rarity": "1/150",
-          "quantity": "2–3"
+          "rarity": "1/75",
+          "quantity": "3–7, 5–10"
         },
         {
           "name": "Big bones",
@@ -431971,6 +435226,26 @@
           "quantity": "1"
         },
         {
+          "name": "Dragon nails",
+          "rarity": "Unknown",
+          "quantity": "4–8, 7–11"
+        },
+        {
+          "name": "Dragon metal sheet",
+          "rarity": "Unknown",
+          "quantity": "1–2"
+        },
+        {
+          "name": "Dragon keel parts",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Large dragon keel parts",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Big bones",
           "rarity": "Always",
           "quantity": "1"
@@ -432435,22 +435710,22 @@
       "regular": [
         {
           "name": "Dragon metal sheet",
-          "rarity": "3/1,280",
+          "rarity": "1/140",
           "quantity": "1–2"
         },
         {
           "name": "Bottled storm",
-          "rarity": "1/1,024",
+          "rarity": "1/500",
           "quantity": "1"
         },
         {
           "name": "Large dragon keel parts",
-          "rarity": "1/1,280",
+          "rarity": "1/600",
           "quantity": "1"
         },
         {
           "name": "Dragon keel parts",
-          "rarity": "1/1,280",
+          "rarity": "1/800",
           "quantity": "1"
         },
         {
@@ -434849,22 +438124,22 @@
       "regular": [
         {
           "name": "Bottled storm",
-          "rarity": "1/512",
+          "rarity": "1/350",
           "quantity": "1"
         },
         {
           "name": "Dragon metal sheet",
-          "rarity": "2/1,024",
+          "rarity": "1/80",
           "quantity": "1–2"
         },
         {
           "name": "Dragon keel parts",
-          "rarity": "1/1,024",
+          "rarity": "1/300",
           "quantity": "1"
         },
         {
           "name": "Large dragon keel parts",
-          "rarity": "1/1,024",
+          "rarity": "1/300",
           "quantity": "1"
         },
         {
@@ -435320,11 +438595,279 @@
     }
   },
   {
+    "name": "Splatter",
+    "id": [
+      "15550"
+    ],
+    "combat_level": 398,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archaic emblem (tier 5)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of advanced weaponry",
+          "rarity": "60/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fairies",
+          "rarity": "20/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of avarice",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of undead",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's throwing axe (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Morrigan's javelin (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Statius's warhammer (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's staff (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's spear (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's longsword (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fortuity (inactive)",
+          "rarity": "1/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's full helm (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platebody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platelegs (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's chainbody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's plateskirt (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's hood (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe top (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe bottom (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's coif (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather body (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather chaps (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Chitin",
+          "rarity": "1/2",
+          "quantity": "1 (noted)"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
     "name": "I DSCIM YOU",
     "id": [
       "15553"
     ],
     "combat_level": 495,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archaic emblem (tier 5)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of advanced weaponry",
+          "rarity": "60/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fairies",
+          "rarity": "20/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of avarice",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of undead",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's throwing axe (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Morrigan's javelin (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Statius's warhammer (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's staff (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's spear (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's longsword (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fortuity (inactive)",
+          "rarity": "1/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's full helm (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platebody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platelegs (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's chainbody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's plateskirt (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's hood (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe top (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe bottom (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's coif (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather body (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather chaps (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Chitin",
+          "rarity": "1/2",
+          "quantity": "1 (noted)"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "I DSCIM YOU",
+    "id": [
+      "15553"
+    ],
+    "combat_level": 307,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -435731,6 +439274,140 @@
     "is_members_only": true,
     "drops": {
       "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Zemouregal",
+    "id": [
+      "15237"
+    ],
+    "combat_level": 984,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archaic emblem (tier 5)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of advanced weaponry",
+          "rarity": "60/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fairies",
+          "rarity": "20/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of avarice",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of undead",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's throwing axe (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Morrigan's javelin (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Statius's warhammer (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's staff (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's spear (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's longsword (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fortuity (inactive)",
+          "rarity": "1/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's full helm (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platebody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platelegs (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's chainbody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's plateskirt (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's hood (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe top (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe bottom (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's coif (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather body (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather chaps (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Chitin",
+          "rarity": "1/2",
+          "quantity": "1 (noted)"
+        }
+      ],
       "rare_drop_table": []
     }
   },
@@ -436523,7 +440200,7 @@
     "id": [
       "15549"
     ],
-    "combat_level": 444,
+    "combat_level": 357,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -436787,11 +440464,279 @@
     }
   },
   {
+    "name": "Pestilent Bloat",
+    "id": [
+      "15556"
+    ],
+    "combat_level": 404,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archaic emblem (tier 5)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of advanced weaponry",
+          "rarity": "60/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fairies",
+          "rarity": "20/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of avarice",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of undead",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's throwing axe (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Morrigan's javelin (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Statius's warhammer (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's staff (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's spear (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's longsword (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fortuity (inactive)",
+          "rarity": "1/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's full helm (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platebody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platelegs (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's chainbody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's plateskirt (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's hood (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe top (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe bottom (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's coif (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather body (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather chaps (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Chitin",
+          "rarity": "1/2",
+          "quantity": "1 (noted)"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
     "name": "Sol Heredit",
     "id": [
       "15554"
     ],
     "combat_level": 668,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archaic emblem (tier 5)",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of advanced weaponry",
+          "rarity": "60/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fairies",
+          "rarity": "20/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of avarice",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of undead",
+          "rarity": "10/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's throwing axe (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Morrigan's javelin (Deadman Mode)",
+          "rarity": "10/9,576",
+          "quantity": "100"
+        },
+        {
+          "name": "Statius's warhammer (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's staff (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's spear (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's longsword (Deadman Mode)",
+          "rarity": "3/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Trinket of fortuity (inactive)",
+          "rarity": "1/9,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's full helm (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platebody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Statius's platelegs (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's chainbody (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Vesta's plateskirt (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's hood (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe top (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Zuriel's robe bottom (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's coif (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather body (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Morrigan's leather chaps (Deadman Mode)",
+          "rarity": "1/145,728",
+          "quantity": "1"
+        },
+        {
+          "name": "Chitin",
+          "rarity": "1/2",
+          "quantity": "1 (noted)"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Sol Heredit",
+    "id": [
+      "15554"
+    ],
+    "combat_level": 481,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -437059,7 +441004,7 @@
     "id": [
       "15555"
     ],
-    "combat_level": 899,
+    "combat_level": 524,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -437327,7 +441272,7 @@
     "id": [
       "15551"
     ],
-    "combat_level": 445,
+    "combat_level": 383,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -437595,7 +441540,7 @@
     "id": [
       "15552"
     ],
-    "combat_level": 255,
+    "combat_level": 407,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -438018,6 +441963,588 @@
     }
   },
   {
+    "name": "Maggot King",
+    "id": [
+      "15742"
+    ],
+    "combat_level": 741,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Maggot egg (base)",
+          "rarity": "300/1,500",
+          "quantity": "1"
+        },
+        {
+          "name": "Maggot egg (sickly)",
+          "rarity": "150/1,500",
+          "quantity": "1"
+        },
+        {
+          "name": "Maggot egg (warm)",
+          "rarity": "33/1,500",
+          "quantity": "1"
+        },
+        {
+          "name": "Stymphike tartare",
+          "rarity": "Uncommon",
+          "quantity": "2–4"
+        },
+        {
+          "name": "Dull ancient medal",
+          "rarity": "Uncommon",
+          "quantity": "1"
+        },
+        {
+          "name": "Maggot egg (pulsating)",
+          "rarity": "6/1,500",
+          "quantity": "1"
+        },
+        {
+          "name": "Maggot egg (wriggling)",
+          "rarity": "3/1,500",
+          "quantity": "1"
+        },
+        {
+          "name": "Maggot egg (writhing)",
+          "rarity": "1/1,500",
+          "quantity": "1"
+        },
+        {
+          "name": "Elder venator fang",
+          "rarity": "1/340",
+          "quantity": "1"
+        },
+        {
+          "name": "Crimson kisten",
+          "rarity": "1/520",
+          "quantity": "1"
+        },
+        {
+          "name": "Stymphike tartare",
+          "rarity": "41/159",
+          "quantity": "2–4"
+        },
+        {
+          "name": "Dull ancient medal",
+          "rarity": "41/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut ruby",
+          "rarity": "15/159",
+          "quantity": "6–13 (noted)"
+        },
+        {
+          "name": "Stymphike feather",
+          "rarity": "10/159",
+          "quantity": "51–74"
+        },
+        {
+          "name": "Mort myre fungus",
+          "rarity": "10/159",
+          "quantity": "50–76 (noted)"
+        },
+        {
+          "name": "Letvek",
+          "rarity": "10/159",
+          "quantity": "23–34"
+        },
+        {
+          "name": "Runite ore",
+          "rarity": "5/159",
+          "quantity": "12–15 (noted)"
+        },
+        {
+          "name": "Blood sac",
+          "rarity": "5/159",
+          "quantity": "8–11"
+        },
+        {
+          "name": "Gold ore",
+          "rarity": "5/159",
+          "quantity": "24–32 (noted)"
+        },
+        {
+          "name": "Mithril ore",
+          "rarity": "5/159",
+          "quantity": "39–41 (noted)"
+        },
+        {
+          "name": "Adamantite ore",
+          "rarity": "10/159",
+          "quantity": "30–40 (noted)"
+        },
+        {
+          "name": "Orikalkum gravel",
+          "rarity": "4/159",
+          "quantity": "4–5"
+        },
+        {
+          "name": "Venator fang",
+          "rarity": "2/159",
+          "quantity": "112–179"
+        },
+        {
+          "name": "Venator tooth",
+          "rarity": "2/159",
+          "quantity": "178–219"
+        },
+        {
+          "name": "Tarnished spear",
+          "rarity": "12/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished ring",
+          "rarity": "6/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished bracelet",
+          "rarity": "3/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished necklace",
+          "rarity": "3/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished amulet",
+          "rarity": "3/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished battleaxe",
+          "rarity": "2/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished longsword",
+          "rarity": "2/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished halberd",
+          "rarity": "2/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished 2h sword",
+          "rarity": "2/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Maggot marquess",
+          "rarity": "1/3,500",
+          "quantity": "1"
+        },
+        {
+          "name": "Brimstone key",
+          "rarity": "1/50",
+          "quantity": "1"
+        },
+        {
+          "name": "Clue scroll (elite)",
+          "rarity": "1/40",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Maggot King",
+    "id": [
+      "15742"
+    ],
+    "combat_level": 741,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Maggot egg (base)",
+          "rarity": "300/1,500",
+          "quantity": "1"
+        },
+        {
+          "name": "Maggot egg (sickly)",
+          "rarity": "150/1,500",
+          "quantity": "1"
+        },
+        {
+          "name": "Maggot egg (warm)",
+          "rarity": "33/1,500",
+          "quantity": "1"
+        },
+        {
+          "name": "Stymphike tartare",
+          "rarity": "Uncommon",
+          "quantity": "2–4"
+        },
+        {
+          "name": "Dull ancient medal",
+          "rarity": "Uncommon",
+          "quantity": "1"
+        },
+        {
+          "name": "Maggot egg (pulsating)",
+          "rarity": "6/1,500",
+          "quantity": "1"
+        },
+        {
+          "name": "Maggot egg (wriggling)",
+          "rarity": "3/1,500",
+          "quantity": "1"
+        },
+        {
+          "name": "Maggot egg (writhing)",
+          "rarity": "1/1,500",
+          "quantity": "1"
+        },
+        {
+          "name": "Elder venator fang",
+          "rarity": "1/340",
+          "quantity": "1"
+        },
+        {
+          "name": "Crimson kisten",
+          "rarity": "1/520",
+          "quantity": "1"
+        },
+        {
+          "name": "Stymphike tartare",
+          "rarity": "41/159",
+          "quantity": "2–4"
+        },
+        {
+          "name": "Dull ancient medal",
+          "rarity": "41/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut ruby",
+          "rarity": "15/159",
+          "quantity": "6–13 (noted)"
+        },
+        {
+          "name": "Stymphike feather",
+          "rarity": "10/159",
+          "quantity": "51–74"
+        },
+        {
+          "name": "Mort myre fungus",
+          "rarity": "10/159",
+          "quantity": "50–76 (noted)"
+        },
+        {
+          "name": "Letvek",
+          "rarity": "10/159",
+          "quantity": "23–34"
+        },
+        {
+          "name": "Runite ore",
+          "rarity": "5/159",
+          "quantity": "12–15 (noted)"
+        },
+        {
+          "name": "Blood sac",
+          "rarity": "5/159",
+          "quantity": "8–11"
+        },
+        {
+          "name": "Gold ore",
+          "rarity": "5/159",
+          "quantity": "24–32 (noted)"
+        },
+        {
+          "name": "Mithril ore",
+          "rarity": "5/159",
+          "quantity": "39–41 (noted)"
+        },
+        {
+          "name": "Adamantite ore",
+          "rarity": "10/159",
+          "quantity": "30–40 (noted)"
+        },
+        {
+          "name": "Orikalkum gravel",
+          "rarity": "4/159",
+          "quantity": "4–5"
+        },
+        {
+          "name": "Venator fang",
+          "rarity": "2/159",
+          "quantity": "112–179"
+        },
+        {
+          "name": "Venator tooth",
+          "rarity": "2/159",
+          "quantity": "178–219"
+        },
+        {
+          "name": "Tarnished spear",
+          "rarity": "12/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished ring",
+          "rarity": "6/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished bracelet",
+          "rarity": "3/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished necklace",
+          "rarity": "3/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished amulet",
+          "rarity": "3/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished battleaxe",
+          "rarity": "2/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished longsword",
+          "rarity": "2/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished halberd",
+          "rarity": "2/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished 2h sword",
+          "rarity": "2/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Maggot marquess",
+          "rarity": "1/3,500",
+          "quantity": "1"
+        },
+        {
+          "name": "Brimstone key",
+          "rarity": "1/50",
+          "quantity": "1"
+        },
+        {
+          "name": "Clue scroll (elite)",
+          "rarity": "1/40",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Maggot King",
+    "id": [
+      "15742"
+    ],
+    "combat_level": 741,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Maggot egg (base)",
+          "rarity": "300/1,500",
+          "quantity": "1"
+        },
+        {
+          "name": "Maggot egg (sickly)",
+          "rarity": "150/1,500",
+          "quantity": "1"
+        },
+        {
+          "name": "Maggot egg (warm)",
+          "rarity": "33/1,500",
+          "quantity": "1"
+        },
+        {
+          "name": "Stymphike tartare",
+          "rarity": "Uncommon",
+          "quantity": "2–4"
+        },
+        {
+          "name": "Dull ancient medal",
+          "rarity": "Uncommon",
+          "quantity": "1"
+        },
+        {
+          "name": "Maggot egg (pulsating)",
+          "rarity": "6/1,500",
+          "quantity": "1"
+        },
+        {
+          "name": "Maggot egg (wriggling)",
+          "rarity": "3/1,500",
+          "quantity": "1"
+        },
+        {
+          "name": "Maggot egg (writhing)",
+          "rarity": "1/1,500",
+          "quantity": "1"
+        },
+        {
+          "name": "Elder venator fang",
+          "rarity": "1/340",
+          "quantity": "1"
+        },
+        {
+          "name": "Crimson kisten",
+          "rarity": "1/520",
+          "quantity": "1"
+        },
+        {
+          "name": "Stymphike tartare",
+          "rarity": "41/159",
+          "quantity": "2–4"
+        },
+        {
+          "name": "Dull ancient medal",
+          "rarity": "41/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut ruby",
+          "rarity": "15/159",
+          "quantity": "6–13 (noted)"
+        },
+        {
+          "name": "Stymphike feather",
+          "rarity": "10/159",
+          "quantity": "51–74"
+        },
+        {
+          "name": "Mort myre fungus",
+          "rarity": "10/159",
+          "quantity": "50–76 (noted)"
+        },
+        {
+          "name": "Letvek",
+          "rarity": "10/159",
+          "quantity": "23–34"
+        },
+        {
+          "name": "Runite ore",
+          "rarity": "5/159",
+          "quantity": "12–15 (noted)"
+        },
+        {
+          "name": "Blood sac",
+          "rarity": "5/159",
+          "quantity": "8–11"
+        },
+        {
+          "name": "Gold ore",
+          "rarity": "5/159",
+          "quantity": "24–32 (noted)"
+        },
+        {
+          "name": "Mithril ore",
+          "rarity": "5/159",
+          "quantity": "39–41 (noted)"
+        },
+        {
+          "name": "Adamantite ore",
+          "rarity": "10/159",
+          "quantity": "30–40 (noted)"
+        },
+        {
+          "name": "Orikalkum gravel",
+          "rarity": "4/159",
+          "quantity": "4–5"
+        },
+        {
+          "name": "Venator fang",
+          "rarity": "2/159",
+          "quantity": "112–179"
+        },
+        {
+          "name": "Venator tooth",
+          "rarity": "2/159",
+          "quantity": "178–219"
+        },
+        {
+          "name": "Tarnished spear",
+          "rarity": "12/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished ring",
+          "rarity": "6/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished bracelet",
+          "rarity": "3/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished necklace",
+          "rarity": "3/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished amulet",
+          "rarity": "3/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished battleaxe",
+          "rarity": "2/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished longsword",
+          "rarity": "2/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished halberd",
+          "rarity": "2/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished 2h sword",
+          "rarity": "2/159",
+          "quantity": "1"
+        },
+        {
+          "name": "Maggot marquess",
+          "rarity": "1/3,500",
+          "quantity": "1"
+        },
+        {
+          "name": "Brimstone key",
+          "rarity": "1/50",
+          "quantity": "1"
+        },
+        {
+          "name": "Clue scroll (elite)",
+          "rarity": "1/40",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
     "name": "Basilisk",
     "id": [
       "418"
@@ -438055,17 +442582,17 @@
       "regular": [
         {
           "name": "Dragon cannon barrel",
-          "rarity": "1/1,000",
+          "rarity": "1/500",
           "quantity": "1"
         },
         {
           "name": "Dragon metal sheet",
-          "rarity": "1/1,150",
+          "rarity": "4/500",
           "quantity": "1–2"
         },
         {
           "name": "Dragon keel parts",
-          "rarity": "1/1,850",
+          "rarity": "2/500",
           "quantity": "1"
         },
         {
@@ -438075,7 +442602,7 @@
         },
         {
           "name": "Large dragon keel parts",
-          "rarity": "1/2,100",
+          "rarity": "2/500",
           "quantity": "1"
         },
         {
@@ -438280,7 +442807,7 @@
         },
         {
           "name": "Veiled kraken tentacle",
-          "rarity": "1/5",
+          "rarity": "1/3",
           "quantity": "1"
         },
         {
@@ -438336,6 +442863,1662 @@
     "drops": {
       "regular": [],
       "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Oaky Doak",
+    "id": [
+      "15677"
+    ],
+    "combat_level": 77,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Boatswain Bill Teak",
+    "id": [
+      "15678"
+    ],
+    "combat_level": 77,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Mister U.",
+    "id": [
+      "15679"
+    ],
+    "combat_level": 77,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Captain Ruban Acer",
+    "id": [
+      "15683"
+    ],
+    "combat_level": 95,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Bloody Jack",
+    "id": [
+      "15682"
+    ],
+    "combat_level": 77,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Mute Jack",
+    "id": [
+      "15681"
+    ],
+    "combat_level": 77,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Old Jack",
+    "id": [
+      "15680"
+    ],
+    "combat_level": 77,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Captain Jack",
+    "id": [
+      "15684"
+    ],
+    "combat_level": 95,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Venator",
+    "id": [
+      "15765"
+    ],
+    "combat_level": 246,
+    "slayer_level": 74,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Blood shard",
+          "rarity": "1/860",
+          "quantity": "1"
+        },
+        {
+          "name": "Coins",
+          "rarity": "19/131",
+          "quantity": "3000–7000"
+        },
+        {
+          "name": "Adamantite ore",
+          "rarity": "17/131",
+          "quantity": "3–5 (noted)"
+        },
+        {
+          "name": "Fish offcuts",
+          "rarity": "5/131",
+          "quantity": "3–5"
+        },
+        {
+          "name": "Stymphike feather",
+          "rarity": "12/131",
+          "quantity": "15–22"
+        },
+        {
+          "name": "Mithril ore",
+          "rarity": "12/131",
+          "quantity": "6–7 (noted)"
+        },
+        {
+          "name": "Hard leather",
+          "rarity": "6/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Fine fish offcuts",
+          "rarity": "3/131",
+          "quantity": "2"
+        },
+        {
+          "name": "Mort myre fungus",
+          "rarity": "10/131",
+          "quantity": "5 (noted)"
+        },
+        {
+          "name": "Jug of wine",
+          "rarity": "1/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Grapevine (item)",
+          "rarity": "5/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Blood sac",
+          "rarity": "3/131",
+          "quantity": "6–8"
+        },
+        {
+          "name": "Venator fang",
+          "rarity": "7/131",
+          "quantity": "10–20"
+        },
+        {
+          "name": "Venator tooth",
+          "rarity": "7/131",
+          "quantity": "15–30"
+        },
+        {
+          "name": "Letvek",
+          "rarity": "2/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Orikalkum gravel",
+          "rarity": "1/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Runite ore",
+          "rarity": "1/131",
+          "quantity": "1 (noted)"
+        },
+        {
+          "name": "Tarnished spear",
+          "rarity": "690/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished ring",
+          "rarity": "506/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished amulet",
+          "rarity": "253/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished bracelet",
+          "rarity": "253/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished necklace",
+          "rarity": "253/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished 2h sword",
+          "rarity": "115/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished battleaxe",
+          "rarity": "115/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished halberd",
+          "rarity": "115/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished longsword",
+          "rarity": "115/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Venator heart",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Brimstone key",
+          "rarity": "1/56",
+          "quantity": "1"
+        },
+        {
+          "name": "Clue scroll (elite)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": [
+        {
+          "name": "Uncut sapphire",
+          "rarity": "1/524",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut emerald",
+          "rarity": "1/1,048",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut ruby",
+          "rarity": "1/2,096",
+          "quantity": "1"
+        },
+        {
+          "name": "Nature talisman",
+          "rarity": "1/5,589.33",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut diamond",
+          "rarity": "1/8,384",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune javelin",
+          "rarity": "1/16,768",
+          "quantity": "5"
+        },
+        {
+          "name": "Loop half of key",
+          "rarity": "1/16,768",
+          "quantity": "1"
+        },
+        {
+          "name": "Tooth half of key",
+          "rarity": "1/16,768",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune spear",
+          "rarity": "1/268,288",
+          "quantity": "1"
+        },
+        {
+          "name": "Shield left half",
+          "rarity": "1/536,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Dragon spear",
+          "rarity": "1/715,434.67",
+          "quantity": "1"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Venator",
+    "id": [
+      "15767"
+    ],
+    "combat_level": 246,
+    "slayer_level": 74,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Blood shard",
+          "rarity": "1/860",
+          "quantity": "1"
+        },
+        {
+          "name": "Coins",
+          "rarity": "19/131",
+          "quantity": "3000–7000"
+        },
+        {
+          "name": "Adamantite ore",
+          "rarity": "17/131",
+          "quantity": "3–5 (noted)"
+        },
+        {
+          "name": "Fish offcuts",
+          "rarity": "5/131",
+          "quantity": "3–5"
+        },
+        {
+          "name": "Stymphike feather",
+          "rarity": "12/131",
+          "quantity": "15–22"
+        },
+        {
+          "name": "Mithril ore",
+          "rarity": "12/131",
+          "quantity": "6–7 (noted)"
+        },
+        {
+          "name": "Hard leather",
+          "rarity": "6/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Fine fish offcuts",
+          "rarity": "3/131",
+          "quantity": "2"
+        },
+        {
+          "name": "Mort myre fungus",
+          "rarity": "10/131",
+          "quantity": "5 (noted)"
+        },
+        {
+          "name": "Jug of wine",
+          "rarity": "1/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Grapevine (item)",
+          "rarity": "5/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Blood sac",
+          "rarity": "3/131",
+          "quantity": "6–8"
+        },
+        {
+          "name": "Venator fang",
+          "rarity": "7/131",
+          "quantity": "10–20"
+        },
+        {
+          "name": "Venator tooth",
+          "rarity": "7/131",
+          "quantity": "15–30"
+        },
+        {
+          "name": "Letvek",
+          "rarity": "2/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Orikalkum gravel",
+          "rarity": "1/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Runite ore",
+          "rarity": "1/131",
+          "quantity": "1 (noted)"
+        },
+        {
+          "name": "Tarnished spear",
+          "rarity": "690/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished ring",
+          "rarity": "506/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished amulet",
+          "rarity": "253/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished bracelet",
+          "rarity": "253/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished necklace",
+          "rarity": "253/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished 2h sword",
+          "rarity": "115/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished battleaxe",
+          "rarity": "115/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished halberd",
+          "rarity": "115/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished longsword",
+          "rarity": "115/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Venator heart",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Brimstone key",
+          "rarity": "1/56",
+          "quantity": "1"
+        },
+        {
+          "name": "Clue scroll (elite)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": [
+        {
+          "name": "Uncut sapphire",
+          "rarity": "1/524",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut emerald",
+          "rarity": "1/1,048",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut ruby",
+          "rarity": "1/2,096",
+          "quantity": "1"
+        },
+        {
+          "name": "Nature talisman",
+          "rarity": "1/5,589.33",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut diamond",
+          "rarity": "1/8,384",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune javelin",
+          "rarity": "1/16,768",
+          "quantity": "5"
+        },
+        {
+          "name": "Loop half of key",
+          "rarity": "1/16,768",
+          "quantity": "1"
+        },
+        {
+          "name": "Tooth half of key",
+          "rarity": "1/16,768",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune spear",
+          "rarity": "1/268,288",
+          "quantity": "1"
+        },
+        {
+          "name": "Shield left half",
+          "rarity": "1/536,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Dragon spear",
+          "rarity": "1/715,434.67",
+          "quantity": "1"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Venator",
+    "id": [
+      "15766"
+    ],
+    "combat_level": 246,
+    "slayer_level": 74,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Blood shard",
+          "rarity": "1/860",
+          "quantity": "1"
+        },
+        {
+          "name": "Coins",
+          "rarity": "19/131",
+          "quantity": "3000–7000"
+        },
+        {
+          "name": "Adamantite ore",
+          "rarity": "17/131",
+          "quantity": "3–5 (noted)"
+        },
+        {
+          "name": "Fish offcuts",
+          "rarity": "5/131",
+          "quantity": "3–5"
+        },
+        {
+          "name": "Stymphike feather",
+          "rarity": "12/131",
+          "quantity": "15–22"
+        },
+        {
+          "name": "Mithril ore",
+          "rarity": "12/131",
+          "quantity": "6–7 (noted)"
+        },
+        {
+          "name": "Hard leather",
+          "rarity": "6/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Fine fish offcuts",
+          "rarity": "3/131",
+          "quantity": "2"
+        },
+        {
+          "name": "Mort myre fungus",
+          "rarity": "10/131",
+          "quantity": "5 (noted)"
+        },
+        {
+          "name": "Jug of wine",
+          "rarity": "1/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Grapevine (item)",
+          "rarity": "5/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Blood sac",
+          "rarity": "3/131",
+          "quantity": "6–8"
+        },
+        {
+          "name": "Venator fang",
+          "rarity": "7/131",
+          "quantity": "10–20"
+        },
+        {
+          "name": "Venator tooth",
+          "rarity": "7/131",
+          "quantity": "15–30"
+        },
+        {
+          "name": "Letvek",
+          "rarity": "2/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Orikalkum gravel",
+          "rarity": "1/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Runite ore",
+          "rarity": "1/131",
+          "quantity": "1 (noted)"
+        },
+        {
+          "name": "Tarnished spear",
+          "rarity": "690/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished ring",
+          "rarity": "506/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished amulet",
+          "rarity": "253/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished bracelet",
+          "rarity": "253/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished necklace",
+          "rarity": "253/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished 2h sword",
+          "rarity": "115/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished battleaxe",
+          "rarity": "115/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished halberd",
+          "rarity": "115/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished longsword",
+          "rarity": "115/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Venator heart",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Brimstone key",
+          "rarity": "1/56",
+          "quantity": "1"
+        },
+        {
+          "name": "Clue scroll (elite)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": [
+        {
+          "name": "Uncut sapphire",
+          "rarity": "1/524",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut emerald",
+          "rarity": "1/1,048",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut ruby",
+          "rarity": "1/2,096",
+          "quantity": "1"
+        },
+        {
+          "name": "Nature talisman",
+          "rarity": "1/5,589.33",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut diamond",
+          "rarity": "1/8,384",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune javelin",
+          "rarity": "1/16,768",
+          "quantity": "5"
+        },
+        {
+          "name": "Loop half of key",
+          "rarity": "1/16,768",
+          "quantity": "1"
+        },
+        {
+          "name": "Tooth half of key",
+          "rarity": "1/16,768",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune spear",
+          "rarity": "1/268,288",
+          "quantity": "1"
+        },
+        {
+          "name": "Shield left half",
+          "rarity": "1/536,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Dragon spear",
+          "rarity": "1/715,434.67",
+          "quantity": "1"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Venator",
+    "id": [
+      "15769"
+    ],
+    "combat_level": 246,
+    "slayer_level": 74,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Blood shard",
+          "rarity": "1/860",
+          "quantity": "1"
+        },
+        {
+          "name": "Coins",
+          "rarity": "19/131",
+          "quantity": "3000–7000"
+        },
+        {
+          "name": "Adamantite ore",
+          "rarity": "17/131",
+          "quantity": "3–5 (noted)"
+        },
+        {
+          "name": "Fish offcuts",
+          "rarity": "5/131",
+          "quantity": "3–5"
+        },
+        {
+          "name": "Stymphike feather",
+          "rarity": "12/131",
+          "quantity": "15–22"
+        },
+        {
+          "name": "Mithril ore",
+          "rarity": "12/131",
+          "quantity": "6–7 (noted)"
+        },
+        {
+          "name": "Hard leather",
+          "rarity": "6/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Fine fish offcuts",
+          "rarity": "3/131",
+          "quantity": "2"
+        },
+        {
+          "name": "Mort myre fungus",
+          "rarity": "10/131",
+          "quantity": "5 (noted)"
+        },
+        {
+          "name": "Jug of wine",
+          "rarity": "1/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Grapevine (item)",
+          "rarity": "5/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Blood sac",
+          "rarity": "3/131",
+          "quantity": "6–8"
+        },
+        {
+          "name": "Venator fang",
+          "rarity": "7/131",
+          "quantity": "10–20"
+        },
+        {
+          "name": "Venator tooth",
+          "rarity": "7/131",
+          "quantity": "15–30"
+        },
+        {
+          "name": "Letvek",
+          "rarity": "2/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Orikalkum gravel",
+          "rarity": "1/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Runite ore",
+          "rarity": "1/131",
+          "quantity": "1 (noted)"
+        },
+        {
+          "name": "Tarnished spear",
+          "rarity": "690/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished ring",
+          "rarity": "506/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished amulet",
+          "rarity": "253/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished bracelet",
+          "rarity": "253/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished necklace",
+          "rarity": "253/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished 2h sword",
+          "rarity": "115/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished battleaxe",
+          "rarity": "115/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished halberd",
+          "rarity": "115/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished longsword",
+          "rarity": "115/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Venator heart",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Brimstone key",
+          "rarity": "1/56",
+          "quantity": "1"
+        },
+        {
+          "name": "Clue scroll (elite)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": [
+        {
+          "name": "Uncut sapphire",
+          "rarity": "1/524",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut emerald",
+          "rarity": "1/1,048",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut ruby",
+          "rarity": "1/2,096",
+          "quantity": "1"
+        },
+        {
+          "name": "Nature talisman",
+          "rarity": "1/5,589.33",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut diamond",
+          "rarity": "1/8,384",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune javelin",
+          "rarity": "1/16,768",
+          "quantity": "5"
+        },
+        {
+          "name": "Loop half of key",
+          "rarity": "1/16,768",
+          "quantity": "1"
+        },
+        {
+          "name": "Tooth half of key",
+          "rarity": "1/16,768",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune spear",
+          "rarity": "1/268,288",
+          "quantity": "1"
+        },
+        {
+          "name": "Shield left half",
+          "rarity": "1/536,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Dragon spear",
+          "rarity": "1/715,434.67",
+          "quantity": "1"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Venator",
+    "id": [
+      "15768"
+    ],
+    "combat_level": 246,
+    "slayer_level": 74,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Blood shard",
+          "rarity": "1/860",
+          "quantity": "1"
+        },
+        {
+          "name": "Coins",
+          "rarity": "19/131",
+          "quantity": "3000–7000"
+        },
+        {
+          "name": "Adamantite ore",
+          "rarity": "17/131",
+          "quantity": "3–5 (noted)"
+        },
+        {
+          "name": "Fish offcuts",
+          "rarity": "5/131",
+          "quantity": "3–5"
+        },
+        {
+          "name": "Stymphike feather",
+          "rarity": "12/131",
+          "quantity": "15–22"
+        },
+        {
+          "name": "Mithril ore",
+          "rarity": "12/131",
+          "quantity": "6–7 (noted)"
+        },
+        {
+          "name": "Hard leather",
+          "rarity": "6/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Fine fish offcuts",
+          "rarity": "3/131",
+          "quantity": "2"
+        },
+        {
+          "name": "Mort myre fungus",
+          "rarity": "10/131",
+          "quantity": "5 (noted)"
+        },
+        {
+          "name": "Jug of wine",
+          "rarity": "1/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Grapevine (item)",
+          "rarity": "5/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Blood sac",
+          "rarity": "3/131",
+          "quantity": "6–8"
+        },
+        {
+          "name": "Venator fang",
+          "rarity": "7/131",
+          "quantity": "10–20"
+        },
+        {
+          "name": "Venator tooth",
+          "rarity": "7/131",
+          "quantity": "15–30"
+        },
+        {
+          "name": "Letvek",
+          "rarity": "2/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Orikalkum gravel",
+          "rarity": "1/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Runite ore",
+          "rarity": "1/131",
+          "quantity": "1 (noted)"
+        },
+        {
+          "name": "Tarnished spear",
+          "rarity": "690/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished ring",
+          "rarity": "506/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished amulet",
+          "rarity": "253/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished bracelet",
+          "rarity": "253/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished necklace",
+          "rarity": "253/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished 2h sword",
+          "rarity": "115/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished battleaxe",
+          "rarity": "115/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished halberd",
+          "rarity": "115/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished longsword",
+          "rarity": "115/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Venator heart",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Brimstone key",
+          "rarity": "1/56",
+          "quantity": "1"
+        },
+        {
+          "name": "Clue scroll (elite)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": [
+        {
+          "name": "Uncut sapphire",
+          "rarity": "1/524",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut emerald",
+          "rarity": "1/1,048",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut ruby",
+          "rarity": "1/2,096",
+          "quantity": "1"
+        },
+        {
+          "name": "Nature talisman",
+          "rarity": "1/5,589.33",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut diamond",
+          "rarity": "1/8,384",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune javelin",
+          "rarity": "1/16,768",
+          "quantity": "5"
+        },
+        {
+          "name": "Loop half of key",
+          "rarity": "1/16,768",
+          "quantity": "1"
+        },
+        {
+          "name": "Tooth half of key",
+          "rarity": "1/16,768",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune spear",
+          "rarity": "1/268,288",
+          "quantity": "1"
+        },
+        {
+          "name": "Shield left half",
+          "rarity": "1/536,576",
+          "quantity": "1"
+        },
+        {
+          "name": "Dragon spear",
+          "rarity": "1/715,434.67",
+          "quantity": "1"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ur-maggot larvae",
+    "id": [
+      "15743"
+    ],
+    "combat_level": 65,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Webbed-winged Crow",
+    "id": [
+      "16226"
+    ],
+    "combat_level": 98,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Ancient feral vyre",
+    "id": [
+      "15760",
+      "16229"
+    ],
+    "combat_level": 117,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Vampyre dust",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Ancient feral vyre",
+    "id": [
+      "16232"
+    ],
+    "combat_level": 117,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Vampyre dust",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Ancient feral vyre",
+    "id": [
+      "16231"
+    ],
+    "combat_level": 117,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Vampyre dust",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Ancient feral vyre",
+    "id": [
+      "16230"
+    ],
+    "combat_level": 117,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Vampyre dust",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Sanguidae",
+    "id": [
+      "16223"
+    ],
+    "combat_level": 106,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Sanguidae",
+    "id": [
+      "16225"
+    ],
+    "combat_level": 106,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Sanguidae",
+    "id": [
+      "15756",
+      "16224"
+    ],
+    "combat_level": 106,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Maxilla beast",
+    "id": [
+      "16233"
+    ],
+    "combat_level": 194,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Wyrd",
+    "id": [
+      "16212"
+    ],
+    "combat_level": 564,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Impaler deer",
+    "id": [
+      "15759"
+    ],
+    "combat_level": 119,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Raw impaler meat",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Dire bat",
+    "id": [
+      "15757"
+    ],
+    "combat_level": 142,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bat bones",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Blood-starved venator",
+    "id": [
+      "15770"
+    ],
+    "combat_level": 246,
+    "slayer_level": 74,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Blood shard",
+          "rarity": "1/5",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished 2h sword",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished amulet",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished battleaxe",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished halberd",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished longsword",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished necklace",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished bracelet",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished ring",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished spear",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Adamantite ore",
+          "rarity": "Unknown",
+          "quantity": "3–5 (noted)"
+        },
+        {
+          "name": "Blood sac",
+          "rarity": "Unknown",
+          "quantity": "6–8"
+        },
+        {
+          "name": "Coins",
+          "rarity": "Unknown",
+          "quantity": "3000–7000"
+        },
+        {
+          "name": "Fine fish offcuts",
+          "rarity": "Unknown",
+          "quantity": "2"
+        },
+        {
+          "name": "Fish offcuts",
+          "rarity": "Unknown",
+          "quantity": "3–5"
+        },
+        {
+          "name": "Grapevine (item)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Hard leather",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Jug of wine",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Letvek",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Mithril ore",
+          "rarity": "Unknown",
+          "quantity": "6–7"
+        },
+        {
+          "name": "Mort myre fungus",
+          "rarity": "Unknown",
+          "quantity": "5 (noted)"
+        },
+        {
+          "name": "Orikalkum gravel",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Runite ore",
+          "rarity": "Unknown",
+          "quantity": "1 (noted)"
+        },
+        {
+          "name": "Stymphike feather",
+          "rarity": "Unknown",
+          "quantity": "15–22"
+        },
+        {
+          "name": "Venator fang",
+          "rarity": "Unknown",
+          "quantity": "10–20"
+        },
+        {
+          "name": "Venator tooth",
+          "rarity": "Unknown",
+          "quantity": "15–30"
+        },
+        {
+          "name": "Venator heart",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Brimstone key",
+          "rarity": "1/56",
+          "quantity": "1"
+        },
+        {
+          "name": "Clue scroll (elite)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Mist battlestaff",
+          "rarity": "1/153",
+          "quantity": "1"
+        },
+        {
+          "name": "Dust battlestaff",
+          "rarity": "1/153",
+          "quantity": "1"
+        },
+        {
+          "name": "Eternal gem",
+          "rarity": "1/536",
+          "quantity": "1"
+        },
+        {
+          "name": "Imbued heart",
+          "rarity": "1/536",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": [
+        {
+          "name": "Uncut sapphire",
+          "rarity": "Rare",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut emerald",
+          "rarity": "Rare",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut ruby",
+          "rarity": "Very rare",
+          "quantity": "1"
+        },
+        {
+          "name": "Nature talisman",
+          "rarity": "Very rare",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut diamond",
+          "rarity": "Very rare",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune javelin",
+          "rarity": "Very rare",
+          "quantity": "5"
+        },
+        {
+          "name": "Loop half of key",
+          "rarity": "Very rare",
+          "quantity": "1"
+        },
+        {
+          "name": "Tooth half of key",
+          "rarity": "Very rare",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune spear",
+          "rarity": "Very rare",
+          "quantity": "1"
+        },
+        {
+          "name": "Shield left half",
+          "rarity": "Very rare",
+          "quantity": "1"
+        },
+        {
+          "name": "Dragon spear",
+          "rarity": "Very rare",
+          "quantity": "1"
+        }
+      ]
     }
   }
 ]

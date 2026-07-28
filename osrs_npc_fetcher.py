@@ -44,7 +44,7 @@ class OSRSNpcBucketAPI(OSRSBucketAPI):
         'slayer_experience',
         'size',
         'examine',
-        'poison_immune',
+        'poison_resistance',
         'venom_immune',
         'thrall_immune',
         'cannon_immune',

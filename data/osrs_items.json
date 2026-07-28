@@ -10024,9 +10024,22 @@
   },
   {
     "item_name": "Fighter torso",
-    "item_name_variant": "Fighter torso#Broken",
+    "item_name_variant": "Fighter torso#Normal",
     "item_id": [
-      "20513"
+      "10551"
+    ],
+    "weight": 4,
+    "value": 65006,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A Penance Fighter torso armour.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Fighter torso",
+    "item_name_variant": "Fighter torso#Locked and broken",
+    "item_id": [
+      "33520"
     ],
     "weight": 4,
     "value": 1,
@@ -10050,15 +10063,28 @@
   },
   {
     "item_name": "Fighter torso",
-    "item_name_variant": "Fighter torso#Normal",
+    "item_name_variant": "Fighter torso#Locked and mangled",
     "item_id": [
-      "10551"
+      "33522"
     ],
     "weight": 4,
-    "value": 65006,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A Penance Fighter torso armour.",
+    "examine": "A mangled Penance Fighter torso.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Fighter torso",
+    "item_name_variant": "Fighter torso#Broken",
+    "item_id": [
+      "20513"
+    ],
+    "weight": 4,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A broken Penance Fighter torso.",
     "is_members_only": true
   },
   {
@@ -14535,9 +14561,22 @@
   },
   {
     "item_name": "Void knight robe",
-    "item_name_variant": "Void knight robe#Broken",
+    "item_name_variant": "Void knight robe#Normal",
     "item_id": [
-      "20469"
+      "8840"
+    ],
+    "weight": 8.164,
+    "value": 45000,
+    "high_alchemy_value": 27000,
+    "buy_limit": 0,
+    "examine": "Leg armour from the order of the Void Knights.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Void knight robe",
+    "item_name_variant": "Void knight robe#Locked and broken",
+    "item_id": [
+      "33484"
     ],
     "weight": 8.164,
     "value": 1,
@@ -14561,15 +14600,28 @@
   },
   {
     "item_name": "Void knight robe",
-    "item_name_variant": "Void knight robe#Normal",
+    "item_name_variant": "Void knight robe#Locked and mangled",
     "item_id": [
-      "8840"
+      "33486"
     ],
     "weight": 8.164,
-    "value": 45000,
-    "high_alchemy_value": 27000,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "Leg armour from the order of the Void Knights.",
+    "examine": "Mangled leg armour from the order of the Void Knights.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Void knight robe",
+    "item_name_variant": "Void knight robe#Broken",
+    "item_id": [
+      "20469"
+    ],
+    "weight": 8.164,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Broken leg armour from the order of the Void Knights.",
     "is_members_only": true
   },
   {
@@ -14613,9 +14665,22 @@
   },
   {
     "item_name": "Void knight top",
-    "item_name_variant": "Void knight top#Broken",
+    "item_name_variant": "Void knight top#Normal",
     "item_id": [
-      "20465"
+      "8839"
+    ],
+    "weight": 6.803,
+    "value": 48000,
+    "high_alchemy_value": 28800,
+    "buy_limit": 0,
+    "examine": "Torso armour from the order of the Void Knights.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Void knight top",
+    "item_name_variant": "Void knight top#Locked and broken",
+    "item_id": [
+      "33476"
     ],
     "weight": 6.803,
     "value": 1,
@@ -14639,22 +14704,48 @@
   },
   {
     "item_name": "Void knight top",
-    "item_name_variant": "Void knight top#Normal",
+    "item_name_variant": "Void knight top#Locked and mangled",
     "item_id": [
-      "8839"
+      "33478"
     ],
     "weight": 6.803,
-    "value": 48000,
-    "high_alchemy_value": 28800,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "Torso armour from the order of the Void Knights.",
+    "examine": "Mangled torso armour from the order of the Void Knights.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Void knight top",
+    "item_name_variant": "Void knight top#Broken",
+    "item_id": [
+      "20465"
+    ],
+    "weight": 6.803,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Broken torso armour from the order of the Void Knights.",
     "is_members_only": true
   },
   {
     "item_name": "Void mage helm",
-    "item_name_variant": "Void mage helm#Broken",
+    "item_name_variant": "Void mage helm#Normal",
     "item_id": [
-      "20477"
+      "11663"
+    ],
+    "weight": 0.453,
+    "value": 9851,
+    "high_alchemy_value": 5910,
+    "buy_limit": 0,
+    "examine": "A mage helm from the order of the Void Knights.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Void mage helm",
+    "item_name_variant": "Void mage helm#Locked and broken",
+    "item_id": [
+      "33468"
     ],
     "weight": 0.453,
     "value": 1,
@@ -14678,15 +14769,28 @@
   },
   {
     "item_name": "Void mage helm",
-    "item_name_variant": "Void mage helm#Normal",
+    "item_name_variant": "Void mage helm#Locked and mangled",
     "item_id": [
-      "11663"
+      "33470"
     ],
     "weight": 0.453,
-    "value": 9851,
-    "high_alchemy_value": 5910,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A mage helm from the order of the Void Knights.",
+    "examine": "A mangled mage helm from the order of the Void Knights.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Void mage helm",
+    "item_name_variant": "Void mage helm#Broken",
+    "item_id": [
+      "20477"
+    ],
+    "weight": 0.453,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A broken mage helm from the order of the Void Knights.",
     "is_members_only": true
   },
   {
@@ -25572,9 +25676,22 @@
   },
   {
     "item_name": "Void ranger helm",
-    "item_name_variant": "Void ranger helm#Broken",
+    "item_name_variant": "Void ranger helm#Normal",
     "item_id": [
-      "20479"
+      "11664"
+    ],
+    "weight": 0.453,
+    "value": 9851,
+    "high_alchemy_value": 5910,
+    "buy_limit": 0,
+    "examine": "A ranger helm from the order of the Void Knights.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Void ranger helm",
+    "item_name_variant": "Void ranger helm#Locked and broken",
+    "item_id": [
+      "33472"
     ],
     "weight": 0.453,
     "value": 1,
@@ -25598,15 +25715,28 @@
   },
   {
     "item_name": "Void ranger helm",
-    "item_name_variant": "Void ranger helm#Normal",
+    "item_name_variant": "Void ranger helm#Locked and mangled",
     "item_id": [
-      "11664"
+      "33474"
     ],
     "weight": 0.453,
-    "value": 9851,
-    "high_alchemy_value": 5910,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A ranger helm from the order of the Void Knights.",
+    "examine": "A mangled ranger helm from the order of the Void Knights.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Void ranger helm",
+    "item_name_variant": "Void ranger helm#Broken",
+    "item_id": [
+      "20479"
+    ],
+    "weight": 0.453,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A broken ranger helm from the order of the Void Knights.",
     "is_members_only": true
   },
   {
@@ -31773,9 +31903,22 @@
   },
   {
     "item_name": "Void knight gloves",
-    "item_name_variant": "Void knight gloves#Broken",
+    "item_name_variant": "Void knight gloves#Normal",
     "item_id": [
-      "20475"
+      "8842"
+    ],
+    "weight": 0.453,
+    "value": 6052,
+    "high_alchemy_value": 3631,
+    "buy_limit": 0,
+    "examine": "Gloves as used by the order of the Void Knights.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Void knight gloves",
+    "item_name_variant": "Void knight gloves#Locked and broken",
+    "item_id": [
+      "33492"
     ],
     "weight": 0.453,
     "value": 1,
@@ -31799,15 +31942,28 @@
   },
   {
     "item_name": "Void knight gloves",
-    "item_name_variant": "Void knight gloves#Normal",
+    "item_name_variant": "Void knight gloves#Locked and mangled",
     "item_id": [
-      "8842"
+      "33494"
     ],
     "weight": 0.453,
-    "value": 6052,
-    "high_alchemy_value": 3631,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "Gloves as used by the order of the Void Knights.",
+    "examine": "Mangled gloves as used by the order of the Void Knights.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Void knight gloves",
+    "item_name_variant": "Void knight gloves#Broken",
+    "item_id": [
+      "20475"
+    ],
+    "weight": 0.453,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Broken gloves as used by the order of the Void Knights.",
     "is_members_only": true
   },
   {
@@ -35655,7 +35811,7 @@
     "value": 100,
     "high_alchemy_value": 60,
     "buy_limit": 0,
-    "examine": "Contains seven random herbs.",
+    "examine": "Contains random herbs.",
     "is_members_only": true
   },
   {
@@ -35881,9 +36037,22 @@
   },
   {
     "item_name": "Void melee helm",
-    "item_name_variant": "Void melee helm#Broken",
+    "item_name_variant": "Void melee helm#Normal",
     "item_id": [
-      "20481"
+      "11665"
+    ],
+    "weight": 0.453,
+    "value": 9851,
+    "high_alchemy_value": 5910,
+    "buy_limit": 0,
+    "examine": "A melee helm from the order of the Void Knights.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Void melee helm",
+    "item_name_variant": "Void melee helm#Locked and broken",
+    "item_id": [
+      "33464"
     ],
     "weight": 0.453,
     "value": 1,
@@ -35907,15 +36076,28 @@
   },
   {
     "item_name": "Void melee helm",
-    "item_name_variant": "Void melee helm#Normal",
+    "item_name_variant": "Void melee helm#Locked and mangled",
     "item_id": [
-      "11665"
+      "33466"
     ],
     "weight": 0.453,
-    "value": 9851,
-    "high_alchemy_value": 5910,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A melee helm from the order of the Void Knights.",
+    "examine": "A mangled melee helm from the order of the Void Knights.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Void melee helm",
+    "item_name_variant": "Void melee helm#Broken",
+    "item_id": [
+      "20481"
+    ],
+    "weight": 0.453,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A broken melee helm from the order of the Void Knights.",
     "is_members_only": true
   },
   {
@@ -43111,8 +43293,7 @@
     "item_name": "Tea flask",
     "item_name_variant": "Tea flask",
     "item_id": [
-      "10859",
-      "25617"
+      "10859"
     ],
     "weight": 0.1,
     "value": 1,
@@ -47129,8 +47310,7 @@
     "item_name": "Plain satchel",
     "item_name_variant": "Plain satchel",
     "item_id": [
-      "10877",
-      "25618"
+      "10877"
     ],
     "weight": 0.15,
     "value": 100,
@@ -47143,8 +47323,7 @@
     "item_name": "Black satchel",
     "item_name_variant": "Black satchel",
     "item_id": [
-      "10880",
-      "25621"
+      "10880"
     ],
     "weight": 0.15,
     "value": 100,
@@ -47209,8 +47388,7 @@
     "item_name": "Gold satchel",
     "item_name_variant": "Gold satchel",
     "item_id": [
-      "10881",
-      "25622"
+      "10881"
     ],
     "weight": 0.15,
     "value": 100,
@@ -56700,8 +56878,7 @@
     "item_name": "Coal bag",
     "item_name_variant": "Coal bag#Open",
     "item_id": [
-      "24480",
-      "25627"
+      "24480"
     ],
     "weight": 10,
     "value": 100,
@@ -56727,8 +56904,7 @@
     "item_name": "Gem bag",
     "item_name_variant": "Gem bag#Open",
     "item_id": [
-      "24481",
-      "25628"
+      "24481"
     ],
     "weight": 1,
     "value": 100,
@@ -66610,8 +66786,7 @@
     "item_name": "Flamtaer bag",
     "item_name_variant": "Flamtaer bag",
     "item_id": [
-      "12854",
-      "25630"
+      "12854"
     ],
     "weight": 6,
     "value": 150,
@@ -66981,7 +67156,7 @@
     "value": 2,
     "high_alchemy_value": 1,
     "buy_limit": 0,
-    "examine": "A key made of solid Iron (Used in the Priest in Peril quest).",
+    "examine": "A key made of solid iron.",
     "is_members_only": true
   },
   {
@@ -70314,9 +70489,22 @@
   },
   {
     "item_name": "Elite void robe",
-    "item_name_variant": "Elite void robe#Broken",
+    "item_name_variant": "Elite void robe#Normal",
     "item_id": [
-      "20471"
+      "13073"
+    ],
+    "weight": 8.164,
+    "value": 45500,
+    "high_alchemy_value": 27300,
+    "buy_limit": 0,
+    "examine": "Superior leg armour from the order of the Void Knights.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Elite void robe",
+    "item_name_variant": "Elite void robe#Locked and broken",
+    "item_id": [
+      "33488"
     ],
     "weight": 8.164,
     "value": 1,
@@ -70340,22 +70528,48 @@
   },
   {
     "item_name": "Elite void robe",
-    "item_name_variant": "Elite void robe#Normal",
+    "item_name_variant": "Elite void robe#Locked and mangled",
     "item_id": [
-      "13073"
+      "33490"
     ],
     "weight": 8.164,
-    "value": 45500,
-    "high_alchemy_value": 27300,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "Superior leg armour from the order of the Void Knights.",
+    "examine": "Mangled superior leg armour from the order of the Void Knights.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Elite void robe",
+    "item_name_variant": "Elite void robe#Broken",
+    "item_id": [
+      "20471"
+    ],
+    "weight": 8.164,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Broken superior leg armour from the order of the Void Knights.",
     "is_members_only": true
   },
   {
     "item_name": "Elite void top",
-    "item_name_variant": "Elite void top#Broken",
+    "item_name_variant": "Elite void top#Normal",
     "item_id": [
-      "20467"
+      "13072"
+    ],
+    "weight": 6.803,
+    "value": 48500,
+    "high_alchemy_value": 29100,
+    "buy_limit": 0,
+    "examine": "Superior torso armour from the order of the Void Knights.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Elite void top",
+    "item_name_variant": "Elite void top#Locked and broken",
+    "item_id": [
+      "33480"
     ],
     "weight": 6.803,
     "value": 1,
@@ -70379,15 +70593,28 @@
   },
   {
     "item_name": "Elite void top",
-    "item_name_variant": "Elite void top#Normal",
+    "item_name_variant": "Elite void top#Locked and mangled",
     "item_id": [
-      "13072"
+      "33482"
     ],
     "weight": 6.803,
-    "value": 48500,
-    "high_alchemy_value": 29100,
+    "value": 1,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "Superior torso armour from the order of the Void Knights.",
+    "examine": "Mangled superior torso armour from the order of the Void Knights.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Elite void top",
+    "item_name_variant": "Elite void top#Broken",
+    "item_id": [
+      "20467"
+    ],
+    "weight": 6.803,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Broken superior torso armour from the order of the Void Knights.",
     "is_members_only": true
   },
   {
@@ -73130,8 +73357,7 @@
     "item_name": "Green satchel",
     "item_name_variant": "Green satchel",
     "item_id": [
-      "10878",
-      "25619"
+      "10878"
     ],
     "weight": 0.15,
     "value": 100,
@@ -73144,8 +73370,7 @@
     "item_name": "Red satchel",
     "item_name_variant": "Red satchel",
     "item_id": [
-      "10879",
-      "25620"
+      "10879"
     ],
     "weight": 0.15,
     "value": 100,
@@ -73158,8 +73383,7 @@
     "item_name": "Rune satchel",
     "item_name_variant": "Rune satchel",
     "item_id": [
-      "10882",
-      "25623"
+      "10882"
     ],
     "weight": 0.15,
     "value": 100,
@@ -73242,7 +73466,7 @@
     "weight": 0,
     "value": 1,
     "high_alchemy_value": 0,
-    "buy_limit": 0,
+    "buy_limit": 7500,
     "examine": "A pile of Yew tree leaves.",
     "is_members_only": true
   },
@@ -74073,7 +74297,7 @@
     ],
     "weight": 0.05,
     "value": 100,
-    "high_alchemy_value": 60,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "An amur leopard toy.",
     "is_members_only": false
@@ -75369,8 +75593,7 @@
     "item_name": "Unsired",
     "item_name_variant": "Unsired",
     "item_id": [
-      "13273",
-      "25624"
+      "13273"
     ],
     "weight": 1.4,
     "value": 140000,
@@ -76960,7 +77183,7 @@
     ],
     "weight": 0.12,
     "value": 2,
-    "high_alchemy_value": 0,
+    "high_alchemy_value": 1,
     "buy_limit": 0,
     "examine": "15 men may jump on you, but only to steal the contents of your bank.",
     "is_members_only": false
@@ -76999,7 +77222,7 @@
     ],
     "weight": 0.453,
     "value": 2,
-    "high_alchemy_value": 0,
+    "high_alchemy_value": 1,
     "buy_limit": 0,
     "examine": "Dark and sinister, just like a deadman.",
     "is_members_only": false
@@ -77012,7 +77235,7 @@
     ],
     "weight": 0.09,
     "value": 3,
-    "high_alchemy_value": 0,
+    "high_alchemy_value": 1,
     "buy_limit": 0,
     "examine": "Dark and sinister, just like a deadman.",
     "is_members_only": false
@@ -78611,7 +78834,7 @@
     ],
     "weight": 0.06,
     "value": 351,
-    "high_alchemy_value": 210,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "An enervated relic of the ancient times of Kourend.",
     "is_members_only": true
@@ -78858,7 +79081,7 @@
     ],
     "weight": 3.05,
     "value": 48,
-    "high_alchemy_value": 28,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Used in the farming industry of Hosidius.",
     "is_members_only": true
@@ -80873,7 +81096,7 @@
     ],
     "weight": 2.721,
     "value": 10,
-    "high_alchemy_value": 6,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -80886,7 +81109,7 @@
     ],
     "weight": 9.979,
     "value": 10,
-    "high_alchemy_value": 6,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -80899,7 +81122,7 @@
     ],
     "weight": 9.071,
     "value": 10,
-    "high_alchemy_value": 6,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -80912,7 +81135,7 @@
     ],
     "weight": 0.226,
     "value": 10,
-    "high_alchemy_value": 6,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -80925,7 +81148,7 @@
     ],
     "weight": 1.36,
     "value": 10,
-    "high_alchemy_value": 6,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -80938,7 +81161,7 @@
     ],
     "weight": 6,
     "value": 55,
-    "high_alchemy_value": 33,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -80951,7 +81174,7 @@
     ],
     "weight": 6,
     "value": 55,
-    "high_alchemy_value": 33,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -80964,7 +81187,7 @@
     ],
     "weight": 6,
     "value": 55,
-    "high_alchemy_value": 33,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -80977,7 +81200,7 @@
     ],
     "weight": 6,
     "value": 55,
-    "high_alchemy_value": 33,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -80990,7 +81213,7 @@
     ],
     "weight": 6,
     "value": 55,
-    "high_alchemy_value": 33,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -81003,7 +81226,7 @@
     ],
     "weight": 2.721,
     "value": 10,
-    "high_alchemy_value": 6,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -81016,7 +81239,7 @@
     ],
     "weight": 2.721,
     "value": 10,
-    "high_alchemy_value": 6,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -81029,7 +81252,7 @@
     ],
     "weight": 2.721,
     "value": 10,
-    "high_alchemy_value": 6,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -81042,7 +81265,7 @@
     ],
     "weight": 2.721,
     "value": 10,
-    "high_alchemy_value": 6,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -81055,7 +81278,7 @@
     ],
     "weight": 9.979,
     "value": 10,
-    "high_alchemy_value": 6,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -81068,7 +81291,7 @@
     ],
     "weight": 9.979,
     "value": 10,
-    "high_alchemy_value": 6,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -81081,7 +81304,7 @@
     ],
     "weight": 9.979,
     "value": 10,
-    "high_alchemy_value": 6,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -81094,7 +81317,7 @@
     ],
     "weight": 9.979,
     "value": 10,
-    "high_alchemy_value": 6,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -81107,7 +81330,7 @@
     ],
     "weight": 9.071,
     "value": 10,
-    "high_alchemy_value": 6,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -81133,7 +81356,7 @@
     ],
     "weight": 9.071,
     "value": 10,
-    "high_alchemy_value": 6,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -81146,7 +81369,7 @@
     ],
     "weight": 9.071,
     "value": 10,
-    "high_alchemy_value": 6,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -81159,7 +81382,7 @@
     ],
     "weight": 0.226,
     "value": 10,
-    "high_alchemy_value": 6,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -81172,7 +81395,7 @@
     ],
     "weight": 0.226,
     "value": 10,
-    "high_alchemy_value": 6,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -81185,7 +81408,7 @@
     ],
     "weight": 0.226,
     "value": 10,
-    "high_alchemy_value": 6,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -81198,7 +81421,7 @@
     ],
     "weight": 0.226,
     "value": 10,
-    "high_alchemy_value": 6,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -81211,7 +81434,7 @@
     ],
     "weight": 1.36,
     "value": 10,
-    "high_alchemy_value": 6,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -81237,7 +81460,7 @@
     ],
     "weight": 1.36,
     "value": 10,
-    "high_alchemy_value": 6,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -81250,7 +81473,7 @@
     ],
     "weight": 1.36,
     "value": 10,
-    "high_alchemy_value": 6,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Supplies for the Shayzien soldiers.",
     "is_members_only": true
@@ -84644,7 +84867,7 @@
     "weight": 0,
     "value": 1,
     "high_alchemy_value": 0,
-    "buy_limit": 10000,
+    "buy_limit": 15000,
     "examine": "A teleport to Fenkenstrain's Castle.",
     "is_members_only": true
   },
@@ -96331,7 +96554,7 @@
     "weight": 0.006,
     "value": 1425,
     "high_alchemy_value": 855,
-    "buy_limit": 10000,
+    "buy_limit": 15000,
     "examine": "Aids the user against vampyres.",
     "is_members_only": true
   },
@@ -98222,9 +98445,22 @@
   },
   {
     "item_name": "Infernal cape",
-    "item_name_variant": "Infernal cape#Broken",
+    "item_name_variant": "Infernal cape#Normal",
     "item_id": [
-      "21287"
+      "21295"
+    ],
+    "weight": 1.814,
+    "value": 80000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Whose idea was it to have a cape made of lava anyway?",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Infernal cape",
+    "item_name_variant": "Infernal cape#Locked and broken",
+    "item_id": [
+      "33500"
     ],
     "weight": 1.814,
     "value": 1,
@@ -98248,15 +98484,28 @@
   },
   {
     "item_name": "Infernal cape",
-    "item_name_variant": "Infernal cape#Normal",
+    "item_name_variant": "Infernal cape#Locked and mangled",
     "item_id": [
-      "21295"
+      "33502"
     ],
     "weight": 1.814,
-    "value": 80000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "Whose idea was it to have a cape made of lava anyway?",
+    "examine": "A mangled Infernal cape.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Infernal cape",
+    "item_name_variant": "Infernal cape#Broken",
+    "item_id": [
+      "21287"
+    ],
+    "weight": 1.814,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A broken Infernal cape.",
     "is_members_only": true
   },
   {
@@ -98534,9 +98783,22 @@
   },
   {
     "item_name": "Infernal max cape",
-    "item_name_variant": "Infernal max cape#Broken",
+    "item_name_variant": "Infernal max cape#Normal",
     "item_id": [
-      "21289"
+      "21285"
+    ],
+    "weight": 0.453,
+    "value": 99000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The cape worn by only the most experienced players.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Infernal max cape",
+    "item_name_variant": "Infernal max cape#Locked and broken",
+    "item_id": [
+      "33496"
     ],
     "weight": 0.453,
     "value": 1,
@@ -98560,15 +98822,28 @@
   },
   {
     "item_name": "Infernal max cape",
-    "item_name_variant": "Infernal max cape#Normal",
+    "item_name_variant": "Infernal max cape#Locked and mangled",
     "item_id": [
-      "21285"
+      "33498"
     ],
     "weight": 0.453,
-    "value": 99000,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "The cape worn by only the most experienced players.",
+    "examine": "This cape is mangled.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Infernal max cape",
+    "item_name_variant": "Infernal max cape#Broken",
+    "item_id": [
+      "21289"
+    ],
+    "weight": 0.453,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This cape is broken.",
     "is_members_only": true
   },
   {
@@ -99736,7 +100011,7 @@
     ],
     "weight": 0.141,
     "value": 100,
-    "high_alchemy_value": 60,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A small paleontological find ready for cleaning.",
     "is_members_only": true
@@ -99749,7 +100024,7 @@
     ],
     "weight": 0.283,
     "value": 200,
-    "high_alchemy_value": 120,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A medium-sized paleontological find ready for cleaning.",
     "is_members_only": true
@@ -99762,7 +100037,7 @@
     ],
     "weight": 0.566,
     "value": 300,
-    "high_alchemy_value": 180,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A large paleontological find ready for cleaning.",
     "is_members_only": true
@@ -100074,7 +100349,7 @@
     ],
     "weight": 0.283,
     "value": 1250,
-    "high_alchemy_value": 750,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "An unusual paleontological find ready for cleaning.",
     "is_members_only": true
@@ -103416,7 +103691,7 @@
     ],
     "weight": 10,
     "value": 50000,
-    "high_alchemy_value": 30000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "I could mount this on my wall!",
     "is_members_only": true
@@ -107290,7 +107565,7 @@
     ],
     "weight": 0.51,
     "value": 50,
-    "high_alchemy_value": 30,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Details on the various types of Nylocas.",
     "is_members_only": true
@@ -119355,7 +119630,7 @@
     ],
     "weight": 0.005,
     "value": 100,
-    "high_alchemy_value": 60,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A gland filled with venom.",
     "is_members_only": true
@@ -120135,7 +120410,7 @@
     ],
     "weight": 1.814,
     "value": 1000,
-    "high_alchemy_value": 600,
+    "high_alchemy_value": 0,
     "buy_limit": 10,
     "examine": "A cane of the twisted relic hunter.",
     "is_members_only": true
@@ -120148,7 +120423,7 @@
     ],
     "weight": 2.267,
     "value": 1000,
-    "high_alchemy_value": 600,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "A banner showcasing the colours of Leagues I - Twisted.",
     "is_members_only": true
@@ -120174,7 +120449,7 @@
     ],
     "weight": 0.453,
     "value": 1000,
-    "high_alchemy_value": 600,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "The headgear of a twisted relic hunter.",
     "is_members_only": true
@@ -120187,7 +120462,7 @@
     ],
     "weight": 0.453,
     "value": 10000,
-    "high_alchemy_value": 6000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "The headgear of a twisted relic hunter.",
     "is_members_only": true
@@ -120200,7 +120475,7 @@
     ],
     "weight": 0.453,
     "value": 100000,
-    "high_alchemy_value": 60000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "The headgear of a twisted relic hunter.",
     "is_members_only": true
@@ -120213,7 +120488,7 @@
     ],
     "weight": 0.907,
     "value": 1000,
-    "high_alchemy_value": 600,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "The coat of a twisted relic hunter.",
     "is_members_only": true
@@ -120226,7 +120501,7 @@
     ],
     "weight": 0.907,
     "value": 10000,
-    "high_alchemy_value": 6000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "The coat of a twisted relic hunter.",
     "is_members_only": true
@@ -120239,7 +120514,7 @@
     ],
     "weight": 0.907,
     "value": 100000,
-    "high_alchemy_value": 60000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "The coat of a twisted relic hunter.",
     "is_members_only": true
@@ -120252,7 +120527,7 @@
     ],
     "weight": 0.907,
     "value": 1000,
-    "high_alchemy_value": 600,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "The trousers of a twisted relic hunter.",
     "is_members_only": true
@@ -120265,7 +120540,7 @@
     ],
     "weight": 0.907,
     "value": 10000,
-    "high_alchemy_value": 6000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "The trousers of a twisted relic hunter.",
     "is_members_only": true
@@ -120278,7 +120553,7 @@
     ],
     "weight": 0.907,
     "value": 100000,
-    "high_alchemy_value": 60000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "The trousers of a twisted relic hunter.",
     "is_members_only": true
@@ -120291,7 +120566,7 @@
     ],
     "weight": 0.34,
     "value": 100000,
-    "high_alchemy_value": 60000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "The boots of a twisted relic hunter.",
     "is_members_only": true
@@ -120304,7 +120579,7 @@
     ],
     "weight": 0.34,
     "value": 10000,
-    "high_alchemy_value": 6000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "The boots of a twisted relic hunter.",
     "is_members_only": true
@@ -120317,7 +120592,7 @@
     ],
     "weight": 0.34,
     "value": 1000,
-    "high_alchemy_value": 600,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "The boots of a twisted relic hunter.",
     "is_members_only": true
@@ -120408,7 +120683,7 @@
     ],
     "weight": 0.5,
     "value": 100000,
-    "high_alchemy_value": 60000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "These look like they can be attached to a slayer helmet.",
     "is_members_only": true
@@ -120941,7 +121216,7 @@
     ],
     "weight": 0.1,
     "value": 25000,
-    "high_alchemy_value": 15000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "A scroll which unlocks the twisted player-owned house wall-kit.",
     "is_members_only": true
@@ -120954,7 +121229,7 @@
     ],
     "weight": 0.1,
     "value": 25000,
-    "high_alchemy_value": 15000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "A scroll which unlocks the twisted home teleport animation.",
     "is_members_only": true
@@ -124334,7 +124609,7 @@
     ],
     "weight": 0.03,
     "value": 120,
-    "high_alchemy_value": 72,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "3 doses of super combat potion.",
     "is_members_only": true
@@ -124347,7 +124622,7 @@
     ],
     "weight": 0.025,
     "value": 80,
-    "high_alchemy_value": 48,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "2 doses of super combat potion.",
     "is_members_only": true
@@ -124360,7 +124635,7 @@
     ],
     "weight": 0.035,
     "value": 160,
-    "high_alchemy_value": 96,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "4 doses of super combat potion.",
     "is_members_only": true
@@ -124373,7 +124648,7 @@
     ],
     "weight": 0.02,
     "value": 40,
-    "high_alchemy_value": 24,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "1 dose of super combat potion.",
     "is_members_only": true
@@ -124490,7 +124765,7 @@
     ],
     "weight": 0.03,
     "value": 120,
-    "high_alchemy_value": 72,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "3 doses of super restore potion.",
     "is_members_only": false
@@ -124503,7 +124778,7 @@
     ],
     "weight": 0.025,
     "value": 80,
-    "high_alchemy_value": 48,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "2 doses of super restore potion.",
     "is_members_only": false
@@ -124516,7 +124791,7 @@
     ],
     "weight": 0.035,
     "value": 160,
-    "high_alchemy_value": 96,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "4 doses of super restore potion.",
     "is_members_only": false
@@ -124529,7 +124804,7 @@
     ],
     "weight": 0.02,
     "value": 40,
-    "high_alchemy_value": 24,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "1 dose of super restore potion.",
     "is_members_only": false
@@ -124594,7 +124869,7 @@
     ],
     "weight": 0.03,
     "value": 300,
-    "high_alchemy_value": 180,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "3 doses of stamina potion.",
     "is_members_only": true
@@ -124607,7 +124882,7 @@
     ],
     "weight": 0.025,
     "value": 200,
-    "high_alchemy_value": 120,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "2 doses of stamina potion.",
     "is_members_only": true
@@ -124620,7 +124895,7 @@
     ],
     "weight": 0.035,
     "value": 400,
-    "high_alchemy_value": 240,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "4 doses of stamina potion.",
     "is_members_only": true
@@ -124633,7 +124908,7 @@
     ],
     "weight": 0.02,
     "value": 100,
-    "high_alchemy_value": 60,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "1 dose of stamina potion.",
     "is_members_only": true
@@ -124698,7 +124973,7 @@
     ],
     "weight": 0.03,
     "value": 120,
-    "high_alchemy_value": 72,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "3 doses of super energy potion.",
     "is_members_only": true
@@ -124711,7 +124986,7 @@
     ],
     "weight": 0.025,
     "value": 80,
-    "high_alchemy_value": 48,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "2 doses of super energy potion.",
     "is_members_only": true
@@ -124724,7 +124999,7 @@
     ],
     "weight": 0.035,
     "value": 160,
-    "high_alchemy_value": 96,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "4 doses of super energy potion.",
     "is_members_only": true
@@ -124737,7 +125012,7 @@
     ],
     "weight": 0.02,
     "value": 40,
-    "high_alchemy_value": 24,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "1 dose of super energy potion.",
     "is_members_only": true
@@ -124785,8 +125060,7 @@
     "item_name": "Plank sack",
     "item_name_variant": "Plank sack",
     "item_id": [
-      "24882",
-      "25629"
+      "24882"
     ],
     "weight": 5.25,
     "value": 370,
@@ -125531,7 +125805,7 @@
     ],
     "weight": 0.453,
     "value": 15000,
-    "high_alchemy_value": 9000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "The headgear of a trailblazer relic hunter.",
     "is_members_only": true
@@ -125544,7 +125818,7 @@
     ],
     "weight": 0.453,
     "value": 15000,
-    "high_alchemy_value": 9000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "The headgear of a trailblazer relic hunter.",
     "is_members_only": true
@@ -125557,7 +125831,7 @@
     ],
     "weight": 0.453,
     "value": 150000,
-    "high_alchemy_value": 90000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "The headgear of a trailblazer relic hunter.",
     "is_members_only": true
@@ -125570,7 +125844,7 @@
     ],
     "weight": 0.907,
     "value": 15000,
-    "high_alchemy_value": 9000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "The coat of a trailblazer relic hunter.",
     "is_members_only": true
@@ -125583,7 +125857,7 @@
     ],
     "weight": 0.907,
     "value": 15000,
-    "high_alchemy_value": 9000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "The coat of a trailblazer relic hunter.",
     "is_members_only": true
@@ -125596,7 +125870,7 @@
     ],
     "weight": 0.907,
     "value": 150000,
-    "high_alchemy_value": 90000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "The coat of a trailblazer relic hunter.",
     "is_members_only": true
@@ -125609,7 +125883,7 @@
     ],
     "weight": 0.907,
     "value": 150000,
-    "high_alchemy_value": 90000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "The trousers of a trailblazer relic hunter.",
     "is_members_only": true
@@ -125622,7 +125896,7 @@
     ],
     "weight": 0.907,
     "value": 15000,
-    "high_alchemy_value": 9000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "The trousers of a trailblazer relic hunter.",
     "is_members_only": true
@@ -125635,7 +125909,7 @@
     ],
     "weight": 0.907,
     "value": 15000,
-    "high_alchemy_value": 9000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "The trousers of a trailblazer relic hunter.",
     "is_members_only": true
@@ -125648,7 +125922,7 @@
     ],
     "weight": 0.34,
     "value": 15000,
-    "high_alchemy_value": 9000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "The boots of a trailblazer relic hunter.",
     "is_members_only": true
@@ -125661,7 +125935,7 @@
     ],
     "weight": 0.34,
     "value": 15000,
-    "high_alchemy_value": 9000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "The boots of a trailblazer relic hunter.",
     "is_members_only": true
@@ -125674,7 +125948,7 @@
     ],
     "weight": 0.34,
     "value": 150000,
-    "high_alchemy_value": 90000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "The boots of a trailblazer relic hunter.",
     "is_members_only": true
@@ -125687,7 +125961,7 @@
     ],
     "weight": 2.267,
     "value": 1000,
-    "high_alchemy_value": 600,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "A banner showcasing the colours of Leagues II - Trailblazer.",
     "is_members_only": true
@@ -125700,7 +125974,7 @@
     ],
     "weight": 0.1,
     "value": 25000,
-    "high_alchemy_value": 15000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "A kit which can be attached to any Dragon or Infernal axe, pickaxe or harpoon to recolour it.",
     "is_members_only": true
@@ -125713,7 +125987,7 @@
     ],
     "weight": 0.1,
     "value": 25000,
-    "high_alchemy_value": 15000,
+    "high_alchemy_value": 0,
     "buy_limit": 6,
     "examine": "An ornament kit which can be used to recolour a piece of graceful clothing.",
     "is_members_only": true
@@ -125726,7 +126000,7 @@
     ],
     "weight": 0.1,
     "value": 25000,
-    "high_alchemy_value": 15000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "A scroll which unlocks the Leagues II - Trailblazer home teleport animation.",
     "is_members_only": true
@@ -125778,7 +126052,7 @@
     ],
     "weight": 1.36,
     "value": 97950,
-    "high_alchemy_value": 58770,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A formerly powerful, fiery axe in the colours of the Trailblazer League.",
     "is_members_only": true
@@ -125791,7 +126065,7 @@
     ],
     "weight": 1.36,
     "value": 97950,
-    "high_alchemy_value": 58770,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A very powerful, fiery axe in the colours of the Trailblazer League.",
     "is_members_only": true
@@ -125804,7 +126078,7 @@
     ],
     "weight": 2.4,
     "value": 97950,
-    "high_alchemy_value": 58770,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A formerly powerful, fiery pickaxe in the colours of the Trailblazer League.",
     "is_members_only": true
@@ -125817,7 +126091,7 @@
     ],
     "weight": 2.4,
     "value": 97950,
-    "high_alchemy_value": 58770,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A very powerful, fiery pickaxe in the colours of the Trailblazer League.",
     "is_members_only": true
@@ -125830,7 +126104,7 @@
     ],
     "weight": 2.267,
     "value": 55000,
-    "high_alchemy_value": 33000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A formerly powerful, fiery harpoon in the colours of the Trailblazer League.",
     "is_members_only": true
@@ -125843,7 +126117,7 @@
     ],
     "weight": 2.267,
     "value": 55000,
-    "high_alchemy_value": 33000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A very powerful, fiery harpoon in the colours of the Trailblazer League.",
     "is_members_only": true
@@ -125856,7 +126130,7 @@
     ],
     "weight": 0.1,
     "value": 40000,
-    "high_alchemy_value": 24000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "A globe which can be built into a statue in a PoH hotspot in your League Trophy Room.",
     "is_members_only": true
@@ -125895,7 +126169,7 @@
     ],
     "weight": 1.814,
     "value": 150000,
-    "high_alchemy_value": 90000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "A cane of the trailblazer relic hunter.",
     "is_members_only": true
@@ -126142,7 +126416,7 @@
     ],
     "weight": 1.36,
     "value": 850,
-    "high_alchemy_value": 0,
+    "high_alchemy_value": 510,
     "buy_limit": 0,
     "examine": "Very decorative boots.",
     "is_members_only": false
@@ -126155,7 +126429,7 @@
     ],
     "weight": 1.36,
     "value": 850,
-    "high_alchemy_value": 0,
+    "high_alchemy_value": 510,
     "buy_limit": 0,
     "examine": "Very decorative boots.",
     "is_members_only": false
@@ -127273,7 +127547,7 @@
     ],
     "weight": 0.05,
     "value": 50000,
-    "high_alchemy_value": 30000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A set containing Trailblazer boots (t1), Trailblazer trousers (t1), Trailblazer top (t1) and Trailblazer hood (t1).",
     "is_members_only": true
@@ -127286,7 +127560,7 @@
     ],
     "weight": 0.05,
     "value": 50000,
-    "high_alchemy_value": 30000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A set containing Trailblazer boots (t2), Trailblazer trousers (t2), Trailblazer top (t2) and Trailblazer hood (t2).",
     "is_members_only": true
@@ -127299,7 +127573,7 @@
     ],
     "weight": 0.05,
     "value": 50000,
-    "high_alchemy_value": 30000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A set containing Trailblazer boots (t3), Trailblazer trousers (t3), Trailblazer top (t3) and Trailblazer hood (t3).",
     "is_members_only": true
@@ -127845,7 +128119,7 @@
     ],
     "weight": 2.267,
     "value": 24400,
-    "high_alchemy_value": 14640,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A well fashioned helmet with a strange aura emanating.",
     "is_members_only": true
@@ -127858,7 +128132,7 @@
     ],
     "weight": 0.907,
     "value": 25000,
-    "high_alchemy_value": 15000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A well fashioned robe with a strange aura emanating.",
     "is_members_only": true
@@ -127871,7 +128145,7 @@
     ],
     "weight": 0.907,
     "value": 24500,
-    "high_alchemy_value": 14700,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A well fashioned robe with a strange aura emanating.",
     "is_members_only": true
@@ -127884,7 +128158,7 @@
     ],
     "weight": 0.283,
     "value": 24400,
-    "high_alchemy_value": 14640,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A well fashioned pair of boots with a strange aura emanating.",
     "is_members_only": true
@@ -128132,7 +128406,7 @@
     "weight": 1,
     "value": 19500,
     "high_alchemy_value": 11700,
-    "buy_limit": 0,
+    "buy_limit": 15,
     "examine": "An ancient tome containing the secrets of water magic.",
     "is_members_only": true
   },
@@ -129056,7 +129330,7 @@
     "value": 5,
     "high_alchemy_value": 3,
     "buy_limit": 0,
-    "examine": "A thick green palm leaf used by natives to cook meat in.",
+    "examine": "A thick green palm leaf.",
     "is_members_only": true
   },
   {
@@ -132891,7 +133165,7 @@
     ],
     "weight": 0.453,
     "value": 500,
-    "high_alchemy_value": 300,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "The hat of a powerful sorceress from a bygone era.",
     "is_members_only": false
@@ -132923,13 +133197,13 @@
     "is_members_only": false
   },
   {
-    "item_name": "Berserker ring (Last Man Standing)",
-    "item_name_variant": "Berserker ring (Last Man Standing)",
+    "item_name": "Berserker ring (i) (Last Man Standing)",
+    "item_name_variant": "Berserker ring (i) (Last Man Standing)",
     "item_id": [
       "23595"
     ],
     "weight": 0.004,
-    "value": 300,
+    "value": 30,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A ring reputed to bring out a berserk fury in its wearer.",
@@ -133164,7 +133438,7 @@
     ],
     "weight": 1.36,
     "value": 500,
-    "high_alchemy_value": 300,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Verac the Defiled's helm.",
     "is_members_only": false
@@ -133177,7 +133451,7 @@
     ],
     "weight": 2.721,
     "value": 500,
-    "high_alchemy_value": 300,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Torag the Corrupted's helm.",
     "is_members_only": false
@@ -140717,7 +140991,7 @@
     ],
     "weight": 0,
     "value": 50000,
-    "high_alchemy_value": 30000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "An emblem of ancient times, now superseded.",
     "is_members_only": true
@@ -140730,7 +141004,7 @@
     ],
     "weight": 0,
     "value": 50009,
-    "high_alchemy_value": 30005,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "An emblem of ancient times, now superseded.",
     "is_members_only": true
@@ -141952,7 +142226,7 @@
     ],
     "weight": 0.01,
     "value": 550,
-    "high_alchemy_value": 330,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "An enchanted diamond amulet of power.",
     "is_members_only": false
@@ -141965,7 +142239,7 @@
     ],
     "weight": 0.226,
     "value": 550,
-    "high_alchemy_value": 330,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A pair of nice gloves.",
     "is_members_only": false
@@ -143319,7 +143593,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "Alternating combat styles will increase your rampage count, up to a maximum of 2. Consecutive attacks with the same style will reset the counter. Each rampage count increases your damage and accuracy by 7%. Your rampage count will reset after not attacking for 6 seconds.\nThis sigil does not stack with the Sigil of Aggression.",
+    "examine": "Alternating combat styles will increase your rampage count, up to a maximum of 2. Consecutive attacks with the same style will reset the counter. Each rampage count increases your damage and accuracy by 7%. Your rampage count will reset after not attacking for 6 seconds. This sigil does not stack with the Sigil of Aggression.",
     "is_members_only": true
   },
   {
@@ -145020,7 +145294,7 @@
     ],
     "weight": 0.1,
     "value": 25000,
-    "high_alchemy_value": 15000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "A kit that can be used to apply a Leagues III - Shattered Relics theme to an Abyssal whip or Tentacle, Rune crossbow or God book piece.",
     "is_members_only": true
@@ -145033,7 +145307,7 @@
     ],
     "weight": 2.267,
     "value": 1000,
-    "high_alchemy_value": 600,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A banner showcasing the colours of Leagues III - Shattered Relics.",
     "is_members_only": true
@@ -145046,7 +145320,7 @@
     ],
     "weight": 0.453,
     "value": 15000,
-    "high_alchemy_value": 9000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "The headgear of a Shattered Relic Hunter.",
     "is_members_only": true
@@ -145059,7 +145333,7 @@
     ],
     "weight": 0.453,
     "value": 15000,
-    "high_alchemy_value": 9000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "The headgear of a Shattered Relic Hunter.",
     "is_members_only": true
@@ -145072,7 +145346,7 @@
     ],
     "weight": 0.453,
     "value": 15000,
-    "high_alchemy_value": 9000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "The headgear of a Shattered Relic Hunter.",
     "is_members_only": true
@@ -145085,7 +145359,7 @@
     ],
     "weight": 0.907,
     "value": 15000,
-    "high_alchemy_value": 9000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "The shirt of a Shattered Relic Hunter.",
     "is_members_only": true
@@ -145098,7 +145372,7 @@
     ],
     "weight": 0.907,
     "value": 15000,
-    "high_alchemy_value": 9000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "The shirt of a Shattered Relic Hunter.",
     "is_members_only": true
@@ -145111,7 +145385,7 @@
     ],
     "weight": 0.907,
     "value": 15000,
-    "high_alchemy_value": 9000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "The shirt of a Shattered Relic Hunter.",
     "is_members_only": true
@@ -145124,7 +145398,7 @@
     ],
     "weight": 0.907,
     "value": 15000,
-    "high_alchemy_value": 9000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "The trousers of a Shattered Relic Hunter.",
     "is_members_only": true
@@ -145137,7 +145411,7 @@
     ],
     "weight": 0.907,
     "value": 15000,
-    "high_alchemy_value": 9000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "The trousers of a Shattered Relic Hunter.",
     "is_members_only": true
@@ -145150,7 +145424,7 @@
     ],
     "weight": 0.907,
     "value": 15000,
-    "high_alchemy_value": 9000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "The trousers of a Shattered Relic Hunter.",
     "is_members_only": true
@@ -145163,7 +145437,7 @@
     ],
     "weight": 0.34,
     "value": 15000,
-    "high_alchemy_value": 9000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "The boots of a Shattered Relic Hunter.",
     "is_members_only": true
@@ -145176,7 +145450,7 @@
     ],
     "weight": 0.34,
     "value": 15000,
-    "high_alchemy_value": 9000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "The boots of a Shattered Relic Hunter.",
     "is_members_only": true
@@ -145189,7 +145463,7 @@
     ],
     "weight": 0.34,
     "value": 15000,
-    "high_alchemy_value": 9000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "The boots of a Shattered Relic Hunter.",
     "is_members_only": true
@@ -145202,7 +145476,7 @@
     ],
     "weight": 0.05,
     "value": 50000,
-    "high_alchemy_value": 30000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A set containing Shattered boots (t1), Shattered trousers (t1), Shattered top (t1) and Shattered hood (t1).",
     "is_members_only": true
@@ -145215,7 +145489,7 @@
     ],
     "weight": 0.05,
     "value": 50000,
-    "high_alchemy_value": 30000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A set containing Shattered boots (t2), Shattered trousers (t2), Shattered top (t2) and Shattered hood (t2).",
     "is_members_only": true
@@ -145228,7 +145502,7 @@
     ],
     "weight": 0.05,
     "value": 50000,
-    "high_alchemy_value": 30000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A set containing Shattered boots (t3), Shattered trousers (t3), Shattered top (t3) and Shattered hood (t3).",
     "is_members_only": true
@@ -145449,7 +145723,7 @@
     ],
     "weight": 0.1,
     "value": 25000,
-    "high_alchemy_value": 15000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "A kit that can be used on void armour to theme it to Leagues III - Shattered Relics.",
     "is_members_only": true
@@ -145579,7 +145853,7 @@
     ],
     "weight": 0.1,
     "value": 25000,
-    "high_alchemy_value": 15000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A scroll which unlocks the Shattered Relics home teleport animation.",
     "is_members_only": true
@@ -145592,7 +145866,7 @@
     ],
     "weight": 0.1,
     "value": 25000,
-    "high_alchemy_value": 15000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "A kit that can be used to apply a Leagues III - Shattered Relics theme to a blue Mystic robe piece.",
     "is_members_only": true
@@ -145605,7 +145879,7 @@
     ],
     "weight": 0.1,
     "value": 25000,
-    "high_alchemy_value": 15000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "An ornamental kit for the Dwarf multicannon in the style of Leagues III - Shattered Relics.",
     "is_members_only": true
@@ -146428,7 +146702,7 @@
     ],
     "weight": 0,
     "value": 50,
-    "high_alchemy_value": 30,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Some strange pearls from the Abyss.",
     "is_members_only": true
@@ -147729,7 +148003,7 @@
     "weight": 1,
     "value": 100,
     "high_alchemy_value": 60,
-    "buy_limit": 0,
+    "buy_limit": 40,
     "examine": "A tiara infused with the properties of every elemental rune.",
     "is_members_only": true
   },
@@ -151303,7 +151577,7 @@
     ],
     "weight": 0.38,
     "value": 10,
-    "high_alchemy_value": 6,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Perhaps this was more valuable in another age?",
     "is_members_only": true
@@ -151394,7 +151668,7 @@
     ],
     "weight": 0.453,
     "value": 30,
-    "high_alchemy_value": 18,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Restores and boosts health and prayer while also curing poison.",
     "is_members_only": true
@@ -151407,7 +151681,7 @@
     ],
     "weight": 0.453,
     "value": 30,
-    "high_alchemy_value": 18,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Restores and boosts health and prayer while also curing poison.",
     "is_members_only": true
@@ -151988,7 +152262,7 @@
     ],
     "weight": 0.19,
     "value": 10000,
-    "high_alchemy_value": 6000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Contains the essence of two legendary guardians.",
     "is_members_only": true
@@ -152176,14 +152450,27 @@
     "is_members_only": true
   },
   {
+    "item_name": "Smelly kebab",
+    "item_name_variant": "Smelly kebab",
+    "item_id": [
+      "33820"
+    ],
+    "weight": 0.04,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Now with 30% less hair!",
+    "is_members_only": true
+  },
+  {
     "item_name": "Accursed sceptre",
     "item_name_variant": "Accursed sceptre#Charged",
     "item_id": [
       "27665"
     ],
     "weight": 0.198,
-    "value": 120000,
-    "high_alchemy_value": 72000,
+    "value": 175000,
+    "high_alchemy_value": 105000,
     "buy_limit": 0,
     "examine": "A mighty sceptre from long forgotten battles, corrupted by the power of Vet'ion.",
     "is_members_only": true
@@ -152195,8 +152482,8 @@
       "27662"
     ],
     "weight": 0.198,
-    "value": 120000,
-    "high_alchemy_value": 72000,
+    "value": 175000,
+    "high_alchemy_value": 105000,
     "buy_limit": 8,
     "examine": "A mighty sceptre from long forgotten battles, corrupted by the power of Vet'ion.",
     "is_members_only": true
@@ -152637,8 +152924,8 @@
       "27679"
     ],
     "weight": 0.198,
-    "value": 120000,
-    "high_alchemy_value": 72000,
+    "value": 175000,
+    "high_alchemy_value": 105000,
     "buy_limit": 0,
     "examine": "A mighty sceptre used in long forgotten battles.",
     "is_members_only": true
@@ -152650,8 +152937,8 @@
       "27676"
     ],
     "weight": 0.198,
-    "value": 120000,
-    "high_alchemy_value": 72000,
+    "value": 175000,
+    "high_alchemy_value": 105000,
     "buy_limit": 8,
     "examine": "A mighty sceptre used in long forgotten battles.",
     "is_members_only": true
@@ -152664,7 +152951,7 @@
     ],
     "weight": 0.4,
     "value": 50,
-    "high_alchemy_value": 30,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "The cape of an adventurer.",
     "is_members_only": true
@@ -153945,9 +154232,9 @@
   },
   {
     "item_name": "Ancient sceptre",
-    "item_name_variant": "Ancient sceptre#Normal",
+    "item_name_variant": "Ancient sceptre#Locked",
     "item_id": [
-      "27624"
+      "27626"
     ],
     "weight": 2.267,
     "value": 211000,
@@ -153958,9 +154245,35 @@
   },
   {
     "item_name": "Ancient sceptre",
-    "item_name_variant": "Ancient sceptre#Locked",
+    "item_name_variant": "Ancient sceptre#Locked and mangled",
     "item_id": [
-      "27626"
+      "33829"
+    ],
+    "weight": 2.267,
+    "value": 211000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ancient sceptre",
+    "item_name_variant": "Ancient sceptre#Locked and broken",
+    "item_id": [
+      "33827"
+    ],
+    "weight": 2.267,
+    "value": 211000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ancient sceptre",
+    "item_name_variant": "Ancient sceptre#Normal",
+    "item_id": [
+      "27624"
     ],
     "weight": 2.267,
     "value": 211000,
@@ -154004,7 +154317,7 @@
     "weight": 4.5,
     "value": 750000,
     "high_alchemy_value": 450000,
-    "buy_limit": 0,
+    "buy_limit": 8,
     "examine": "A bow used by hunters from a forgotten empire.",
     "is_members_only": true
   },
@@ -155828,7 +156141,7 @@
     ],
     "weight": 0.453,
     "value": 115001,
-    "high_alchemy_value": 69000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Something sharp from the body of a defeated Abyssal Sire.",
     "is_members_only": true
@@ -155841,7 +156154,7 @@
     ],
     "weight": 0.453,
     "value": 115004,
-    "high_alchemy_value": 69002,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Something sharp and extremely poisonous from the body of a defeated Abyssal Sire.",
     "is_members_only": true
@@ -155854,7 +156167,7 @@
     ],
     "weight": 0.453,
     "value": 115002,
-    "high_alchemy_value": 69001,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Something sharp and poisonous from the body of a defeated Abyssal Sire.",
     "is_members_only": true
@@ -155867,7 +156180,7 @@
     ],
     "weight": 0.453,
     "value": 115003,
-    "high_alchemy_value": 69001,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Something sharp and very poisonous from the body of a defeated Abyssal Sire.",
     "is_members_only": true
@@ -156063,7 +156376,7 @@
     "weight": 2.825,
     "value": 240000,
     "high_alchemy_value": 144000,
-    "buy_limit": 0,
+    "buy_limit": 5,
     "examine": "An axe that manipulates the very lifeforce of those who touch it.",
     "is_members_only": true
   },
@@ -156121,15 +156434,28 @@
   },
   {
     "item_name": "Blood ancient sceptre",
-    "item_name_variant": "Blood ancient sceptre#Broken",
+    "item_name_variant": "Blood ancient sceptre#Normal",
     "item_id": [
-      "28238"
+      "28260"
+    ],
+    "weight": 2.267,
+    "value": 200000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A very old and powerful stick, enhanced with the power of blood magic.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Blood ancient sceptre",
+    "item_name_variant": "Blood ancient sceptre#Locked and broken",
+    "item_id": [
+      "33504"
     ],
     "weight": 2.267,
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A very old and powerful stick, enhanced with the power of blood magic.",
+    "examine": "A very old broken but powerful stick, enhanced with the power of blood magic.",
     "is_members_only": true
   },
   {
@@ -156147,12 +156473,25 @@
   },
   {
     "item_name": "Blood ancient sceptre",
-    "item_name_variant": "Blood ancient sceptre#Normal",
+    "item_name_variant": "Blood ancient sceptre#Locked and mangled",
     "item_id": [
-      "28260"
+      "33506"
     ],
     "weight": 2.267,
-    "value": 200000,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A very old mangled but powerful stick, enhanced with the power of blood magic.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Blood ancient sceptre",
+    "item_name_variant": "Blood ancient sceptre#Broken",
+    "item_id": [
+      "28238"
+    ],
+    "weight": 2.267,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A very old and powerful stick, enhanced with the power of blood magic.",
@@ -156160,15 +156499,28 @@
   },
   {
     "item_name": "Ice ancient sceptre",
-    "item_name_variant": "Ice ancient sceptre#Broken",
+    "item_name_variant": "Ice ancient sceptre#Normal",
     "item_id": [
-      "28242"
+      "28262"
+    ],
+    "weight": 2.267,
+    "value": 200000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A very old and powerful stick, enhanced with the power of ice magic.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ice ancient sceptre",
+    "item_name_variant": "Ice ancient sceptre#Locked and broken",
+    "item_id": [
+      "33508"
     ],
     "weight": 2.267,
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A very old and powerful stick, enhanced with the power of ice magic.",
+    "examine": "A very old broken but powerful stick, enhanced with the power of ice magic.",
     "is_members_only": true
   },
   {
@@ -156186,12 +156538,25 @@
   },
   {
     "item_name": "Ice ancient sceptre",
-    "item_name_variant": "Ice ancient sceptre#Normal",
+    "item_name_variant": "Ice ancient sceptre#Locked and mangled",
     "item_id": [
-      "28262"
+      "33510"
     ],
     "weight": 2.267,
-    "value": 200000,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A very old mangled but powerful stick, enhanced with the power of ice magic.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ice ancient sceptre",
+    "item_name_variant": "Ice ancient sceptre#Broken",
+    "item_id": [
+      "28242"
+    ],
+    "weight": 2.267,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A very old and powerful stick, enhanced with the power of ice magic.",
@@ -156199,15 +156564,28 @@
   },
   {
     "item_name": "Smoke ancient sceptre",
-    "item_name_variant": "Smoke ancient sceptre#Broken",
+    "item_name_variant": "Smoke ancient sceptre#Normal",
     "item_id": [
-      "28240"
+      "28264"
+    ],
+    "weight": 2.267,
+    "value": 200000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A very old and powerful stick, enhanced with the power of smoke magic.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Smoke ancient sceptre",
+    "item_name_variant": "Smoke ancient sceptre#Locked and broken",
+    "item_id": [
+      "33512"
     ],
     "weight": 2.267,
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A very old and powerful stick, enhanced with the power of smoke magic.",
+    "examine": "A very old broken but powerful stick, enhanced with the power of smoke magic.",
     "is_members_only": true
   },
   {
@@ -156225,12 +156603,25 @@
   },
   {
     "item_name": "Smoke ancient sceptre",
-    "item_name_variant": "Smoke ancient sceptre#Normal",
+    "item_name_variant": "Smoke ancient sceptre#Locked and mangled",
     "item_id": [
-      "28264"
+      "33514"
     ],
     "weight": 2.267,
-    "value": 200000,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A very old mangled but powerful stick, enhanced with the power of smoke magic.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Smoke ancient sceptre",
+    "item_name_variant": "Smoke ancient sceptre#Broken",
+    "item_id": [
+      "28240"
+    ],
+    "weight": 2.267,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A very old and powerful stick, enhanced with the power of smoke magic.",
@@ -156238,15 +156629,28 @@
   },
   {
     "item_name": "Shadow ancient sceptre",
-    "item_name_variant": "Shadow ancient sceptre#Broken",
+    "item_name_variant": "Shadow ancient sceptre#Normal",
     "item_id": [
-      "28244"
+      "28266"
+    ],
+    "weight": 2.267,
+    "value": 200000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A very old and powerful stick, enhanced with the power of shadow magic.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shadow ancient sceptre",
+    "item_name_variant": "Shadow ancient sceptre#Locked and broken",
+    "item_id": [
+      "33516"
     ],
     "weight": 2.267,
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A very old and powerful stick, enhanced with the power of shadow magic.",
+    "examine": "A very old broken but powerful stick, enhanced with the power of shadow magic.",
     "is_members_only": true
   },
   {
@@ -156264,12 +156668,25 @@
   },
   {
     "item_name": "Shadow ancient sceptre",
-    "item_name_variant": "Shadow ancient sceptre#Normal",
+    "item_name_variant": "Shadow ancient sceptre#Locked and mangled",
     "item_id": [
-      "28266"
+      "33518"
     ],
     "weight": 2.267,
-    "value": 200000,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A very old mangled but powerful stick, enhanced with the power of shadow magic.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shadow ancient sceptre",
+    "item_name_variant": "Shadow ancient sceptre#Broken",
+    "item_id": [
+      "28244"
+    ],
+    "weight": 2.267,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A very old and powerful stick, enhanced with the power of shadow magic.",
@@ -157180,7 +157597,7 @@
     ],
     "weight": 4,
     "value": 65006,
-    "high_alchemy_value": 39003,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A Penance Fighter torso armour.",
     "is_members_only": true
@@ -157193,7 +157610,7 @@
     ],
     "weight": 4,
     "value": 65006,
-    "high_alchemy_value": 39003,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A Penance Fighter torso armour.",
     "is_members_only": true
@@ -160600,7 +161017,7 @@
     ],
     "weight": 3,
     "value": 30,
-    "high_alchemy_value": 18,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A strange magical portal.",
     "is_members_only": true
@@ -161003,7 +161420,7 @@
     ],
     "weight": 0.5,
     "value": 9500,
-    "high_alchemy_value": 5700,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Facilitates the imbuing of blood runes into ancient armour.",
     "is_members_only": true
@@ -161764,7 +162181,7 @@
   },
   {
     "item_name": "Trinket of vengeance",
-    "item_name_variant": "Trinket of vengeance",
+    "item_name_variant": "Trinket of vengeance#Normal",
     "item_id": [
       "28561"
     ],
@@ -161773,6 +162190,32 @@
     "high_alchemy_value": 60000,
     "buy_limit": 0,
     "examine": "A magic rock! This one casts the Vengeance spell.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Trinket of vengeance",
+    "item_name_variant": "Trinket of vengeance#(2)",
+    "item_id": [
+      "28561"
+    ],
+    "weight": 1,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A magic rock! This one casts the Vengeance spell and has 2 charges remaining.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Trinket of vengeance",
+    "item_name_variant": "Trinket of vengeance#(1)",
+    "item_id": [
+      "28561"
+    ],
+    "weight": 1,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A magic rock! This one casts the Vengeance spell and has one charge remaining.",
     "is_members_only": true
   },
   {
@@ -162943,7 +163386,7 @@
     ],
     "weight": 2.267,
     "value": 1000,
-    "high_alchemy_value": 600,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A banner showcasing the colours of Leagues IV: Trailblazer Reloaded.",
     "is_members_only": true
@@ -163229,7 +163672,7 @@
     ],
     "weight": 1.814,
     "value": 15000,
-    "high_alchemy_value": 9000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "The torch of a Trailblazer Reloaded Relic Hunter.",
     "is_members_only": true
@@ -165107,8 +165550,8 @@
     "is_members_only": true
   },
   {
-    "item_name": "Clue scroll (hard) - 02.58N 34.30E",
-    "item_name_variant": "Clue scroll (hard) - 02.58N 34.30E",
+    "item_name": "Clue scroll (hard) - 02.56N 34.30E",
+    "item_name_variant": "Clue scroll (hard) - 02.56N 34.30E",
     "item_id": [
       "12562"
     ],
@@ -170771,6 +171214,32 @@
     "is_members_only": true
   },
   {
+    "item_name": "Healing potion",
+    "item_name_variant": "Healing potion",
+    "item_id": [
+      "33799"
+    ],
+    "weight": 0,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Gives you that healing feeling.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Dizana's quiver",
+    "item_name_variant": "Dizana's quiver#Locked + Charged",
+    "item_id": [
+      "28953"
+    ],
+    "weight": 0.453,
+    "value": 80000,
+    "high_alchemy_value": 48000,
+    "buy_limit": 0,
+    "examine": "A quiver awarded to those who have proved their worth in the Colosseum. Can be blessed at a Shrine of Ralos.",
+    "is_members_only": true
+  },
+  {
     "item_name": "Dizana's quiver",
     "item_name_variant": "Dizana's quiver#Charged",
     "item_id": [
@@ -170785,33 +171254,7 @@
   },
   {
     "item_name": "Dizana's quiver",
-    "item_name_variant": "Dizana's quiver#Broken",
-    "item_id": [
-      "28826"
-    ],
-    "weight": 0.453,
-    "value": 80000,
-    "high_alchemy_value": 48000,
-    "buy_limit": 0,
-    "examine": "A broken Quiver awarded to those who have proved their worth in the Colosseum.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Dizana's quiver",
-    "item_name_variant": "Dizana's quiver#Charged + Locked",
-    "item_id": [
-      "28953"
-    ],
-    "weight": 0.453,
-    "value": 80000,
-    "high_alchemy_value": 48000,
-    "buy_limit": 0,
-    "examine": "A quiver awarded to those who have proved their worth in the Colosseum. Can be blessed at a Shrine of Ralos.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Dizana's quiver",
-    "item_name_variant": "Dizana's quiver#Uncharged + Locked",
+    "item_name_variant": "Dizana's quiver#Locked + Uncharged",
     "item_id": [
       "28949"
     ],
@@ -170882,7 +171325,7 @@
     ],
     "weight": 7,
     "value": 450000,
-    "high_alchemy_value": 270000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Thick, stony boots. There's a giant crystal in the middle of them.",
     "is_members_only": true
@@ -170909,7 +171352,7 @@
     "weight": 0,
     "value": 200,
     "high_alchemy_value": 120,
-    "buy_limit": 0,
+    "buy_limit": 11000,
     "examine": "It's still warm to the touch.",
     "is_members_only": true
   },
@@ -171603,6 +172046,19 @@
     "is_members_only": true
   },
   {
+    "item_name": "Tarnished necklace",
+    "item_name_variant": "Tarnished necklace",
+    "item_id": [
+      "33691"
+    ],
+    "weight": 0.01,
+    "value": 3500,
+    "high_alchemy_value": 2100,
+    "buy_limit": 0,
+    "examine": "A tarnished necklace, not fit for a lord.",
+    "is_members_only": true
+  },
+  {
     "item_name": "Adamant seeds",
     "item_name_variant": "Adamant seeds",
     "item_id": [
@@ -171711,7 +172167,7 @@
     "weight": 1,
     "value": 20000,
     "high_alchemy_value": 12000,
-    "buy_limit": 0,
+    "buy_limit": 15,
     "examine": "An ancient tome containing the secrets of earth magic.",
     "is_members_only": true
   },
@@ -172323,7 +172779,7 @@
       "29381"
     ],
     "weight": 0,
-    "value": 30,
+    "value": 18,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Blessed bones that have been broken down into smaller pieces.",
@@ -173871,7 +174327,7 @@
     ],
     "weight": 0,
     "value": 100,
-    "high_alchemy_value": 60,
+    "high_alchemy_value": 0,
     "buy_limit": 30000,
     "examine": "Vaporised material from the sun.",
     "is_members_only": true
@@ -174294,15 +174750,28 @@
   },
   {
     "item_name": "Blessed dizana's quiver",
-    "item_name_variant": "Blessed dizana's quiver#Locked",
+    "item_name_variant": "Blessed dizana's quiver#Normal",
     "item_id": [
-      "28957"
+      "28955"
     ],
     "weight": 0.453,
     "value": 100000,
     "high_alchemy_value": 60000,
     "buy_limit": 0,
     "examine": "A quiver awarded to those who have proved their worth in the Colosseum. It's been blessed by Ralos.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Blessed dizana's quiver",
+    "item_name_variant": "Blessed dizana's quiver#Locked and broken",
+    "item_id": [
+      "33528"
+    ],
+    "weight": 0.453,
+    "value": 100000,
+    "high_alchemy_value": 60000,
+    "buy_limit": 0,
+    "examine": "A broken Quiver. Blessed by Ralos. Perhaps Perdu could fix it.",
     "is_members_only": true
   },
   {
@@ -174320,9 +174789,22 @@
   },
   {
     "item_name": "Blessed dizana's quiver",
-    "item_name_variant": "Blessed dizana's quiver#Normal",
+    "item_name_variant": "Blessed dizana's quiver#Locked and mangled",
     "item_id": [
-      "28955"
+      "33530"
+    ],
+    "weight": 0.453,
+    "value": 100000,
+    "high_alchemy_value": 60000,
+    "buy_limit": 0,
+    "examine": "A mangled Quiver. Blessed by Ralos. Perhaps Perdu could fix it.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Blessed dizana's quiver",
+    "item_name_variant": "Blessed dizana's quiver#Locked",
+    "item_id": [
+      "28957"
     ],
     "weight": 0.453,
     "value": 100000,
@@ -174515,15 +174997,28 @@
   },
   {
     "item_name": "Dizana's max cape",
-    "item_name_variant": "Dizana's max cape#Locked",
+    "item_name_variant": "Dizana's max cape#Normal",
     "item_id": [
-      "28906"
+      "28902"
     ],
     "weight": 0.453,
     "value": 99000,
-    "high_alchemy_value": 59400,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "The cape worn by only the most experienced players.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Dizana's max cape",
+    "item_name_variant": "Dizana's max cape#Locked and broken",
+    "item_id": [
+      "33532"
+    ],
+    "weight": 0.453,
+    "value": 99000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The cape worn by only the most experienced players, if it wasn't broken.",
     "is_members_only": true
   },
   {
@@ -174534,22 +175029,74 @@
     ],
     "weight": 0.453,
     "value": 99000,
-    "high_alchemy_value": 59400,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "The cape worn by only the most experienced players.",
     "is_members_only": true
   },
   {
     "item_name": "Dizana's max cape",
-    "item_name_variant": "Dizana's max cape#Normal",
+    "item_name_variant": "Dizana's max cape#Locked and mangled",
     "item_id": [
-      "28902"
+      "33533"
     ],
     "weight": 0.453,
     "value": 99000,
-    "high_alchemy_value": 59400,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The cape worn by only the most experienced players, if it wasn't mangled.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Dizana's max cape",
+    "item_name_variant": "Dizana's max cape#Locked",
+    "item_id": [
+      "28906"
+    ],
+    "weight": 0.453,
+    "value": 99000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "The cape worn by only the most experienced players.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Dizana's quiver (broken)",
+    "item_name_variant": "Dizana's quiver (broken)#Broken",
+    "item_id": [
+      "28826"
+    ],
+    "weight": 0.453,
+    "value": 80000,
+    "high_alchemy_value": 48000,
+    "buy_limit": 0,
+    "examine": "A broken Quiver awarded to those who have proved their worth in the Colosseum.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Dizana's quiver (broken)",
+    "item_name_variant": "Dizana's quiver (broken)#Locked and broken",
+    "item_id": [
+      "33524"
+    ],
+    "weight": 0.453,
+    "value": 80000,
+    "high_alchemy_value": 48000,
+    "buy_limit": 0,
+    "examine": "A broken Quiver, perhaps Perdu could fix it.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Dizana's quiver (broken)",
+    "item_name_variant": "Dizana's quiver (broken)#Mangled",
+    "item_id": [
+      "33506"
+    ],
+    "weight": 0.453,
+    "value": 80000,
+    "high_alchemy_value": 48000,
+    "buy_limit": 0,
+    "examine": "A mangled Quiver, perhaps Perdu could fix it.",
     "is_members_only": true
   },
   {
@@ -174592,7 +175139,7 @@
     ],
     "weight": 0.123,
     "value": 123,
-    "high_alchemy_value": 73,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A small token.",
     "is_members_only": true
@@ -174919,7 +175466,7 @@
     "value": 20,
     "high_alchemy_value": 12,
     "buy_limit": 0,
-    "examine": "Perhaps someone at the observatory can teach me to navigate?",
+    "examine": "Hopefully leads to treasure.",
     "is_members_only": true
   },
   {
@@ -174971,7 +175518,7 @@
     "value": 20,
     "high_alchemy_value": 12,
     "buy_limit": 0,
-    "examine": "Perhaps someone at the observatory can teach me to navigate?",
+    "examine": "Hopefully leads to treasure.",
     "is_members_only": true
   },
   {
@@ -174984,7 +175531,7 @@
     "value": 20,
     "high_alchemy_value": 12,
     "buy_limit": 0,
-    "examine": "Perhaps someone at the observatory can teach me to navigate?",
+    "examine": "Hopefully leads to treasure.",
     "is_members_only": true
   },
   {
@@ -175089,6 +175636,19 @@
     "high_alchemy_value": 90,
     "buy_limit": 2000,
     "examine": "1 dose of Prayer Regeneration potion.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Tarnished amulet",
+    "item_name_variant": "Tarnished amulet",
+    "item_id": [
+      "33693"
+    ],
+    "weight": 0.01,
+    "value": 3000,
+    "high_alchemy_value": 1800,
+    "buy_limit": 0,
+    "examine": "A tarnished amulet, not fit for a lord.",
     "is_members_only": true
   },
   {
@@ -175469,8 +176029,8 @@
     "is_members_only": true
   },
   {
-    "item_name": "Araxyte venom sack",
-    "item_name_variant": "Araxyte venom sack",
+    "item_name": "Araxyte venom sac",
+    "item_name_variant": "Araxyte venom sac",
     "item_id": [
       "29784"
     ],
@@ -176269,7 +176829,7 @@
     ],
     "weight": 0.1,
     "value": 25000,
-    "high_alchemy_value": 15000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "Take this to Nigel to give the Armadyl Godsword, Volatile Nightmare Staff, Dark Bow or Voidwaker a cosmetic theme from Deadman: Armageddon.",
     "is_members_only": true
@@ -176282,7 +176842,7 @@
     ],
     "weight": 0.1,
     "value": 25000,
-    "high_alchemy_value": 15000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "Take this to Nigel to give the imbued Saradomin, Guthix or Zamorak Cape a cosmetic theme from Deadman: Armageddon.",
     "is_members_only": true
@@ -176295,7 +176855,7 @@
     ],
     "weight": 0.1,
     "value": 25000,
-    "high_alchemy_value": 15000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "A scroll which unlocks the Deadman: Armageddon home teleport animation.",
     "is_members_only": true
@@ -176308,7 +176868,7 @@
     ],
     "weight": 0.1,
     "value": 50000,
-    "high_alchemy_value": 30000,
+    "high_alchemy_value": 0,
     "buy_limit": 5,
     "examine": "A fearsome yet stylish souvenir from Deadman: Armageddon.",
     "is_members_only": true
@@ -176334,7 +176894,7 @@
     ],
     "weight": 0.1,
     "value": 10000,
-    "high_alchemy_value": 6000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Automatically re-pickpocket an NPC until you can no longer do so. Drastically improves pickpocketing success rates at early levels. Note: Guards will not let you pickpocket in safezones!",
     "is_members_only": true
@@ -176529,7 +177089,7 @@
     ],
     "weight": 0.1,
     "value": 10000,
-    "high_alchemy_value": 6000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A power enhancing sigil not yet attuned to you.",
     "is_members_only": true
@@ -178228,8 +178788,7 @@
     "item_name": "Alchemist's amulet",
     "item_name_variant": "Alchemist's amulet#Charged",
     "item_id": [
-      "29990",
-      "29992"
+      "29990"
     ],
     "weight": 0.007,
     "value": 1050,
@@ -178337,7 +178896,7 @@
     ],
     "weight": 0.62,
     "value": 380,
-    "high_alchemy_value": 228,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Grants the wearer +10 IQ.",
     "is_members_only": true
@@ -178350,7 +178909,7 @@
     ],
     "weight": 0.62,
     "value": 380,
-    "high_alchemy_value": 228,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Grants the wearer +10 IQ.",
     "is_members_only": true
@@ -178363,7 +178922,7 @@
     ],
     "weight": 0.71,
     "value": 340,
-    "high_alchemy_value": 204,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Breezy.",
     "is_members_only": true
@@ -178376,7 +178935,7 @@
     ],
     "weight": 0.71,
     "value": 340,
-    "high_alchemy_value": 204,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Breezy.",
     "is_members_only": true
@@ -178389,7 +178948,7 @@
     ],
     "weight": 0.09,
     "value": 390,
-    "high_alchemy_value": 234,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "No science is done without proper gloves.",
     "is_members_only": true
@@ -178628,7 +179187,7 @@
     ],
     "weight": 0.6,
     "value": 100,
-    "high_alchemy_value": 60,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A mostly clean uniform.",
     "is_members_only": true
@@ -182309,7 +182868,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "The lower half of a dark magical robe.",
+    "examine": "The lower half of a magical robe.",
     "is_members_only": false
   },
   {
@@ -182322,7 +182881,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "The lower half of a bright magical robe.",
+    "examine": "The lower half of a magical robe.",
     "is_members_only": false
   },
   {
@@ -182335,7 +182894,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "The upper half of a dark magical robe.",
+    "examine": "The upper half of a magical robe.",
     "is_members_only": false
   },
   {
@@ -182348,7 +182907,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "The upper half of a bright magical robe.",
+    "examine": "The upper half of a magical robe.",
     "is_members_only": false
   },
   {
@@ -183327,7 +183886,7 @@
     ],
     "weight": 0.907,
     "value": 10,
-    "high_alchemy_value": 6,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A very powerful axe, echoing with power from the past.",
     "is_members_only": false
@@ -183444,7 +184003,7 @@
     ],
     "weight": 0.4,
     "value": 75000,
-    "high_alchemy_value": 45000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Crystallised, infernal fire swirls within it...",
     "is_members_only": true
@@ -183457,7 +184016,7 @@
     ],
     "weight": 0.4,
     "value": 75000,
-    "high_alchemy_value": 45000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Crystallised, infernal fire swirls within it...",
     "is_members_only": true
@@ -183470,7 +184029,7 @@
     ],
     "weight": 0.4,
     "value": 75000,
-    "high_alchemy_value": 45000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Crystallised, queenly rage swirls within it...",
     "is_members_only": true
@@ -183483,7 +184042,7 @@
     ],
     "weight": 0.4,
     "value": 75000,
-    "high_alchemy_value": 45000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Crystallised, queenly rage swirls within it...",
     "is_members_only": true
@@ -183496,7 +184055,7 @@
     ],
     "weight": 0.4,
     "value": 75000,
-    "high_alchemy_value": 45000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Crystallised, solar rage swirls within it...",
     "is_members_only": true
@@ -183509,7 +184068,7 @@
     ],
     "weight": 0.4,
     "value": 75000,
-    "high_alchemy_value": 45000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Crystallised, lunar rage swirls within it...",
     "is_members_only": true
@@ -183522,7 +184081,7 @@
     ],
     "weight": 0.4,
     "value": 75000,
-    "high_alchemy_value": 45000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Crystallised, tangled rage swirls within it...",
     "is_members_only": true
@@ -183535,7 +184094,7 @@
     ],
     "weight": 0.4,
     "value": 75000,
-    "high_alchemy_value": 45000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Crystallised, tangled rage swirls within it...",
     "is_members_only": true
@@ -183548,7 +184107,7 @@
     ],
     "weight": 0.4,
     "value": 75000,
-    "high_alchemy_value": 45000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Crystallised, bestial rage swirls within it...",
     "is_members_only": true
@@ -183561,7 +184120,7 @@
     ],
     "weight": 0.4,
     "value": 75000,
-    "high_alchemy_value": 45000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Crystallised, bestial rage swirls within it...",
     "is_members_only": true
@@ -183574,7 +184133,7 @@
     ],
     "weight": 0.4,
     "value": 75000,
-    "high_alchemy_value": 45000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Crystallised, stonebound rage swirls within it...",
     "is_members_only": true
@@ -183587,7 +184146,7 @@
     ],
     "weight": 0.4,
     "value": 75000,
-    "high_alchemy_value": 45000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Crystallised, stonebound rage swirls within it...",
     "is_members_only": true
@@ -183600,7 +184159,7 @@
     ],
     "weight": 0.4,
     "value": 75000,
-    "high_alchemy_value": 45000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Crystallised, explosive rage swirls within it...",
     "is_members_only": true
@@ -183613,7 +184172,7 @@
     ],
     "weight": 0.4,
     "value": 75000,
-    "high_alchemy_value": 45000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Crystallised, explosive rage swirls within it...",
     "is_members_only": true
@@ -183639,7 +184198,7 @@
     ],
     "weight": 0.4,
     "value": 75000,
-    "high_alchemy_value": 45000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Crystallised, queenly rage swirls within it...",
     "is_members_only": true
@@ -183652,7 +184211,7 @@
     ],
     "weight": 0.4,
     "value": 75000,
-    "high_alchemy_value": 45000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Crystallised, queenly rage swirls within it...",
     "is_members_only": true
@@ -183665,7 +184224,7 @@
     ],
     "weight": 0.4,
     "value": 75000,
-    "high_alchemy_value": 45000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Crystallised, draconic rage swirls within it...",
     "is_members_only": true
@@ -183678,7 +184237,7 @@
     ],
     "weight": 0.4,
     "value": 75000,
-    "high_alchemy_value": 45000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Crystallised, draconic rage swirls within it...",
     "is_members_only": true
@@ -183717,7 +184276,7 @@
     ],
     "weight": 0.907,
     "value": 13000,
-    "high_alchemy_value": 7800,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Ahrim the Blighted's leather hood, using the Theme of Leagues V: Raging Echoes.",
     "is_members_only": true
@@ -183730,7 +184289,7 @@
     ],
     "weight": 0.907,
     "value": 13000,
-    "high_alchemy_value": 7800,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Ahrim the Blighted's leather hood, using the Theme of Leagues V: Raging Echoes.",
     "is_members_only": true
@@ -183743,7 +184302,7 @@
     ],
     "weight": 0.907,
     "value": 13000,
-    "high_alchemy_value": 7800,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Ahrim the Blighted's leather hood, using the Theme of Leagues V: Raging Echoes.",
     "is_members_only": true
@@ -183756,7 +184315,7 @@
     ],
     "weight": 0.907,
     "value": 13000,
-    "high_alchemy_value": 7800,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Ahrim the Blighted's leather hood, using the Theme of Leagues V: Raging Echoes.",
     "is_members_only": true
@@ -183769,7 +184328,7 @@
     ],
     "weight": 0.907,
     "value": 13000,
-    "high_alchemy_value": 7800,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Ahrim the Blighted's leather hood, using the Theme of Leagues V: Raging Echoes.",
     "is_members_only": true
@@ -183782,7 +184341,7 @@
     ],
     "weight": 0.907,
     "value": 13000,
-    "high_alchemy_value": 7800,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Ahrim the Blighted's leather hood, using the Theme of Leagues V: Raging Echoes.",
     "is_members_only": true
@@ -183808,7 +184367,7 @@
     ],
     "weight": 11.339,
     "value": 47000,
-    "high_alchemy_value": 28200,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Ahrim the Blighted's armoured robe skirt, using the Theme of Leagues V: Raging Echoes.",
     "is_members_only": true
@@ -183821,7 +184380,7 @@
     ],
     "weight": 11.339,
     "value": 47000,
-    "high_alchemy_value": 28200,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Ahrim the Blighted's armoured robe skirt, using the Theme of Leagues V: Raging Echoes.",
     "is_members_only": true
@@ -183834,7 +184393,7 @@
     ],
     "weight": 11.339,
     "value": 47000,
-    "high_alchemy_value": 28200,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Ahrim the Blighted's armoured robe skirt, using the Theme of Leagues V: Raging Echoes.",
     "is_members_only": true
@@ -183847,7 +184406,7 @@
     ],
     "weight": 11.339,
     "value": 47000,
-    "high_alchemy_value": 28200,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Ahrim the Blighted's armoured robe skirt, using the Theme of Leagues V: Raging Echoes.",
     "is_members_only": true
@@ -183860,7 +184419,7 @@
     ],
     "weight": 11.339,
     "value": 47000,
-    "high_alchemy_value": 28200,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Ahrim the Blighted's armoured robe skirt, using the Theme of Leagues V: Raging Echoes.",
     "is_members_only": true
@@ -183873,7 +184432,7 @@
     ],
     "weight": 11.339,
     "value": 47000,
-    "high_alchemy_value": 28200,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Ahrim the Blighted's armoured robe skirt, using the Theme of Leagues V: Raging Echoes.",
     "is_members_only": true
@@ -183886,7 +184445,7 @@
     ],
     "weight": 4.535,
     "value": 50000,
-    "high_alchemy_value": 30000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Ahrim the Blighted's armoured robe top, using the Theme of Leagues V: Raging Echoes.",
     "is_members_only": true
@@ -183899,7 +184458,7 @@
     ],
     "weight": 4.535,
     "value": 50000,
-    "high_alchemy_value": 30000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Ahrim the Blighted's armoured robe top, using the Theme of Leagues V: Raging Echoes.",
     "is_members_only": true
@@ -183912,7 +184471,7 @@
     ],
     "weight": 4.535,
     "value": 50000,
-    "high_alchemy_value": 30000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Ahrim the Blighted's armoured robe top, using the Theme of Leagues V: Raging Echoes.",
     "is_members_only": true
@@ -183925,7 +184484,7 @@
     ],
     "weight": 4.535,
     "value": 50000,
-    "high_alchemy_value": 30000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Ahrim the Blighted's armoured robe top, using the Theme of Leagues V: Raging Echoes.",
     "is_members_only": true
@@ -183938,7 +184497,7 @@
     ],
     "weight": 4.535,
     "value": 50000,
-    "high_alchemy_value": 30000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Ahrim the Blighted's armoured robe top, using the Theme of Leagues V: Raging Echoes.",
     "is_members_only": true
@@ -183951,7 +184510,7 @@
     ],
     "weight": 4.535,
     "value": 50000,
-    "high_alchemy_value": 30000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Ahrim the Blighted's armoured robe top, using the Theme of Leagues V: Raging Echoes.",
     "is_members_only": true
@@ -184016,7 +184575,7 @@
     ],
     "weight": 0.1,
     "value": 200000,
-    "high_alchemy_value": 120000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Virtus mask in the style of Leagues V: Raging Echoes.",
     "is_members_only": true
@@ -184042,7 +184601,7 @@
     ],
     "weight": 3.79,
     "value": 400000,
-    "high_alchemy_value": 240000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Virtus robes in the style of Leagues V: Raging Echoes.",
     "is_members_only": true
@@ -184055,7 +184614,7 @@
     ],
     "weight": 2.895,
     "value": 600000,
-    "high_alchemy_value": 360000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Virtus robes in the style of Leagues V: Raging Echoes.",
     "is_members_only": true
@@ -184458,7 +185017,7 @@
     ],
     "weight": 2.267,
     "value": 55000,
-    "high_alchemy_value": 33000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A formerly powerful, fiery harpoon in the colours of the Trailblazer Reloaded League.",
     "is_members_only": true
@@ -184471,7 +185030,7 @@
     ],
     "weight": 2.267,
     "value": 55000,
-    "high_alchemy_value": 33000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A very powerful, fiery harpoon in the colours of the Trailblazer Reloaded League.",
     "is_members_only": true
@@ -184484,7 +185043,7 @@
     ],
     "weight": 2.4,
     "value": 97950,
-    "high_alchemy_value": 58770,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A formerly powerful, fiery pickaxe in the colours of the Trailblazer Reloaded League.",
     "is_members_only": true
@@ -184497,7 +185056,7 @@
     ],
     "weight": 2.4,
     "value": 97950,
-    "high_alchemy_value": 58770,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A very powerful, fiery pickaxe in the colours of the Trailblazer Reloaded League.",
     "is_members_only": true
@@ -184510,7 +185069,7 @@
     ],
     "weight": 1.36,
     "value": 97950,
-    "high_alchemy_value": 58770,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A formerly powerful, fiery axe in the colours of the Trailblazer Reloaded League.",
     "is_members_only": true
@@ -184523,7 +185082,7 @@
     ],
     "weight": 1.36,
     "value": 97950,
-    "high_alchemy_value": 58770,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A very powerful, fiery axe in the colours of the Trailblazer Reloaded League.",
     "is_members_only": true
@@ -184915,7 +185474,7 @@
     "weight": 1,
     "value": 500,
     "high_alchemy_value": 0,
-    "buy_limit": 0,
+    "buy_limit": 5,
     "examine": "Opulent curtains dyed with the colours of the Raging Echoes league.",
     "is_members_only": true
   },
@@ -186968,7 +187527,7 @@
     "weight": 0.65,
     "value": 170,
     "high_alchemy_value": 102,
-    "buy_limit": 0,
+    "buy_limit": 10000,
     "examine": "Some nicely cooked halibut.",
     "is_members_only": true
   },
@@ -187138,7 +187697,7 @@
     "value": 200,
     "high_alchemy_value": 120,
     "buy_limit": 0,
-    "examine": "Salvage collected from a pirate shipwreck.",
+    "examine": "Salvage from a pirate shipwreck. You can sort through it at a salvaging station.",
     "is_members_only": true
   },
   {
@@ -187382,8 +187941,8 @@
       "31583"
     ],
     "weight": 0.5,
-    "value": 2500,
-    "high_alchemy_value": 1500,
+    "value": 4800,
+    "high_alchemy_value": 2880,
     "buy_limit": 0,
     "examine": "Breath powered dart delivering system with a hint of rosewood.",
     "is_members_only": true
@@ -187395,8 +187954,8 @@
       "31585"
     ],
     "weight": 0.3,
-    "value": 2500,
-    "high_alchemy_value": 1500,
+    "value": 4800,
+    "high_alchemy_value": 2880,
     "buy_limit": 8,
     "examine": "Breath powered dart delivering system with a hint of rosewood.",
     "is_members_only": true
@@ -187580,7 +188139,7 @@
     "value": 200,
     "high_alchemy_value": 120,
     "buy_limit": 0,
-    "examine": "Salvage collected from a small shipwreck.",
+    "examine": "Salvage from a small shipwreck. You can sort through it at a salvaging station.",
     "is_members_only": true
   },
   {
@@ -187723,7 +188282,7 @@
     "value": 20,
     "high_alchemy_value": 12,
     "buy_limit": 0,
-    "examine": "Rum shipment from a merchant ship south of Storm Tempor.",
+    "examine": "Rum shipments from the Storm Tempor.",
     "is_members_only": true
   },
   {
@@ -188343,7 +188902,7 @@
     ],
     "weight": 5,
     "value": 10000,
-    "high_alchemy_value": 6000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A crate full of supplies.",
     "is_members_only": true
@@ -190094,8 +190653,7 @@
     "item_name": "Dossier",
     "item_name_variant": "Dossier",
     "item_id": [
-      "30803",
-      "30805"
+      "30803"
     ],
     "weight": 1,
     "value": 10,
@@ -197303,7 +197861,7 @@
     "weight": 1.814,
     "value": 28,
     "high_alchemy_value": 16,
-    "buy_limit": 0,
+    "buy_limit": 10000,
     "examine": "It's a bar of lead.",
     "is_members_only": true
   },
@@ -197316,7 +197874,7 @@
     "weight": 1.814,
     "value": 28,
     "high_alchemy_value": 16,
-    "buy_limit": 0,
+    "buy_limit": 10000,
     "examine": "It's a bar of cupronickel.",
     "is_members_only": true
   },
@@ -197616,7 +198174,7 @@
     "value": 1250,
     "high_alchemy_value": 750,
     "buy_limit": 100,
-    "examine": "Large parts for creating a wooden hull for a large boat.",
+    "examine": "Parts for creating a wooden hull for larger boats.",
     "is_members_only": true
   },
   {
@@ -197629,7 +198187,7 @@
     "value": 3125,
     "high_alchemy_value": 1875,
     "buy_limit": 0,
-    "examine": "Large parts for creating an oak hull for a large boat.",
+    "examine": "Parts for creating an oak hull for larger boats.",
     "is_members_only": true
   },
   {
@@ -197642,7 +198200,7 @@
     "value": 6250,
     "high_alchemy_value": 3750,
     "buy_limit": 100,
-    "examine": "Large parts for creating a teak hull for a large boat.",
+    "examine": "Parts for creating a teak hull for larger boats.",
     "is_members_only": true
   },
   {
@@ -197655,7 +198213,7 @@
     "value": 18750,
     "high_alchemy_value": 11250,
     "buy_limit": 100,
-    "examine": "Large parts for creating a mahogany hull for a large boat.",
+    "examine": "Parts for creating a mahogany hull for larger boats.",
     "is_members_only": true
   },
   {
@@ -197668,7 +198226,7 @@
     "value": 31250,
     "high_alchemy_value": 18750,
     "buy_limit": 100,
-    "examine": "Large parts for creating a camphor hull for a large boat.",
+    "examine": "Parts for creating a camphor hull for larger boats.",
     "is_members_only": true
   },
   {
@@ -197681,7 +198239,7 @@
     "value": 62500,
     "high_alchemy_value": 37500,
     "buy_limit": 100,
-    "examine": "Large parts for creating an ironwood hull for a boat.",
+    "examine": "Parts for creating an ironwood hull for a boat.",
     "is_members_only": true
   },
   {
@@ -197694,7 +198252,7 @@
     "value": 93750,
     "high_alchemy_value": 56250,
     "buy_limit": 100,
-    "examine": "Large parts for creating a rosewood hull for a boat.",
+    "examine": "Parts for creating a rosewood hull for a boat.",
     "is_members_only": true
   },
   {
@@ -197820,9 +198378,9 @@
     "item_id": [
       "31918"
     ],
-    "weight": 3.628,
-    "value": 5,
-    "high_alchemy_value": 3,
+    "weight": 0,
+    "value": 4,
+    "high_alchemy_value": 2,
     "buy_limit": 0,
     "examine": "Ammo suited for a boat's cannon.",
     "is_members_only": true
@@ -197833,9 +198391,9 @@
     "item_id": [
       "31920"
     ],
-    "weight": 3.628,
-    "value": 5,
-    "high_alchemy_value": 3,
+    "weight": 0,
+    "value": 8,
+    "high_alchemy_value": 4,
     "buy_limit": 0,
     "examine": "Ammo suited for a boat's cannon.",
     "is_members_only": true
@@ -197846,9 +198404,9 @@
     "item_id": [
       "31922"
     ],
-    "weight": 3.628,
-    "value": 5,
-    "high_alchemy_value": 3,
+    "weight": 0,
+    "value": 10,
+    "high_alchemy_value": 6,
     "buy_limit": 0,
     "examine": "Ammo suited for a boat's cannon.",
     "is_members_only": true
@@ -197859,9 +198417,9 @@
     "item_id": [
       "31924"
     ],
-    "weight": 2.721,
-    "value": 90,
-    "high_alchemy_value": 54,
+    "weight": 0,
+    "value": 120,
+    "high_alchemy_value": 72,
     "buy_limit": 0,
     "examine": "Ammo suited for a boat's cannon.",
     "is_members_only": true
@@ -197872,9 +198430,9 @@
     "item_id": [
       "31926"
     ],
-    "weight": 3.628,
-    "value": 180,
-    "high_alchemy_value": 108,
+    "weight": 0,
+    "value": 360,
+    "high_alchemy_value": 216,
     "buy_limit": 0,
     "examine": "Ammo suited for a boat's cannon.",
     "is_members_only": true
@@ -197885,9 +198443,9 @@
     "item_id": [
       "31928"
     ],
-    "weight": 3.628,
-    "value": 1400,
-    "high_alchemy_value": 840,
+    "weight": 0,
+    "value": 2800,
+    "high_alchemy_value": 1680,
     "buy_limit": 0,
     "examine": "Ammo suited for a boat's cannon.",
     "is_members_only": true
@@ -197898,9 +198456,9 @@
     "item_id": [
       "31930"
     ],
-    "weight": 3.628,
-    "value": 1800,
-    "high_alchemy_value": 1080,
+    "weight": 0,
+    "value": 3600,
+    "high_alchemy_value": 2160,
     "buy_limit": 0,
     "examine": "Ammo suited for a boat's cannon.",
     "is_members_only": true
@@ -197911,9 +198469,9 @@
     "item_id": [
       "31932"
     ],
-    "weight": 3.628,
-    "value": 5,
-    "high_alchemy_value": 3,
+    "weight": 0,
+    "value": 4,
+    "high_alchemy_value": 2,
     "buy_limit": 0,
     "examine": "Ammo suited for a boat's cannon.",
     "is_members_only": true
@@ -197924,9 +198482,9 @@
     "item_id": [
       "31934"
     ],
-    "weight": 3.628,
-    "value": 5,
-    "high_alchemy_value": 3,
+    "weight": 0,
+    "value": 8,
+    "high_alchemy_value": 4,
     "buy_limit": 0,
     "examine": "Ammo suited for a boat's cannon.",
     "is_members_only": true
@@ -197937,9 +198495,9 @@
     "item_id": [
       "31936"
     ],
-    "weight": 3.628,
-    "value": 5,
-    "high_alchemy_value": 3,
+    "weight": 0,
+    "value": 10,
+    "high_alchemy_value": 6,
     "buy_limit": 0,
     "examine": "Ammo suited for a boat's cannon.",
     "is_members_only": true
@@ -197950,9 +198508,9 @@
     "item_id": [
       "31938"
     ],
-    "weight": 2.721,
-    "value": 90,
-    "high_alchemy_value": 54,
+    "weight": 0,
+    "value": 120,
+    "high_alchemy_value": 72,
     "buy_limit": 0,
     "examine": "Ammo suited for a boat's cannon.",
     "is_members_only": true
@@ -197963,9 +198521,9 @@
     "item_id": [
       "31940"
     ],
-    "weight": 3.628,
-    "value": 180,
-    "high_alchemy_value": 108,
+    "weight": 0,
+    "value": 360,
+    "high_alchemy_value": 216,
     "buy_limit": 0,
     "examine": "Ammo suited for a boat's cannon.",
     "is_members_only": true
@@ -197976,9 +198534,9 @@
     "item_id": [
       "31942"
     ],
-    "weight": 3.628,
-    "value": 1400,
-    "high_alchemy_value": 840,
+    "weight": 0,
+    "value": 2800,
+    "high_alchemy_value": 1680,
     "buy_limit": 0,
     "examine": "Ammo suited for a boat's cannon.",
     "is_members_only": true
@@ -197989,9 +198547,9 @@
     "item_id": [
       "31944"
     ],
-    "weight": 3.628,
-    "value": 1800,
-    "high_alchemy_value": 1080,
+    "weight": 0,
+    "value": 3600,
+    "high_alchemy_value": 2160,
     "buy_limit": 0,
     "examine": "Ammo suited for a boat's cannon.",
     "is_members_only": true
@@ -198018,7 +198576,7 @@
     "weight": 0.65,
     "value": 170,
     "high_alchemy_value": 102,
-    "buy_limit": 0,
+    "buy_limit": 10000,
     "examine": "Some nicely cooked marlin.",
     "is_members_only": true
   },
@@ -198201,7 +198759,7 @@
     "value": 200,
     "high_alchemy_value": 120,
     "buy_limit": 0,
-    "examine": "Salvage collected from a fisherman shipwreck.",
+    "examine": "Salvage from a fisherman's shipwreck. You can sort through it at a salvaging station.",
     "is_members_only": true
   },
   {
@@ -198214,7 +198772,7 @@
     "value": 200,
     "high_alchemy_value": 120,
     "buy_limit": 0,
-    "examine": "Salvage collected from a barracuda shipwreck.",
+    "examine": "Salvage from a Barracuda shipwreck. You can sort through it at a salvaging station.",
     "is_members_only": true
   },
   {
@@ -198227,7 +198785,7 @@
     "value": 200,
     "high_alchemy_value": 120,
     "buy_limit": 0,
-    "examine": "Salvage collected from a large shipwreck.",
+    "examine": "Salvage from a large shipwreck. You can sort through it at a salvaging station.",
     "is_members_only": true
   },
   {
@@ -198240,7 +198798,7 @@
     "value": 200,
     "high_alchemy_value": 120,
     "buy_limit": 0,
-    "examine": "Salvage collected from a mercenary shipwreck.",
+    "examine": "Salvage from a mercenary shipwreck. You can sort through it at a salvaging station.",
     "is_members_only": true
   },
   {
@@ -198266,7 +198824,7 @@
     "value": 200,
     "high_alchemy_value": 120,
     "buy_limit": 0,
-    "examine": "Salvage collected from a merchant shipwreck.",
+    "examine": "Salvage from a merchant shipwreck. You can sort through it at a salvaging station.",
     "is_members_only": true
   },
   {
@@ -198786,7 +199344,7 @@
     "value": 20,
     "high_alchemy_value": 12,
     "buy_limit": 0,
-    "examine": "A clue!",
+    "examine": "I need to decipher this.",
     "is_members_only": true
   },
   {
@@ -199083,7 +199641,7 @@
     ],
     "weight": 0.3,
     "value": 50,
-    "high_alchemy_value": 30,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "RIP.",
     "is_members_only": true
@@ -199542,7 +200100,7 @@
     ],
     "weight": 0.123,
     "value": 123,
-    "high_alchemy_value": 73,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A small token.",
     "is_members_only": true
@@ -199769,6 +200327,19 @@
     "is_members_only": true
   },
   {
+    "item_name": "Half moon key",
+    "item_name_variant": "Half moon key",
+    "item_id": [
+      "33725"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "An old key with the symbol of a half moon on it.",
+    "is_members_only": true
+  },
+  {
     "item_name": "Antique lamp (The Final Dawn)",
     "item_name_variant": "Antique lamp (The Final Dawn)",
     "item_id": [
@@ -199855,7 +200426,7 @@
     "weight": 1.36,
     "value": 45000,
     "high_alchemy_value": 27000,
-    "buy_limit": 0,
+    "buy_limit": 15,
     "examine": "A well balanced blade adorned with gold.",
     "is_members_only": true
   },
@@ -199869,7 +200440,7 @@
     "value": 30,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A key rewarded for completing the Tempor Tantrum, what does it open?",
+    "examine": "A key rewarded for completing the Tempor Tantrum. What does it open?",
     "is_members_only": true
   },
   {
@@ -199882,7 +200453,7 @@
     "value": 30,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "Expertly crafted components that can be assembled into a stand, perfect for holding a barrel of alcohol.",
+    "examine": "Expertly crafted components that can be assembled into a stand. Perfect for holding a barrel of alcohol.",
     "is_members_only": true
   },
   {
@@ -200129,7 +200700,7 @@
     "value": 300,
     "high_alchemy_value": 180,
     "buy_limit": 0,
-    "examine": "When you're drunk you never miss! Not that you'd remember.",
+    "examine": "When you're drunk, you never miss! Not that you'd remember.",
     "is_members_only": true
   },
   {
@@ -200155,7 +200726,7 @@
     "value": 300,
     "high_alchemy_value": 180,
     "buy_limit": 0,
-    "examine": "For those always looking beyond the horizon to what lies beyond.",
+    "examine": "For those always looking to the horizon to see what lies beyond.",
     "is_members_only": true
   },
   {
@@ -200220,7 +200791,7 @@
     "value": 200,
     "high_alchemy_value": 120,
     "buy_limit": 0,
-    "examine": "Salvage collected from a Fremennik shipwreck.",
+    "examine": "Salvage from a Fremennik shipwreck. You can sort through it at a salvaging station.",
     "is_members_only": true
   },
   {
@@ -200895,7 +201466,7 @@
     "weight": 0.02,
     "value": 15,
     "high_alchemy_value": 9,
-    "buy_limit": 0,
+    "buy_limit": 30000,
     "examine": "Be careful with these! They're unstable!",
     "is_members_only": true
   },
@@ -201141,7 +201712,7 @@
     ],
     "weight": 0.3,
     "value": 100000,
-    "high_alchemy_value": 60000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Sadly, the blades are only decorative",
     "is_members_only": true
@@ -201193,7 +201764,7 @@
     ],
     "weight": 0.3,
     "value": 100000,
-    "high_alchemy_value": 60000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Sadly, the blades are only decorative",
     "is_members_only": true
@@ -201206,7 +201777,7 @@
     ],
     "weight": 0.3,
     "value": 100000,
-    "high_alchemy_value": 60000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Sadly, the blades are only decorative",
     "is_members_only": true
@@ -201219,7 +201790,7 @@
     ],
     "weight": 0.3,
     "value": 100000,
-    "high_alchemy_value": 60000,
+    "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Sadly, the blades are only decorative",
     "is_members_only": true
@@ -201441,7 +202012,7 @@
     "weight": 0.056,
     "value": 25,
     "high_alchemy_value": 15,
-    "buy_limit": 0,
+    "buy_limit": 10000,
     "examine": "I need another ingredient to finish this Elkhorn potion.",
     "is_members_only": true
   },
@@ -201506,7 +202077,7 @@
     "weight": 0.03,
     "value": 170,
     "high_alchemy_value": 102,
-    "buy_limit": 0,
+    "buy_limit": 2000,
     "examine": "A healing poultice, can be applied to cotton yarn to create a haemostatic dressing.",
     "is_members_only": true
   },
@@ -201546,7 +202117,7 @@
     "value": 8000,
     "high_alchemy_value": 4800,
     "buy_limit": 0,
-    "examine": "A glowing pearl, as you stare into it you can hear sounds of the ocean.",
+    "examine": "A glowing pearl. As you stare into it, you can hear the sound of the ocean.",
     "is_members_only": true
   },
   {
@@ -201597,7 +202168,7 @@
     "weight": 1.5,
     "value": 8000,
     "high_alchemy_value": 4800,
-    "buy_limit": 0,
+    "buy_limit": 15,
     "examine": "The sharp horn of a narwhal.",
     "is_members_only": true
   },
@@ -202169,7 +202740,7 @@
     "weight": 1,
     "value": 1,
     "high_alchemy_value": 0,
-    "buy_limit": 0,
+    "buy_limit": 5,
     "examine": "A grey paint. This might look good on a boat.",
     "is_members_only": true
   },
@@ -202322,7 +202893,7 @@
     "item_id": [
       "32845"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 200,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -202335,7 +202906,7 @@
     "item_id": [
       "32826"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 100,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -202387,7 +202958,7 @@
     "item_id": [
       "32836"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 200,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -202400,7 +202971,7 @@
     "item_id": [
       "32817"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 100,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -203414,7 +203985,7 @@
     "item_id": [
       "32835"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 200,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -203427,7 +203998,7 @@
     "item_id": [
       "32816"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 100,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -203440,7 +204011,7 @@
     "item_id": [
       "32821"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 100,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -203453,7 +204024,7 @@
     "item_id": [
       "32840"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 200,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -203492,7 +204063,7 @@
     "item_id": [
       "32842"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 200,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -203505,7 +204076,7 @@
     "item_id": [
       "32823"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 100,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -203531,7 +204102,7 @@
     "item_id": [
       "32811"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 100,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -203544,7 +204115,7 @@
     "item_id": [
       "32830"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 200,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -203557,7 +204128,7 @@
     "item_id": [
       "32837"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 200,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -203570,7 +204141,7 @@
     "item_id": [
       "32818"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 100,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -203648,7 +204219,7 @@
     "item_id": [
       "32815"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 100,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -203661,7 +204232,7 @@
     "item_id": [
       "32834"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 200,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -203687,7 +204258,7 @@
     "item_id": [
       "32824"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 100,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -203700,7 +204271,7 @@
     "item_id": [
       "32843"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 200,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -203713,7 +204284,7 @@
     "item_id": [
       "32833"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 200,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -203726,7 +204297,7 @@
     "item_id": [
       "32814"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 100,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -203752,7 +204323,7 @@
     "item_id": [
       "32813"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 100,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -203765,7 +204336,7 @@
     "item_id": [
       "32827"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 100,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -203778,7 +204349,7 @@
     "item_id": [
       "32846"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 200,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -203791,7 +204362,7 @@
     "item_id": [
       "32841"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 200,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -203960,7 +204531,7 @@
     "item_id": [
       "32829"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 200,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -203973,7 +204544,7 @@
     "item_id": [
       "32831"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 200,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -203986,7 +204557,7 @@
     "item_id": [
       "32812"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 100,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -204012,7 +204583,7 @@
     "item_id": [
       "32825"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 100,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -204025,7 +204596,7 @@
     "item_id": [
       "32844"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 200,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -204038,7 +204609,7 @@
     "item_id": [
       "32838"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 200,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -204051,7 +204622,7 @@
     "item_id": [
       "32819"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 100,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -204686,7 +205257,7 @@
     "value": 0,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A cargo crate of ship parts destined for Ruins of Unkah.",
+    "examine": "A cargo crate of ship parts destined for the Ruins of Unkah.",
     "is_members_only": true
   },
   {
@@ -205118,7 +205689,7 @@
     "value": 0,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A cargo Crate of rum destined for Brimhaven.",
+    "examine": "A cargo crate of rum destined for Brimhaven.",
     "is_members_only": true
   },
   {
@@ -205131,7 +205702,7 @@
     "value": 0,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A cargo Crate of rum destined for Corsair Cove.",
+    "examine": "A cargo crate of rum destined for Corsair Cove.",
     "is_members_only": true
   },
   {
@@ -205810,7 +206381,7 @@
     "value": 0,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A cargo Crate of mahogany logs destined for Port Piscarilius.",
+    "examine": "A cargo crate of mahogany logs destined for Port Piscarilius.",
     "is_members_only": true
   },
   {
@@ -205823,7 +206394,7 @@
     "value": 0,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A cargo Crate of mahogany logs destined for Neitiznot.",
+    "examine": "A cargo crate of mahogany logs destined for Neitiznot.",
     "is_members_only": true
   },
   {
@@ -205836,7 +206407,7 @@
     "value": 0,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A cargo Crate of mahogany logs destined for Musa Point.",
+    "examine": "A cargo crate of mahogany logs destined for Musa Point.",
     "is_members_only": true
   },
   {
@@ -205849,7 +206420,7 @@
     "value": 0,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A cargo Crate of mahogany logs destined for Deepfin Point.",
+    "examine": "A cargo crate of mahogany logs destined for Deepfin Point.",
     "is_members_only": true
   },
   {
@@ -206260,7 +206831,7 @@
     "value": 0,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A cargo crate of javelins destined for Ruins of Unkah.",
+    "examine": "A cargo crate of javelins destined for the Ruins of Unkah.",
     "is_members_only": true
   },
   {
@@ -206296,7 +206867,7 @@
     "item_id": [
       "32809"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 100,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -206309,7 +206880,7 @@
     "item_id": [
       "32828"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 200,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -206322,7 +206893,7 @@
     "item_id": [
       "32820"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 100,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -206335,7 +206906,7 @@
     "item_id": [
       "32839"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 200,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -206482,7 +207053,7 @@
     "value": 0,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A cargo crate of herbs destined for Void Knights' Outpost.",
+    "examine": "A cargo crate of herbs destined for the Void Knights' Outpost.",
     "is_members_only": true
   },
   {
@@ -206534,7 +207105,7 @@
     "value": 0,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A cargo crate of granite destined for Void Knights' Outpost.",
+    "examine": "A cargo crate of granite destined for the Void Knights' Outpost.",
     "is_members_only": true
   },
   {
@@ -207256,7 +207827,7 @@
     "value": 0,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A cargo crate of fabrics destined for Sunset Coast.",
+    "examine": "A cargo crate of fabrics destined for the Sunset Coast.",
     "is_members_only": true
   },
   {
@@ -208311,7 +208882,7 @@
     "item_id": [
       "32810"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 100,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -208324,7 +208895,7 @@
     "item_id": [
       "32832"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 200,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -208571,13 +209142,13 @@
     "item_name": "Crate of glassmaking supplies",
     "item_name_variant": "Crate of glassmaking supplies",
     "item_id": [
-      "32640"
+      "32488"
     ],
     "weight": 1.285,
     "value": 0,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A cargo crate of gin destined for Port Piscarilius.",
+    "examine": "A cargo crate of glassmaking supplies destined for Catherby.",
     "is_members_only": true
   },
   {
@@ -209763,25 +210334,16 @@
     "is_members_only": true
   },
   {
-    "item_name": "Flail Upgrade",
-    "item_name_variant": "Flail Upgrade",
-    "item_id": null,
-    "weight": 0,
-    "value": 0,
-    "high_alchemy_value": 0,
+    "item_name": "Sunspear",
+    "item_name_variant": "Sunspear",
+    "item_id": [
+      "33722"
+    ],
+    "weight": 3,
+    "value": 100000,
+    "high_alchemy_value": 60000,
     "buy_limit": 0,
-    "examine": null,
-    "is_members_only": true
-  },
-  {
-    "item_name": "New Spec Weapon",
-    "item_name_variant": "New Spec Weapon",
-    "item_id": null,
-    "weight": 0,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": null,
+    "examine": "A holy spear.",
     "is_members_only": true
   },
   {
@@ -210279,6 +210841,32 @@
     "is_members_only": true
   },
   {
+    "item_name": "Crimson kisten",
+    "item_name_variant": "Crimson kisten",
+    "item_id": [
+      "33631"
+    ],
+    "weight": 2.825,
+    "value": 240000,
+    "high_alchemy_value": 144000,
+    "buy_limit": 5,
+    "examine": "A nasty war implement. I should be careful not to hit myself.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Necklace of rupture",
+    "item_name_variant": "Necklace of rupture",
+    "item_id": [
+      "33639"
+    ],
+    "weight": 0.01,
+    "value": 242000,
+    "high_alchemy_value": 145200,
+    "buy_limit": 8,
+    "examine": "The necklace vibrates threateningly when pressed.",
+    "is_members_only": true
+  },
+  {
     "item_name": "Ballistic attractor schematic",
     "item_name_variant": "Ballistic attractor schematic",
     "item_id": [
@@ -210297,7 +210885,7 @@
     "item_id": [
       "33145"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 200,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -210310,7 +210898,7 @@
     "item_id": [
       "33144"
     ],
-    "weight": 0.8,
+    "weight": 0,
     "value": 100,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -210497,6 +211085,19 @@
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A evil pendant... Always watching.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Leechfin",
+    "item_name_variant": "Leechfin",
+    "item_id": [
+      "33621"
+    ],
+    "weight": 0.7,
+    "value": 170,
+    "high_alchemy_value": 102,
+    "buy_limit": 0,
+    "examine": "Rich in iron.",
     "is_members_only": true
   },
   {
@@ -211520,7 +212121,7 @@
       "33302"
     ],
     "weight": 0.1,
-    "value": 1,
+    "value": 100000,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Embrace your inner demon.",
@@ -211533,7 +212134,7 @@
       "33305"
     ],
     "weight": 0.1,
-    "value": 1,
+    "value": 100000,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Used on a Soul Reaper axe, to decorate it in the style of Leagues VI: Demonic Pacts.",
@@ -211559,7 +212160,7 @@
       "33311"
     ],
     "weight": 0.1,
-    "value": 1,
+    "value": 100000,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Used on a Trident of the Seas or Swamp, to decorate it in the style of Leagues VI: Demonic Pacts.",
@@ -211575,7 +212176,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A Dragon trophy for competing in Leagues VI - Demonic Pacts (15th April 2026 to 10th June 2026).",
+    "examine": "A Dragon trophy for competing in Leagues VI - Demonic Pacts (15th April 2026 to 11th June 2026).",
     "is_members_only": true
   },
   {
@@ -211588,7 +212189,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A Rune trophy for competing in Leagues VI - Demonic Pacts (15th April 2026 to 10th June 2026).",
+    "examine": "A Rune trophy for competing in Leagues VI - Demonic Pacts (15th April 2026 to 11th June 2026).",
     "is_members_only": true
   },
   {
@@ -211601,7 +212202,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "An Adamant trophy for competing in Leagues VI - Demonic Pacts (15th April 2026 to 10th June 2026).",
+    "examine": "An Adamant trophy for competing in Leagues VI - Demonic Pacts (15th April 2026 to 11th June 2026).",
     "is_members_only": true
   },
   {
@@ -211614,7 +212215,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A Mithril trophy for competing in Leagues VI - Demonic Pacts (15th April 2026 to 10th June 2026).",
+    "examine": "A Mithril trophy for competing in Leagues VI - Demonic Pacts (15th April 2026 to 11th June 2026).",
     "is_members_only": true
   },
   {
@@ -211627,7 +212228,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A Steel trophy for competing in Leagues VI - Demonic Pacts (15th April 2026 to 10th June 2026).",
+    "examine": "A Steel trophy for competing in Leagues VI - Demonic Pacts (15th April 2026 to 11th June 2026).",
     "is_members_only": true
   },
   {
@@ -211640,7 +212241,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "An Iron trophy for competing in Leagues VI - Demonic Pacts (15th April 2026 to 10th June 2026).",
+    "examine": "An Iron trophy for competing in Leagues VI - Demonic Pacts (15th April 2026 to 11th June 2026).",
     "is_members_only": true
   },
   {
@@ -211653,12 +212254,12 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A Bronze trophy for competing in Leagues VI - Demonic Pacts (15th April 2026 to 10th June 2026).",
+    "examine": "A Bronze trophy for competing in Leagues VI - Demonic Pacts (15th April 2026 to 11th June 2026).",
     "is_members_only": true
   },
   {
-    "item_name": "Impish ritual kit",
-    "item_name_variant": "Impish ritual kit",
+    "item_name": "Impish ritual scroll",
+    "item_name_variant": "Impish ritual scroll",
     "item_id": [
       "33359"
     ],
@@ -211692,7 +212293,7 @@
     "value": 25000,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "Used to unlock the Impish overrides for your Arceuus thralls.",
+    "examine": "Used to unlock the impish overrides for your Arceuus thralls.",
     "is_members_only": true
   },
   {
@@ -211705,7 +212306,7 @@
     "value": 25000,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "Used on a Demon Butler inside your Player Owned House to decorate it in the style of Leagues VI - Demonic Pacts.",
+    "examine": "Read to gain the ability to dress the Demon Butler in your Player Owned House in the style of Leagues VI - Demonic Pacts.",
     "is_members_only": true
   },
   {
@@ -211717,7 +212318,7 @@
     "weight": 0.453,
     "value": 100000,
     "high_alchemy_value": 0,
-    "buy_limit": 0,
+    "buy_limit": 4,
     "examine": "The hood of a Demonic Relic Hunter.",
     "is_members_only": true
   },
@@ -211730,7 +212331,7 @@
     "weight": 0.453,
     "value": 100000,
     "high_alchemy_value": 0,
-    "buy_limit": 0,
+    "buy_limit": 4,
     "examine": "The hood of a Demonic Relic Hunter.",
     "is_members_only": true
   },
@@ -211743,7 +212344,7 @@
     "weight": 0.453,
     "value": 100000,
     "high_alchemy_value": 0,
-    "buy_limit": 0,
+    "buy_limit": 4,
     "examine": "The hood of a Demonic Relic Hunter.",
     "is_members_only": true
   },
@@ -211756,7 +212357,7 @@
     "weight": 0.907,
     "value": 100000,
     "high_alchemy_value": 0,
-    "buy_limit": 0,
+    "buy_limit": 4,
     "examine": "The robe top of a Demonic Relic Hunter.",
     "is_members_only": true
   },
@@ -211769,7 +212370,7 @@
     "weight": 0.907,
     "value": 100000,
     "high_alchemy_value": 0,
-    "buy_limit": 0,
+    "buy_limit": 4,
     "examine": "The robe top of a Demonic Relic Hunter.",
     "is_members_only": true
   },
@@ -211782,7 +212383,7 @@
     "weight": 0.907,
     "value": 100000,
     "high_alchemy_value": 0,
-    "buy_limit": 0,
+    "buy_limit": 4,
     "examine": "The robe top of a Demonic Relic Hunter.",
     "is_members_only": true
   },
@@ -211795,7 +212396,7 @@
     "weight": 0.907,
     "value": 100000,
     "high_alchemy_value": 0,
-    "buy_limit": 0,
+    "buy_limit": 4,
     "examine": "The robe bottom of a Demonic Relic Hunter.",
     "is_members_only": true
   },
@@ -211808,7 +212409,7 @@
     "weight": 0.907,
     "value": 100000,
     "high_alchemy_value": 0,
-    "buy_limit": 0,
+    "buy_limit": 4,
     "examine": "The robe bottom of a Demonic Relic Hunter.",
     "is_members_only": true
   },
@@ -211821,7 +212422,7 @@
     "weight": 0.907,
     "value": 100000,
     "high_alchemy_value": 0,
-    "buy_limit": 0,
+    "buy_limit": 4,
     "examine": "The robe bottom of a Demonic Relic Hunter.",
     "is_members_only": true
   },
@@ -211834,7 +212435,7 @@
     "weight": 0.34,
     "value": 100000,
     "high_alchemy_value": 0,
-    "buy_limit": 0,
+    "buy_limit": 4,
     "examine": "The boots of a Demonic Relic Hunter.",
     "is_members_only": true
   },
@@ -211847,7 +212448,7 @@
     "weight": 0.34,
     "value": 100000,
     "high_alchemy_value": 0,
-    "buy_limit": 0,
+    "buy_limit": 4,
     "examine": "The boots of a Demonic Relic Hunter.",
     "is_members_only": true
   },
@@ -211860,7 +212461,7 @@
     "weight": 0.34,
     "value": 100000,
     "high_alchemy_value": 0,
-    "buy_limit": 0,
+    "buy_limit": 4,
     "examine": "The boots of a Demonic Relic Hunter.",
     "is_members_only": true
   },
@@ -211874,7 +212475,7 @@
     "value": 240000,
     "high_alchemy_value": 144000,
     "buy_limit": 0,
-    "examine": "An axe that manipulates the very lifeforce of those who touch it.",
+    "examine": "A demonic axe that manipulates the very lifeforce of those who touch it.",
     "is_members_only": true
   },
   {
@@ -211900,7 +212501,7 @@
     "value": 42500,
     "high_alchemy_value": 25500,
     "buy_limit": 0,
-    "examine": "An ancient staff, formerly the property of Iban.",
+    "examine": "A demonic staff, formerly the property of Iban.",
     "is_members_only": true
   },
   {
@@ -211913,7 +212514,7 @@
     "value": 85000,
     "high_alchemy_value": 51000,
     "buy_limit": 0,
-    "examine": "An ancient staff, formerly owned by Iban, now upgraded to hold more charges.",
+    "examine": "A demonic staff, formerly owned by Iban, now upgraded to hold more charges.",
     "is_members_only": true
   },
   {
@@ -211926,7 +212527,7 @@
     "value": 78500,
     "high_alchemy_value": 47100,
     "buy_limit": 0,
-    "examine": "A toxic weapon from the deep.",
+    "examine": "A toxic weapon from the deep filled with demonic fury.",
     "is_members_only": true
   },
   {
@@ -211952,7 +212553,7 @@
     "value": 108500,
     "high_alchemy_value": 65100,
     "buy_limit": 0,
-    "examine": "An enhanced toxic weapon from the deep.",
+    "examine": "An enhanced toxic weapon from the deep filled with demonic fury.",
     "is_members_only": true
   },
   {
@@ -211964,7 +212565,7 @@
     "weight": 1.814,
     "value": 108000,
     "high_alchemy_value": 64800,
-    "buy_limit": 8,
+    "buy_limit": 0,
     "examine": "It needs to be charged with death runes, chaos runes, fire runes and Zulrah's scales.",
     "is_members_only": true
   },
@@ -211978,7 +212579,7 @@
     "value": 69000,
     "high_alchemy_value": 41400,
     "buy_limit": 0,
-    "examine": "A weapon from the deep.",
+    "examine": "A weapon from the deep filled with demonic fury.",
     "is_members_only": true
   },
   {
@@ -211991,7 +212592,20 @@
     "value": 68500,
     "high_alchemy_value": 41100,
     "buy_limit": 0,
-    "examine": "A weapon from the deep.",
+    "examine": "A weapon from the deep filled with demonic fury.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Trident of the seas (o)",
+    "item_name_variant": "Trident of the seas (o)#Uncharged",
+    "item_id": [
+      "33434"
+    ],
+    "weight": 1.814,
+    "value": 68000,
+    "high_alchemy_value": 40800,
+    "buy_limit": 0,
+    "examine": "It needs to be charged with death runes, chaos runes, fire runes and coins.",
     "is_members_only": true
   },
   {
@@ -212004,7 +212618,7 @@
     "value": 98500,
     "high_alchemy_value": 59100,
     "buy_limit": 0,
-    "examine": "An enhanced weapon from the deep.",
+    "examine": "An enhanced weapon from the deep filled with demonic fury.",
     "is_members_only": true
   },
   {
@@ -212021,27 +212635,14 @@
     "is_members_only": true
   },
   {
-    "item_name": "Demonic slayer helmet",
-    "item_name_variant": "Demonic slayer helmet#Radiant",
-    "item_id": [
-      "33340"
-    ],
-    "weight": 2.267,
-    "value": 90000,
-    "high_alchemy_value": 54000,
-    "buy_limit": 0,
-    "examine": "You don't want to wear it inside-out.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Demonic slayer helmet",
-    "item_name_variant": "Demonic slayer helmet#Regular",
+    "item_name": "Oathplate slayer helmet",
+    "item_name_variant": "Oathplate slayer helmet",
     "item_id": [
       "33338"
     ],
     "weight": 2.267,
-    "value": 90000,
-    "high_alchemy_value": 54000,
+    "value": 40000,
+    "high_alchemy_value": 24000,
     "buy_limit": 0,
     "examine": "You don't want to wear it inside-out.",
     "is_members_only": true
@@ -212084,5 +212685,2434 @@
     "buy_limit": 0,
     "examine": "The immaculate skin of a large mole.",
     "is_members_only": true
+  },
+  {
+    "item_name": "Plain satchel (interface item)",
+    "item_name_variant": "Plain satchel (interface item)",
+    "item_id": [
+      "interface25618"
+    ],
+    "weight": 0.15,
+    "value": 100,
+    "high_alchemy_value": 60,
+    "buy_limit": 0,
+    "examine": "I can keep my grub in here!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Green satchel (interface item)",
+    "item_name_variant": "Green satchel (interface item)",
+    "item_id": [
+      "interface25619"
+    ],
+    "weight": 0.15,
+    "value": 100,
+    "high_alchemy_value": 60,
+    "buy_limit": 0,
+    "examine": "I can keep my grub in here!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Red satchel (interface item)",
+    "item_name_variant": "Red satchel (interface item)",
+    "item_id": [
+      "interface25620"
+    ],
+    "weight": 0.15,
+    "value": 100,
+    "high_alchemy_value": 60,
+    "buy_limit": 0,
+    "examine": "I can keep my grub in here!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Black satchel (interface item)",
+    "item_name_variant": "Black satchel (interface item)",
+    "item_id": [
+      "interface25621"
+    ],
+    "weight": 0.15,
+    "value": 100,
+    "high_alchemy_value": 60,
+    "buy_limit": 0,
+    "examine": "I can keep my grub in here!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Gold satchel (interface item)",
+    "item_name_variant": "Gold satchel (interface item)",
+    "item_id": [
+      "interface25622"
+    ],
+    "weight": 0.15,
+    "value": 100,
+    "high_alchemy_value": 60,
+    "buy_limit": 0,
+    "examine": "I can keep my grub in here!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Rune satchel (interface item)",
+    "item_name_variant": "Rune satchel (interface item)",
+    "item_id": [
+      "interface25623"
+    ],
+    "weight": 0.15,
+    "value": 100,
+    "high_alchemy_value": 60,
+    "buy_limit": 0,
+    "examine": "I can keep my grub in here!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Bosun's workbench schematic",
+    "item_name_variant": "Bosun's workbench schematic",
+    "item_id": [
+      "33423"
+    ],
+    "weight": 0.01,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Appears to be some kind of blueprint for a boat part.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Red coral (interface item)",
+    "item_name_variant": "Red coral (interface item)",
+    "item_id": [
+      "31405"
+    ],
+    "weight": 0.05,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A pretty piece of coral with magical properties.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Mission totem",
+    "item_name_variant": "Mission totem",
+    "item_id": [
+      "33424"
+    ],
+    "weight": 0.009,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This can be taken to the Totem Trader for a reward.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Radiant slayer helmet",
+    "item_name_variant": "Radiant slayer helmet",
+    "item_id": [
+      "33340"
+    ],
+    "weight": 2.267,
+    "value": 40000,
+    "high_alchemy_value": 24000,
+    "buy_limit": 0,
+    "examine": "You don't want to wear it inside-out.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Oathplate slayer helmet (i)",
+    "item_name_variant": "Oathplate slayer helmet (i)#Soul Wars",
+    "item_id": [
+      "33441"
+    ],
+    "weight": 2.267,
+    "value": 90000,
+    "high_alchemy_value": 54000,
+    "buy_limit": 0,
+    "examine": "You really don't want to wear it inside-out.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Oathplate slayer helmet (i)",
+    "item_name_variant": "Oathplate slayer helmet (i)#Emir's Arena",
+    "item_id": [
+      "33443"
+    ],
+    "weight": 2.267,
+    "value": 90000,
+    "high_alchemy_value": 54000,
+    "buy_limit": 0,
+    "examine": "You don't want to wear it inside-out.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Oathplate slayer helmet (i)",
+    "item_name_variant": "Oathplate slayer helmet (i)#Nightmare Zone",
+    "item_id": [
+      "33439"
+    ],
+    "weight": 2.267,
+    "value": 90000,
+    "high_alchemy_value": 54000,
+    "buy_limit": 0,
+    "examine": "You really don't want to wear it inside-out.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Radiant slayer helmet (i)",
+    "item_name_variant": "Radiant slayer helmet (i)#Soul Wars",
+    "item_id": [
+      "33447"
+    ],
+    "weight": 2.267,
+    "value": 90000,
+    "high_alchemy_value": 54000,
+    "buy_limit": 0,
+    "examine": "You don't want to wear it inside-out.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Radiant slayer helmet (i)",
+    "item_name_variant": "Radiant slayer helmet (i)#Emir's Arena",
+    "item_id": [
+      "33449"
+    ],
+    "weight": 2.267,
+    "value": 90000,
+    "high_alchemy_value": 54000,
+    "buy_limit": 0,
+    "examine": "You don't want to wear it inside-out.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Radiant slayer helmet (i)",
+    "item_name_variant": "Radiant slayer helmet (i)#Nightmare Zone",
+    "item_id": [
+      "33445"
+    ],
+    "weight": 2.267,
+    "value": 90000,
+    "high_alchemy_value": 54000,
+    "buy_limit": 0,
+    "examine": "You don't want to wear it inside-out.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic pacts relic hunter (t1) armour set",
+    "item_name_variant": "Demonic pacts relic hunter (t1) armour set",
+    "item_id": [
+      "33451"
+    ],
+    "weight": 0.05,
+    "value": 50000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A set containing Demonic Pacts boots (t1), Demonic Pacts trousers (t1), Demonic Pacts top (t1) and Demonic Pacts hood (t1).",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic pacts relic hunter (t2) armour set",
+    "item_name_variant": "Demonic pacts relic hunter (t2) armour set",
+    "item_id": [
+      "33454"
+    ],
+    "weight": 0.05,
+    "value": 50000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A set containing Demonic Pacts boots (t2), Demonic Pacts trousers (t2), Demonic Pacts top (t2) and Demonic Pacts hood (t2).",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Demonic pacts relic hunter (t3) armour set",
+    "item_name_variant": "Demonic pacts relic hunter (t3) armour set",
+    "item_id": [
+      "33457"
+    ],
+    "weight": 0.05,
+    "value": 50000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A set containing Demonic Pacts boots (t3), Demonic Pacts trousers (t3), Demonic Pacts top (t3) and Demonic Pacts hood (t3).",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Dragon crossbow (Last Man Standing)",
+    "item_name_variant": "Dragon crossbow (Last Man Standing)",
+    "item_id": [
+      "33460"
+    ],
+    "weight": 6,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A dragon crossbow.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Oathplate helm (Last Man Standing)",
+    "item_name_variant": "Oathplate helm (Last Man Standing)",
+    "item_id": [
+      "33462"
+    ],
+    "weight": 2.721,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A helm forged from infernal metal.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Maggot marquess",
+    "item_name_variant": "Maggot marquess",
+    "item_id": [
+      "33642"
+    ],
+    "weight": 15,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Best not to think too much about the venator it inhabits.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Elder venator fang",
+    "item_name_variant": "Elder venator fang",
+    "item_id": [
+      "33634"
+    ],
+    "weight": 0.001,
+    "value": 200000,
+    "high_alchemy_value": 120000,
+    "buy_limit": 0,
+    "examine": "A still dripping bloody fang from a venator.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Blisterwood stake",
+    "item_name_variant": "Blisterwood stake",
+    "item_id": [
+      "33716"
+    ],
+    "weight": 0.34,
+    "value": 100,
+    "high_alchemy_value": 60,
+    "buy_limit": 0,
+    "examine": "A very sharp piece of wood.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Diamond sickle (b)",
+    "item_name_variant": "Diamond sickle (b)",
+    "item_id": [
+      "33709"
+    ],
+    "weight": 1.587,
+    "value": 250,
+    "high_alchemy_value": 150,
+    "buy_limit": 0,
+    "examine": "It's a blessed silver sickle with a diamond recessed into it.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Dummy stymphike feather",
+    "item_name_variant": "Dummy stymphike feather",
+    "item_id": [
+      "33644"
+    ],
+    "weight": 2,
+    "value": 1500,
+    "high_alchemy_value": 900,
+    "buy_limit": 0,
+    "examine": "placeholder",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Enchanted diamond sickle (b)",
+    "item_name_variant": "Enchanted diamond sickle (b)",
+    "item_id": [
+      "33711"
+    ],
+    "weight": 1.587,
+    "value": 250,
+    "high_alchemy_value": 150,
+    "buy_limit": 0,
+    "examine": "It's a blessed and enchanted silver sickle with a diamond recessed into it.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Hallowed flail",
+    "item_name_variant": "Hallowed flail",
+    "item_id": [
+      "33718"
+    ],
+    "weight": 0.001,
+    "value": 80000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A legendary flail that has been enhanced with blisterwood and pure silvthrill.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Makeshift spear",
+    "item_name_variant": "Makeshift spear",
+    "item_id": [
+      "33655"
+    ],
+    "weight": 0,
+    "value": 20,
+    "high_alchemy_value": 12,
+    "buy_limit": 0,
+    "examine": "This definitely has a pointy end that could stick something.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Seeking adamant arrow",
+    "item_name_variant": "Seeking adamant arrow",
+    "item_id": [
+      "33577"
+    ],
+    "weight": 0,
+    "value": 80,
+    "high_alchemy_value": 48,
+    "buy_limit": 0,
+    "examine": "Bloodwood-treated arrows with adamant heads.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Seeking amethyst arrow",
+    "item_name_variant": "Seeking amethyst arrow",
+    "item_id": [
+      "33589"
+    ],
+    "weight": 0,
+    "value": 490,
+    "high_alchemy_value": 294,
+    "buy_limit": 0,
+    "examine": "Bloodwood-treated arrows with amethyst heads.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Seeking broad arrows",
+    "item_name_variant": "Seeking broad arrows",
+    "item_id": [
+      "33601"
+    ],
+    "weight": 0,
+    "value": 60,
+    "high_alchemy_value": 36,
+    "buy_limit": 0,
+    "examine": "Bloodwood-treated arrows with a wider than normal tip.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Seeking bronze arrow",
+    "item_name_variant": "Seeking bronze arrow",
+    "item_id": [
+      "33553"
+    ],
+    "weight": 0,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Bloodwood-treated arrows with bronze heads.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Seeking dragon arrow",
+    "item_name_variant": "Seeking dragon arrow",
+    "item_id": [
+      "33595"
+    ],
+    "weight": 0,
+    "value": 800,
+    "high_alchemy_value": 480,
+    "buy_limit": 11000,
+    "examine": "An arrow made using a dragon's talon.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Seeking iron arrow",
+    "item_name_variant": "Seeking iron arrow",
+    "item_id": [
+      "33559"
+    ],
+    "weight": 0,
+    "value": 3,
+    "high_alchemy_value": 1,
+    "buy_limit": 0,
+    "examine": "Bloodwood-treated arrows with iron heads.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Seeking mithril arrow",
+    "item_name_variant": "Seeking mithril arrow",
+    "item_id": [
+      "33571"
+    ],
+    "weight": 0,
+    "value": 32,
+    "high_alchemy_value": 19,
+    "buy_limit": 0,
+    "examine": "Bloodwood-treated arrows with mithril heads.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Seeking rune arrow",
+    "item_name_variant": "Seeking rune arrow",
+    "item_id": [
+      "33583"
+    ],
+    "weight": 0,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "Bloodwood-treated arrows with rune heads.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Seeking steel arrow",
+    "item_name_variant": "Seeking steel arrow",
+    "item_id": [
+      "33565"
+    ],
+    "weight": 0,
+    "value": 12,
+    "high_alchemy_value": 7,
+    "buy_limit": 0,
+    "examine": "Bloodwood-treated arrows with steel heads.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Tome of experience (The Blood Moon Rises)",
+    "item_name_variant": "Tome of experience (The Blood Moon Rises)",
+    "item_id": [
+      "33715"
+    ],
+    "weight": 1,
+    "value": 10,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A tome of experience that awards 30,000 XP per chapter.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Blisterwood sickle (e)",
+    "item_name_variant": "Blisterwood sickle (e)",
+    "item_id": [
+      "33713"
+    ],
+    "weight": 1.587,
+    "value": 30000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A diamond sickle with a blade of silver and blisterwood.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Bucket of bloodwood sap",
+    "item_name_variant": "Bucket of bloodwood sap",
+    "item_id": [
+      "33539"
+    ],
+    "weight": 4.4,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "It's a bucket of bloodwood sap. I could use this to treat logs.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Poem scroll",
+    "item_name_variant": "Poem scroll",
+    "item_id": [
+      "33746"
+    ],
+    "weight": 0.01,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A scroll with a poem on it.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Etched araxyte fang",
+    "item_name_variant": "Etched araxyte fang",
+    "item_id": [
+      "33534"
+    ],
+    "weight": 0.001,
+    "value": 200000,
+    "high_alchemy_value": 120000,
+    "buy_limit": 0,
+    "examine": "A still dripping venomous fang from a powerful araxyte etched with powerful runes.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Sap-treated logs",
+    "item_name_variant": "Sap-treated logs",
+    "item_id": [
+      "33607"
+    ],
+    "weight": 2,
+    "value": 4,
+    "high_alchemy_value": 2,
+    "buy_limit": 0,
+    "examine": "Logs treated with bloodwood sap.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Sap-treated magic logs",
+    "item_name_variant": "Sap-treated magic logs",
+    "item_id": [
+      "33609"
+    ],
+    "weight": 2,
+    "value": 320,
+    "high_alchemy_value": 192,
+    "buy_limit": 0,
+    "examine": "Magic logs treated with bloodwood sap.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Sap-treated yew logs",
+    "item_name_variant": "Sap-treated yew logs",
+    "item_id": [
+      "33611"
+    ],
+    "weight": 2,
+    "value": 160,
+    "high_alchemy_value": 96,
+    "buy_limit": 0,
+    "examine": "Yew logs treated with bloodwood sap.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Sap-treated maple logs",
+    "item_name_variant": "Sap-treated maple logs",
+    "item_id": [
+      "33613"
+    ],
+    "weight": 2,
+    "value": 80,
+    "high_alchemy_value": 48,
+    "buy_limit": 0,
+    "examine": "Maple logs treated with bloodwood sap.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Sap-treated willow logs",
+    "item_name_variant": "Sap-treated willow logs",
+    "item_id": [
+      "33615"
+    ],
+    "weight": 2,
+    "value": 40,
+    "high_alchemy_value": 24,
+    "buy_limit": 0,
+    "examine": "Willow logs treated with bloodwood sap.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Sap-treated oak logs",
+    "item_name_variant": "Sap-treated oak logs",
+    "item_id": [
+      "33617"
+    ],
+    "weight": 2,
+    "value": 20,
+    "high_alchemy_value": 12,
+    "buy_limit": 0,
+    "examine": "Oak logs treated with bloodwood sap.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Sap-treated redwood logs",
+    "item_name_variant": "Sap-treated redwood logs",
+    "item_id": [
+      "33619"
+    ],
+    "weight": 2,
+    "value": 450,
+    "high_alchemy_value": 270,
+    "buy_limit": 0,
+    "examine": "Redwood logs treated with bloodwood sap.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Blood sac",
+    "item_name_variant": "Blood sac",
+    "item_id": [
+      "33623"
+    ],
+    "weight": 0,
+    "value": 23,
+    "high_alchemy_value": 13,
+    "buy_limit": 0,
+    "examine": "A rather unpleasant-looking blood sac.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Jar of congealed blood",
+    "item_name_variant": "Jar of congealed blood",
+    "item_id": [
+      "33819"
+    ],
+    "weight": 0.1,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Well, there isn't a warning label telling you not to consume the contents...",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Etched elder venator fang",
+    "item_name_variant": "Etched elder venator fang",
+    "item_id": [
+      "33636"
+    ],
+    "weight": 0.001,
+    "value": 200000,
+    "high_alchemy_value": 120000,
+    "buy_limit": 0,
+    "examine": "A still dripping bloody fang from a venator etched with powerful runes.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Squire's journal",
+    "item_name_variant": "Squire's journal",
+    "item_id": [
+      "33701"
+    ],
+    "weight": 0.28,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The journal of a squire who once served Ivandis Seergaze.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Stymphike feather",
+    "item_name_variant": "Stymphike feather",
+    "item_id": [
+      "33651"
+    ],
+    "weight": 0,
+    "value": 12,
+    "high_alchemy_value": 7,
+    "buy_limit": 0,
+    "examine": "An alien feather from an alien bird.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Essiandar's notes",
+    "item_name_variant": "Essiandar's notes",
+    "item_id": [
+      "33707"
+    ],
+    "weight": 0.28,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Notes and accounts written by Essiandar Gar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Sarl's journal",
+    "item_name_variant": "Sarl's journal",
+    "item_id": [
+      "33703"
+    ],
+    "weight": 0.28,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Notes written by one of the Seven Priestly Warriors, Sarl Dunegun.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Pious proceedings",
+    "item_name_variant": "Pious proceedings",
+    "item_id": [
+      "33705"
+    ],
+    "weight": 0.28,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The ramblings of Erysail the Pious, one of the Seven Priestly Warriors.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Scruffy notebook",
+    "item_name_variant": "Scruffy notebook",
+    "item_id": [
+      "33704"
+    ],
+    "weight": 0.28,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Derygull Templeton's writings, in a book that's seen better days.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "The Life of Friar",
+    "item_name_variant": "The Life of Friar",
+    "item_id": [
+      "33706"
+    ],
+    "weight": 0.28,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A journal detailing the life and times of Friar Twiblick.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "From Misthalin to Morytania",
+    "item_name_variant": "From Misthalin to Morytania",
+    "item_id": [
+      "33702"
+    ],
+    "weight": 0.28,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A book written by Iriandul Caistlyn, one of the Seven Priestly Warriors.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Putrid sticky potion",
+    "item_name_variant": "Putrid sticky potion#3 dose",
+    "item_id": [
+      "33804"
+    ],
+    "weight": 0.025,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Doesn't smell great.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Putrid sticky potion",
+    "item_name_variant": "Putrid sticky potion#2 dose",
+    "item_id": [
+      "33805"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Doesn't smell great.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Putrid sticky potion",
+    "item_name_variant": "Putrid sticky potion#1 dose",
+    "item_id": [
+      "33806"
+    ],
+    "weight": 0.015,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Doesn't smell great.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Putrid sticky potion",
+    "item_name_variant": "Putrid sticky potion#4 dose",
+    "item_id": [
+      "33803"
+    ],
+    "weight": 0.03,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Doesn't smell great.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shield with symbol",
+    "item_name_variant": "Shield with symbol",
+    "item_id": [
+      "33739"
+    ],
+    "weight": 0.25,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A very old shield with a symbol on it.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ivandis' writings",
+    "item_name_variant": "Ivandis' writings",
+    "item_id": [
+      "33708"
+    ],
+    "weight": 0.28,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The last writings of Ivandis Seergaze.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Foul chunky potion",
+    "item_name_variant": "Foul chunky potion#3 dose",
+    "item_id": [
+      "33808"
+    ],
+    "weight": 0.025,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The chunks just add a little texture.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Foul chunky potion",
+    "item_name_variant": "Foul chunky potion#2 dose",
+    "item_id": [
+      "33809"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The chunks just add a little texture.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Foul chunky potion",
+    "item_name_variant": "Foul chunky potion#1 dose",
+    "item_id": [
+      "33810"
+    ],
+    "weight": 0.015,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The chunks just add a little texture.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Foul chunky potion",
+    "item_name_variant": "Foul chunky potion#4 dose",
+    "item_id": [
+      "33807"
+    ],
+    "weight": 0.03,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The chunks just add a little texture.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Drakan emblem",
+    "item_name_variant": "Drakan emblem",
+    "item_id": [
+      "33731",
+      "33732",
+      "33733"
+    ],
+    "weight": 0.05,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "An emblem of House Drakan.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Rancid slimy potion",
+    "item_name_variant": "Rancid slimy potion#3 dose",
+    "item_id": [
+      "33812"
+    ],
+    "weight": 0.025,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Smooth like butter.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Rancid slimy potion",
+    "item_name_variant": "Rancid slimy potion#2 dose",
+    "item_id": [
+      "33813"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Smooth like butter.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Rancid slimy potion",
+    "item_name_variant": "Rancid slimy potion#1 dose",
+    "item_id": [
+      "33814"
+    ],
+    "weight": 0.015,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Smooth like butter.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Rancid slimy potion",
+    "item_name_variant": "Rancid slimy potion#4 dose",
+    "item_id": [
+      "33811"
+    ],
+    "weight": 0.03,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Smooth like butter.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Garlic cocktail",
+    "item_name_variant": "Garlic cocktail",
+    "item_id": [
+      "33537"
+    ],
+    "weight": 0.5,
+    "value": 20,
+    "high_alchemy_value": 12,
+    "buy_limit": 0,
+    "examine": "A rather disgusting cocktail.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Rank frothy potion",
+    "item_name_variant": "Rank frothy potion#3 dose",
+    "item_id": [
+      "33816"
+    ],
+    "weight": 0.025,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Wonder what gives it that froth?",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Rank frothy potion",
+    "item_name_variant": "Rank frothy potion#2 dose",
+    "item_id": [
+      "33817"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Wonder what gives it that froth?",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Rank frothy potion",
+    "item_name_variant": "Rank frothy potion#1 dose",
+    "item_id": [
+      "33818"
+    ],
+    "weight": 0.015,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Wonder what gives it that froth?",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Rank frothy potion",
+    "item_name_variant": "Rank frothy potion#4 dose",
+    "item_id": [
+      "33815"
+    ],
+    "weight": 0.03,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Wonder what gives it that froth?",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Seeking headless arrow",
+    "item_name_variant": "Seeking headless arrow",
+    "item_id": [
+      "33547"
+    ],
+    "weight": 0,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A bloodwood-treated arrow shaft with flights attached.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Mysterious jerky",
+    "item_name_variant": "Mysterious jerky",
+    "item_id": [
+      "33802"
+    ],
+    "weight": 0.04,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Doesn't taste as bad as it looks.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Raw impaler meat",
+    "item_name_variant": "Raw impaler meat",
+    "item_id": [
+      "33821"
+    ],
+    "weight": 0.425,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "I need to cook this first.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Ornate skull",
+    "item_name_variant": "Ornate skull",
+    "item_id": [
+      "33741"
+    ],
+    "weight": 0.08,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A fancy skull. How macabre.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Letvek",
+    "item_name_variant": "Letvek",
+    "item_id": [
+      "33625"
+    ],
+    "weight": 0,
+    "value": 240,
+    "high_alchemy_value": 144,
+    "buy_limit": 0,
+    "examine": "Let 'em what?",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Dull ancient medal",
+    "item_name_variant": "Dull ancient medal",
+    "item_id": [
+      "33627"
+    ],
+    "weight": 0.005,
+    "value": 50,
+    "high_alchemy_value": 30,
+    "buy_limit": 0,
+    "examine": "A mysterious icon of ancient origin.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Stymphike tartare",
+    "item_name_variant": "Stymphike tartare",
+    "item_id": [
+      "33628"
+    ],
+    "weight": 0.34,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Partially digested stymphike. Yum...",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Crescent moon key",
+    "item_name_variant": "Crescent moon key",
+    "item_id": [
+      "33726"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "An old key with the symbol of a crescent moon on it.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Rotten stymphike tartare",
+    "item_name_variant": "Rotten stymphike tartare",
+    "item_id": [
+      "33629"
+    ],
+    "weight": 0.34,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "It's riddled with maggots.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Syringe barrel",
+    "item_name_variant": "Syringe barrel",
+    "item_id": [
+      "33752"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The barrel for a syringe.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Stymphike carcass",
+    "item_name_variant": "Stymphike carcass",
+    "item_id": [
+      "33653"
+    ],
+    "weight": 0.34,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Does this count as meat?",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Orikalkum gravel",
+    "item_name_variant": "Orikalkum gravel",
+    "item_id": [
+      "33657"
+    ],
+    "weight": 0.907,
+    "value": 170000,
+    "high_alchemy_value": 102000,
+    "buy_limit": 0,
+    "examine": "Unrefined dragon metal.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Venator fang",
+    "item_name_variant": "Venator fang",
+    "item_id": [
+      "33661"
+    ],
+    "weight": 0,
+    "value": 500,
+    "high_alchemy_value": 300,
+    "buy_limit": 0,
+    "examine": "A sharp tooth.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Venator tooth",
+    "item_name_variant": "Venator tooth",
+    "item_id": [
+      "33663"
+    ],
+    "weight": 0,
+    "value": 250,
+    "high_alchemy_value": 150,
+    "buy_limit": 0,
+    "examine": "A pointy tooth.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Amitire leaves",
+    "item_name_variant": "Amitire leaves",
+    "item_id": [
+      "33796"
+    ],
+    "weight": 0.007,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Leaves from an odd plant.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Broken pipe",
+    "item_name_variant": "Broken pipe",
+    "item_id": [
+      "33748"
+    ],
+    "weight": 0.1,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A long piece of pipe.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Sharp knife",
+    "item_name_variant": "Sharp knife",
+    "item_id": [
+      "33749"
+    ],
+    "weight": 0.08,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A sharp kitchen knife.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Maggot egg",
+    "item_name_variant": "Maggot egg#Writhing",
+    "item_id": [
+      "33675"
+    ],
+    "weight": 0,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "There's definitely something alive in this one. Definitely.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Maggot egg",
+    "item_name_variant": "Maggot egg#Wriggling",
+    "item_id": [
+      "33673"
+    ],
+    "weight": 0,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "It's practically ready to burst.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Maggot egg",
+    "item_name_variant": "Maggot egg#Warm",
+    "item_id": [
+      "33669"
+    ],
+    "weight": 0,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "It's warm to the touch...",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Maggot egg",
+    "item_name_variant": "Maggot egg#Pulsating",
+    "item_id": [
+      "33671"
+    ],
+    "weight": 0,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "It's moving...",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Maggot egg",
+    "item_name_variant": "Maggot egg#Base",
+    "item_id": [
+      "33665"
+    ],
+    "weight": 0,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "It doesn't look ready.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Maggot egg",
+    "item_name_variant": "Maggot egg#Sickly",
+    "item_id": [
+      "33667"
+    ],
+    "weight": 0,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The runt of the litter.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Tarnished longsword",
+    "item_name_variant": "Tarnished longsword",
+    "item_id": [
+      "33677"
+    ],
+    "weight": 1.814,
+    "value": 30000,
+    "high_alchemy_value": 18000,
+    "buy_limit": 0,
+    "examine": "A tarnished longsword, not fit for a lord.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Tarnished spear",
+    "item_name_variant": "Tarnished spear",
+    "item_id": [
+      "33679"
+    ],
+    "weight": 1.814,
+    "value": 20000,
+    "high_alchemy_value": 12000,
+    "buy_limit": 0,
+    "examine": "A tarnished spear, not fit for a lord.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Tarnished 2h sword",
+    "item_name_variant": "Tarnished 2h sword",
+    "item_id": [
+      "33681"
+    ],
+    "weight": 1.814,
+    "value": 60000,
+    "high_alchemy_value": 36000,
+    "buy_limit": 0,
+    "examine": "A tarnished 2h sword, not fit for a lord.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Tongs",
+    "item_name_variant": "Tongs",
+    "item_id": [
+      "33750"
+    ],
+    "weight": 0.05,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Used for grabbing and holding small things.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Tarnished ring",
+    "item_name_variant": "Tarnished ring",
+    "item_id": [
+      "33687"
+    ],
+    "weight": 0.01,
+    "value": 3000,
+    "high_alchemy_value": 1800,
+    "buy_limit": 0,
+    "examine": "A tarnished ring, not fit for a lord.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Venator heart",
+    "item_name_variant": "Venator heart",
+    "item_id": [
+      "33695"
+    ],
+    "weight": 0.005,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Still dripping blood.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Dried out venator heart",
+    "item_name_variant": "Dried out venator heart",
+    "item_id": [
+      "33697"
+    ],
+    "weight": 0.005,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Empty of blood.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Syringe needle",
+    "item_name_variant": "Syringe needle",
+    "item_id": [
+      "33751"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The needle for a syringe.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Syringe plunger",
+    "item_name_variant": "Syringe plunger",
+    "item_id": [
+      "33753"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The plunger for a syringe.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Empty syringe",
+    "item_name_variant": "Empty syringe",
+    "item_id": [
+      "33754"
+    ],
+    "weight": 0.06,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "It could be filled with something.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Full syringe",
+    "item_name_variant": "Full syringe",
+    "item_id": [
+      "33755"
+    ],
+    "weight": 0.07,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A syringe full of very strong stomach acid.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Venator stomach",
+    "item_name_variant": "Venator stomach",
+    "item_id": [
+      "33756"
+    ],
+    "weight": 0.05,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A stomach. How nice.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Left crest half",
+    "item_name_variant": "Left crest half",
+    "item_id": [
+      "33734"
+    ],
+    "weight": 0.04,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The left half of a crest.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Right crest half",
+    "item_name_variant": "Right crest half",
+    "item_id": [
+      "33735"
+    ],
+    "weight": 0.04,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The right half of a crest.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Full crest",
+    "item_name_variant": "Full crest",
+    "item_id": [
+      "33736"
+    ],
+    "weight": 0.08,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "An ornate crest.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "New moon key",
+    "item_name_variant": "New moon key",
+    "item_id": [
+      "33728"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "An old key with the symbol of a new moon on it.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Vampyre book",
+    "item_name_variant": "Vampyre book",
+    "item_id": [
+      "33768"
+    ],
+    "weight": 0.06,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A book on vampyres.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Rotten diary",
+    "item_name_variant": "Rotten diary",
+    "item_id": [
+      "33795"
+    ],
+    "weight": 1.814,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A thick layer of mould has begun to set in.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Gibbous moon key",
+    "item_name_variant": "Gibbous moon key",
+    "item_id": [
+      "33727"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "An old key with the symbol of a gibbous moon on it.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ornate knife",
+    "item_name_variant": "Ornate knife",
+    "item_id": [
+      "33740"
+    ],
+    "weight": 0.08,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A fancy knife.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Gilded key",
+    "item_name_variant": "Gilded key",
+    "item_id": [
+      "33729"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "An ornate golden key.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ornate hourglass",
+    "item_name_variant": "Ornate hourglass",
+    "item_id": [
+      "33742"
+    ],
+    "weight": 0.08,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A fancy hourglass.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Solid key",
+    "item_name_variant": "Solid key",
+    "item_id": [
+      "33730"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A rather solid key.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Full moon key",
+    "item_name_variant": "Full moon key",
+    "item_id": [
+      "33724"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "An old key with the symbol of a full moon on it.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Explosive barrel",
+    "item_name_variant": "Explosive barrel",
+    "item_id": [
+      "33743"
+    ],
+    "weight": 1,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Whatever is in it smells rather potent and unstable.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Small clock hand",
+    "item_name_variant": "Small clock hand",
+    "item_id": [
+      "33744"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The small hand of a clock.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Large clock hand",
+    "item_name_variant": "Large clock hand",
+    "item_id": [
+      "33745"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The large hand of a clock.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Sink plug",
+    "item_name_variant": "Sink plug",
+    "item_id": [
+      "33747"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A plug from a sink.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Tarnished battleaxe",
+    "item_name_variant": "Tarnished battleaxe",
+    "item_id": [
+      "33683"
+    ],
+    "weight": 1.814,
+    "value": 40000,
+    "high_alchemy_value": 24000,
+    "buy_limit": 0,
+    "examine": "A tarnished battleaxe, not fit for a lord.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Tarnished bracelet",
+    "item_name_variant": "Tarnished bracelet",
+    "item_id": [
+      "33689"
+    ],
+    "weight": 0.01,
+    "value": 3500,
+    "high_alchemy_value": 2100,
+    "buy_limit": 0,
+    "examine": "A tarnished bracelet, not fit for a lord.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Mysterious book",
+    "item_name_variant": "Mysterious book",
+    "item_id": [
+      "33764"
+    ],
+    "weight": 0.03,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The weight of the book feels unusual.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Fancy gem",
+    "item_name_variant": "Fancy gem#1",
+    "item_id": [
+      "33765"
+    ],
+    "weight": 0.05,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A pretty gem.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Fancy gem",
+    "item_name_variant": "Fancy gem#2",
+    "item_id": [
+      "33766"
+    ],
+    "weight": 0.05,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A pretty gem.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Gilded book",
+    "item_name_variant": "Gilded book",
+    "item_id": [
+      "33767"
+    ],
+    "weight": 0.06,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A very fancy book.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Cloudy grey potion",
+    "item_name_variant": "Cloudy grey potion",
+    "item_id": [
+      "33769"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A grey potion that's rather cloudy.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Weightless black potion",
+    "item_name_variant": "Weightless black potion",
+    "item_id": [
+      "33770"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A black potion that feels totally weightless.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ancestral dagger",
+    "item_name_variant": "Ancestral dagger",
+    "item_id": [
+      "33762"
+    ],
+    "weight": 0.08,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A rather nice dagger.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Thick red potion",
+    "item_name_variant": "Thick red potion",
+    "item_id": [
+      "33771"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A red potion that's very thick.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Cold bluish-white potion",
+    "item_name_variant": "Cold bluish-white potion",
+    "item_id": [
+      "33772"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A bluish-white potion that's cold to the touch.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Tarnished halberd",
+    "item_name_variant": "Tarnished halberd",
+    "item_id": [
+      "33685"
+    ],
+    "weight": 1.814,
+    "value": 60000,
+    "high_alchemy_value": 36000,
+    "buy_limit": 0,
+    "examine": "A tarnished halberd, not fit for a lord.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Grapevine (item)",
+    "item_name_variant": "Grapevine (item)",
+    "item_id": [
+      "33659"
+    ],
+    "weight": 0,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Vampyrium grapes? They look weirdly normal.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Grid note (The Blood Moon Rises)",
+    "item_name_variant": "Grid note (The Blood Moon Rises)",
+    "item_id": [
+      "33763"
+    ],
+    "weight": 0.01,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A scroll with some sort of grid on it.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Lockbox (The Blood Moon Rises)",
+    "item_name_variant": "Lockbox (The Blood Moon Rises)",
+    "item_id": [
+      "33761"
+    ],
+    "weight": 0.2,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A small ornate lockbox.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Tattered journal",
+    "item_name_variant": "Tattered journal",
+    "item_id": [
+      "33794"
+    ],
+    "weight": 1.814,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The pages appear to be written in blood.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Chemical vial",
+    "item_name_variant": "Chemical vial",
+    "item_id": [
+      "33778"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A vial of chemicals.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Old cog",
+    "item_name_variant": "Old cog",
+    "item_id": [
+      "33779"
+    ],
+    "weight": 1,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A very old cog.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Jovkai key",
+    "item_name_variant": "Jovkai key",
+    "item_id": [
+      "33780"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A key with a symbol of House Jovkai on it.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Myrmel key",
+    "item_name_variant": "Myrmel key",
+    "item_id": [
+      "33783"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A key with a symbol of House Myrmel on it.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shadum key",
+    "item_name_variant": "Shadum key",
+    "item_id": [
+      "33784"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A key with a symbol of House Shadum on it.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Vitur key",
+    "item_name_variant": "Vitur key",
+    "item_id": [
+      "33785"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A key with a symbol of House Vitur on it.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Trapdoor key",
+    "item_name_variant": "Trapdoor key",
+    "item_id": [
+      "33786"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A rather unremarkable key.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Bolt cutters",
+    "item_name_variant": "Bolt cutters",
+    "item_id": [
+      "33787"
+    ],
+    "weight": 0.2,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Not really a key, but kind of.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Crank wheel",
+    "item_name_variant": "Crank wheel",
+    "item_id": [
+      "33788"
+    ],
+    "weight": 0.1,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Not really a key, but kind of.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Dusty book",
+    "item_name_variant": "Dusty book",
+    "item_id": [
+      "33789"
+    ],
+    "weight": 0.28,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A dusty old tome. Hard to make out what it's even titled.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Amitire stew",
+    "item_name_variant": "Amitire stew",
+    "item_id": [
+      "33797"
+    ],
+    "weight": 1.5,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A stew made with amitire leaves.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Silvthrill ballista",
+    "item_name_variant": "Silvthrill ballista",
+    "item_id": [
+      "33800"
+    ],
+    "weight": 2,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A powerful weapon forged from pure silvthrill.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Silvthrill javelin",
+    "item_name_variant": "Silvthrill javelin",
+    "item_id": [
+      "33801"
+    ],
+    "weight": 0,
+    "value": 10,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A silvthrill tipped javelin.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Dead blood serpent",
+    "item_name_variant": "Dead blood serpent",
+    "item_id": [
+      "33791"
+    ],
+    "weight": 0.3,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "My inventory is going to smell like iron for weeks.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Seeking arrow shaft",
+    "item_name_variant": "Seeking arrow shaft",
+    "item_id": [
+      "33541"
+    ],
+    "weight": 0,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A bloodwood-treated arrow shaft.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Sword (The Blood Moon Rises)",
+    "item_name_variant": "Sword (The Blood Moon Rises)",
+    "item_id": [
+      "33757"
+    ],
+    "weight": 0.1,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A rather old sword.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Spear (The Blood Moon Rises)",
+    "item_name_variant": "Spear (The Blood Moon Rises)",
+    "item_id": [
+      "33758"
+    ],
+    "weight": 0.1,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A rather old spear.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Mace (The Blood Moon Rises)",
+    "item_name_variant": "Mace (The Blood Moon Rises)",
+    "item_id": [
+      "33760"
+    ],
+    "weight": 0.1,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A rather old mace.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Battleaxe (The Blood Moon Rises)",
+    "item_name_variant": "Battleaxe (The Blood Moon Rises)",
+    "item_id": [
+      "33759"
+    ],
+    "weight": 0.1,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A rather old battleaxe.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ancient shield (The Blood Moon Rises)",
+    "item_name_variant": "Ancient shield (The Blood Moon Rises)",
+    "item_id": [
+      "33738"
+    ],
+    "weight": 0.2,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A very old shield.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ancient symbol (The Blood Moon Rises)",
+    "item_name_variant": "Ancient symbol (The Blood Moon Rises)",
+    "item_id": [
+      "33737"
+    ],
+    "weight": 0.05,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A very old symbol.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Lab notes (The Blood Moon Rises)",
+    "item_name_variant": "Lab notes (The Blood Moon Rises)",
+    "item_id": [
+      "33773"
+    ],
+    "weight": 0.003,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Some notes on haemalchemy.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Serpent rope",
+    "item_name_variant": "Serpent rope",
+    "item_id": [
+      "33792"
+    ],
+    "weight": 0.5,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This rope would be very angry, if it wasn't dead.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Hallowed marks (The Blood Moon Rises)",
+    "item_name_variant": "Hallowed marks (The Blood Moon Rises)",
+    "item_id": [
+      "33798"
+    ],
+    "weight": 0.03,
+    "value": 30,
+    "high_alchemy_value": 18,
+    "buy_limit": 0,
+    "examine": "Currency from a previous age, made of pure silvthrill.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Cocktail glass (Vampyrium)",
+    "item_name_variant": "Cocktail glass (Vampyrium)",
+    "item_id": [
+      "9487"
+    ],
+    "weight": 0.45,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "For sipping cocktails.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Tick (item)",
+    "item_name_variant": "Tick (item)",
+    "item_id": [
+      "33793"
+    ],
+    "weight": 0.001,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "It's slowly swelling up with stolen blood.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Spine",
+    "item_name_variant": "Spine",
+    "item_id": [
+      "33790"
+    ],
+    "weight": 0.34,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A gnarly looking spine. This could do some damage.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Tooth half of key (The Blood Moon Rises)",
+    "item_name_variant": "Tooth half of key (The Blood Moon Rises)",
+    "item_id": [
+      "33782"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The tooth half of a key. It doesn't look like much use on its own.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Loop half of key (The Blood Moon Rises)",
+    "item_name_variant": "Loop half of key (The Blood Moon Rises)",
+    "item_id": [
+      "33781"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The loop half of a key. It doesn't look like much use on its own.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Vial of water (The Blood Moon Rises)",
+    "item_name_variant": "Vial of water (The Blood Moon Rises)",
+    "item_id": [
+      "33774"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A glass vial containing water.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Vial of blood (The Blood Moon Rises)",
+    "item_name_variant": "Vial of blood (The Blood Moon Rises)",
+    "item_id": [
+      "33775"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A glass vial containing blood.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Pure essence (The Blood Moon Rises)",
+    "item_name_variant": "Pure essence (The Blood Moon Rises)",
+    "item_id": [
+      "33776"
+    ],
+    "weight": 0.002,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "An unimbued rune of extra capability.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Daeyalt ore (The Blood Moon Rises)",
+    "item_name_variant": "Daeyalt ore (The Blood Moon Rises)",
+    "item_id": [
+      "33777"
+    ],
+    "weight": 2,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs refining.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ivan strom (item)",
+    "item_name_variant": "Ivan strom (item)",
+    "item_id": [
+      "33720"
+    ],
+    "weight": 0.001,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "He has a weary look to him, but a glimmer of determination still shines through.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Veliaf hurtz (item)",
+    "item_name_variant": "Veliaf hurtz (item)",
+    "item_id": [
+      "33721"
+    ],
+    "weight": 0.001,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Gruff would be an apt description.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Vial (The Blood Moon Rises)",
+    "item_name_variant": "Vial (The Blood Moon Rises)",
+    "item_id": [
+      "33699"
+    ],
+    "weight": 0.015,
+    "value": 2,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "An empty glass vial.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Letvek in a bucket",
+    "item_name_variant": "Letvek in a bucket",
+    "item_id": [
+      "33833"
+    ],
+    "weight": 3.4,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "I should probably get rid of it before it drinks all of my sap.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Sunstone chunk",
+    "item_name_variant": "Sunstone chunk",
+    "item_id": null,
+    "weight": 0,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": false
+  },
+  {
+    "item_name": "Sunstone block",
+    "item_name_variant": "Sunstone block",
+    "item_id": null,
+    "weight": 0,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": false
   }
 ]
