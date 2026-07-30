@@ -1,5 +1,33 @@
 [
   {
+    "name": "Mad Angel",
+    "id": [
+      "16309",
+      "16315"
+    ],
+    "combat_level": 270,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Mad Angel",
+    "id": [
+      "16305",
+      "16314"
+    ],
+    "combat_level": 588,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
     "name": "Tz-Kih",
     "id": [
       "2189",
@@ -150381,7 +150409,7 @@
           "quantity": "1"
         },
         {
-          "name": "Desert goat horn",
+          "name": "Goat horn",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -150406,7 +150434,7 @@
           "quantity": "1"
         },
         {
-          "name": "Desert goat horn",
+          "name": "Goat horn",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -150430,7 +150458,7 @@
           "quantity": "1"
         },
         {
-          "name": "Desert goat horn",
+          "name": "Goat horn",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -150454,7 +150482,7 @@
           "quantity": "1"
         },
         {
-          "name": "Desert goat horn",
+          "name": "Goat horn",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -217802,7 +217830,7 @@
           "quantity": "1"
         },
         {
-          "name": "Desert goat horn",
+          "name": "Goat horn",
           "rarity": "2/107",
           "quantity": "50 (noted)"
         },
@@ -222762,7 +222790,7 @@
           "quantity": "32 (noted)"
         },
         {
-          "name": "Desert goat horn",
+          "name": "Goat horn",
           "rarity": "2/128",
           "quantity": "6 (noted)"
         },
@@ -223157,7 +223185,7 @@
           "quantity": "32 (noted)"
         },
         {
-          "name": "Desert goat horn",
+          "name": "Goat horn",
           "rarity": "2/128",
           "quantity": "6 (noted)"
         },
@@ -223552,7 +223580,7 @@
           "quantity": "32 (noted)"
         },
         {
-          "name": "Desert goat horn",
+          "name": "Goat horn",
           "rarity": "2/128",
           "quantity": "6 (noted)"
         },
@@ -223947,7 +223975,7 @@
           "quantity": "32 (noted)"
         },
         {
-          "name": "Desert goat horn",
+          "name": "Goat horn",
           "rarity": "2/128",
           "quantity": "6 (noted)"
         },
@@ -224342,7 +224370,7 @@
           "quantity": "32 (noted)"
         },
         {
-          "name": "Desert goat horn",
+          "name": "Goat horn",
           "rarity": "2/128",
           "quantity": "6 (noted)"
         },
@@ -224732,7 +224760,7 @@
           "quantity": "32 (noted)"
         },
         {
-          "name": "Desert goat horn",
+          "name": "Goat horn",
           "rarity": "2/128",
           "quantity": "6 (noted)"
         },
@@ -225122,7 +225150,7 @@
           "quantity": "32 (noted)"
         },
         {
-          "name": "Desert goat horn",
+          "name": "Goat horn",
           "rarity": "2/128",
           "quantity": "6 (noted)"
         },
@@ -232154,7 +232182,7 @@
           "quantity": "120 (noted)"
         },
         {
-          "name": "Desert goat horn",
+          "name": "Goat horn",
           "rarity": "17/512",
           "quantity": "120 (noted)"
         },
@@ -388166,7 +388194,7 @@
       "regular": [
         {
           "name": "Sulphur blades",
-          "rarity": "1/250",
+          "rarity": "1/450",
           "quantity": "1"
         },
         {
@@ -444516,6 +444544,588 @@
         {
           "name": "Dragon spear",
           "rarity": "Very rare",
+          "quantity": "1"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mad Angel",
+    "id": [
+      "16309",
+      "16315"
+    ],
+    "combat_level": 270,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Granite dust",
+          "rarity": "Always",
+          "quantity": "25–35"
+        },
+        {
+          "name": "Sunstone crystal",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Hallowfell",
+          "rarity": "7/896",
+          "quantity": "1"
+        },
+        {
+          "name": "Jar of light",
+          "rarity": "1/896",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune kiteshield",
+          "rarity": "12/156",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune full helm",
+          "rarity": "12/156",
+          "quantity": "1"
+        },
+        {
+          "name": "Adamant longsword",
+          "rarity": "6/156",
+          "quantity": "1"
+        },
+        {
+          "name": "Dragon med helm",
+          "rarity": "2/156",
+          "quantity": "1"
+        },
+        {
+          "name": "Dragon battleaxe",
+          "rarity": "2/156",
+          "quantity": "1"
+        },
+        {
+          "name": "Steel cannonball",
+          "rarity": "16/156",
+          "quantity": "90–100"
+        },
+        {
+          "name": "Law rune",
+          "rarity": "12/156",
+          "quantity": "28–30"
+        },
+        {
+          "name": "Nature rune",
+          "rarity": "8/156",
+          "quantity": "20–25"
+        },
+        {
+          "name": "Death rune",
+          "rarity": "8/156",
+          "quantity": "40–50"
+        },
+        {
+          "name": "Air rune",
+          "rarity": "4/156",
+          "quantity": "110–120"
+        },
+        {
+          "name": "Prayer potion(4)",
+          "rarity": "12/156",
+          "quantity": "1"
+        },
+        {
+          "name": "Super combat potion(3)",
+          "rarity": "8/156",
+          "quantity": "2–3 (noted)"
+        },
+        {
+          "name": "Shark",
+          "rarity": "8/156",
+          "quantity": "2"
+        },
+        {
+          "name": "Yellowfin",
+          "rarity": "8/156",
+          "quantity": "2"
+        },
+        {
+          "name": "Prayer potion(2)",
+          "rarity": "1/10",
+          "quantity": "1"
+        },
+        {
+          "name": "Super combat potion(1)",
+          "rarity": "1/10",
+          "quantity": "1"
+        },
+        {
+          "name": "Coins",
+          "rarity": "8/156",
+          "quantity": "8000–10000"
+        },
+        {
+          "name": "Raw monkfish",
+          "rarity": "8/156",
+          "quantity": "18–22 (noted)"
+        },
+        {
+          "name": "Ardeaglais teleport",
+          "rarity": "7/156",
+          "quantity": "2"
+        },
+        {
+          "name": "Emerald",
+          "rarity": "6/156",
+          "quantity": "7–8 (noted)"
+        },
+        {
+          "name": "Sapphire",
+          "rarity": "6/156",
+          "quantity": "7–8 (noted)"
+        },
+        {
+          "name": "Cupronickel bar",
+          "rarity": "1/156",
+          "quantity": "1"
+        },
+        {
+          "name": "Papyrus",
+          "rarity": "1/156",
+          "quantity": "1"
+        },
+        {
+          "name": "Clue scroll (hard)",
+          "rarity": "1/24",
+          "quantity": "1"
+        },
+        {
+          "name": "Aggy",
+          "rarity": "Very rare",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": [
+        {
+          "name": "Coins",
+          "rarity": "1/475.43",
+          "quantity": "3000"
+        },
+        {
+          "name": "Uncut sapphire",
+          "rarity": "1/1,996.8",
+          "quantity": "1"
+        },
+        {
+          "name": "Loop half of key",
+          "rarity": "1/495.33",
+          "quantity": "1"
+        },
+        {
+          "name": "Tooth half of key",
+          "rarity": "1/495.33",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut emerald",
+          "rarity": "1/3,993.6",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut ruby",
+          "rarity": "1/7,987.2",
+          "quantity": "1"
+        },
+        {
+          "name": "Runite bar",
+          "rarity": "1/1,996.8",
+          "quantity": "1"
+        },
+        {
+          "name": "Nature rune",
+          "rarity": "1/3,328",
+          "quantity": "67"
+        },
+        {
+          "name": "Rune 2h sword",
+          "rarity": "1/3,328",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune battleaxe",
+          "rarity": "1/3,328",
+          "quantity": "1"
+        },
+        {
+          "name": "Law rune",
+          "rarity": "1/4,992",
+          "quantity": "45"
+        },
+        {
+          "name": "Death rune",
+          "rarity": "1/4,992",
+          "quantity": "45"
+        },
+        {
+          "name": "Steel arrow",
+          "rarity": "1/4,992",
+          "quantity": "150"
+        },
+        {
+          "name": "Rune arrow",
+          "rarity": "1/4,992",
+          "quantity": "42"
+        },
+        {
+          "name": "Adamant javelin",
+          "rarity": "1/4,992",
+          "quantity": "20"
+        },
+        {
+          "name": "Rune sq shield",
+          "rarity": "1/4,992",
+          "quantity": "1"
+        },
+        {
+          "name": "Dragonstone",
+          "rarity": "1/4,992",
+          "quantity": "1"
+        },
+        {
+          "name": "Silver ore",
+          "rarity": "1/4,992",
+          "quantity": "100 (noted)"
+        },
+        {
+          "name": "Nature talisman",
+          "rarity": "1/21,299.2",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut diamond",
+          "rarity": "1/31,948.8",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune kiteshield",
+          "rarity": "1/9,984",
+          "quantity": "1"
+        },
+        {
+          "name": "Dragon med helm",
+          "rarity": "1/9,984",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune spear",
+          "rarity": "1/10,539.81",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune javelin",
+          "rarity": "1/63,897.6",
+          "quantity": "5"
+        },
+        {
+          "name": "Shield left half",
+          "rarity": "1/21,079.62",
+          "quantity": "1"
+        },
+        {
+          "name": "Dragon spear",
+          "rarity": "1/28,106.16",
+          "quantity": "1"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mad Angel",
+    "id": [
+      "16305",
+      "16314"
+    ],
+    "combat_level": 588,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Granite dust",
+          "rarity": "Always",
+          "quantity": "25–35"
+        },
+        {
+          "name": "Sunstone crystal",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Hallowfell",
+          "rarity": "7/896",
+          "quantity": "1"
+        },
+        {
+          "name": "Jar of light",
+          "rarity": "1/896",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune kiteshield",
+          "rarity": "12/156",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune full helm",
+          "rarity": "12/156",
+          "quantity": "1"
+        },
+        {
+          "name": "Adamant longsword",
+          "rarity": "6/156",
+          "quantity": "1"
+        },
+        {
+          "name": "Dragon med helm",
+          "rarity": "2/156",
+          "quantity": "1"
+        },
+        {
+          "name": "Dragon battleaxe",
+          "rarity": "2/156",
+          "quantity": "1"
+        },
+        {
+          "name": "Steel cannonball",
+          "rarity": "16/156",
+          "quantity": "90–100"
+        },
+        {
+          "name": "Law rune",
+          "rarity": "12/156",
+          "quantity": "28–30"
+        },
+        {
+          "name": "Nature rune",
+          "rarity": "8/156",
+          "quantity": "20–25"
+        },
+        {
+          "name": "Death rune",
+          "rarity": "8/156",
+          "quantity": "40–50"
+        },
+        {
+          "name": "Air rune",
+          "rarity": "4/156",
+          "quantity": "110–120"
+        },
+        {
+          "name": "Prayer potion(4)",
+          "rarity": "12/156",
+          "quantity": "1"
+        },
+        {
+          "name": "Super combat potion(3)",
+          "rarity": "8/156",
+          "quantity": "2–3 (noted)"
+        },
+        {
+          "name": "Shark",
+          "rarity": "8/156",
+          "quantity": "2"
+        },
+        {
+          "name": "Yellowfin",
+          "rarity": "8/156",
+          "quantity": "2"
+        },
+        {
+          "name": "Prayer potion(2)",
+          "rarity": "1/10",
+          "quantity": "1"
+        },
+        {
+          "name": "Super combat potion(1)",
+          "rarity": "1/10",
+          "quantity": "1"
+        },
+        {
+          "name": "Coins",
+          "rarity": "8/156",
+          "quantity": "8000–10000"
+        },
+        {
+          "name": "Raw monkfish",
+          "rarity": "8/156",
+          "quantity": "18–22 (noted)"
+        },
+        {
+          "name": "Ardeaglais teleport",
+          "rarity": "7/156",
+          "quantity": "2"
+        },
+        {
+          "name": "Emerald",
+          "rarity": "6/156",
+          "quantity": "7–8 (noted)"
+        },
+        {
+          "name": "Sapphire",
+          "rarity": "6/156",
+          "quantity": "7–8 (noted)"
+        },
+        {
+          "name": "Cupronickel bar",
+          "rarity": "1/156",
+          "quantity": "1"
+        },
+        {
+          "name": "Papyrus",
+          "rarity": "1/156",
+          "quantity": "1"
+        },
+        {
+          "name": "Clue scroll (hard)",
+          "rarity": "1/24",
+          "quantity": "1"
+        },
+        {
+          "name": "Aggy",
+          "rarity": "Very rare",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": [
+        {
+          "name": "Coins",
+          "rarity": "1/475.43",
+          "quantity": "3000"
+        },
+        {
+          "name": "Uncut sapphire",
+          "rarity": "1/1,996.8",
+          "quantity": "1"
+        },
+        {
+          "name": "Loop half of key",
+          "rarity": "1/495.33",
+          "quantity": "1"
+        },
+        {
+          "name": "Tooth half of key",
+          "rarity": "1/495.33",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut emerald",
+          "rarity": "1/3,993.6",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut ruby",
+          "rarity": "1/7,987.2",
+          "quantity": "1"
+        },
+        {
+          "name": "Runite bar",
+          "rarity": "1/1,996.8",
+          "quantity": "1"
+        },
+        {
+          "name": "Nature rune",
+          "rarity": "1/3,328",
+          "quantity": "67"
+        },
+        {
+          "name": "Rune 2h sword",
+          "rarity": "1/3,328",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune battleaxe",
+          "rarity": "1/3,328",
+          "quantity": "1"
+        },
+        {
+          "name": "Law rune",
+          "rarity": "1/4,992",
+          "quantity": "45"
+        },
+        {
+          "name": "Death rune",
+          "rarity": "1/4,992",
+          "quantity": "45"
+        },
+        {
+          "name": "Steel arrow",
+          "rarity": "1/4,992",
+          "quantity": "150"
+        },
+        {
+          "name": "Rune arrow",
+          "rarity": "1/4,992",
+          "quantity": "42"
+        },
+        {
+          "name": "Adamant javelin",
+          "rarity": "1/4,992",
+          "quantity": "20"
+        },
+        {
+          "name": "Rune sq shield",
+          "rarity": "1/4,992",
+          "quantity": "1"
+        },
+        {
+          "name": "Dragonstone",
+          "rarity": "1/4,992",
+          "quantity": "1"
+        },
+        {
+          "name": "Silver ore",
+          "rarity": "1/4,992",
+          "quantity": "100 (noted)"
+        },
+        {
+          "name": "Nature talisman",
+          "rarity": "1/21,299.2",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut diamond",
+          "rarity": "1/31,948.8",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune kiteshield",
+          "rarity": "1/9,984",
+          "quantity": "1"
+        },
+        {
+          "name": "Dragon med helm",
+          "rarity": "1/9,984",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune spear",
+          "rarity": "1/10,539.81",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune javelin",
+          "rarity": "1/63,897.6",
+          "quantity": "5"
+        },
+        {
+          "name": "Shield left half",
+          "rarity": "1/21,079.62",
+          "quantity": "1"
+        },
+        {
+          "name": "Dragon spear",
+          "rarity": "1/28,106.16",
           "quantity": "1"
         }
       ]

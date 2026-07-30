@@ -27140,12 +27140,12 @@
     "value": 12,
     "high_alchemy_value": 7,
     "buy_limit": 13000,
-    "examine": "Finely ground desert goat horn.",
+    "examine": "Finely ground goat horn.",
     "is_members_only": true
   },
   {
-    "item_name": "Desert goat horn",
-    "item_name_variant": "Desert goat horn",
+    "item_name": "Goat horn",
+    "item_name_variant": "Goat horn",
     "item_id": [
       "9735"
     ],
@@ -172124,6 +172124,19 @@
     "is_members_only": true
   },
   {
+    "item_name": "Aggy",
+    "item_name_variant": "Aggy",
+    "item_id": [
+      "34042"
+    ],
+    "weight": 0.015,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A cute angel.",
+    "is_members_only": true
+  },
+  {
     "item_name": "Clue scroll (beginner) - RAIN COVE",
     "item_name_variant": "Clue scroll (beginner) - RAIN COVE",
     "item_id": null,
@@ -184828,8 +184841,8 @@
     "is_members_only": true
   },
   {
-    "item_name": "Raging echoes npc contact scroll",
-    "item_name_variant": "Raging echoes npc contact scroll",
+    "item_name": "Raging echoes astral contact scroll",
+    "item_name_variant": "Raging echoes astral contact scroll",
     "item_id": [
       "30457"
     ],
@@ -184837,7 +184850,7 @@
     "value": 25000,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A scroll which unlocks the Raging Echoes NPC contact.",
+    "examine": "A scroll which unlocks the Raging Echoes Astral Contact.",
     "is_members_only": true
   },
   {
@@ -199772,7 +199785,7 @@
     "weight": 0,
     "value": 245,
     "high_alchemy_value": 147,
-    "buy_limit": 0,
+    "buy_limit": 11000,
     "examine": "An atlatl dart shaft with flights attached.",
     "is_members_only": true
   },
@@ -212960,6 +212973,19 @@
     "is_members_only": false
   },
   {
+    "item_name": "Hallowfell",
+    "item_name_variant": "Hallowfell",
+    "item_id": [
+      "34027"
+    ],
+    "weight": 10,
+    "value": 1250000,
+    "high_alchemy_value": 750000,
+    "buy_limit": 0,
+    "examine": "This really fells my hallow.",
+    "is_members_only": true
+  },
+  {
     "item_name": "Maggot marquess",
     "item_name_variant": "Maggot marquess",
     "item_id": [
@@ -215068,6 +215094,32 @@
     "is_members_only": true
   },
   {
+    "item_name": "Jeweller's chisel",
+    "item_name_variant": "Jeweller's chisel",
+    "item_id": [
+      "34024"
+    ],
+    "weight": 0.453,
+    "value": 280,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A specialised chisel made to cut gems.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Mr mcgroot",
+    "item_name_variant": "Mr mcgroot",
+    "item_id": [
+      "34040"
+    ],
+    "weight": 0.015,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "He is McGroot.",
+    "is_members_only": true
+  },
+  {
     "item_name": "Vial (The Blood Moon Rises)",
     "item_name_variant": "Vial (The Blood Moon Rises)",
     "item_id": [
@@ -215094,25 +215146,1056 @@
     "is_members_only": true
   },
   {
-    "item_name": "Sunstone chunk",
-    "item_name_variant": "Sunstone chunk",
-    "item_id": null,
-    "weight": 0,
-    "value": 0,
+    "item_name": "Sunstone",
+    "item_name_variant": "Sunstone",
+    "item_id": [
+      "34020"
+    ],
+    "weight": 2.5,
+    "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": null,
+    "examine": "A chunk of sunstone.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Sunstone crystal",
+    "item_name_variant": "Sunstone crystal",
+    "item_id": [
+      "34032"
+    ],
+    "weight": 1,
+    "value": 750,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A magic stone infused by the power of sunstones.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig goat hoof",
+    "item_name_variant": "Wyrmscraig goat hoof",
+    "item_id": [
+      "33835"
+    ],
+    "weight": 1,
+    "value": 10,
+    "high_alchemy_value": 6,
+    "buy_limit": 0,
+    "examine": "An otherwise unremarkable goat hoof.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig goat fur",
+    "item_name_variant": "Wyrmscraig goat fur",
+    "item_id": [
+      "34017"
+    ],
+    "weight": 3,
+    "value": 10,
+    "high_alchemy_value": 6,
+    "buy_limit": 0,
+    "examine": "You have a strange urge to clothe a golem in this.",
     "is_members_only": false
   },
   {
-    "item_name": "Sunstone block",
-    "item_name_variant": "Sunstone block",
-    "item_id": null,
+    "item_name": "Sunstone core",
+    "item_name_variant": "Sunstone core",
+    "item_id": [
+      "34022"
+    ],
+    "weight": 2.5,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A golem core crafted from sunstone.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Jar of light",
+    "item_name_variant": "Jar of light",
+    "item_id": [
+      "34030"
+    ],
+    "weight": 0.04,
+    "value": 200000,
+    "high_alchemy_value": 120000,
+    "buy_limit": 0,
+    "examine": "It smells like it's been where the sun does shine.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ardeaglais teleport",
+    "item_name_variant": "Ardeaglais teleport",
+    "item_id": [
+      "34033"
+    ],
     "weight": 0,
+    "value": 10,
+    "high_alchemy_value": 6,
+    "buy_limit": 0,
+    "examine": "Teleports you to Ardeaglais.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Large hat",
+    "item_name_variant": "Large hat",
+    "item_id": [
+      "34044"
+    ],
+    "weight": 0.1,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Where's the head to go with it?",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Worn journal",
+    "item_name_variant": "Worn journal",
+    "item_id": [
+      "34045"
+    ],
+    "weight": 0.453,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "An old, worn out journal.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Scrawled notebook",
+    "item_name_variant": "Scrawled notebook",
+    "item_id": [
+      "34046"
+    ],
+    "weight": 0.453,
+    "value": 10,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "An almost scientific observation on sunstone.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Scorched note",
+    "item_name_variant": "Scorched note#1",
+    "item_id": [
+      "34048"
+    ],
+    "weight": 0.453,
+    "value": 10,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A note lost to time, yet not quite lost to fire.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Scorched note",
+    "item_name_variant": "Scorched note#3",
+    "item_id": [
+      "34050"
+    ],
+    "weight": 0.453,
+    "value": 10,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A note lost to time, yet not quite lost to fire.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Scorched note",
+    "item_name_variant": "Scorched note#2",
+    "item_id": [
+      "34049"
+    ],
+    "weight": 0.453,
+    "value": 10,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A note lost to time, yet not quite lost to fire.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Observations",
+    "item_name_variant": "Observations",
+    "item_id": [
+      "34051"
+    ],
+    "weight": 0.453,
+    "value": 10,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A delicate looking book.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Golem primer",
+    "item_name_variant": "Golem primer",
+    "item_id": [
+      "34053"
+    ],
+    "weight": 0.453,
+    "value": 10,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A dusty book.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ancient sunstone core",
+    "item_name_variant": "Ancient sunstone core",
+    "item_id": [
+      "34054"
+    ],
+    "weight": 2.5,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Is it rattling?",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Staircase key",
+    "item_name_variant": "Staircase key",
+    "item_id": [
+      "34055"
+    ],
+    "weight": 0.01,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The key to the staircase beneath Wyrmscraig's cathedral.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Dull sunstone core",
+    "item_name_variant": "Dull sunstone core",
+    "item_id": [
+      "34056"
+    ],
+    "weight": 2.5,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "It looks to be made of sunstone.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wooden spikes",
+    "item_name_variant": "Wooden spikes",
+    "item_id": [
+      "34016"
+    ],
+    "weight": 0.001,
     "value": 0,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": null,
-    "is_members_only": false
+    "examine": "A set of wooden spikes, for lining a pit with.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Noble robe top",
+    "item_name_variant": "Noble robe top#Pink",
+    "item_id": [
+      "33854"
+    ],
+    "weight": 0.907,
+    "value": 50000,
+    "high_alchemy_value": 30000,
+    "buy_limit": 0,
+    "examine": "Tied up with a bow.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Noble robe top",
+    "item_name_variant": "Noble robe top#Blue",
+    "item_id": [
+      "33839"
+    ],
+    "weight": 0.907,
+    "value": 50000,
+    "high_alchemy_value": 30000,
+    "buy_limit": 0,
+    "examine": "Tied up with a bow.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Noble robe top",
+    "item_name_variant": "Noble robe top#Green",
+    "item_id": [
+      "33836"
+    ],
+    "weight": 0.907,
+    "value": 50000,
+    "high_alchemy_value": 30000,
+    "buy_limit": 0,
+    "examine": "Tied up with a bow.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Noble robe top",
+    "item_name_variant": "Noble robe top#Black",
+    "item_id": [
+      "33851"
+    ],
+    "weight": 0.907,
+    "value": 50000,
+    "high_alchemy_value": 30000,
+    "buy_limit": 0,
+    "examine": "Tied up with a bow.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Noble robe top",
+    "item_name_variant": "Noble robe top#Yellow",
+    "item_id": [
+      "33845"
+    ],
+    "weight": 0.907,
+    "value": 50000,
+    "high_alchemy_value": 30000,
+    "buy_limit": 0,
+    "examine": "Tied up with a bow.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Noble robe top",
+    "item_name_variant": "Noble robe top#White",
+    "item_id": [
+      "33848"
+    ],
+    "weight": 0.907,
+    "value": 50000,
+    "high_alchemy_value": 30000,
+    "buy_limit": 0,
+    "examine": "Tied up with a bow.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Noble robe top",
+    "item_name_variant": "Noble robe top#Red",
+    "item_id": [
+      "33842"
+    ],
+    "weight": 0.907,
+    "value": 50000,
+    "high_alchemy_value": 30000,
+    "buy_limit": 0,
+    "examine": "Tied up with a bow.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig noble skirt",
+    "item_name_variant": "Wyrmscraig noble skirt#Pink",
+    "item_id": [
+      "33875"
+    ],
+    "weight": 0.907,
+    "value": 40000,
+    "high_alchemy_value": 24000,
+    "buy_limit": 0,
+    "examine": "A skirt woven from a thick wool.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig noble skirt",
+    "item_name_variant": "Wyrmscraig noble skirt#Blue",
+    "item_id": [
+      "33860"
+    ],
+    "weight": 0.907,
+    "value": 40000,
+    "high_alchemy_value": 24000,
+    "buy_limit": 0,
+    "examine": "A skirt woven from a thick wool.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig noble skirt",
+    "item_name_variant": "Wyrmscraig noble skirt#Green",
+    "item_id": [
+      "33857"
+    ],
+    "weight": 0.907,
+    "value": 40000,
+    "high_alchemy_value": 24000,
+    "buy_limit": 0,
+    "examine": "A skirt woven from a thick wool.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig noble skirt",
+    "item_name_variant": "Wyrmscraig noble skirt#Black",
+    "item_id": [
+      "33872"
+    ],
+    "weight": 0.907,
+    "value": 40000,
+    "high_alchemy_value": 24000,
+    "buy_limit": 0,
+    "examine": "A skirt woven from a thick wool.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig noble skirt",
+    "item_name_variant": "Wyrmscraig noble skirt#Yellow",
+    "item_id": [
+      "33866"
+    ],
+    "weight": 0.907,
+    "value": 40000,
+    "high_alchemy_value": 24000,
+    "buy_limit": 0,
+    "examine": "A skirt woven from a thick wool.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig noble skirt",
+    "item_name_variant": "Wyrmscraig noble skirt#White",
+    "item_id": [
+      "33869"
+    ],
+    "weight": 0.907,
+    "value": 40000,
+    "high_alchemy_value": 24000,
+    "buy_limit": 0,
+    "examine": "A skirt woven from a thick wool.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig noble skirt",
+    "item_name_variant": "Wyrmscraig noble skirt#Red",
+    "item_id": [
+      "33863"
+    ],
+    "weight": 0.907,
+    "value": 40000,
+    "high_alchemy_value": 24000,
+    "buy_limit": 0,
+    "examine": "A skirt woven from a thick wool.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig shoes",
+    "item_name_variant": "Wyrmscraig shoes",
+    "item_id": [
+      "33878"
+    ],
+    "weight": 0.34,
+    "value": 10000,
+    "high_alchemy_value": 6000,
+    "buy_limit": 0,
+    "examine": "Soft leather shoes.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager skirt",
+    "item_name_variant": "Wyrmscraig villager skirt#Pink",
+    "item_id": [
+      "33989"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A plain and simple skirt.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager skirt",
+    "item_name_variant": "Wyrmscraig villager skirt#Blue",
+    "item_id": [
+      "33974"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A plain and simple skirt.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager skirt",
+    "item_name_variant": "Wyrmscraig villager skirt#Green",
+    "item_id": [
+      "33971"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A plain and simple skirt.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager skirt",
+    "item_name_variant": "Wyrmscraig villager skirt#Black",
+    "item_id": [
+      "33986"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A plain and simple skirt.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager skirt",
+    "item_name_variant": "Wyrmscraig villager skirt#Yellow",
+    "item_id": [
+      "33980"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A plain and simple skirt.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager skirt",
+    "item_name_variant": "Wyrmscraig villager skirt#White",
+    "item_id": [
+      "33983"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A plain and simple skirt.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager skirt",
+    "item_name_variant": "Wyrmscraig villager skirt#Red",
+    "item_id": [
+      "33977"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A plain and simple skirt.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager work skirt",
+    "item_name_variant": "Wyrmscraig villager work skirt#Beige",
+    "item_id": [
+      "34013"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A skirt for working in.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager work skirt",
+    "item_name_variant": "Wyrmscraig villager work skirt#Pink",
+    "item_id": [
+      "34010"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A skirt for working in.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager work skirt",
+    "item_name_variant": "Wyrmscraig villager work skirt#Blue",
+    "item_id": [
+      "33995"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A skirt for working in.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager work skirt",
+    "item_name_variant": "Wyrmscraig villager work skirt#Green",
+    "item_id": [
+      "33992"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A skirt for working in.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager work skirt",
+    "item_name_variant": "Wyrmscraig villager work skirt#Black",
+    "item_id": [
+      "34007"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A skirt for working in.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager work skirt",
+    "item_name_variant": "Wyrmscraig villager work skirt#Yellow",
+    "item_id": [
+      "34001"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A skirt for working in.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager work skirt",
+    "item_name_variant": "Wyrmscraig villager work skirt#White",
+    "item_id": [
+      "34004"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A skirt for working in.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager work skirt",
+    "item_name_variant": "Wyrmscraig villager work skirt#Red",
+    "item_id": [
+      "33998"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A skirt for working in.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Final letter",
+    "item_name_variant": "Final letter",
+    "item_id": [
+      "34057"
+    ],
+    "weight": 0.453,
+    "value": 30,
+    "high_alchemy_value": 18,
+    "buy_limit": 0,
+    "examine": "A final letter to the people of Wyrmscraig.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Warning note (Fallen From Grace)",
+    "item_name_variant": "Warning note (Fallen From Grace)",
+    "item_id": [
+      "34052"
+    ],
+    "weight": 0.453,
+    "value": 30,
+    "high_alchemy_value": 18,
+    "buy_limit": 0,
+    "examine": "A scribbled note warning against hubris.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe top (A)",
+    "item_name_variant": "Wyrmscraig villager robe top (A)#Beige",
+    "item_id": [
+      "33905"
+    ],
+    "weight": 0.907,
+    "value": 500,
+    "high_alchemy_value": 300,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe top.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe top (A)",
+    "item_name_variant": "Wyrmscraig villager robe top (A)#Pink",
+    "item_id": [
+      "33902"
+    ],
+    "weight": 0.907,
+    "value": 500,
+    "high_alchemy_value": 300,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe top.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe top (A)",
+    "item_name_variant": "Wyrmscraig villager robe top (A)#Blue",
+    "item_id": [
+      "33887"
+    ],
+    "weight": 0.907,
+    "value": 500,
+    "high_alchemy_value": 300,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe top.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe top (A)",
+    "item_name_variant": "Wyrmscraig villager robe top (A)#Green",
+    "item_id": [
+      "33884"
+    ],
+    "weight": 0.907,
+    "value": 500,
+    "high_alchemy_value": 300,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe top.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe top (A)",
+    "item_name_variant": "Wyrmscraig villager robe top (A)#Black",
+    "item_id": [
+      "33899"
+    ],
+    "weight": 0.907,
+    "value": 500,
+    "high_alchemy_value": 300,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe top.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe top (A)",
+    "item_name_variant": "Wyrmscraig villager robe top (A)#Yellow",
+    "item_id": [
+      "33893"
+    ],
+    "weight": 0.907,
+    "value": 500,
+    "high_alchemy_value": 300,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe top.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe top (A)",
+    "item_name_variant": "Wyrmscraig villager robe top (A)#White",
+    "item_id": [
+      "33896"
+    ],
+    "weight": 0.907,
+    "value": 500,
+    "high_alchemy_value": 300,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe top.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe top (A)",
+    "item_name_variant": "Wyrmscraig villager robe top (A)#Red",
+    "item_id": [
+      "33890"
+    ],
+    "weight": 0.907,
+    "value": 500,
+    "high_alchemy_value": 300,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe top.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe top (B)",
+    "item_name_variant": "Wyrmscraig villager robe top (B)#Pink",
+    "item_id": [
+      "33968"
+    ],
+    "weight": 0.907,
+    "value": 500,
+    "high_alchemy_value": 300,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe top.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe top (B)",
+    "item_name_variant": "Wyrmscraig villager robe top (B)#Blue",
+    "item_id": [
+      "33953"
+    ],
+    "weight": 0.907,
+    "value": 500,
+    "high_alchemy_value": 300,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe top.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe top (B)",
+    "item_name_variant": "Wyrmscraig villager robe top (B)#Green",
+    "item_id": [
+      "33950"
+    ],
+    "weight": 0.907,
+    "value": 500,
+    "high_alchemy_value": 300,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe top.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe top (B)",
+    "item_name_variant": "Wyrmscraig villager robe top (B)#Black",
+    "item_id": [
+      "33965"
+    ],
+    "weight": 0.907,
+    "value": 500,
+    "high_alchemy_value": 300,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe top.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe top (B)",
+    "item_name_variant": "Wyrmscraig villager robe top (B)#Yellow",
+    "item_id": [
+      "33959"
+    ],
+    "weight": 0.907,
+    "value": 500,
+    "high_alchemy_value": 300,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe top.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe top (B)",
+    "item_name_variant": "Wyrmscraig villager robe top (B)#White",
+    "item_id": [
+      "33962"
+    ],
+    "weight": 0.907,
+    "value": 500,
+    "high_alchemy_value": 300,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe top.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe top (B)",
+    "item_name_variant": "Wyrmscraig villager robe top (B)#Red",
+    "item_id": [
+      "33956"
+    ],
+    "weight": 0.907,
+    "value": 500,
+    "high_alchemy_value": 300,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe top.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe bottom (A)",
+    "item_name_variant": "Wyrmscraig villager robe bottom (A)#Pink",
+    "item_id": [
+      "33926"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe bottom.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe bottom (A)",
+    "item_name_variant": "Wyrmscraig villager robe bottom (A)#Blue",
+    "item_id": [
+      "33911"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe bottom.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe bottom (A)",
+    "item_name_variant": "Wyrmscraig villager robe bottom (A)#Green",
+    "item_id": [
+      "33908"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe bottom.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe bottom (A)",
+    "item_name_variant": "Wyrmscraig villager robe bottom (A)#Black",
+    "item_id": [
+      "33923"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe bottom.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe bottom (A)",
+    "item_name_variant": "Wyrmscraig villager robe bottom (A)#Yellow",
+    "item_id": [
+      "33917"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe bottom.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe bottom (A)",
+    "item_name_variant": "Wyrmscraig villager robe bottom (A)#White",
+    "item_id": [
+      "33920"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe bottom.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe bottom (A)",
+    "item_name_variant": "Wyrmscraig villager robe bottom (A)#Red",
+    "item_id": [
+      "33914"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe bottom.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe bottom (B)",
+    "item_name_variant": "Wyrmscraig villager robe bottom (B)#Pink",
+    "item_id": [
+      "33947"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe bottom.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe bottom (B)",
+    "item_name_variant": "Wyrmscraig villager robe bottom (B)#Blue",
+    "item_id": [
+      "33932"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe bottom.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe bottom (B)",
+    "item_name_variant": "Wyrmscraig villager robe bottom (B)#Green",
+    "item_id": [
+      "33929"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe bottom.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe bottom (B)",
+    "item_name_variant": "Wyrmscraig villager robe bottom (B)#Black",
+    "item_id": [
+      "33944"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe bottom.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe bottom (B)",
+    "item_name_variant": "Wyrmscraig villager robe bottom (B)#Yellow",
+    "item_id": [
+      "33938"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe bottom.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe bottom (B)",
+    "item_name_variant": "Wyrmscraig villager robe bottom (B)#White",
+    "item_id": [
+      "33941"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe bottom.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig villager robe bottom (B)",
+    "item_name_variant": "Wyrmscraig villager robe bottom (B)#Red",
+    "item_id": [
+      "33935"
+    ],
+    "weight": 0.907,
+    "value": 400,
+    "high_alchemy_value": 240,
+    "buy_limit": 0,
+    "examine": "A plain and simple robe bottom.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wyrmscraig boots",
+    "item_name_variant": "Wyrmscraig boots",
+    "item_id": [
+      "33881"
+    ],
+    "weight": 0.34,
+    "value": 10000,
+    "high_alchemy_value": 6000,
+    "buy_limit": 0,
+    "examine": "The leather is soft.",
+    "is_members_only": true
   }
 ]
