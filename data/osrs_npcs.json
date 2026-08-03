@@ -1,111 +1,5 @@
 [
   {
-    "page_name": "RuneScape:Sandbox",
-    "name": "Mad Angel",
-    "id": [
-      "16309",
-      "16315"
-    ],
-    "combat_level": 270,
-    "hitpoints": 565,
-    "attack_level": 100,
-    "strength_level": 160,
-    "defence_level": 125,
-    "magic_level": 100,
-    "ranged_level": 170,
-    "attack_bonus": 120,
-    "strength_bonus": 4,
-    "magic_attack_bonus": 180,
-    "magic_damage_bonus": 140,
-    "range_attack_bonus": 30,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 40,
-    "slash_defence_bonus": 60,
-    "crush_defence_bonus": 20,
-    "magic_defence_bonus": 165,
-    "elemental_weakness": "Earth",
-    "elemental_weakness_percent": 15,
-    "light_range_defence_bonus": 175,
-    "standard_range_defence_bonus": 155,
-    "heavy_range_defence_bonus": 135,
-    "flat_armour": 0,
-    "attack_speed": 6,
-    "attribute": [
-      "golem"
-    ],
-    "max_hit": [
-      "31"
-    ],
-    "attack_style": [
-      "Melee",
-      "Magic"
-    ],
-    "experience_bonus": 42.5,
-    "is_members_only": true,
-    "slayer_level": 1,
-    "slayer_experience": 0,
-    "size": 3,
-    "examine": "O Lord, she approaches!",
-    "poison_resistance": "unknown",
-    "venom_immune": "unknown",
-    "thrall_immune": "unknown",
-    "cannon_immune": "Immune",
-    "burn_immune": "Immune (strong)"
-  },
-  {
-    "page_name": "RuneScape:Sandbox",
-    "name": "Mad Angel",
-    "id": [
-      "16305",
-      "16314"
-    ],
-    "combat_level": 588,
-    "hitpoints": 755,
-    "attack_level": 150,
-    "strength_level": 230,
-    "defence_level": 175,
-    "magic_level": 150,
-    "ranged_level": 250,
-    "attack_bonus": 200,
-    "strength_bonus": 11,
-    "magic_attack_bonus": 280,
-    "magic_damage_bonus": 180,
-    "range_attack_bonus": 64,
-    "range_strength_bonus": 6,
-    "stab_defence_bonus": 60,
-    "slash_defence_bonus": 80,
-    "crush_defence_bonus": 40,
-    "magic_defence_bonus": 185,
-    "elemental_weakness": "Earth",
-    "elemental_weakness_percent": 15,
-    "light_range_defence_bonus": 205,
-    "standard_range_defence_bonus": 185,
-    "heavy_range_defence_bonus": 165,
-    "flat_armour": 0,
-    "attack_speed": 6,
-    "attribute": [
-      "golem"
-    ],
-    "max_hit": [
-      "31"
-    ],
-    "attack_style": [
-      "Melee",
-      "Magic"
-    ],
-    "experience_bonus": 42.5,
-    "is_members_only": true,
-    "slayer_level": 1,
-    "slayer_experience": 0,
-    "size": 3,
-    "examine": "O Lord, she approaches!",
-    "poison_resistance": "unknown",
-    "venom_immune": "unknown",
-    "thrall_immune": "unknown",
-    "cannon_immune": "Immune",
-    "burn_immune": "Immune (strong)"
-  },
-  {
     "page_name": "Tz-Kih",
     "name": "Tz-Kih",
     "id": [
@@ -31955,7 +31849,7 @@
     "attack_speed": 4,
     "attribute": [],
     "max_hit": [
-      "115% of targeted player's max hit'\"`UNIQ--ref-00000007-QINU`\"'"
+      "115% of targeted player's max hit'\"`UNIQ--ref-0000024E-QINU`\"'"
     ],
     "attack_style": [
       "Slash"
@@ -72450,7 +72344,7 @@
     "slayer_level": 85,
     "slayer_experience": 50,
     "size": 2,
-    "examine": "'\"`UNIQ--nowiki-00000097-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
+    "examine": "'\"`UNIQ--nowiki-0000001A-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
     "poison_resistance": "unknown",
     "venom_immune": "unknown",
     "thrall_immune": "Not immune",
@@ -87570,7 +87464,7 @@
     "attack_speed": 10,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-00000142-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-00000001-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -87620,7 +87514,7 @@
     "attack_speed": 7,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-00000142-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-00000001-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -89749,7 +89643,7 @@
       "15 (melee) 33 (special attack)"
     ],
     "attack_style": [
-      "Slash '\"`UNIQ--ref-00000004-QINU`\"'"
+      "Slash '\"`UNIQ--ref-00000179-QINU`\"'"
     ],
     "experience_bonus": 0,
     "is_members_only": true,
@@ -111265,7 +111159,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "30-37 (Melee)'\"`UNIQ--ref-0000002D-QINU`\"'",
+      "30-37 (Melee)'\"`UNIQ--ref-00000014-QINU`\"'",
       "?? (axes)"
     ],
     "attack_style": [
@@ -111316,7 +111210,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "46-61 (Melee)'\"`UNIQ--ref-0000002C-QINU`\"'",
+      "46-61 (Melee)'\"`UNIQ--ref-00000013-QINU`\"'",
       "96 (axes)"
     ],
     "attack_style": [
@@ -111367,7 +111261,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "32-43 (Melee)'\"`UNIQ--ref-0000002B-QINU`\"'",
+      "32-43 (Melee)'\"`UNIQ--ref-00000012-QINU`\"'",
       "35 (axes)"
     ],
     "attack_style": [
@@ -131324,7 +131218,7 @@
     ],
     "attack_style": [
       "Crush",
-      "'\"`UNIQ--ref-00000005-QINU`\"' Magic",
+      "'\"`UNIQ--ref-00000060-QINU`\"' Magic",
       "Ranged"
     ],
     "experience_bonus": 67.5,
@@ -132920,7 +132814,58 @@
     "venom_immune": "unknown",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "unknown"
+    "burn_immune": "Not immune"
+  },
+  {
+    "page_name": "Wyrmling",
+    "name": "Wyrmling",
+    "id": [
+      "16297"
+    ],
+    "combat_level": 55,
+    "hitpoints": 65,
+    "attack_level": 20,
+    "strength_level": 30,
+    "defence_level": 40,
+    "magic_level": 60,
+    "ranged_level": 15,
+    "attack_bonus": 0,
+    "strength_bonus": 10,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 10,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 20,
+    "slash_defence_bonus": 50,
+    "crush_defence_bonus": 50,
+    "magic_defence_bonus": 50,
+    "elemental_weakness": "Earth",
+    "elemental_weakness_percent": 50,
+    "light_range_defence_bonus": 20,
+    "standard_range_defence_bonus": 20,
+    "heavy_range_defence_bonus": 20,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [
+      "dragon"
+    ],
+    "max_hit": [
+      "5"
+    ],
+    "attack_style": [
+      "Slash"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 62,
+    "slayer_experience": 65,
+    "size": 2,
+    "examine": "Don't let it wyrm its way in.",
+    "poison_resistance": "unknown",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "unknown",
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "Wyrmling",
@@ -132971,7 +132916,58 @@
     "venom_immune": "unknown",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
-    "burn_immune": "unknown"
+    "burn_immune": "Not immune"
+  },
+  {
+    "page_name": "Wyrmling",
+    "name": "Wyrmling",
+    "id": [
+      "16296"
+    ],
+    "combat_level": 55,
+    "hitpoints": 65,
+    "attack_level": 20,
+    "strength_level": 30,
+    "defence_level": 40,
+    "magic_level": 60,
+    "ranged_level": 15,
+    "attack_bonus": 0,
+    "strength_bonus": 10,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 10,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 20,
+    "slash_defence_bonus": 50,
+    "crush_defence_bonus": 50,
+    "magic_defence_bonus": 50,
+    "elemental_weakness": "Earth",
+    "elemental_weakness_percent": 50,
+    "light_range_defence_bonus": 20,
+    "standard_range_defence_bonus": 20,
+    "heavy_range_defence_bonus": 20,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [
+      "dragon"
+    ],
+    "max_hit": [
+      "5"
+    ],
+    "attack_style": [
+      "Slash"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 62,
+    "slayer_experience": 65,
+    "size": 2,
+    "examine": "Don't let it wyrm its way in.",
+    "poison_resistance": "unknown",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "unknown",
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "Moonlight Cockatrice",
@@ -147048,7 +147044,7 @@
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 1,
-    "examine": "'\"`UNIQ--nowiki-00000093-QINU`\"'whispers*The seas are not lackin' kraken.",
+    "examine": "'\"`UNIQ--nowiki-000000AD-QINU`\"'whispers*The seas are not lackin' kraken.",
     "poison_resistance": "unknown",
     "venom_immune": "unknown",
     "thrall_immune": "unknown",
@@ -161454,7 +161450,8 @@
       "21"
     ],
     "attack_style": [
-      "Stab"
+      "Stab",
+      "Ranged"
     ],
     "experience_bonus": 17.5,
     "is_members_only": true,
@@ -161505,7 +161502,8 @@
       "21"
     ],
     "attack_style": [
-      "Stab"
+      "Stab",
+      "Ranged"
     ],
     "experience_bonus": 17.5,
     "is_members_only": true,
@@ -161556,7 +161554,8 @@
       "21"
     ],
     "attack_style": [
-      "Stab"
+      "Stab",
+      "Ranged"
     ],
     "experience_bonus": 17.5,
     "is_members_only": true,
@@ -161607,7 +161606,8 @@
       "21"
     ],
     "attack_style": [
-      "Stab"
+      "Stab",
+      "Ranged"
     ],
     "experience_bonus": 17.5,
     "is_members_only": true,
@@ -161658,7 +161658,8 @@
       "21"
     ],
     "attack_style": [
-      "Stab"
+      "Stab",
+      "Ranged"
     ],
     "experience_bonus": 17.5,
     "is_members_only": true,
