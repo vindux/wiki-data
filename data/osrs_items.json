@@ -115616,7 +115616,7 @@
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Ancient literature detailing the religion of Ralos.",
-    "is_members_only": true
+    "is_members_only": false
   },
   {
     "item_name": "Tome of the moon",
@@ -115629,7 +115629,7 @@
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Ancient literature detailing the religion of Ranul.",
-    "is_members_only": true
+    "is_members_only": false
   },
   {
     "item_name": "Tome of the temple",
@@ -160564,7 +160564,7 @@
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Good for rubbing.",
-    "is_members_only": false
+    "is_members_only": true
   },
   {
     "item_name": "Hair clip (Desert Treasure II)",
@@ -162313,10 +162313,10 @@
     "item_name": "Quest lamp",
     "item_name_variant": "Quest lamp",
     "item_id": [
-      "old28551",
-      "old28552",
-      "old28553",
-      "old28554"
+      "hist28551",
+      "hist28552",
+      "hist28553",
+      "hist28554"
     ],
     "weight": 0.1,
     "value": 1,
@@ -180654,7 +180654,7 @@
     "item_id": [
       "29884"
     ],
-    "weight": 5,
+    "weight": 0.005,
     "value": 30,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -197068,7 +197068,7 @@
     "weight": 1,
     "value": 20000,
     "high_alchemy_value": 12000,
-    "buy_limit": 0,
+    "buy_limit": 15,
     "examine": "Sound the horn for a better hunt.",
     "is_members_only": true
   },
@@ -210833,7 +210833,7 @@
     "item_id": [
       "33122"
     ],
-    "weight": 0,
+    "weight": 0.1,
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -212991,7 +212991,7 @@
     "item_id": [
       "33642"
     ],
-    "weight": 15,
+    "weight": 0.015,
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -216196,6 +216196,32 @@
     "high_alchemy_value": 6000,
     "buy_limit": 0,
     "examine": "The leather is soft.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Placeholder (Hallowfell)",
+    "item_name_variant": "Placeholder (Hallowfell)",
+    "item_id": [
+      "34035"
+    ],
+    "weight": 10,
+    "value": 1250000,
+    "high_alchemy_value": 750000,
+    "buy_limit": 0,
+    "examine": "placeholder.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Fairy tale quest lamp",
+    "item_name_variant": "Fairy tale quest lamp",
+    "item_id": [
+      "34059"
+    ],
+    "weight": 0.1,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Completes the Fairy Tale storyline, up to and including Fairytale II - Cure a Queen.",
     "is_members_only": true
   }
 ]

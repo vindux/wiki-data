@@ -1151,7 +1151,7 @@
         },
         {
           "name": "Goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -1346,7 +1346,7 @@
         },
         {
           "name": "Goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -1509,7 +1509,7 @@
         },
         {
           "name": "Goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -1704,7 +1704,7 @@
         },
         {
           "name": "Goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -1838,7 +1838,7 @@
         },
         {
           "name": "Goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -2033,7 +2033,7 @@
         },
         {
           "name": "Goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -2173,7 +2173,7 @@
         },
         {
           "name": "Goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -2368,7 +2368,7 @@
         },
         {
           "name": "Goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -130124,11 +130124,6 @@
           "quantity": "1"
         },
         {
-          "name": "Bones",
-          "rarity": "Always",
-          "quantity": "1"
-        },
-        {
           "name": "Wolf bone",
           "rarity": "1/4",
           "quantity": "1"
@@ -130159,11 +130154,6 @@
       "regular": [
         {
           "name": "Wolf bones",
-          "rarity": "Always",
-          "quantity": "1"
-        },
-        {
-          "name": "Bones",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -130202,11 +130192,6 @@
           "quantity": "1"
         },
         {
-          "name": "Bones",
-          "rarity": "Always",
-          "quantity": "1"
-        },
-        {
           "name": "Wolf bone",
           "rarity": "1/4",
           "quantity": "1"
@@ -130241,11 +130226,6 @@
           "quantity": "1"
         },
         {
-          "name": "Bones",
-          "rarity": "Always",
-          "quantity": "1"
-        },
-        {
           "name": "Wolf bone",
           "rarity": "1/4",
           "quantity": "1"
@@ -130276,11 +130256,6 @@
       "regular": [
         {
           "name": "Wolf bones",
-          "rarity": "Always",
-          "quantity": "1"
-        },
-        {
-          "name": "Bones",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -154580,9 +154555,49 @@
   {
     "name": "Monk of Zamorak",
     "id": [
-      "3486"
+      "527",
+      "8400"
     ],
-    "combat_level": 30,
+    "combat_level": 22,
+    "slayer_level": 1,
+    "is_members_only": false,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Zamorak monk bottom",
+          "rarity": "1/20",
+          "quantity": "1"
+        },
+        {
+          "name": "Zamorak monk top",
+          "rarity": "1/20",
+          "quantity": "1"
+        },
+        {
+          "name": "Golden key",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Looting bag",
+          "rarity": "1/6",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Monk of Zamorak",
+    "id": [
+      "529"
+    ],
+    "combat_level": 45,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -154658,88 +154673,7 @@
   {
     "name": "Monk of Zamorak",
     "id": [
-      "529"
-    ],
-    "combat_level": 45,
-    "slayer_level": 1,
-    "is_members_only": true,
-    "drops": {
-      "regular": [
-        {
-          "name": "Bones",
-          "rarity": "Always",
-          "quantity": "1"
-        },
-        {
-          "name": "Zamorak monk bottom",
-          "rarity": "1/20",
-          "quantity": "1"
-        },
-        {
-          "name": "Zamorak monk top",
-          "rarity": "1/20",
-          "quantity": "1"
-        },
-        {
-          "name": "Golden key",
-          "rarity": "Always",
-          "quantity": "1"
-        },
-        {
-          "name": "Looting bag",
-          "rarity": "1/6",
-          "quantity": "1"
-        }
-      ],
-      "rare_drop_table": []
-    }
-  },
-  {
-    "name": "Monk of Zamorak",
-    "id": [
-      "527",
-      "3484",
-      "8400"
-    ],
-    "combat_level": 22,
-    "slayer_level": 1,
-    "is_members_only": false,
-    "drops": {
-      "regular": [
-        {
-          "name": "Bones",
-          "rarity": "Always",
-          "quantity": "1"
-        },
-        {
-          "name": "Zamorak monk bottom",
-          "rarity": "1/20",
-          "quantity": "1"
-        },
-        {
-          "name": "Zamorak monk top",
-          "rarity": "1/20",
-          "quantity": "1"
-        },
-        {
-          "name": "Golden key",
-          "rarity": "Always",
-          "quantity": "1"
-        },
-        {
-          "name": "Looting bag",
-          "rarity": "1/6",
-          "quantity": "1"
-        }
-      ],
-      "rare_drop_table": []
-    }
-  },
-  {
-    "name": "Monk of Zamorak",
-    "id": [
       "528",
-      "3485",
       "8401"
     ],
     "combat_level": 17,
@@ -213359,57 +213293,57 @@
         {
           "name": "Grimy guam leaf",
           "rarity": "1/102.4",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy marrentill",
           "rarity": "1/136.5",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy tarromin",
           "rarity": "1/182",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy harralander",
           "rarity": "1/234.1",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
           "rarity": "1/297.9",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy irit leaf",
           "rarity": "1/409.6",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy avantoe",
           "rarity": "1/546.1",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy kwuarm",
           "rarity": "1/655.4",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy cadantine",
           "rarity": "1/819.2",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy lantadyme",
           "rarity": "1/1,092.3",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy dwarf weed",
           "rarity": "1/1,092.3",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Coins",
@@ -240613,7 +240547,7 @@
         },
         {
           "name": "Goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -277413,7 +277347,7 @@
         },
         {
           "name": "Goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -277429,7 +277363,13 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [],
+      "regular": [
+        {
+          "name": "Monkey paw",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   },
@@ -277487,7 +277427,13 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [],
+      "regular": [
+        {
+          "name": "Bear ribs",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   },
@@ -277500,7 +277446,13 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [],
+      "regular": [
+        {
+          "name": "Unicorn bone",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   },
@@ -277558,7 +277510,13 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [],
+      "regular": [
+        {
+          "name": "Ogre ribs",
+          "rarity": "1/4",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   },
@@ -277584,7 +277542,13 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [],
+      "regular": [
+        {
+          "name": "Troll bone",
+          "rarity": "1/4",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   },
@@ -277623,7 +277587,13 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [],
+      "regular": [
+        {
+          "name": "Dagannoth ribs",
+          "rarity": "1/4",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   },
@@ -334885,7 +334855,7 @@
         {
           "name": "Coal",
           "rarity": "1/36",
-          "quantity": "169–938 (noted)"
+          "quantity": "169–1052 (noted)"
         },
         {
           "name": "Mithril ore",
@@ -335029,7 +334999,7 @@
         {
           "name": "Coal",
           "rarity": "1/36",
-          "quantity": "169–938 (noted)"
+          "quantity": "169–1052 (noted)"
         },
         {
           "name": "Mithril ore",
@@ -340455,7 +340425,7 @@
     "id": [
       "9118"
     ],
-    "combat_level": null,
+    "combat_level": 2,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -353213,7 +353183,7 @@
         },
         {
           "name": "Goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -353433,7 +353403,7 @@
         },
         {
           "name": "Goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -353642,7 +353612,7 @@
         },
         {
           "name": "Goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -353852,7 +353822,7 @@
         },
         {
           "name": "Goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -354061,7 +354031,7 @@
         },
         {
           "name": "Goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -354270,7 +354240,7 @@
         },
         {
           "name": "Goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -354479,7 +354449,7 @@
         },
         {
           "name": "Goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -354683,7 +354653,7 @@
         },
         {
           "name": "Goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -354897,7 +354867,7 @@
         },
         {
           "name": "Goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -355111,7 +355081,7 @@
         },
         {
           "name": "Goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -355325,7 +355295,7 @@
         },
         {
           "name": "Goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -355539,7 +355509,7 @@
         },
         {
           "name": "Goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -385261,7 +385231,7 @@
         },
         {
           "name": "Clue scroll (hard)",
-          "rarity": "Rare",
+          "rarity": "1/128",
           "quantity": "1"
         },
         {
@@ -385453,7 +385423,7 @@
         },
         {
           "name": "Clue scroll (hard)",
-          "rarity": "Rare",
+          "rarity": "1/128",
           "quantity": "1"
         },
         {
@@ -412429,66 +412399,9 @@
     }
   },
   {
-    "name": "Dawn",
-    "id": [
-      "override7852"
-    ],
-    "combat_level": 228,
-    "slayer_level": 1,
-    "is_members_only": true,
-    "drops": {
-      "regular": [
-        {
-          "name": "Lithic sceptre",
-          "rarity": "1/25",
-          "quantity": "1"
-        }
-      ],
-      "rare_drop_table": []
-    }
-  },
-  {
-    "name": "Definitely Not Dusk",
-    "id": [
-      "override7882"
-    ],
-    "combat_level": 248,
-    "slayer_level": 1,
-    "is_members_only": true,
-    "drops": {
-      "regular": [
-        {
-          "name": "Lithic sceptre",
-          "rarity": "1/25",
-          "quantity": "1"
-        }
-      ],
-      "rare_drop_table": []
-    }
-  },
-  {
-    "name": "Dusk (Echo)",
-    "id": [
-      "override7888"
-    ],
-    "combat_level": 656,
-    "slayer_level": 1,
-    "is_members_only": true,
-    "drops": {
-      "regular": [
-        {
-          "name": "Lithic sceptre",
-          "rarity": "1/25",
-          "quantity": "1"
-        }
-      ],
-      "rare_drop_table": []
-    }
-  },
-  {
     "name": "Dagannoth Rex (Echo)",
     "id": [
-      "15620"
+      "override2267"
     ],
     "combat_level": 454,
     "slayer_level": 1,
@@ -412501,7 +412414,7 @@
   {
     "name": "Dagannoth Prime (Echo)",
     "id": [
-      "15619"
+      "override2266"
     ],
     "combat_level": 454,
     "slayer_level": 1,
@@ -412514,7 +412427,7 @@
   {
     "name": "Dagannoth Supreme (Echo)",
     "id": [
-      "15618"
+      "override2265"
     ],
     "combat_level": 681,
     "slayer_level": 1,
@@ -412596,63 +412509,6 @@
     "is_members_only": true,
     "drops": {
       "regular": [],
-      "rare_drop_table": []
-    }
-  },
-  {
-    "name": "Dagannoth Supreme (Echo)",
-    "id": [
-      "override2265"
-    ],
-    "combat_level": 681,
-    "slayer_level": 1,
-    "is_members_only": true,
-    "drops": {
-      "regular": [
-        {
-          "name": "V's helm",
-          "rarity": "1/25",
-          "quantity": "1"
-        }
-      ],
-      "rare_drop_table": []
-    }
-  },
-  {
-    "name": "Dagannoth Rex (Echo)",
-    "id": [
-      "override2267"
-    ],
-    "combat_level": 454,
-    "slayer_level": 1,
-    "is_members_only": true,
-    "drops": {
-      "regular": [
-        {
-          "name": "V's helm",
-          "rarity": "1/25",
-          "quantity": "1"
-        }
-      ],
-      "rare_drop_table": []
-    }
-  },
-  {
-    "name": "Dagannoth Prime (Echo)",
-    "id": [
-      "override2266"
-    ],
-    "combat_level": 454,
-    "slayer_level": 1,
-    "is_members_only": true,
-    "drops": {
-      "regular": [
-        {
-          "name": "V's helm",
-          "rarity": "1/25",
-          "quantity": "1"
-        }
-      ],
       "rare_drop_table": []
     }
   },
@@ -427202,7 +427058,7 @@
         },
         {
           "name": "Broken antler",
-          "rarity": "1/15",
+          "rarity": "11/160",
           "quantity": "1"
         },
         {
@@ -427388,7 +427244,7 @@
         {
           "name": "Steel cannonball",
           "rarity": "15/107",
-          "quantity": "15–30"
+          "quantity": "15–20"
         },
         {
           "name": "Air rune",
@@ -427422,7 +427278,7 @@
         },
         {
           "name": "Broken antler",
-          "rarity": "6.6875/107",
+          "rarity": "7/107",
           "quantity": "1"
         },
         {
@@ -442118,7 +441974,7 @@
         {
           "name": "Mithril ore",
           "rarity": "5/159",
-          "quantity": "39–41 (noted)"
+          "quantity": "36–41 (noted)"
         },
         {
           "name": "Adamantite ore",
@@ -442312,7 +442168,7 @@
         {
           "name": "Mithril ore",
           "rarity": "5/159",
-          "quantity": "39–41 (noted)"
+          "quantity": "36–41 (noted)"
         },
         {
           "name": "Adamantite ore",
@@ -442506,7 +442362,7 @@
         {
           "name": "Mithril ore",
           "rarity": "5/159",
-          "quantity": "39–41 (noted)"
+          "quantity": "36–41 (noted)"
         },
         {
           "name": "Adamantite ore",
@@ -444350,129 +444206,129 @@
           "quantity": "1"
         },
         {
-          "name": "Tarnished 2h sword",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Tarnished amulet",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Tarnished battleaxe",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Tarnished halberd",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Tarnished longsword",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Tarnished necklace",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Tarnished bracelet",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Tarnished ring",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Tarnished spear",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Adamantite ore",
-          "rarity": "Unknown",
-          "quantity": "3–5 (noted)"
-        },
-        {
-          "name": "Blood sac",
-          "rarity": "Unknown",
-          "quantity": "6–8"
-        },
-        {
           "name": "Coins",
-          "rarity": "Unknown",
+          "rarity": "19/131",
           "quantity": "3000–7000"
         },
         {
-          "name": "Fine fish offcuts",
-          "rarity": "Unknown",
-          "quantity": "2"
+          "name": "Adamantite ore",
+          "rarity": "17/131",
+          "quantity": "3–5 (noted)"
         },
         {
           "name": "Fish offcuts",
-          "rarity": "Unknown",
+          "rarity": "5/131",
           "quantity": "3–5"
         },
         {
-          "name": "Grapevine (item)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Hard leather",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Jug of wine",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Letvek",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Mithril ore",
-          "rarity": "Unknown",
-          "quantity": "6–7"
-        },
-        {
-          "name": "Mort myre fungus",
-          "rarity": "Unknown",
-          "quantity": "5 (noted)"
-        },
-        {
-          "name": "Orikalkum gravel",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Runite ore",
-          "rarity": "Unknown",
-          "quantity": "1 (noted)"
-        },
-        {
           "name": "Stymphike feather",
-          "rarity": "Unknown",
+          "rarity": "12/131",
           "quantity": "15–22"
         },
         {
+          "name": "Mithril ore",
+          "rarity": "12/131",
+          "quantity": "6–7 (noted)"
+        },
+        {
+          "name": "Hard leather",
+          "rarity": "6/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Fine fish offcuts",
+          "rarity": "3/131",
+          "quantity": "2"
+        },
+        {
+          "name": "Mort myre fungus",
+          "rarity": "10/131",
+          "quantity": "5 (noted)"
+        },
+        {
+          "name": "Jug of wine",
+          "rarity": "1/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Grapevine (item)",
+          "rarity": "5/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Blood sac",
+          "rarity": "3/131",
+          "quantity": "6–8"
+        },
+        {
           "name": "Venator fang",
-          "rarity": "Unknown",
+          "rarity": "7/131",
           "quantity": "10–20"
         },
         {
           "name": "Venator tooth",
-          "rarity": "Unknown",
+          "rarity": "7/131",
           "quantity": "15–30"
+        },
+        {
+          "name": "Letvek",
+          "rarity": "2/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Orikalkum gravel",
+          "rarity": "1/131",
+          "quantity": "1"
+        },
+        {
+          "name": "Runite ore",
+          "rarity": "1/131",
+          "quantity": "1 (noted)"
+        },
+        {
+          "name": "Tarnished spear",
+          "rarity": "690/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished ring",
+          "rarity": "506/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished amulet",
+          "rarity": "253/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished bracelet",
+          "rarity": "253/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished necklace",
+          "rarity": "253/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished 2h sword",
+          "rarity": "115/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished battleaxe",
+          "rarity": "115/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished halberd",
+          "rarity": "115/14,803",
+          "quantity": "1"
+        },
+        {
+          "name": "Tarnished longsword",
+          "rarity": "115/14,803",
+          "quantity": "1"
         },
         {
           "name": "Venator heart",
@@ -444513,57 +444369,57 @@
       "rare_drop_table": [
         {
           "name": "Uncut sapphire",
-          "rarity": "Rare",
+          "rarity": "1/524",
           "quantity": "1"
         },
         {
           "name": "Uncut emerald",
-          "rarity": "Rare",
+          "rarity": "1/1,048",
           "quantity": "1"
         },
         {
           "name": "Uncut ruby",
-          "rarity": "Very rare",
+          "rarity": "1/2,096",
           "quantity": "1"
         },
         {
           "name": "Nature talisman",
-          "rarity": "Very rare",
+          "rarity": "1/5,589.33",
           "quantity": "1"
         },
         {
           "name": "Uncut diamond",
-          "rarity": "Very rare",
+          "rarity": "1/8,384",
           "quantity": "1"
         },
         {
           "name": "Rune javelin",
-          "rarity": "Very rare",
+          "rarity": "1/16,768",
           "quantity": "5"
         },
         {
           "name": "Loop half of key",
-          "rarity": "Very rare",
+          "rarity": "1/16,768",
           "quantity": "1"
         },
         {
           "name": "Tooth half of key",
-          "rarity": "Very rare",
+          "rarity": "1/16,768",
           "quantity": "1"
         },
         {
           "name": "Rune spear",
-          "rarity": "Very rare",
+          "rarity": "1/268,288",
           "quantity": "1"
         },
         {
           "name": "Shield left half",
-          "rarity": "Very rare",
+          "rarity": "1/536,576",
           "quantity": "1"
         },
         {
           "name": "Dragon spear",
-          "rarity": "Very rare",
+          "rarity": "1/715,434.67",
           "quantity": "1"
         }
       ]
@@ -444573,7 +444429,7 @@
     "name": "Mad Angel",
     "id": [
       "16309",
-      "16315"
+      "16311"
     ],
     "combat_level": 270,
     "slayer_level": 1,
@@ -444656,16 +444512,6 @@
           "quantity": "110–120"
         },
         {
-          "name": "Prayer potion(4)",
-          "rarity": "12/150",
-          "quantity": "1"
-        },
-        {
-          "name": "Super combat potion(3)",
-          "rarity": "8/150",
-          "quantity": "2–3 (noted)"
-        },
-        {
           "name": "Shark",
           "rarity": "8/150",
           "quantity": "2"
@@ -444684,6 +444530,16 @@
           "name": "Super combat potion(1)",
           "rarity": "16/150",
           "quantity": "1"
+        },
+        {
+          "name": "Prayer potion(4)",
+          "rarity": "12/150",
+          "quantity": "1"
+        },
+        {
+          "name": "Super combat potion(3)",
+          "rarity": "8/150",
+          "quantity": "2–3 (noted)"
         },
         {
           "name": "Coins",
@@ -444864,7 +444720,7 @@
     "name": "Mad Angel",
     "id": [
       "16305",
-      "16314"
+      "16307"
     ],
     "combat_level": 588,
     "slayer_level": 1,
@@ -444947,16 +444803,6 @@
           "quantity": "110–120"
         },
         {
-          "name": "Prayer potion(4)",
-          "rarity": "12/150",
-          "quantity": "1"
-        },
-        {
-          "name": "Super combat potion(3)",
-          "rarity": "8/150",
-          "quantity": "2–3 (noted)"
-        },
-        {
           "name": "Shark",
           "rarity": "8/150",
           "quantity": "2"
@@ -444975,6 +444821,16 @@
           "name": "Super combat potion(1)",
           "rarity": "16/150",
           "quantity": "1"
+        },
+        {
+          "name": "Prayer potion(4)",
+          "rarity": "12/150",
+          "quantity": "1"
+        },
+        {
+          "name": "Super combat potion(3)",
+          "rarity": "8/150",
+          "quantity": "2–3 (noted)"
         },
         {
           "name": "Coins",
@@ -445149,6 +445005,111 @@
           "quantity": "1"
         }
       ]
+    }
+  },
+  {
+    "name": "Monk of Zamorak",
+    "id": [
+      "3484",
+      "16271"
+    ],
+    "combat_level": 22,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Zamorak monk bottom",
+          "rarity": "1/20",
+          "quantity": "1"
+        },
+        {
+          "name": "Zamorak monk top",
+          "rarity": "1/20",
+          "quantity": "1"
+        },
+        {
+          "name": "Golden key",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Monk of Zamorak",
+    "id": [
+      "3486",
+      "16273"
+    ],
+    "combat_level": 30,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Zamorak monk bottom",
+          "rarity": "1/20",
+          "quantity": "1"
+        },
+        {
+          "name": "Zamorak monk top",
+          "rarity": "1/20",
+          "quantity": "1"
+        },
+        {
+          "name": "Golden key",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Monk of Zamorak",
+    "id": [
+      "3485",
+      "16272"
+    ],
+    "combat_level": 17,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Zamorak monk bottom",
+          "rarity": "1/20",
+          "quantity": "1"
+        },
+        {
+          "name": "Zamorak monk top",
+          "rarity": "1/20",
+          "quantity": "1"
+        },
+        {
+          "name": "Golden key",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
     }
   }
 ]

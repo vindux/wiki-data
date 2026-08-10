@@ -32313,14 +32313,15 @@
     "page_name": "Monk of Zamorak",
     "name": "Monk of Zamorak",
     "id": [
-      "3486"
+      "527",
+      "8400"
     ],
-    "combat_level": 30,
-    "hitpoints": 25,
-    "attack_level": 25,
-    "strength_level": 25,
-    "defence_level": 25,
-    "magic_level": 40,
+    "combat_level": 22,
+    "hitpoints": 20,
+    "attack_level": 18,
+    "strength_level": 18,
+    "defence_level": 22,
+    "magic_level": 25,
     "ranged_level": 1,
     "attack_bonus": 0,
     "strength_bonus": 0,
@@ -32342,13 +32343,64 @@
     "attribute": [],
     "max_hit": [
       "3 (Melee)",
-      "8 (Magic)"
+      "10 (Magic)"
     ],
     "attack_style": [
       "Crush",
       "Magic"
     ],
-    "experience_bonus": -75,
+    "experience_bonus": 0,
+    "is_members_only": false,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 1,
+    "examine": "An evil human cleric.",
+    "poison_resistance": "unknown",
+    "venom_immune": "unknown",
+    "thrall_immune": "Not immune",
+    "cannon_immune": "Not immune",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Monk of Zamorak",
+    "name": "Monk of Zamorak",
+    "id": [
+      "529"
+    ],
+    "combat_level": 45,
+    "hitpoints": 40,
+    "attack_level": 38,
+    "strength_level": 38,
+    "defence_level": 42,
+    "magic_level": 40,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [],
+    "max_hit": [
+      "5 (Melee)",
+      "13 (Magic)"
+    ],
+    "attack_style": [
+      "Crush",
+      "Magic"
+    ],
+    "experience_bonus": 0,
     "is_members_only": true,
     "slayer_level": 1,
     "slayer_experience": 0,
@@ -32415,112 +32467,7 @@
     "page_name": "Monk of Zamorak",
     "name": "Monk of Zamorak",
     "id": [
-      "529"
-    ],
-    "combat_level": 45,
-    "hitpoints": 40,
-    "attack_level": 38,
-    "strength_level": 38,
-    "defence_level": 42,
-    "magic_level": 40,
-    "ranged_level": 1,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 0,
-    "magic_damage_bonus": 0,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 0,
-    "slash_defence_bonus": 0,
-    "crush_defence_bonus": 0,
-    "magic_defence_bonus": 0,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": 0,
-    "standard_range_defence_bonus": 0,
-    "heavy_range_defence_bonus": 0,
-    "flat_armour": 0,
-    "attack_speed": 4,
-    "attribute": [],
-    "max_hit": [
-      "5 (Melee)",
-      "13 (Magic)"
-    ],
-    "attack_style": [
-      "Crush",
-      "Magic"
-    ],
-    "experience_bonus": 0,
-    "is_members_only": true,
-    "slayer_level": 1,
-    "slayer_experience": 0,
-    "size": 1,
-    "examine": "An evil human cleric.",
-    "poison_resistance": "unknown",
-    "venom_immune": "unknown",
-    "thrall_immune": "Not immune",
-    "cannon_immune": "Not immune",
-    "burn_immune": "unknown"
-  },
-  {
-    "page_name": "Monk of Zamorak",
-    "name": "Monk of Zamorak",
-    "id": [
-      "527",
-      "3484",
-      "8400"
-    ],
-    "combat_level": 22,
-    "hitpoints": 20,
-    "attack_level": 18,
-    "strength_level": 18,
-    "defence_level": 22,
-    "magic_level": 25,
-    "ranged_level": 1,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 0,
-    "magic_damage_bonus": 0,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 0,
-    "slash_defence_bonus": 0,
-    "crush_defence_bonus": 0,
-    "magic_defence_bonus": 0,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": 0,
-    "standard_range_defence_bonus": 0,
-    "heavy_range_defence_bonus": 0,
-    "flat_armour": 0,
-    "attack_speed": 4,
-    "attribute": [],
-    "max_hit": [
-      "3 (Melee)",
-      "10 (Magic)"
-    ],
-    "attack_style": [
-      "Crush",
-      "Magic"
-    ],
-    "experience_bonus": 0,
-    "is_members_only": false,
-    "slayer_level": 1,
-    "slayer_experience": 0,
-    "size": 1,
-    "examine": "An evil human cleric.",
-    "poison_resistance": "unknown",
-    "venom_immune": "unknown",
-    "thrall_immune": "Not immune",
-    "cannon_immune": "Not immune",
-    "burn_immune": "unknown"
-  },
-  {
-    "page_name": "Monk of Zamorak",
-    "name": "Monk of Zamorak",
-    "id": [
       "528",
-      "3485",
       "8401"
     ],
     "combat_level": 17,
@@ -87464,7 +87411,7 @@
     "attack_speed": 10,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-00000001-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-0000009B-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -87514,7 +87461,7 @@
     "attack_speed": 7,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-00000001-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-0000009B-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -97140,7 +97087,7 @@
     "poison_resistance": "unknown",
     "venom_immune": "unknown",
     "thrall_immune": "Not immune",
-    "cannon_immune": "Immune",
+    "cannon_immune": "Not immune",
     "burn_immune": "unknown"
   },
   {
@@ -97193,7 +97140,7 @@
     "poison_resistance": "unknown",
     "venom_immune": "unknown",
     "thrall_immune": "Not immune",
-    "cannon_immune": "Immune",
+    "cannon_immune": "Not immune",
     "burn_immune": "unknown"
   },
   {
@@ -103545,7 +103492,7 @@
     "id": [
       "9118"
     ],
-    "combat_level": "unknown",
+    "combat_level": 2,
     "hitpoints": 2000,
     "attack_level": 600,
     "strength_level": 200,
@@ -111159,7 +111106,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "30-37 (Melee)'\"`UNIQ--ref-00000014-QINU`\"'",
+      "30-37 (Melee)'\"`UNIQ--ref-00000053-QINU`\"'",
       "?? (axes)"
     ],
     "attack_style": [
@@ -111210,7 +111157,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "46-61 (Melee)'\"`UNIQ--ref-00000013-QINU`\"'",
+      "46-61 (Melee)'\"`UNIQ--ref-00000052-QINU`\"'",
       "96 (axes)"
     ],
     "attack_style": [
@@ -111261,7 +111208,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "32-43 (Melee)'\"`UNIQ--ref-00000012-QINU`\"'",
+      "32-43 (Melee)'\"`UNIQ--ref-00000051-QINU`\"'",
       "35 (axes)"
     ],
     "attack_style": [
@@ -131218,7 +131165,7 @@
     ],
     "attack_style": [
       "Crush",
-      "'\"`UNIQ--ref-00000060-QINU`\"' Magic",
+      "'\"`UNIQ--ref-00000047-QINU`\"' Magic",
       "Ranged"
     ],
     "experience_bonus": 67.5,
@@ -142230,166 +142177,10 @@
     "burn_immune": "unknown"
   },
   {
-    "page_name": "Grotesque Guardians (Echo)",
-    "name": "Dawn",
-    "id": [
-      "override7852"
-    ],
-    "combat_level": 228,
-    "hitpoints": 450,
-    "attack_level": 140,
-    "strength_level": 140,
-    "defence_level": 100,
-    "magic_level": 100,
-    "ranged_level": 140,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 0,
-    "magic_damage_bonus": 0,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 0,
-    "slash_defence_bonus": 0,
-    "crush_defence_bonus": 0,
-    "magic_defence_bonus": 80,
-    "elemental_weakness": "Earth",
-    "elemental_weakness_percent": 70,
-    "light_range_defence_bonus": 0,
-    "standard_range_defence_bonus": 0,
-    "heavy_range_defence_bonus": 0,
-    "flat_armour": 0,
-    "attack_speed": 6,
-    "attribute": [
-      "golem"
-    ],
-    "max_hit": [
-      "12"
-    ],
-    "attack_style": [
-      "Slash"
-    ],
-    "experience_bonus": 0,
-    "is_members_only": true,
-    "slayer_level": 1,
-    "slayer_experience": 0,
-    "size": 4,
-    "examine": "The Guardian of Dawn, she's alive!",
-    "poison_resistance": "unknown",
-    "venom_immune": "unknown",
-    "thrall_immune": "Not immune",
-    "cannon_immune": "Not immune",
-    "burn_immune": "Not immune"
-  },
-  {
-    "page_name": "Grotesque Guardians (Echo)",
-    "name": "Definitely Not Dusk",
-    "id": [
-      "override7882"
-    ],
-    "combat_level": 248,
-    "hitpoints": 450,
-    "attack_level": 200,
-    "strength_level": 140,
-    "defence_level": 100,
-    "magic_level": 140,
-    "ranged_level": 140,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 0,
-    "magic_damage_bonus": 0,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 0,
-    "slash_defence_bonus": 0,
-    "crush_defence_bonus": 0,
-    "magic_defence_bonus": 0,
-    "elemental_weakness": "Earth",
-    "elemental_weakness_percent": 40,
-    "light_range_defence_bonus": 0,
-    "standard_range_defence_bonus": 0,
-    "heavy_range_defence_bonus": 0,
-    "flat_armour": 0,
-    "attack_speed": 6,
-    "attribute": [
-      "golem"
-    ],
-    "max_hit": [
-      "17"
-    ],
-    "attack_style": [
-      "Slash"
-    ],
-    "experience_bonus": 0,
-    "is_members_only": true,
-    "slayer_level": 1,
-    "slayer_experience": 0,
-    "size": 4,
-    "examine": "The Guardian of Dusk, he's alive!",
-    "poison_resistance": "unknown",
-    "venom_immune": "unknown",
-    "thrall_immune": "Not immune",
-    "cannon_immune": "Not immune",
-    "burn_immune": "Not immune"
-  },
-  {
-    "page_name": "Grotesque Guardians (Echo)",
-    "name": "Dusk (Echo)",
-    "id": [
-      "override7888"
-    ],
-    "combat_level": 656,
-    "hitpoints": 1080,
-    "attack_level": 345,
-    "strength_level": 287,
-    "defence_level": 187,
-    "magic_level": 262,
-    "ranged_level": 387,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 0,
-    "magic_damage_bonus": 0,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 0,
-    "slash_defence_bonus": 0,
-    "crush_defence_bonus": 0,
-    "magic_defence_bonus": 0,
-    "elemental_weakness": "Earth",
-    "elemental_weakness_percent": 40,
-    "light_range_defence_bonus": 0,
-    "standard_range_defence_bonus": 0,
-    "heavy_range_defence_bonus": 0,
-    "flat_armour": 0,
-    "attack_speed": 6,
-    "attribute": [
-      "golem"
-    ],
-    "max_hit": [
-      "32 (flame cone)",
-      "21 x 2 (ranged orbs)",
-      "20 x 4 (flame wall)",
-      "32 (trample)"
-    ],
-    "attack_style": [
-      "Slash"
-    ],
-    "experience_bonus": 0,
-    "is_members_only": true,
-    "slayer_level": 1,
-    "slayer_experience": 0,
-    "size": 6,
-    "examine": "The Guardian of Dusk, he's alive!",
-    "poison_resistance": "unknown",
-    "venom_immune": "unknown",
-    "thrall_immune": "Not immune",
-    "cannon_immune": "Not immune",
-    "burn_immune": "Not immune"
-  },
-  {
     "page_name": "Dagannoth Rex (Echo)",
     "name": "Dagannoth Rex (Echo)",
     "id": [
-      "15620"
+      "override2267"
     ],
     "combat_level": 454,
     "hitpoints": 1800,
@@ -142404,20 +142195,20 @@
     "magic_damage_bonus": 0,
     "range_attack_bonus": 0,
     "range_strength_bonus": 0,
-    "stab_defence_bonus": 255,
-    "slash_defence_bonus": 255,
-    "crush_defence_bonus": 255,
+    "stab_defence_bonus": 100,
+    "slash_defence_bonus": 100,
+    "crush_defence_bonus": 100,
     "magic_defence_bonus": 10,
     "elemental_weakness": "None",
     "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": 255,
-    "standard_range_defence_bonus": 255,
-    "heavy_range_defence_bonus": 255,
+    "light_range_defence_bonus": 100,
+    "standard_range_defence_bonus": 100,
+    "heavy_range_defence_bonus": 100,
     "flat_armour": 0,
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "at least 48"
+      "48+"
     ],
     "attack_style": [
       "Slash"
@@ -142438,7 +142229,7 @@
     "page_name": "Dagannoth Prime (Echo)",
     "name": "Dagannoth Prime (Echo)",
     "id": [
-      "15619"
+      "override2266"
     ],
     "combat_level": 454,
     "hitpoints": 1800,
@@ -142453,10 +142244,10 @@
     "magic_damage_bonus": 0,
     "range_attack_bonus": 0,
     "range_strength_bonus": 0,
-    "stab_defence_bonus": 255,
-    "slash_defence_bonus": 255,
-    "crush_defence_bonus": 255,
-    "magic_defence_bonus": 255,
+    "stab_defence_bonus": 100,
+    "slash_defence_bonus": 100,
+    "crush_defence_bonus": 100,
+    "magic_defence_bonus": 100,
     "elemental_weakness": "None",
     "elemental_weakness_percent": 0,
     "light_range_defence_bonus": 10,
@@ -142466,7 +142257,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "At least 49"
+      "49+"
     ],
     "attack_style": [
       "Magic"
@@ -142487,10 +142278,10 @@
     "page_name": "Dagannoth Supreme (Echo)",
     "name": "Dagannoth Supreme (Echo)",
     "id": [
-      "15618"
+      "override2265"
     ],
     "combat_level": 681,
-    "hitpoints": "unknown",
+    "hitpoints": 1800,
     "attack_level": 255,
     "strength_level": 128,
     "defence_level": 255,
@@ -142505,12 +142296,12 @@
     "stab_defence_bonus": 10,
     "slash_defence_bonus": 10,
     "crush_defence_bonus": 10,
-    "magic_defence_bonus": 255,
+    "magic_defence_bonus": 100,
     "elemental_weakness": "None",
     "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": 550,
-    "standard_range_defence_bonus": 550,
-    "heavy_range_defence_bonus": 550,
+    "light_range_defence_bonus": 150,
+    "standard_range_defence_bonus": 150,
+    "heavy_range_defence_bonus": 150,
     "flat_armour": 0,
     "attack_speed": 5,
     "attribute": [],
@@ -142733,153 +142524,6 @@
     "burn_immune": "unknown"
   },
   {
-    "page_name": "Dagannoth Kings (Echo)",
-    "name": "Dagannoth Supreme (Echo)",
-    "id": [
-      "override2265"
-    ],
-    "combat_level": 681,
-    "hitpoints": "unknown",
-    "attack_level": 255,
-    "strength_level": 128,
-    "defence_level": 255,
-    "magic_level": 255,
-    "ranged_level": 550,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 0,
-    "magic_damage_bonus": 0,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 10,
-    "slash_defence_bonus": 10,
-    "crush_defence_bonus": 10,
-    "magic_defence_bonus": 100,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": 150,
-    "standard_range_defence_bonus": 150,
-    "heavy_range_defence_bonus": 150,
-    "flat_armour": 0,
-    "attack_speed": 5,
-    "attribute": [],
-    "max_hit": [
-      "26"
-    ],
-    "attack_style": [
-      "Ranged"
-    ],
-    "experience_bonus": 0,
-    "is_members_only": true,
-    "slayer_level": 1,
-    "slayer_experience": 0,
-    "size": 3,
-    "examine": "The dagannoth king responsible for the death of the Bukalla.",
-    "poison_resistance": "unknown",
-    "venom_immune": "unknown",
-    "thrall_immune": "unknown",
-    "cannon_immune": "unknown",
-    "burn_immune": "unknown"
-  },
-  {
-    "page_name": "Dagannoth Kings (Echo)",
-    "name": "Dagannoth Rex (Echo)",
-    "id": [
-      "override2267"
-    ],
-    "combat_level": 454,
-    "hitpoints": 1800,
-    "attack_level": 400,
-    "strength_level": 400,
-    "defence_level": 255,
-    "magic_level": 0,
-    "ranged_level": 255,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 0,
-    "magic_damage_bonus": 0,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 100,
-    "slash_defence_bonus": 100,
-    "crush_defence_bonus": 100,
-    "magic_defence_bonus": 10,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": 100,
-    "standard_range_defence_bonus": 100,
-    "heavy_range_defence_bonus": 100,
-    "flat_armour": 0,
-    "attack_speed": 5,
-    "attribute": [],
-    "max_hit": [
-      "48+"
-    ],
-    "attack_style": [
-      "Slash"
-    ],
-    "experience_bonus": 0,
-    "is_members_only": true,
-    "slayer_level": 1,
-    "slayer_experience": 0,
-    "size": 3,
-    "examine": "Firstborn of the legendary dagannoth kings.",
-    "poison_resistance": "unknown",
-    "venom_immune": "unknown",
-    "thrall_immune": "unknown",
-    "cannon_immune": "unknown",
-    "burn_immune": "unknown"
-  },
-  {
-    "page_name": "Dagannoth Kings (Echo)",
-    "name": "Dagannoth Prime (Echo)",
-    "id": [
-      "override2266"
-    ],
-    "combat_level": 454,
-    "hitpoints": 1800,
-    "attack_level": 255,
-    "strength_level": 255,
-    "defence_level": 255,
-    "magic_level": 400,
-    "ranged_level": 0,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 0,
-    "magic_damage_bonus": 0,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 100,
-    "slash_defence_bonus": 100,
-    "crush_defence_bonus": 100,
-    "magic_defence_bonus": 100,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": 10,
-    "standard_range_defence_bonus": 10,
-    "heavy_range_defence_bonus": 10,
-    "flat_armour": 0,
-    "attack_speed": 5,
-    "attribute": [],
-    "max_hit": [
-      "At least 49"
-    ],
-    "attack_style": [
-      "Magic"
-    ],
-    "experience_bonus": 0,
-    "is_members_only": true,
-    "slayer_level": 1,
-    "slayer_experience": 2475,
-    "size": 3,
-    "examine": "A legendary dagannoth king, rumoured to fly on the North winds.",
-    "poison_resistance": "unknown",
-    "venom_immune": "unknown",
-    "thrall_immune": "unknown",
-    "cannon_immune": "unknown",
-    "burn_immune": "unknown"
-  },
-  {
     "page_name": "Dusk (Echo)",
     "name": "Dusk (Echo)",
     "id": [
@@ -142902,8 +142546,8 @@
     "slash_defence_bonus": 0,
     "crush_defence_bonus": 0,
     "magic_defence_bonus": 0,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
+    "elemental_weakness": "Earth",
+    "elemental_weakness_percent": 40,
     "light_range_defence_bonus": 0,
     "standard_range_defence_bonus": 0,
     "heavy_range_defence_bonus": 0,
@@ -142954,8 +142598,8 @@
     "slash_defence_bonus": 0,
     "crush_defence_bonus": 0,
     "magic_defence_bonus": 80,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
+    "elemental_weakness": "Earth",
+    "elemental_weakness_percent": 70,
     "light_range_defence_bonus": 0,
     "standard_range_defence_bonus": 0,
     "heavy_range_defence_bonus": 0,
@@ -143003,8 +142647,8 @@
     "slash_defence_bonus": 0,
     "crush_defence_bonus": 0,
     "magic_defence_bonus": 0,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
+    "elemental_weakness": "Earth",
+    "elemental_weakness_percent": 40,
     "light_range_defence_bonus": 0,
     "standard_range_defence_bonus": 0,
     "heavy_range_defence_bonus": 0,
@@ -147044,7 +146688,7 @@
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 1,
-    "examine": "'\"`UNIQ--nowiki-000000AD-QINU`\"'whispers*The seas are not lackin' kraken.",
+    "examine": "'\"`UNIQ--nowiki-00000046-QINU`\"'whispers*The seas are not lackin' kraken.",
     "poison_resistance": "unknown",
     "venom_immune": "unknown",
     "thrall_immune": "unknown",
@@ -162378,7 +162022,7 @@
     "name": "Mad Angel",
     "id": [
       "16309",
-      "16315"
+      "16311"
     ],
     "combat_level": 270,
     "hitpoints": 565,
@@ -162431,7 +162075,7 @@
     "name": "Mad Angel",
     "id": [
       "16305",
-      "16314"
+      "16307"
     ],
     "combat_level": 588,
     "hitpoints": 755,
@@ -162478,5 +162122,160 @@
     "thrall_immune": "unknown",
     "cannon_immune": "Immune",
     "burn_immune": "Immune (strong)"
+  },
+  {
+    "page_name": "Monk of Zamorak (Paterdomus)",
+    "name": "Monk of Zamorak",
+    "id": [
+      "3484",
+      "16271"
+    ],
+    "combat_level": 22,
+    "hitpoints": 20,
+    "attack_level": 18,
+    "strength_level": 18,
+    "defence_level": 22,
+    "magic_level": 25,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [],
+    "max_hit": [
+      "3 (Melee)",
+      "10 (Magic)"
+    ],
+    "attack_style": [
+      "Crush",
+      "Magic"
+    ],
+    "experience_bonus": -75,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 1,
+    "examine": "An evil human cleric.",
+    "poison_resistance": "unknown",
+    "venom_immune": "unknown",
+    "thrall_immune": "Not immune",
+    "cannon_immune": "Not immune",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Monk of Zamorak (Paterdomus)",
+    "name": "Monk of Zamorak",
+    "id": [
+      "3486",
+      "16273"
+    ],
+    "combat_level": 30,
+    "hitpoints": 25,
+    "attack_level": 25,
+    "strength_level": 25,
+    "defence_level": 25,
+    "magic_level": 40,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [],
+    "max_hit": [
+      "3 (Melee)",
+      "8 (Magic)"
+    ],
+    "attack_style": [
+      "Crush",
+      "Magic"
+    ],
+    "experience_bonus": -75,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 1,
+    "examine": "An evil human cleric.",
+    "poison_resistance": "unknown",
+    "venom_immune": "unknown",
+    "thrall_immune": "Not immune",
+    "cannon_immune": "Not immune",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Monk of Zamorak (Paterdomus)",
+    "name": "Monk of Zamorak",
+    "id": [
+      "3485",
+      "16272"
+    ],
+    "combat_level": 17,
+    "hitpoints": 10,
+    "attack_level": 8,
+    "strength_level": 8,
+    "defence_level": 12,
+    "magic_level": 25,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [],
+    "max_hit": [
+      "5"
+    ],
+    "attack_style": [
+      "Crush",
+      "Magic"
+    ],
+    "experience_bonus": -75,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 1,
+    "examine": "An evil human cleric.",
+    "poison_resistance": "unknown",
+    "venom_immune": "unknown",
+    "thrall_immune": "Not immune",
+    "cannon_immune": "Not immune",
+    "burn_immune": "unknown"
   }
 ]

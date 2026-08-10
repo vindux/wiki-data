@@ -52177,7 +52177,7 @@
     "ranged_strength_bonus": 0,
     "magic_damage_bonus": 10,
     "prayer_bonus": 0,
-    "weapon_attack_speed": 5,
+    "weapon_attack_speed": 4,
     "weapon_attack_range": "10",
     "combat_style": "Staff",
     "weight": 2,
@@ -65608,7 +65608,7 @@
     "weight": 1,
     "value": 20000,
     "high_alchemy_value": 12000,
-    "buy_limit": 0,
+    "buy_limit": 15,
     "is_members_only": true
   },
   {
