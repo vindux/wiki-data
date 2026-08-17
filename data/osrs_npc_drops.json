@@ -2542,7 +2542,7 @@
           "quantity": "1"
         },
         {
-          "name": "Prince black dragon",
+          "name": "Prince Black Dragon",
           "rarity": "1/3,000",
           "quantity": "1"
         },
@@ -4942,7 +4942,7 @@
           "quantity": "1"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "2/512",
           "quantity": "1"
         },
@@ -24500,7 +24500,7 @@
           "quantity": "1"
         },
         {
-          "name": "Baby mole",
+          "name": "Baby Mole",
           "rarity": "1/3,000",
           "quantity": "1"
         },
@@ -31171,7 +31171,7 @@
     "drops": {
       "regular": [
         {
-          "name": "Tzrek-jad",
+          "name": "TzRek-Jad",
           "rarity": "1/200",
           "quantity": "1"
         }
@@ -36380,7 +36380,7 @@
           "quantity": "25 (noted)"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "10/126",
           "quantity": "60 (noted)"
         },
@@ -36455,7 +36455,7 @@
           "quantity": "1"
         },
         {
-          "name": "Kalphite princess",
+          "name": "Kalphite Princess",
           "rarity": "1/3,000",
           "quantity": "1"
         }
@@ -36781,7 +36781,7 @@
           "quantity": "25 (noted)"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "10/126",
           "quantity": "60 (noted)"
         },
@@ -36856,7 +36856,7 @@
           "quantity": "1"
         },
         {
-          "name": "Kalphite princess",
+          "name": "Kalphite Princess",
           "rarity": "1/3,000",
           "quantity": "1"
         }
@@ -61863,7 +61863,7 @@
           "quantity": "1"
         },
         {
-          "name": "Pet chaos elemental",
+          "name": "Pet Chaos Elemental",
           "rarity": "1/300",
           "quantity": "1"
         },
@@ -92787,7 +92787,10 @@
       "939",
       "940",
       "941",
-      "942"
+      "942",
+      "16330",
+      "16331",
+      "16332"
     ],
     "combat_level": 69,
     "slayer_level": 1,
@@ -116127,7 +116130,7 @@
           "quantity": "1"
         },
         {
-          "name": "Pet dagannoth rex",
+          "name": "Pet Dagannoth Rex",
           "rarity": "1/5,000",
           "quantity": "1"
         }
@@ -150870,7 +150873,7 @@
           "quantity": "1"
         },
         {
-          "name": "Pet dagannoth supreme",
+          "name": "Pet Dagannoth Supreme",
           "rarity": "1/5,000",
           "quantity": "1"
         }
@@ -151310,7 +151313,7 @@
           "quantity": "1"
         },
         {
-          "name": "Pet dagannoth prime",
+          "name": "Pet Dagannoth Prime",
           "rarity": "1/5,000",
           "quantity": "1"
         }
@@ -154579,11 +154582,6 @@
           "quantity": "1"
         },
         {
-          "name": "Golden key",
-          "rarity": "Always",
-          "quantity": "1"
-        },
-        {
           "name": "Looting bag",
           "rarity": "1/6",
           "quantity": "1"
@@ -154615,11 +154613,6 @@
         {
           "name": "Zamorak monk top",
           "rarity": "1/20",
-          "quantity": "1"
-        },
-        {
-          "name": "Golden key",
-          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -154657,11 +154650,6 @@
           "quantity": "1"
         },
         {
-          "name": "Golden key",
-          "rarity": "Always",
-          "quantity": "1"
-        },
-        {
           "name": "Looting bag",
           "rarity": "1/6",
           "quantity": "1"
@@ -154694,11 +154682,6 @@
         {
           "name": "Zamorak monk top",
           "rarity": "1/20",
-          "quantity": "1"
-        },
-        {
-          "name": "Golden key",
-          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -175859,7 +175842,7 @@
           "quantity": "1"
         },
         {
-          "name": "Frozen key piece (zamorak)",
+          "name": "Frozen key piece (Zamorak)",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -175874,7 +175857,7 @@
           "quantity": "1"
         },
         {
-          "name": "Staff of the dead",
+          "name": "Staff of the Dead",
           "rarity": "1/508",
           "quantity": "1"
         },
@@ -175984,7 +175967,7 @@
           "quantity": "1"
         },
         {
-          "name": "Pet k'ril tsutsaroth",
+          "name": "Pet K'ril Tsutsaroth",
           "rarity": "1/5,000",
           "quantity": "1"
         }
@@ -180377,7 +180360,7 @@
           "quantity": "1"
         },
         {
-          "name": "Frozen key piece (saradomin)",
+          "name": "Frozen key piece (Saradomin)",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -180507,7 +180490,7 @@
           "quantity": "1"
         },
         {
-          "name": "Pet zilyana",
+          "name": "Pet Zilyana",
           "rarity": "1/5,000",
           "quantity": "1"
         }
@@ -184370,7 +184353,7 @@
           "quantity": "1–16"
         },
         {
-          "name": "Frozen key piece (armadyl)",
+          "name": "Frozen key piece (Armadyl)",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -184500,7 +184483,7 @@
           "quantity": "1"
         },
         {
-          "name": "Pet kree'arra",
+          "name": "Pet Kree'arra",
           "rarity": "1/5,000",
           "quantity": "1"
         },
@@ -184650,7 +184633,7 @@
           "quantity": "1"
         },
         {
-          "name": "Frozen key piece (bandos)",
+          "name": "Frozen key piece (Bandos)",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -184775,7 +184758,7 @@
           "quantity": "1"
         },
         {
-          "name": "Pet general graardor",
+          "name": "Pet General Graardor",
           "rarity": "1/5,000",
           "quantity": "1"
         },
@@ -184993,22 +184976,22 @@
         },
         {
           "name": "Small pouch",
-          "rarity": "1/42",
+          "rarity": "1/8",
           "quantity": "1"
         },
         {
           "name": "Medium pouch",
-          "rarity": "1/42",
+          "rarity": "1/8",
           "quantity": "1"
         },
         {
           "name": "Large pouch#New",
-          "rarity": "1/42",
+          "rarity": "1/8",
           "quantity": "1"
         },
         {
           "name": "Giant pouch",
-          "rarity": "1/42",
+          "rarity": "1/8",
           "quantity": "1"
         },
         {
@@ -187498,7 +187481,7 @@
           "quantity": "2"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "8/127",
           "quantity": "5–10 (noted)"
         },
@@ -187513,7 +187496,7 @@
           "quantity": "1"
         },
         {
-          "name": "Frozen key piece (zamorak)",
+          "name": "Frozen key piece (Zamorak)",
           "rarity": "1/20",
           "quantity": "1"
         },
@@ -187833,7 +187816,7 @@
           "quantity": "6 (noted)"
         },
         {
-          "name": "Frozen key piece (saradomin)",
+          "name": "Frozen key piece (Saradomin)",
           "rarity": "1/20",
           "quantity": "1"
         },
@@ -187992,7 +187975,7 @@
           "quantity": "6 (noted)"
         },
         {
-          "name": "Frozen key piece (saradomin)",
+          "name": "Frozen key piece (Saradomin)",
           "rarity": "1/20",
           "quantity": "1"
         },
@@ -188096,7 +188079,7 @@
           "quantity": "6 (noted)"
         },
         {
-          "name": "Frozen key piece (saradomin)",
+          "name": "Frozen key piece (Saradomin)",
           "rarity": "1/20",
           "quantity": "1"
         },
@@ -188176,22 +188159,22 @@
         },
         {
           "name": "Small pouch",
-          "rarity": "1/42",
+          "rarity": "1/5",
           "quantity": "1"
         },
         {
           "name": "Medium pouch",
-          "rarity": "1/42",
+          "rarity": "1/5",
           "quantity": "1"
         },
         {
           "name": "Large pouch#New",
-          "rarity": "1/42",
+          "rarity": "1/5",
           "quantity": "1"
         },
         {
           "name": "Giant pouch",
-          "rarity": "1/42",
+          "rarity": "1/5",
           "quantity": "1"
         },
         {
@@ -195236,7 +195219,7 @@
           "quantity": "1"
         },
         {
-          "name": "Frozen key piece (bandos)",
+          "name": "Frozen key piece (Bandos)",
           "rarity": "1/20",
           "quantity": "1"
         },
@@ -202211,7 +202194,7 @@
           "quantity": "1"
         },
         {
-          "name": "Frozen key piece (bandos)",
+          "name": "Frozen key piece (Bandos)",
           "rarity": "1/20",
           "quantity": "1"
         },
@@ -202340,7 +202323,7 @@
           "quantity": "1"
         },
         {
-          "name": "Frozen key piece (bandos)",
+          "name": "Frozen key piece (Bandos)",
           "rarity": "1/20",
           "quantity": "1"
         },
@@ -202540,7 +202523,7 @@
           "quantity": "1 (noted)"
         },
         {
-          "name": "Frozen key piece (armadyl)",
+          "name": "Frozen key piece (Armadyl)",
           "rarity": "1/20",
           "quantity": "1"
         },
@@ -202659,7 +202642,7 @@
           "quantity": "1 (noted)"
         },
         {
-          "name": "Frozen key piece (armadyl)",
+          "name": "Frozen key piece (Armadyl)",
           "rarity": "1/20",
           "quantity": "1"
         },
@@ -202778,7 +202761,7 @@
           "quantity": "1 (noted)"
         },
         {
-          "name": "Frozen key piece (armadyl)",
+          "name": "Frozen key piece (Armadyl)",
           "rarity": "1/20",
           "quantity": "1"
         },
@@ -205647,7 +205630,7 @@
           "quantity": "2"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "8/127",
           "quantity": "5–10 (noted)"
         },
@@ -205662,7 +205645,7 @@
           "quantity": "1"
         },
         {
-          "name": "Frozen key piece (zamorak)",
+          "name": "Frozen key piece (Zamorak)",
           "rarity": "1/20",
           "quantity": "1"
         },
@@ -205761,7 +205744,7 @@
           "quantity": "2"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "8/127",
           "quantity": "5–10 (noted)"
         },
@@ -205776,7 +205759,7 @@
           "quantity": "1"
         },
         {
-          "name": "Frozen key piece (zamorak)",
+          "name": "Frozen key piece (Zamorak)",
           "rarity": "1/20",
           "quantity": "1"
         },
@@ -208083,7 +208066,7 @@
           "quantity": "1"
         },
         {
-          "name": "Pet kraken",
+          "name": "Pet Kraken",
           "rarity": "1/3,000",
           "quantity": "1"
         }
@@ -208358,7 +208341,7 @@
           "quantity": "1"
         },
         {
-          "name": "Pet kraken",
+          "name": "Pet Kraken",
           "rarity": "1/3,000",
           "quantity": "1"
         }
@@ -214068,7 +214051,7 @@
           "quantity": "60 (noted)"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "5/126",
           "quantity": "100 (noted)"
         },
@@ -214198,7 +214181,7 @@
           "quantity": "1"
         },
         {
-          "name": "Vet'ion jr.",
+          "name": "Vet'ion Jr.",
           "rarity": "1/1,500",
           "quantity": "1"
         },
@@ -214357,7 +214340,7 @@
           "quantity": "60 (noted)"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "5/126",
           "quantity": "100 (noted)"
         },
@@ -214487,7 +214470,7 @@
           "quantity": "1"
         },
         {
-          "name": "Vet'ion jr.",
+          "name": "Vet'ion Jr.",
           "rarity": "1/1,500",
           "quantity": "1"
         },
@@ -215432,7 +215415,7 @@
           "quantity": "1"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "6/128",
           "quantity": "10 (noted)"
         },
@@ -215472,7 +215455,7 @@
           "quantity": "1"
         },
         {
-          "name": "Pet chaos elemental",
+          "name": "Pet Chaos Elemental",
           "rarity": "1/1,000",
           "quantity": "1"
         },
@@ -217801,7 +217784,7 @@
           "quantity": "1"
         },
         {
-          "name": "Pet smoke devil",
+          "name": "Pet Smoke Devil",
           "rarity": "1/3,000",
           "quantity": "1"
         }
@@ -227036,7 +227019,7 @@
           "quantity": "3–64 (noted)"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "Common",
           "quantity": "4–64 (noted)"
         },
@@ -232322,7 +232305,7 @@
           "quantity": "1"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "2/512",
           "quantity": "1"
         },
@@ -236369,7 +236352,7 @@
           "quantity": "1"
         },
         {
-          "name": "Pet snakeling",
+          "name": "Pet Snakeling",
           "rarity": "1/4,000",
           "quantity": "1"
         }
@@ -236759,7 +236742,7 @@
           "quantity": "1"
         },
         {
-          "name": "Pet snakeling",
+          "name": "Pet Snakeling",
           "rarity": "1/4,000",
           "quantity": "1"
         }
@@ -237149,7 +237132,7 @@
           "quantity": "1"
         },
         {
-          "name": "Pet snakeling",
+          "name": "Pet Snakeling",
           "rarity": "1/4,000",
           "quantity": "1"
         }
@@ -241405,7 +241388,7 @@
           "quantity": "1"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "5/130",
           "quantity": "15 (noted)"
         },
@@ -277574,7 +277557,13 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [],
+      "regular": [
+        {
+          "name": "Brimstone key",
+          "rarity": "1/1,648",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   },
@@ -277592,6 +277581,11 @@
           "name": "Dagannoth ribs",
           "rarity": "1/4",
           "quantity": "1"
+        },
+        {
+          "name": "Brimstone key",
+          "rarity": "1/1,648",
+          "quantity": "1"
         }
       ],
       "rare_drop_table": []
@@ -277606,7 +277600,13 @@
     "slayer_level": 50,
     "is_members_only": true,
     "drops": {
-      "regular": [],
+      "regular": [
+        {
+          "name": "Brimstone key",
+          "rarity": "1/1,648",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   },
@@ -277632,7 +277632,13 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [],
+      "regular": [
+        {
+          "name": "Brimstone key",
+          "rarity": "1/1,648",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   },
@@ -277648,7 +277654,7 @@
       "regular": [
         {
           "name": "Brimstone key",
-          "rarity": "Unknown",
+          "rarity": "1/1,648",
           "quantity": "1"
         }
       ],
@@ -283297,7 +283303,7 @@
           "quantity": "2"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "2/128",
           "quantity": "3 (noted)"
         },
@@ -283547,7 +283553,7 @@
           "quantity": "5 (noted)"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "2/112",
           "quantity": "3 (noted)"
         },
@@ -284032,7 +284038,7 @@
           "quantity": "2"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "2/128",
           "quantity": "3 (noted)"
         },
@@ -284282,7 +284288,7 @@
           "quantity": "5 (noted)"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "2/112",
           "quantity": "3 (noted)"
         },
@@ -284972,7 +284978,7 @@
           "quantity": "1"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "2/512",
           "quantity": "1"
         },
@@ -290867,7 +290873,7 @@
           "quantity": "2"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "2/128",
           "quantity": "3 (noted)"
         },
@@ -296940,7 +296946,7 @@
           "quantity": "1"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "2/512",
           "quantity": "1"
         },
@@ -297225,7 +297231,7 @@
           "quantity": "1"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "2/512",
           "quantity": "1"
         },
@@ -297510,7 +297516,7 @@
           "quantity": "1"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "2/512",
           "quantity": "1"
         },
@@ -297795,7 +297801,7 @@
           "quantity": "1"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "2/512",
           "quantity": "1"
         },
@@ -298080,7 +298086,7 @@
           "quantity": "1"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "2/512",
           "quantity": "1"
         },
@@ -298365,7 +298371,7 @@
           "quantity": "1"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "2/512",
           "quantity": "1"
         },
@@ -298650,7 +298656,7 @@
           "quantity": "1"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "2/512",
           "quantity": "1"
         },
@@ -298935,7 +298941,7 @@
           "quantity": "1"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "2/512",
           "quantity": "1"
         },
@@ -299220,7 +299226,7 @@
           "quantity": "1"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "2/512",
           "quantity": "1"
         },
@@ -299505,7 +299511,7 @@
           "quantity": "1"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "2/512",
           "quantity": "1"
         },
@@ -299790,7 +299796,7 @@
           "quantity": "1"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "2/512",
           "quantity": "1"
         },
@@ -300075,7 +300081,7 @@
           "quantity": "1"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "2/512",
           "quantity": "1"
         },
@@ -300360,7 +300366,7 @@
           "quantity": "1"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "2/512",
           "quantity": "1"
         },
@@ -300645,7 +300651,7 @@
           "quantity": "1"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "2/512",
           "quantity": "1"
         },
@@ -300930,7 +300936,7 @@
           "quantity": "1"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "2/512",
           "quantity": "1"
         },
@@ -301215,7 +301221,7 @@
           "quantity": "1"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "2/512",
           "quantity": "1"
         },
@@ -301500,7 +301506,7 @@
           "quantity": "1"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "2/512",
           "quantity": "1"
         },
@@ -303243,7 +303249,7 @@
     "drops": {
       "regular": [
         {
-          "name": "Jal-nib-rek",
+          "name": "Jal-Nib-Rek",
           "rarity": "1/100",
           "quantity": "1"
         }
@@ -303262,7 +303268,7 @@
     "drops": {
       "regular": [
         {
-          "name": "Jal-nib-rek",
+          "name": "Jal-Nib-Rek",
           "rarity": "1/100",
           "quantity": "1"
         }
@@ -327530,7 +327536,7 @@
           "quantity": "1"
         },
         {
-          "name": "Ikkle hydra",
+          "name": "Ikkle Hydra",
           "rarity": "1/3,000",
           "quantity": "1"
         }
@@ -327996,7 +328002,7 @@
           "quantity": "1"
         },
         {
-          "name": "Ikkle hydra",
+          "name": "Ikkle Hydra",
           "rarity": "1/3,000",
           "quantity": "1"
         }
@@ -328462,7 +328468,7 @@
           "quantity": "1"
         },
         {
-          "name": "Ikkle hydra",
+          "name": "Ikkle Hydra",
           "rarity": "1/3,000",
           "quantity": "1"
         }
@@ -328928,7 +328934,7 @@
           "quantity": "1"
         },
         {
-          "name": "Ikkle hydra",
+          "name": "Ikkle Hydra",
           "rarity": "1/3,000",
           "quantity": "1"
         }
@@ -336215,7 +336221,7 @@
           "quantity": "10–15 (noted)"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "2/100",
           "quantity": "5–8 (noted)"
         },
@@ -341997,7 +342003,7 @@
           "quantity": "1"
         },
         {
-          "name": "Little nightmare",
+          "name": "Little Nightmare",
           "rarity": "1/800",
           "quantity": "1"
         },
@@ -343750,7 +343756,7 @@
           "quantity": "1"
         },
         {
-          "name": "Little nightmare",
+          "name": "Little Nightmare",
           "rarity": "1/1,400",
           "quantity": "1"
         },
@@ -350358,57 +350364,57 @@
         {
           "name": "Grimy guam leaf",
           "rarity": "1/11.6",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy marrentill",
           "rarity": "1/15.5",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy tarromin",
           "rarity": "1/20.7",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy harralander",
           "rarity": "1/26.6",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
           "rarity": "1/33.9",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy irit leaf",
           "rarity": "1/46.5",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy avantoe",
           "rarity": "1/62.1",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy kwuarm",
           "rarity": "1/74.5",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy cadantine",
           "rarity": "1/93.1",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy lantadyme",
           "rarity": "1/124.1",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy dwarf weed",
           "rarity": "1/124.1",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Law rune",
@@ -350458,7 +350464,7 @@
         {
           "name": "Coins",
           "rarity": "5/128",
-          "quantity": "5"
+          "quantity": "8"
         },
         {
           "name": "Coins",
@@ -350598,57 +350604,57 @@
         {
           "name": "Grimy guam leaf",
           "rarity": "1/11.6",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy marrentill",
           "rarity": "1/15.5",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy tarromin",
           "rarity": "1/20.7",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy harralander",
           "rarity": "1/26.6",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
           "rarity": "1/33.9",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy irit leaf",
           "rarity": "1/46.5",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy avantoe",
           "rarity": "1/62.1",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy kwuarm",
           "rarity": "1/74.5",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy cadantine",
           "rarity": "1/93.1",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy lantadyme",
           "rarity": "1/124.1",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Grimy dwarf weed",
           "rarity": "1/124.1",
-          "quantity": "1–2"
+          "quantity": "1"
         },
         {
           "name": "Law rune",
@@ -350698,7 +350704,7 @@
         {
           "name": "Coins",
           "rarity": "5/128",
-          "quantity": "5"
+          "quantity": "8"
         },
         {
           "name": "Coins",
@@ -360527,7 +360533,13 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [],
+      "regular": [
+        {
+          "name": "Brimstone key",
+          "rarity": "1/1,648",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   },
@@ -369318,7 +369330,7 @@
           "quantity": "120 (noted)"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "5/128",
           "quantity": "35 (noted)"
         },
@@ -369423,7 +369435,7 @@
           "quantity": "1"
         },
         {
-          "name": "Vet'ion jr.",
+          "name": "Vet'ion Jr.",
           "rarity": "1/2,800",
           "quantity": "1"
         },
@@ -369572,7 +369584,7 @@
           "quantity": "120 (noted)"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "5/128",
           "quantity": "35 (noted)"
         },
@@ -369677,7 +369689,7 @@
           "quantity": "1"
         },
         {
-          "name": "Vet'ion jr.",
+          "name": "Vet'ion Jr.",
           "rarity": "1/2,800",
           "quantity": "1"
         },
@@ -386700,17 +386712,17 @@
       "regular": [
         {
           "name": "Noxious pommel",
-          "rarity": "1/200",
+          "rarity": "1/600",
           "quantity": "1"
         },
         {
           "name": "Noxious point",
-          "rarity": "1/200",
+          "rarity": "1/600",
           "quantity": "1"
         },
         {
           "name": "Noxious blade",
-          "rarity": "1/200",
+          "rarity": "1/600",
           "quantity": "1"
         },
         {
@@ -386959,7 +386971,7 @@
           "quantity": "6 (noted)"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "3/115",
           "quantity": "8 (noted)"
         },
@@ -387155,17 +387167,17 @@
       "regular": [
         {
           "name": "Noxious pommel",
-          "rarity": "1/200",
+          "rarity": "1/600",
           "quantity": "1"
         },
         {
           "name": "Noxious point",
-          "rarity": "1/200",
+          "rarity": "1/600",
           "quantity": "1"
         },
         {
           "name": "Noxious blade",
-          "rarity": "1/200",
+          "rarity": "1/600",
           "quantity": "1"
         },
         {
@@ -387414,7 +387426,7 @@
           "quantity": "6 (noted)"
         },
         {
-          "name": "Wine of zamorak",
+          "name": "Wine of Zamorak",
           "rarity": "3/115",
           "quantity": "8 (noted)"
         },
@@ -441939,7 +441951,7 @@
         {
           "name": "Uncut ruby",
           "rarity": "15/159",
-          "quantity": "6–13 (noted)"
+          "quantity": "10–13 (noted)"
         },
         {
           "name": "Stymphike feather",
@@ -442133,7 +442145,7 @@
         {
           "name": "Uncut ruby",
           "rarity": "15/159",
-          "quantity": "6–13 (noted)"
+          "quantity": "10–13 (noted)"
         },
         {
           "name": "Stymphike feather",
@@ -442327,7 +442339,7 @@
         {
           "name": "Uncut ruby",
           "rarity": "15/159",
-          "quantity": "6–13 (noted)"
+          "quantity": "10–13 (noted)"
         },
         {
           "name": "Stymphike feather",
@@ -443030,7 +443042,7 @@
         },
         {
           "name": "Clue scroll (elite)",
-          "rarity": "Unknown",
+          "rarity": "1/1,250",
           "quantity": "1"
         }
       ],
@@ -443250,7 +443262,7 @@
         },
         {
           "name": "Clue scroll (elite)",
-          "rarity": "Unknown",
+          "rarity": "1/1,250",
           "quantity": "1"
         }
       ],
@@ -443470,7 +443482,7 @@
         },
         {
           "name": "Clue scroll (elite)",
-          "rarity": "Unknown",
+          "rarity": "1/1,250",
           "quantity": "1"
         }
       ],
@@ -443690,7 +443702,7 @@
         },
         {
           "name": "Clue scroll (elite)",
-          "rarity": "Unknown",
+          "rarity": "1/1,250",
           "quantity": "1"
         }
       ],
@@ -443910,7 +443922,7 @@
         },
         {
           "name": "Clue scroll (elite)",
-          "rarity": "Unknown",
+          "rarity": "1/1,250",
           "quantity": "1"
         }
       ],
@@ -444453,7 +444465,7 @@
         },
         {
           "name": "Hallowfell",
-          "rarity": "1/128",
+          "rarity": "1/127",
           "quantity": "1"
         },
         {
@@ -444572,7 +444584,7 @@
           "quantity": "1"
         },
         {
-          "name": "Clue scroll (hard)",
+          "name": "Clue scroll (medium)",
           "rarity": "1/25",
           "quantity": "1"
         },
@@ -444744,7 +444756,7 @@
         },
         {
           "name": "Hallowfell",
-          "rarity": "1/128",
+          "rarity": "1/127",
           "quantity": "1"
         },
         {
@@ -444863,7 +444875,7 @@
           "quantity": "1"
         },
         {
-          "name": "Clue scroll (hard)",
+          "name": "Clue scroll (medium)",
           "rarity": "1/25",
           "quantity": "1"
         },
@@ -445105,6 +445117,25 @@
         },
         {
           "name": "Golden key",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Vampyre Snail",
+    "id": [
+      "16344"
+    ],
+    "combat_level": 346,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Vampyre snelm",
           "rarity": "Always",
           "quantity": "1"
         }

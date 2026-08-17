@@ -15281,8 +15281,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Imbued saradomin max hood",
-      "item_name_variant": "Imbued saradomin max hood",
+      "item_name": "Imbued Saradomin max hood",
+      "item_name_variant": "Imbued Saradomin max hood",
       "item_id": [
         "21778"
       ],
@@ -15308,8 +15308,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Imbued guthix max hood",
-      "item_name_variant": "Imbued guthix max hood",
+      "item_name": "Imbued Guthix max hood",
+      "item_name_variant": "Imbued Guthix max hood",
       "item_id": [
         "21786"
       ],
@@ -15335,8 +15335,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Imbued zamorak max hood",
-      "item_name_variant": "Imbued zamorak max hood",
+      "item_name": "Imbued Zamorak max hood",
+      "item_name_variant": "Imbued Zamorak max hood",
       "item_id": [
         "21782"
       ],
@@ -28280,6 +28280,34 @@
       "high_alchemy_value": 0,
       "buy_limit": 0,
       "is_members_only": false
+    },
+    {
+      "item_name": "Vampyre snelm",
+      "item_name_variant": "Vampyre snelm",
+      "item_id": [
+        "34063"
+      ],
+      "equipment_slot": "head",
+      "stab_attack_bonus": 0,
+      "slash_attack_bonus": 0,
+      "crush_attack_bonus": 0,
+      "range_attack_bonus": -1,
+      "magic_attack_bonus": -3,
+      "stab_defence_bonus": 7,
+      "slash_defence_bonus": 8,
+      "crush_defence_bonus": 6,
+      "range_defence_bonus": 7,
+      "magic_defence_bonus": -1,
+      "strength_bonus": 0,
+      "ranged_strength_bonus": 0,
+      "magic_damage_bonus": 0,
+      "prayer_bonus": 0,
+      "combat_style": "Unarmed",
+      "weight": 0.777,
+      "value": 300,
+      "high_alchemy_value": 180,
+      "buy_limit": 0,
+      "is_members_only": true
     }
   ],
   "weapon": [
@@ -39355,8 +39383,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Staff of the dead",
-      "item_name_variant": "Staff of the dead",
+      "item_name": "Staff of the Dead",
+      "item_name_variant": "Staff of the Dead",
       "item_id": [
         "11791"
       ],
@@ -44422,8 +44450,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Staff of light",
-      "item_name_variant": "Staff of light",
+      "item_name": "Staff of Light",
+      "item_name_variant": "Staff of Light",
       "item_id": [
         "22296"
       ],
@@ -45890,8 +45918,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Staff of bob the cat",
-      "item_name_variant": "Staff of bob the cat",
+      "item_name": "Staff of Bob the Cat",
+      "item_name_variant": "Staff of Bob the Cat",
       "item_id": [
         "23363"
       ],
@@ -46130,8 +46158,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Blade of saeldor",
-      "item_name_variant": "Blade of saeldor#Charged",
+      "item_name": "Blade of Saeldor",
+      "item_name_variant": "Blade of Saeldor#Charged",
       "item_id": [
         "23995"
       ],
@@ -46160,8 +46188,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Blade of saeldor",
-      "item_name_variant": "Blade of saeldor#Inactive",
+      "item_name": "Blade of Saeldor",
+      "item_name_variant": "Blade of Saeldor#Inactive",
       "item_id": [
         "23997"
       ],
@@ -46940,8 +46968,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Staff of balance",
-      "item_name_variant": "Staff of balance",
+      "item_name": "Staff of Balance",
+      "item_name_variant": "Staff of Balance",
       "item_id": [
         "24144"
       ],
@@ -47240,8 +47268,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Eldritch nightmare staff",
-      "item_name_variant": "Eldritch nightmare staff",
+      "item_name": "Eldritch Nightmare staff",
+      "item_name_variant": "Eldritch Nightmare staff",
       "item_id": [
         "24425"
       ],
@@ -47270,8 +47298,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Harmonised nightmare staff",
-      "item_name_variant": "Harmonised nightmare staff",
+      "item_name": "Harmonised Nightmare staff",
+      "item_name_variant": "Harmonised Nightmare staff",
       "item_id": [
         "24423"
       ],
@@ -47300,8 +47328,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Volatile nightmare staff",
-      "item_name_variant": "Volatile nightmare staff",
+      "item_name": "Volatile Nightmare staff",
+      "item_name_variant": "Volatile Nightmare staff",
       "item_id": [
         "24424"
       ],
@@ -47390,8 +47418,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Blade of saeldor (c)",
-      "item_name_variant": "Blade of saeldor (c)",
+      "item_name": "Blade of Saeldor (c)",
+      "item_name_variant": "Blade of Saeldor (c)",
       "item_id": [
         "24551"
       ],
@@ -48680,8 +48708,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Staff of the dead (Last Man Standing)",
-      "item_name_variant": "Staff of the dead (Last Man Standing)",
+      "item_name": "Staff of the Dead (Last Man Standing)",
+      "item_name_variant": "Staff of the Dead (Last Man Standing)",
       "item_id": [
         "23613"
       ],
@@ -48950,8 +48978,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Volatile nightmare staff (Last Man Standing)",
-      "item_name_variant": "Volatile nightmare staff (Last Man Standing)",
+      "item_name": "Volatile Nightmare staff (Last Man Standing)",
+      "item_name_variant": "Volatile Nightmare staff (Last Man Standing)",
       "item_id": [
         "25517"
       ],
@@ -49040,8 +49068,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Blade of saeldor (c) (Iorwerth)",
-      "item_name_variant": "Blade of saeldor (c) (Iorwerth)",
+      "item_name": "Blade of Saeldor (c) (Iorwerth)",
+      "item_name_variant": "Blade of Saeldor (c) (Iorwerth)",
       "item_id": [
         "25872"
       ],
@@ -49070,8 +49098,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Blade of saeldor (c) (Trahaearn)",
-      "item_name_variant": "Blade of saeldor (c) (Trahaearn)",
+      "item_name": "Blade of Saeldor (c) (Trahaearn)",
+      "item_name_variant": "Blade of Saeldor (c) (Trahaearn)",
       "item_id": [
         "25874"
       ],
@@ -49100,8 +49128,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Blade of saeldor (c) (Cadarn)",
-      "item_name_variant": "Blade of saeldor (c) (Cadarn)",
+      "item_name": "Blade of Saeldor (c) (Cadarn)",
+      "item_name_variant": "Blade of Saeldor (c) (Cadarn)",
       "item_id": [
         "25876"
       ],
@@ -49130,8 +49158,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Blade of saeldor (c) (Crwys)",
-      "item_name_variant": "Blade of saeldor (c) (Crwys)",
+      "item_name": "Blade of Saeldor (c) (Crwys)",
+      "item_name_variant": "Blade of Saeldor (c) (Crwys)",
       "item_id": [
         "25878"
       ],
@@ -49160,8 +49188,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Blade of saeldor (c) (Meilyr)",
-      "item_name_variant": "Blade of saeldor (c) (Meilyr)",
+      "item_name": "Blade of Saeldor (c) (Meilyr)",
+      "item_name_variant": "Blade of Saeldor (c) (Meilyr)",
       "item_id": [
         "25880"
       ],
@@ -49190,8 +49218,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Blade of saeldor (c) (Amlodd)",
-      "item_name_variant": "Blade of saeldor (c) (Amlodd)",
+      "item_name": "Blade of Saeldor (c) (Amlodd)",
+      "item_name_variant": "Blade of Saeldor (c) (Amlodd)",
       "item_id": [
         "25882"
       ],
@@ -49220,8 +49248,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Blade of saeldor (c) (Ithell)",
-      "item_name_variant": "Blade of saeldor (c) (Ithell)",
+      "item_name": "Blade of Saeldor (c) (Ithell)",
+      "item_name_variant": "Blade of Saeldor (c) (Ithell)",
       "item_id": [
         "25870"
       ],
@@ -52220,8 +52248,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Corrupted volatile nightmare staff",
-      "item_name_variant": "Corrupted volatile nightmare staff",
+      "item_name": "Corrupted Volatile Nightmare staff",
+      "item_name_variant": "Corrupted Volatile Nightmare staff",
       "item_id": [
         "29602"
       ],
@@ -52250,8 +52278,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Voidwaker (deadman)",
-      "item_name_variant": "Voidwaker (deadman)",
+      "item_name": "Voidwaker (Deadman)",
+      "item_name_variant": "Voidwaker (Deadman)",
       "item_id": [
         "29607"
       ],
@@ -52280,8 +52308,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Volatile nightmare staff (deadman)",
-      "item_name_variant": "Volatile nightmare staff (deadman)",
+      "item_name": "Volatile Nightmare staff (Deadman)",
+      "item_name_variant": "Volatile Nightmare staff (Deadman)",
       "item_id": [
         "29609"
       ],
@@ -53658,8 +53686,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Toxic staff (deadman)",
-      "item_name_variant": "Toxic staff (deadman)#Charged",
+      "item_name": "Toxic staff (Deadman)",
+      "item_name_variant": "Toxic staff (Deadman)#Charged",
       "item_id": [
         "33036"
       ],
@@ -53688,8 +53716,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Toxic staff (deadman)",
-      "item_name_variant": "Toxic staff (deadman)#Uncharged",
+      "item_name": "Toxic staff (Deadman)",
+      "item_name_variant": "Toxic staff (Deadman)#Uncharged",
       "item_id": [
         "33035"
       ],
@@ -56143,8 +56171,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Book of balance",
-      "item_name_variant": "Book of balance",
+      "item_name": "Book of Balance",
+      "item_name_variant": "Book of Balance",
       "item_id": [
         "3844"
       ],
@@ -57736,8 +57764,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Book of darkness",
-      "item_name_variant": "Book of darkness",
+      "item_name": "Book of Darkness",
+      "item_name_variant": "Book of Darkness",
       "item_id": [
         "12612"
       ],
@@ -57763,8 +57791,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Book of law",
-      "item_name_variant": "Book of law",
+      "item_name": "Book of Law",
+      "item_name_variant": "Book of Law",
       "item_id": [
         "12610"
       ],
@@ -57790,8 +57818,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Book of war",
-      "item_name_variant": "Book of war",
+      "item_name": "Book of War",
+      "item_name_variant": "Book of War",
       "item_id": [
         "12608"
       ],
@@ -62693,8 +62721,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Book of the dead",
-      "item_name_variant": "Book of the dead",
+      "item_name": "Book of the Dead",
+      "item_name_variant": "Book of the Dead",
       "item_id": [
         "25818"
       ],
@@ -63646,8 +63674,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Book of balance (or)",
-      "item_name_variant": "Book of balance (or)",
+      "item_name": "Book of Balance (or)",
+      "item_name_variant": "Book of Balance (or)",
       "item_id": [
         "26488"
       ],
@@ -63673,8 +63701,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Book of darkness (or)",
-      "item_name_variant": "Book of darkness (or)",
+      "item_name": "Book of Darkness (or)",
+      "item_name_variant": "Book of Darkness (or)",
       "item_id": [
         "26490"
       ],
@@ -63700,8 +63728,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Book of law (or)",
-      "item_name_variant": "Book of law (or)",
+      "item_name": "Book of Law (or)",
+      "item_name_variant": "Book of Law (or)",
       "item_id": [
         "26492"
       ],
@@ -63727,8 +63755,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Book of war (or)",
-      "item_name_variant": "Book of war (or)",
+      "item_name": "Book of War (or)",
+      "item_name_variant": "Book of War (or)",
       "item_id": [
         "26494"
       ],
@@ -94887,398 +94915,6 @@
       "high_alchemy_value": 300,
       "buy_limit": 0,
       "is_members_only": true
-    },
-    {
-      "item_name": "Wyrmscraig villager robe bottom (A)",
-      "item_name_variant": "Wyrmscraig villager robe bottom (A)#Pink",
-      "item_id": [
-        "33926"
-      ],
-      "equipment_slot": "body",
-      "stab_attack_bonus": 0,
-      "slash_attack_bonus": 0,
-      "crush_attack_bonus": 0,
-      "range_attack_bonus": 0,
-      "magic_attack_bonus": 0,
-      "stab_defence_bonus": 0,
-      "slash_defence_bonus": 0,
-      "crush_defence_bonus": 0,
-      "range_defence_bonus": 0,
-      "magic_defence_bonus": 0,
-      "strength_bonus": 0,
-      "ranged_strength_bonus": 0,
-      "magic_damage_bonus": 0,
-      "prayer_bonus": 0,
-      "combat_style": "Unarmed",
-      "weight": 0.907,
-      "value": 400,
-      "high_alchemy_value": 240,
-      "buy_limit": 0,
-      "is_members_only": true
-    },
-    {
-      "item_name": "Wyrmscraig villager robe bottom (A)",
-      "item_name_variant": "Wyrmscraig villager robe bottom (A)#Blue",
-      "item_id": [
-        "33911"
-      ],
-      "equipment_slot": "body",
-      "stab_attack_bonus": 0,
-      "slash_attack_bonus": 0,
-      "crush_attack_bonus": 0,
-      "range_attack_bonus": 0,
-      "magic_attack_bonus": 0,
-      "stab_defence_bonus": 0,
-      "slash_defence_bonus": 0,
-      "crush_defence_bonus": 0,
-      "range_defence_bonus": 0,
-      "magic_defence_bonus": 0,
-      "strength_bonus": 0,
-      "ranged_strength_bonus": 0,
-      "magic_damage_bonus": 0,
-      "prayer_bonus": 0,
-      "combat_style": "Unarmed",
-      "weight": 0.907,
-      "value": 400,
-      "high_alchemy_value": 240,
-      "buy_limit": 0,
-      "is_members_only": true
-    },
-    {
-      "item_name": "Wyrmscraig villager robe bottom (A)",
-      "item_name_variant": "Wyrmscraig villager robe bottom (A)#Green",
-      "item_id": [
-        "33908"
-      ],
-      "equipment_slot": "body",
-      "stab_attack_bonus": 0,
-      "slash_attack_bonus": 0,
-      "crush_attack_bonus": 0,
-      "range_attack_bonus": 0,
-      "magic_attack_bonus": 0,
-      "stab_defence_bonus": 0,
-      "slash_defence_bonus": 0,
-      "crush_defence_bonus": 0,
-      "range_defence_bonus": 0,
-      "magic_defence_bonus": 0,
-      "strength_bonus": 0,
-      "ranged_strength_bonus": 0,
-      "magic_damage_bonus": 0,
-      "prayer_bonus": 0,
-      "combat_style": "Unarmed",
-      "weight": 0.907,
-      "value": 400,
-      "high_alchemy_value": 240,
-      "buy_limit": 0,
-      "is_members_only": true
-    },
-    {
-      "item_name": "Wyrmscraig villager robe bottom (A)",
-      "item_name_variant": "Wyrmscraig villager robe bottom (A)#Black",
-      "item_id": [
-        "33923"
-      ],
-      "equipment_slot": "body",
-      "stab_attack_bonus": 0,
-      "slash_attack_bonus": 0,
-      "crush_attack_bonus": 0,
-      "range_attack_bonus": 0,
-      "magic_attack_bonus": 0,
-      "stab_defence_bonus": 0,
-      "slash_defence_bonus": 0,
-      "crush_defence_bonus": 0,
-      "range_defence_bonus": 0,
-      "magic_defence_bonus": 0,
-      "strength_bonus": 0,
-      "ranged_strength_bonus": 0,
-      "magic_damage_bonus": 0,
-      "prayer_bonus": 0,
-      "combat_style": "Unarmed",
-      "weight": 0.907,
-      "value": 400,
-      "high_alchemy_value": 240,
-      "buy_limit": 0,
-      "is_members_only": true
-    },
-    {
-      "item_name": "Wyrmscraig villager robe bottom (A)",
-      "item_name_variant": "Wyrmscraig villager robe bottom (A)#Yellow",
-      "item_id": [
-        "33917"
-      ],
-      "equipment_slot": "body",
-      "stab_attack_bonus": 0,
-      "slash_attack_bonus": 0,
-      "crush_attack_bonus": 0,
-      "range_attack_bonus": 0,
-      "magic_attack_bonus": 0,
-      "stab_defence_bonus": 0,
-      "slash_defence_bonus": 0,
-      "crush_defence_bonus": 0,
-      "range_defence_bonus": 0,
-      "magic_defence_bonus": 0,
-      "strength_bonus": 0,
-      "ranged_strength_bonus": 0,
-      "magic_damage_bonus": 0,
-      "prayer_bonus": 0,
-      "combat_style": "Unarmed",
-      "weight": 0.907,
-      "value": 400,
-      "high_alchemy_value": 240,
-      "buy_limit": 0,
-      "is_members_only": true
-    },
-    {
-      "item_name": "Wyrmscraig villager robe bottom (A)",
-      "item_name_variant": "Wyrmscraig villager robe bottom (A)#White",
-      "item_id": [
-        "33920"
-      ],
-      "equipment_slot": "body",
-      "stab_attack_bonus": 0,
-      "slash_attack_bonus": 0,
-      "crush_attack_bonus": 0,
-      "range_attack_bonus": 0,
-      "magic_attack_bonus": 0,
-      "stab_defence_bonus": 0,
-      "slash_defence_bonus": 0,
-      "crush_defence_bonus": 0,
-      "range_defence_bonus": 0,
-      "magic_defence_bonus": 0,
-      "strength_bonus": 0,
-      "ranged_strength_bonus": 0,
-      "magic_damage_bonus": 0,
-      "prayer_bonus": 0,
-      "combat_style": "Unarmed",
-      "weight": 0.907,
-      "value": 400,
-      "high_alchemy_value": 240,
-      "buy_limit": 0,
-      "is_members_only": true
-    },
-    {
-      "item_name": "Wyrmscraig villager robe bottom (A)",
-      "item_name_variant": "Wyrmscraig villager robe bottom (A)#Red",
-      "item_id": [
-        "33914"
-      ],
-      "equipment_slot": "body",
-      "stab_attack_bonus": 0,
-      "slash_attack_bonus": 0,
-      "crush_attack_bonus": 0,
-      "range_attack_bonus": 0,
-      "magic_attack_bonus": 0,
-      "stab_defence_bonus": 0,
-      "slash_defence_bonus": 0,
-      "crush_defence_bonus": 0,
-      "range_defence_bonus": 0,
-      "magic_defence_bonus": 0,
-      "strength_bonus": 0,
-      "ranged_strength_bonus": 0,
-      "magic_damage_bonus": 0,
-      "prayer_bonus": 0,
-      "combat_style": "Unarmed",
-      "weight": 0.907,
-      "value": 400,
-      "high_alchemy_value": 240,
-      "buy_limit": 0,
-      "is_members_only": true
-    },
-    {
-      "item_name": "Wyrmscraig villager robe bottom (B)",
-      "item_name_variant": "Wyrmscraig villager robe bottom (B)#Pink",
-      "item_id": [
-        "33947"
-      ],
-      "equipment_slot": "body",
-      "stab_attack_bonus": 0,
-      "slash_attack_bonus": 0,
-      "crush_attack_bonus": 0,
-      "range_attack_bonus": 0,
-      "magic_attack_bonus": 0,
-      "stab_defence_bonus": 0,
-      "slash_defence_bonus": 0,
-      "crush_defence_bonus": 0,
-      "range_defence_bonus": 0,
-      "magic_defence_bonus": 0,
-      "strength_bonus": 0,
-      "ranged_strength_bonus": 0,
-      "magic_damage_bonus": 0,
-      "prayer_bonus": 0,
-      "combat_style": "Unarmed",
-      "weight": 0.907,
-      "value": 400,
-      "high_alchemy_value": 240,
-      "buy_limit": 0,
-      "is_members_only": true
-    },
-    {
-      "item_name": "Wyrmscraig villager robe bottom (B)",
-      "item_name_variant": "Wyrmscraig villager robe bottom (B)#Blue",
-      "item_id": [
-        "33932"
-      ],
-      "equipment_slot": "body",
-      "stab_attack_bonus": 0,
-      "slash_attack_bonus": 0,
-      "crush_attack_bonus": 0,
-      "range_attack_bonus": 0,
-      "magic_attack_bonus": 0,
-      "stab_defence_bonus": 0,
-      "slash_defence_bonus": 0,
-      "crush_defence_bonus": 0,
-      "range_defence_bonus": 0,
-      "magic_defence_bonus": 0,
-      "strength_bonus": 0,
-      "ranged_strength_bonus": 0,
-      "magic_damage_bonus": 0,
-      "prayer_bonus": 0,
-      "combat_style": "Unarmed",
-      "weight": 0.907,
-      "value": 400,
-      "high_alchemy_value": 240,
-      "buy_limit": 0,
-      "is_members_only": true
-    },
-    {
-      "item_name": "Wyrmscraig villager robe bottom (B)",
-      "item_name_variant": "Wyrmscraig villager robe bottom (B)#Green",
-      "item_id": [
-        "33929"
-      ],
-      "equipment_slot": "body",
-      "stab_attack_bonus": 0,
-      "slash_attack_bonus": 0,
-      "crush_attack_bonus": 0,
-      "range_attack_bonus": 0,
-      "magic_attack_bonus": 0,
-      "stab_defence_bonus": 0,
-      "slash_defence_bonus": 0,
-      "crush_defence_bonus": 0,
-      "range_defence_bonus": 0,
-      "magic_defence_bonus": 0,
-      "strength_bonus": 0,
-      "ranged_strength_bonus": 0,
-      "magic_damage_bonus": 0,
-      "prayer_bonus": 0,
-      "combat_style": "Unarmed",
-      "weight": 0.907,
-      "value": 400,
-      "high_alchemy_value": 240,
-      "buy_limit": 0,
-      "is_members_only": true
-    },
-    {
-      "item_name": "Wyrmscraig villager robe bottom (B)",
-      "item_name_variant": "Wyrmscraig villager robe bottom (B)#Black",
-      "item_id": [
-        "33944"
-      ],
-      "equipment_slot": "body",
-      "stab_attack_bonus": 0,
-      "slash_attack_bonus": 0,
-      "crush_attack_bonus": 0,
-      "range_attack_bonus": 0,
-      "magic_attack_bonus": 0,
-      "stab_defence_bonus": 0,
-      "slash_defence_bonus": 0,
-      "crush_defence_bonus": 0,
-      "range_defence_bonus": 0,
-      "magic_defence_bonus": 0,
-      "strength_bonus": 0,
-      "ranged_strength_bonus": 0,
-      "magic_damage_bonus": 0,
-      "prayer_bonus": 0,
-      "combat_style": "Unarmed",
-      "weight": 0.907,
-      "value": 400,
-      "high_alchemy_value": 240,
-      "buy_limit": 0,
-      "is_members_only": true
-    },
-    {
-      "item_name": "Wyrmscraig villager robe bottom (B)",
-      "item_name_variant": "Wyrmscraig villager robe bottom (B)#Yellow",
-      "item_id": [
-        "33938"
-      ],
-      "equipment_slot": "body",
-      "stab_attack_bonus": 0,
-      "slash_attack_bonus": 0,
-      "crush_attack_bonus": 0,
-      "range_attack_bonus": 0,
-      "magic_attack_bonus": 0,
-      "stab_defence_bonus": 0,
-      "slash_defence_bonus": 0,
-      "crush_defence_bonus": 0,
-      "range_defence_bonus": 0,
-      "magic_defence_bonus": 0,
-      "strength_bonus": 0,
-      "ranged_strength_bonus": 0,
-      "magic_damage_bonus": 0,
-      "prayer_bonus": 0,
-      "combat_style": "Unarmed",
-      "weight": 0.907,
-      "value": 400,
-      "high_alchemy_value": 240,
-      "buy_limit": 0,
-      "is_members_only": true
-    },
-    {
-      "item_name": "Wyrmscraig villager robe bottom (B)",
-      "item_name_variant": "Wyrmscraig villager robe bottom (B)#White",
-      "item_id": [
-        "33941"
-      ],
-      "equipment_slot": "body",
-      "stab_attack_bonus": 0,
-      "slash_attack_bonus": 0,
-      "crush_attack_bonus": 0,
-      "range_attack_bonus": 0,
-      "magic_attack_bonus": 0,
-      "stab_defence_bonus": 0,
-      "slash_defence_bonus": 0,
-      "crush_defence_bonus": 0,
-      "range_defence_bonus": 0,
-      "magic_defence_bonus": 0,
-      "strength_bonus": 0,
-      "ranged_strength_bonus": 0,
-      "magic_damage_bonus": 0,
-      "prayer_bonus": 0,
-      "combat_style": "Unarmed",
-      "weight": 0.907,
-      "value": 400,
-      "high_alchemy_value": 240,
-      "buy_limit": 0,
-      "is_members_only": true
-    },
-    {
-      "item_name": "Wyrmscraig villager robe bottom (B)",
-      "item_name_variant": "Wyrmscraig villager robe bottom (B)#Red",
-      "item_id": [
-        "33935"
-      ],
-      "equipment_slot": "body",
-      "stab_attack_bonus": 0,
-      "slash_attack_bonus": 0,
-      "crush_attack_bonus": 0,
-      "range_attack_bonus": 0,
-      "magic_attack_bonus": 0,
-      "stab_defence_bonus": 0,
-      "slash_defence_bonus": 0,
-      "crush_defence_bonus": 0,
-      "range_defence_bonus": 0,
-      "magic_defence_bonus": 0,
-      "strength_bonus": 0,
-      "ranged_strength_bonus": 0,
-      "magic_damage_bonus": 0,
-      "prayer_bonus": 0,
-      "combat_style": "Unarmed",
-      "weight": 0.907,
-      "value": 400,
-      "high_alchemy_value": 240,
-      "buy_limit": 0,
-      "is_members_only": true
     }
   ],
   "legs": [
@@ -110952,6 +110588,398 @@
       "high_alchemy_value": 240,
       "buy_limit": 0,
       "is_members_only": true
+    },
+    {
+      "item_name": "Wyrmscraig villager robe bottom (A)",
+      "item_name_variant": "Wyrmscraig villager robe bottom (A)#Pink",
+      "item_id": [
+        "33926"
+      ],
+      "equipment_slot": "legs",
+      "stab_attack_bonus": 0,
+      "slash_attack_bonus": 0,
+      "crush_attack_bonus": 0,
+      "range_attack_bonus": 0,
+      "magic_attack_bonus": 0,
+      "stab_defence_bonus": 0,
+      "slash_defence_bonus": 0,
+      "crush_defence_bonus": 0,
+      "range_defence_bonus": 0,
+      "magic_defence_bonus": 0,
+      "strength_bonus": 0,
+      "ranged_strength_bonus": 0,
+      "magic_damage_bonus": 0,
+      "prayer_bonus": 0,
+      "combat_style": "Unarmed",
+      "weight": 0.907,
+      "value": 400,
+      "high_alchemy_value": 240,
+      "buy_limit": 0,
+      "is_members_only": true
+    },
+    {
+      "item_name": "Wyrmscraig villager robe bottom (A)",
+      "item_name_variant": "Wyrmscraig villager robe bottom (A)#Blue",
+      "item_id": [
+        "33911"
+      ],
+      "equipment_slot": "legs",
+      "stab_attack_bonus": 0,
+      "slash_attack_bonus": 0,
+      "crush_attack_bonus": 0,
+      "range_attack_bonus": 0,
+      "magic_attack_bonus": 0,
+      "stab_defence_bonus": 0,
+      "slash_defence_bonus": 0,
+      "crush_defence_bonus": 0,
+      "range_defence_bonus": 0,
+      "magic_defence_bonus": 0,
+      "strength_bonus": 0,
+      "ranged_strength_bonus": 0,
+      "magic_damage_bonus": 0,
+      "prayer_bonus": 0,
+      "combat_style": "Unarmed",
+      "weight": 0.907,
+      "value": 400,
+      "high_alchemy_value": 240,
+      "buy_limit": 0,
+      "is_members_only": true
+    },
+    {
+      "item_name": "Wyrmscraig villager robe bottom (A)",
+      "item_name_variant": "Wyrmscraig villager robe bottom (A)#Green",
+      "item_id": [
+        "33908"
+      ],
+      "equipment_slot": "legs",
+      "stab_attack_bonus": 0,
+      "slash_attack_bonus": 0,
+      "crush_attack_bonus": 0,
+      "range_attack_bonus": 0,
+      "magic_attack_bonus": 0,
+      "stab_defence_bonus": 0,
+      "slash_defence_bonus": 0,
+      "crush_defence_bonus": 0,
+      "range_defence_bonus": 0,
+      "magic_defence_bonus": 0,
+      "strength_bonus": 0,
+      "ranged_strength_bonus": 0,
+      "magic_damage_bonus": 0,
+      "prayer_bonus": 0,
+      "combat_style": "Unarmed",
+      "weight": 0.907,
+      "value": 400,
+      "high_alchemy_value": 240,
+      "buy_limit": 0,
+      "is_members_only": true
+    },
+    {
+      "item_name": "Wyrmscraig villager robe bottom (A)",
+      "item_name_variant": "Wyrmscraig villager robe bottom (A)#Black",
+      "item_id": [
+        "33923"
+      ],
+      "equipment_slot": "legs",
+      "stab_attack_bonus": 0,
+      "slash_attack_bonus": 0,
+      "crush_attack_bonus": 0,
+      "range_attack_bonus": 0,
+      "magic_attack_bonus": 0,
+      "stab_defence_bonus": 0,
+      "slash_defence_bonus": 0,
+      "crush_defence_bonus": 0,
+      "range_defence_bonus": 0,
+      "magic_defence_bonus": 0,
+      "strength_bonus": 0,
+      "ranged_strength_bonus": 0,
+      "magic_damage_bonus": 0,
+      "prayer_bonus": 0,
+      "combat_style": "Unarmed",
+      "weight": 0.907,
+      "value": 400,
+      "high_alchemy_value": 240,
+      "buy_limit": 0,
+      "is_members_only": true
+    },
+    {
+      "item_name": "Wyrmscraig villager robe bottom (A)",
+      "item_name_variant": "Wyrmscraig villager robe bottom (A)#Yellow",
+      "item_id": [
+        "33917"
+      ],
+      "equipment_slot": "legs",
+      "stab_attack_bonus": 0,
+      "slash_attack_bonus": 0,
+      "crush_attack_bonus": 0,
+      "range_attack_bonus": 0,
+      "magic_attack_bonus": 0,
+      "stab_defence_bonus": 0,
+      "slash_defence_bonus": 0,
+      "crush_defence_bonus": 0,
+      "range_defence_bonus": 0,
+      "magic_defence_bonus": 0,
+      "strength_bonus": 0,
+      "ranged_strength_bonus": 0,
+      "magic_damage_bonus": 0,
+      "prayer_bonus": 0,
+      "combat_style": "Unarmed",
+      "weight": 0.907,
+      "value": 400,
+      "high_alchemy_value": 240,
+      "buy_limit": 0,
+      "is_members_only": true
+    },
+    {
+      "item_name": "Wyrmscraig villager robe bottom (A)",
+      "item_name_variant": "Wyrmscraig villager robe bottom (A)#White",
+      "item_id": [
+        "33920"
+      ],
+      "equipment_slot": "legs",
+      "stab_attack_bonus": 0,
+      "slash_attack_bonus": 0,
+      "crush_attack_bonus": 0,
+      "range_attack_bonus": 0,
+      "magic_attack_bonus": 0,
+      "stab_defence_bonus": 0,
+      "slash_defence_bonus": 0,
+      "crush_defence_bonus": 0,
+      "range_defence_bonus": 0,
+      "magic_defence_bonus": 0,
+      "strength_bonus": 0,
+      "ranged_strength_bonus": 0,
+      "magic_damage_bonus": 0,
+      "prayer_bonus": 0,
+      "combat_style": "Unarmed",
+      "weight": 0.907,
+      "value": 400,
+      "high_alchemy_value": 240,
+      "buy_limit": 0,
+      "is_members_only": true
+    },
+    {
+      "item_name": "Wyrmscraig villager robe bottom (A)",
+      "item_name_variant": "Wyrmscraig villager robe bottom (A)#Red",
+      "item_id": [
+        "33914"
+      ],
+      "equipment_slot": "legs",
+      "stab_attack_bonus": 0,
+      "slash_attack_bonus": 0,
+      "crush_attack_bonus": 0,
+      "range_attack_bonus": 0,
+      "magic_attack_bonus": 0,
+      "stab_defence_bonus": 0,
+      "slash_defence_bonus": 0,
+      "crush_defence_bonus": 0,
+      "range_defence_bonus": 0,
+      "magic_defence_bonus": 0,
+      "strength_bonus": 0,
+      "ranged_strength_bonus": 0,
+      "magic_damage_bonus": 0,
+      "prayer_bonus": 0,
+      "combat_style": "Unarmed",
+      "weight": 0.907,
+      "value": 400,
+      "high_alchemy_value": 240,
+      "buy_limit": 0,
+      "is_members_only": true
+    },
+    {
+      "item_name": "Wyrmscraig villager robe bottom (B)",
+      "item_name_variant": "Wyrmscraig villager robe bottom (B)#Pink",
+      "item_id": [
+        "33947"
+      ],
+      "equipment_slot": "legs",
+      "stab_attack_bonus": 0,
+      "slash_attack_bonus": 0,
+      "crush_attack_bonus": 0,
+      "range_attack_bonus": 0,
+      "magic_attack_bonus": 0,
+      "stab_defence_bonus": 0,
+      "slash_defence_bonus": 0,
+      "crush_defence_bonus": 0,
+      "range_defence_bonus": 0,
+      "magic_defence_bonus": 0,
+      "strength_bonus": 0,
+      "ranged_strength_bonus": 0,
+      "magic_damage_bonus": 0,
+      "prayer_bonus": 0,
+      "combat_style": "Unarmed",
+      "weight": 0.907,
+      "value": 400,
+      "high_alchemy_value": 240,
+      "buy_limit": 0,
+      "is_members_only": true
+    },
+    {
+      "item_name": "Wyrmscraig villager robe bottom (B)",
+      "item_name_variant": "Wyrmscraig villager robe bottom (B)#Blue",
+      "item_id": [
+        "33932"
+      ],
+      "equipment_slot": "legs",
+      "stab_attack_bonus": 0,
+      "slash_attack_bonus": 0,
+      "crush_attack_bonus": 0,
+      "range_attack_bonus": 0,
+      "magic_attack_bonus": 0,
+      "stab_defence_bonus": 0,
+      "slash_defence_bonus": 0,
+      "crush_defence_bonus": 0,
+      "range_defence_bonus": 0,
+      "magic_defence_bonus": 0,
+      "strength_bonus": 0,
+      "ranged_strength_bonus": 0,
+      "magic_damage_bonus": 0,
+      "prayer_bonus": 0,
+      "combat_style": "Unarmed",
+      "weight": 0.907,
+      "value": 400,
+      "high_alchemy_value": 240,
+      "buy_limit": 0,
+      "is_members_only": true
+    },
+    {
+      "item_name": "Wyrmscraig villager robe bottom (B)",
+      "item_name_variant": "Wyrmscraig villager robe bottom (B)#Green",
+      "item_id": [
+        "33929"
+      ],
+      "equipment_slot": "legs",
+      "stab_attack_bonus": 0,
+      "slash_attack_bonus": 0,
+      "crush_attack_bonus": 0,
+      "range_attack_bonus": 0,
+      "magic_attack_bonus": 0,
+      "stab_defence_bonus": 0,
+      "slash_defence_bonus": 0,
+      "crush_defence_bonus": 0,
+      "range_defence_bonus": 0,
+      "magic_defence_bonus": 0,
+      "strength_bonus": 0,
+      "ranged_strength_bonus": 0,
+      "magic_damage_bonus": 0,
+      "prayer_bonus": 0,
+      "combat_style": "Unarmed",
+      "weight": 0.907,
+      "value": 400,
+      "high_alchemy_value": 240,
+      "buy_limit": 0,
+      "is_members_only": true
+    },
+    {
+      "item_name": "Wyrmscraig villager robe bottom (B)",
+      "item_name_variant": "Wyrmscraig villager robe bottom (B)#Black",
+      "item_id": [
+        "33944"
+      ],
+      "equipment_slot": "legs",
+      "stab_attack_bonus": 0,
+      "slash_attack_bonus": 0,
+      "crush_attack_bonus": 0,
+      "range_attack_bonus": 0,
+      "magic_attack_bonus": 0,
+      "stab_defence_bonus": 0,
+      "slash_defence_bonus": 0,
+      "crush_defence_bonus": 0,
+      "range_defence_bonus": 0,
+      "magic_defence_bonus": 0,
+      "strength_bonus": 0,
+      "ranged_strength_bonus": 0,
+      "magic_damage_bonus": 0,
+      "prayer_bonus": 0,
+      "combat_style": "Unarmed",
+      "weight": 0.907,
+      "value": 400,
+      "high_alchemy_value": 240,
+      "buy_limit": 0,
+      "is_members_only": true
+    },
+    {
+      "item_name": "Wyrmscraig villager robe bottom (B)",
+      "item_name_variant": "Wyrmscraig villager robe bottom (B)#Yellow",
+      "item_id": [
+        "33938"
+      ],
+      "equipment_slot": "legs",
+      "stab_attack_bonus": 0,
+      "slash_attack_bonus": 0,
+      "crush_attack_bonus": 0,
+      "range_attack_bonus": 0,
+      "magic_attack_bonus": 0,
+      "stab_defence_bonus": 0,
+      "slash_defence_bonus": 0,
+      "crush_defence_bonus": 0,
+      "range_defence_bonus": 0,
+      "magic_defence_bonus": 0,
+      "strength_bonus": 0,
+      "ranged_strength_bonus": 0,
+      "magic_damage_bonus": 0,
+      "prayer_bonus": 0,
+      "combat_style": "Unarmed",
+      "weight": 0.907,
+      "value": 400,
+      "high_alchemy_value": 240,
+      "buy_limit": 0,
+      "is_members_only": true
+    },
+    {
+      "item_name": "Wyrmscraig villager robe bottom (B)",
+      "item_name_variant": "Wyrmscraig villager robe bottom (B)#White",
+      "item_id": [
+        "33941"
+      ],
+      "equipment_slot": "legs",
+      "stab_attack_bonus": 0,
+      "slash_attack_bonus": 0,
+      "crush_attack_bonus": 0,
+      "range_attack_bonus": 0,
+      "magic_attack_bonus": 0,
+      "stab_defence_bonus": 0,
+      "slash_defence_bonus": 0,
+      "crush_defence_bonus": 0,
+      "range_defence_bonus": 0,
+      "magic_defence_bonus": 0,
+      "strength_bonus": 0,
+      "ranged_strength_bonus": 0,
+      "magic_damage_bonus": 0,
+      "prayer_bonus": 0,
+      "combat_style": "Unarmed",
+      "weight": 0.907,
+      "value": 400,
+      "high_alchemy_value": 240,
+      "buy_limit": 0,
+      "is_members_only": true
+    },
+    {
+      "item_name": "Wyrmscraig villager robe bottom (B)",
+      "item_name_variant": "Wyrmscraig villager robe bottom (B)#Red",
+      "item_id": [
+        "33935"
+      ],
+      "equipment_slot": "legs",
+      "stab_attack_bonus": 0,
+      "slash_attack_bonus": 0,
+      "crush_attack_bonus": 0,
+      "range_attack_bonus": 0,
+      "magic_attack_bonus": 0,
+      "stab_defence_bonus": 0,
+      "slash_defence_bonus": 0,
+      "crush_defence_bonus": 0,
+      "range_defence_bonus": 0,
+      "magic_defence_bonus": 0,
+      "strength_bonus": 0,
+      "ranged_strength_bonus": 0,
+      "magic_damage_bonus": 0,
+      "prayer_bonus": 0,
+      "combat_style": "Unarmed",
+      "weight": 0.907,
+      "value": 400,
+      "high_alchemy_value": 240,
+      "buy_limit": 0,
+      "is_members_only": true
     }
   ],
   "2h": [
@@ -119055,8 +119083,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Bow of faerdhinen",
-      "item_name_variant": "Bow of faerdhinen#Charged",
+      "item_name": "Bow of Faerdhinen",
+      "item_name_variant": "Bow of Faerdhinen#Charged",
       "item_id": [
         "25865"
       ],
@@ -119085,8 +119113,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Bow of faerdhinen",
-      "item_name_variant": "Bow of faerdhinen#Inactive",
+      "item_name": "Bow of Faerdhinen",
+      "item_name_variant": "Bow of Faerdhinen#Inactive",
       "item_id": [
         "25862"
       ],
@@ -119115,8 +119143,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Bow of faerdhinen (c)",
-      "item_name_variant": "Bow of faerdhinen (c)",
+      "item_name": "Bow of Faerdhinen (c)",
+      "item_name_variant": "Bow of Faerdhinen (c)",
       "item_id": [
         "25867"
       ],
@@ -119325,8 +119353,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Bow of faerdhinen (c) (Iorwerth)",
-      "item_name_variant": "Bow of faerdhinen (c) (Iorwerth)",
+      "item_name": "Bow of Faerdhinen (c) (Iorwerth)",
+      "item_name_variant": "Bow of Faerdhinen (c) (Iorwerth)",
       "item_id": [
         "25886"
       ],
@@ -119355,8 +119383,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Bow of faerdhinen (c) (Trahaearn)",
-      "item_name_variant": "Bow of faerdhinen (c) (Trahaearn)",
+      "item_name": "Bow of Faerdhinen (c) (Trahaearn)",
+      "item_name_variant": "Bow of Faerdhinen (c) (Trahaearn)",
       "item_id": [
         "25888"
       ],
@@ -119385,8 +119413,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Bow of faerdhinen (c) (Cadarn)",
-      "item_name_variant": "Bow of faerdhinen (c) (Cadarn)",
+      "item_name": "Bow of Faerdhinen (c) (Cadarn)",
+      "item_name_variant": "Bow of Faerdhinen (c) (Cadarn)",
       "item_id": [
         "25890"
       ],
@@ -119415,8 +119443,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Bow of faerdhinen (c) (Crwys)",
-      "item_name_variant": "Bow of faerdhinen (c) (Crwys)",
+      "item_name": "Bow of Faerdhinen (c) (Crwys)",
+      "item_name_variant": "Bow of Faerdhinen (c) (Crwys)",
       "item_id": [
         "25892"
       ],
@@ -119445,8 +119473,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Bow of faerdhinen (c) (Meilyr)",
-      "item_name_variant": "Bow of faerdhinen (c) (Meilyr)",
+      "item_name": "Bow of Faerdhinen (c) (Meilyr)",
+      "item_name_variant": "Bow of Faerdhinen (c) (Meilyr)",
       "item_id": [
         "25894"
       ],
@@ -119475,8 +119503,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Bow of faerdhinen (c) (Amlodd)",
-      "item_name_variant": "Bow of faerdhinen (c) (Amlodd)",
+      "item_name": "Bow of Faerdhinen (c) (Amlodd)",
+      "item_name_variant": "Bow of Faerdhinen (c) (Amlodd)",
       "item_id": [
         "25896"
       ],
@@ -119505,8 +119533,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Bow of faerdhinen (c) (Ithell)",
-      "item_name_variant": "Bow of faerdhinen (c) (Ithell)",
+      "item_name": "Bow of Faerdhinen (c) (Ithell)",
+      "item_name_variant": "Bow of Faerdhinen (c) (Ithell)",
       "item_id": [
         "25884"
       ],
@@ -121905,8 +121933,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Armadyl godsword (deadman)",
-      "item_name_variant": "Armadyl godsword (deadman)",
+      "item_name": "Armadyl godsword (Deadman)",
+      "item_name_variant": "Armadyl godsword (Deadman)",
       "item_id": [
         "29605"
       ],
@@ -121935,8 +121963,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Dark bow (deadman)",
-      "item_name_variant": "Dark bow (deadman)",
+      "item_name": "Dark bow (Deadman)",
+      "item_name_variant": "Dark bow (Deadman)",
       "item_id": [
         "29611"
       ],
@@ -134206,8 +134234,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Bow of faerdhinen (c) (deadman)",
-      "item_name_variant": "Bow of faerdhinen (c) (deadman)",
+      "item_name": "Bow of Faerdhinen (c) (deadman)",
+      "item_name_variant": "Bow of Faerdhinen (c) (deadman)",
       "item_id": [
         "33021"
       ],
@@ -134596,8 +134624,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Bow of faerdhinen (c) (Last Man Standing)",
-      "item_name_variant": "Bow of faerdhinen (c) (Last Man Standing)",
+      "item_name": "Bow of Faerdhinen (c) (Last Man Standing)",
+      "item_name_variant": "Bow of Faerdhinen (c) (Last Man Standing)",
       "item_id": [
         "27187"
       ],
@@ -145847,8 +145875,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Imbued saradomin max cape",
-      "item_name_variant": "Imbued saradomin max cape#Broken",
+      "item_name": "Imbued Saradomin max cape",
+      "item_name_variant": "Imbued Saradomin max cape#Broken",
       "item_id": [
         "24238"
       ],
@@ -145874,8 +145902,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Imbued saradomin max cape",
-      "item_name_variant": "Imbued saradomin max cape#Locked",
+      "item_name": "Imbued Saradomin max cape",
+      "item_name_variant": "Imbued Saradomin max cape#Locked",
       "item_id": [
         "24232"
       ],
@@ -145901,8 +145929,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Imbued saradomin max cape",
-      "item_name_variant": "Imbued saradomin max cape#Normal",
+      "item_name": "Imbued Saradomin max cape",
+      "item_name_variant": "Imbued Saradomin max cape#Normal",
       "item_id": [
         "21776"
       ],
@@ -145928,8 +145956,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Imbued guthix max cape",
-      "item_name_variant": "Imbued guthix max cape#Broken",
+      "item_name": "Imbued Guthix max cape",
+      "item_name_variant": "Imbued Guthix max cape#Broken",
       "item_id": [
         "24242"
       ],
@@ -145955,8 +145983,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Imbued guthix max cape",
-      "item_name_variant": "Imbued guthix max cape#Locked",
+      "item_name": "Imbued Guthix max cape",
+      "item_name_variant": "Imbued Guthix max cape#Locked",
       "item_id": [
         "24234"
       ],
@@ -145982,8 +146010,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Imbued guthix max cape",
-      "item_name_variant": "Imbued guthix max cape#Normal",
+      "item_name": "Imbued Guthix max cape",
+      "item_name_variant": "Imbued Guthix max cape#Normal",
       "item_id": [
         "21784"
       ],
@@ -146009,8 +146037,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Imbued zamorak max cape",
-      "item_name_variant": "Imbued zamorak max cape#Broken",
+      "item_name": "Imbued Zamorak max cape",
+      "item_name_variant": "Imbued Zamorak max cape#Broken",
       "item_id": [
         "24246"
       ],
@@ -146036,8 +146064,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Imbued zamorak max cape",
-      "item_name_variant": "Imbued zamorak max cape#Locked",
+      "item_name": "Imbued Zamorak max cape",
+      "item_name_variant": "Imbued Zamorak max cape#Locked",
       "item_id": [
         "24233"
       ],
@@ -146063,8 +146091,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Imbued zamorak max cape",
-      "item_name_variant": "Imbued zamorak max cape#Normal",
+      "item_name": "Imbued Zamorak max cape",
+      "item_name_variant": "Imbued Zamorak max cape#Normal",
       "item_id": [
         "21780"
       ],
@@ -146090,8 +146118,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Imbued saradomin cape",
-      "item_name_variant": "Imbued saradomin cape#Broken",
+      "item_name": "Imbued Saradomin cape",
+      "item_name_variant": "Imbued Saradomin cape#Broken",
       "item_id": [
         "24236"
       ],
@@ -146117,8 +146145,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Imbued saradomin cape",
-      "item_name_variant": "Imbued saradomin cape#Locked",
+      "item_name": "Imbued Saradomin cape",
+      "item_name_variant": "Imbued Saradomin cape#Locked",
       "item_id": [
         "24248"
       ],
@@ -146144,8 +146172,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Imbued saradomin cape",
-      "item_name_variant": "Imbued saradomin cape#Normal",
+      "item_name": "Imbued Saradomin cape",
+      "item_name_variant": "Imbued Saradomin cape#Normal",
       "item_id": [
         "21791"
       ],
@@ -146171,8 +146199,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Imbued guthix cape",
-      "item_name_variant": "Imbued guthix cape#Broken",
+      "item_name": "Imbued Guthix cape",
+      "item_name_variant": "Imbued Guthix cape#Broken",
       "item_id": [
         "24240"
       ],
@@ -146198,8 +146226,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Imbued guthix cape",
-      "item_name_variant": "Imbued guthix cape#Locked",
+      "item_name": "Imbued Guthix cape",
+      "item_name_variant": "Imbued Guthix cape#Locked",
       "item_id": [
         "24249"
       ],
@@ -146225,8 +146253,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Imbued guthix cape",
-      "item_name_variant": "Imbued guthix cape#Normal",
+      "item_name": "Imbued Guthix cape",
+      "item_name_variant": "Imbued Guthix cape#Normal",
       "item_id": [
         "21793"
       ],
@@ -146252,8 +146280,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Imbued zamorak cape",
-      "item_name_variant": "Imbued zamorak cape#Broken",
+      "item_name": "Imbued Zamorak cape",
+      "item_name_variant": "Imbued Zamorak cape#Broken",
       "item_id": [
         "24244"
       ],
@@ -146279,8 +146307,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Imbued zamorak cape",
-      "item_name_variant": "Imbued zamorak cape#Locked",
+      "item_name": "Imbued Zamorak cape",
+      "item_name_variant": "Imbued Zamorak cape#Locked",
       "item_id": [
         "24250"
       ],
@@ -146306,8 +146334,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Imbued zamorak cape",
-      "item_name_variant": "Imbued zamorak cape#Normal",
+      "item_name": "Imbued Zamorak cape",
+      "item_name_variant": "Imbued Zamorak cape#Normal",
       "item_id": [
         "21795"
       ],
@@ -148466,8 +148494,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Imbued guthix cape (Last Man Standing)",
-      "item_name_variant": "Imbued guthix cape (Last Man Standing)",
+      "item_name": "Imbued Guthix cape (Last Man Standing)",
+      "item_name_variant": "Imbued Guthix cape (Last Man Standing)",
       "item_id": [
         "23603"
       ],
@@ -148493,8 +148521,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Imbued saradomin cape (Last Man Standing)",
-      "item_name_variant": "Imbued saradomin cape (Last Man Standing)",
+      "item_name": "Imbued Saradomin cape (Last Man Standing)",
+      "item_name_variant": "Imbued Saradomin cape (Last Man Standing)",
       "item_id": [
         "23607"
       ],
@@ -148520,8 +148548,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Imbued zamorak cape (Last Man Standing)",
-      "item_name_variant": "Imbued zamorak cape (Last Man Standing)",
+      "item_name": "Imbued Zamorak cape (Last Man Standing)",
+      "item_name_variant": "Imbued Zamorak cape (Last Man Standing)",
       "item_id": [
         "23605"
       ],
@@ -150269,8 +150297,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Imbued zamorak cape (deadman)",
-      "item_name_variant": "Imbued zamorak cape (deadman)",
+      "item_name": "Imbued Zamorak cape (Deadman)",
+      "item_name_variant": "Imbued Zamorak cape (Deadman)",
       "item_id": [
         "29613"
       ],
@@ -150296,8 +150324,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Imbued guthix cape (deadman)",
-      "item_name_variant": "Imbued guthix cape (deadman)",
+      "item_name": "Imbued Guthix cape (Deadman)",
+      "item_name_variant": "Imbued Guthix cape (Deadman)",
       "item_id": [
         "29615"
       ],
@@ -150323,8 +150351,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Imbued saradomin cape (deadman)",
-      "item_name_variant": "Imbued saradomin cape (deadman)",
+      "item_name": "Imbued Saradomin cape (Deadman)",
+      "item_name_variant": "Imbued Saradomin cape (Deadman)",
       "item_id": [
         "29617"
       ],
