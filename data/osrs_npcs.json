@@ -22375,7 +22375,7 @@
     "experience_bonus": 10,
     "is_members_only": true,
     "slayer_level": 1,
-    "slayer_experience": 182,
+    "slayer_experience": 181.5,
     "size": 1,
     "examine": "A warrior touched by chaos.",
     "poison_resistance": "unknown",
@@ -31852,7 +31852,7 @@
     "attack_speed": 4,
     "attribute": [],
     "max_hit": [
-      "115% of targeted player's max hit'\"`UNIQ--ref-0000024E-QINU`\"'"
+      "115% of targeted player's max hit'\"`UNIQ--ref-00000279-QINU`\"'"
     ],
     "attack_style": [
       "Slash"
@@ -43789,7 +43789,7 @@
     ],
     "attack_style": [
       "Stab",
-      "Magic"
+      "Ranged"
     ],
     "experience_bonus": -75,
     "is_members_only": true,
@@ -72294,7 +72294,7 @@
     "slayer_level": 85,
     "slayer_experience": 50,
     "size": 2,
-    "examine": "'\"`UNIQ--nowiki-0000001A-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
+    "examine": "'\"`UNIQ--nowiki-000000C8-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
     "poison_resistance": "unknown",
     "venom_immune": "unknown",
     "thrall_immune": "Not immune",
@@ -79072,7 +79072,7 @@
       "Magic",
       "Dragonfire"
     ],
-    "experience_bonus": 5,
+    "experience_bonus": 7.5,
     "is_members_only": true,
     "slayer_level": 77,
     "slayer_experience": 346.4,
@@ -87414,7 +87414,7 @@
     "attack_speed": 10,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-000000F8-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-000000EC-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -87464,7 +87464,7 @@
     "attack_speed": 7,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-000000F8-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-000000EC-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -89593,7 +89593,7 @@
       "15 (melee) 33 (special attack)"
     ],
     "attack_style": [
-      "Slash '\"`UNIQ--ref-000002D7-QINU`\"'"
+      "Slash '\"`UNIQ--ref-000000B0-QINU`\"'"
     ],
     "experience_bonus": 0,
     "is_members_only": true,
@@ -111109,7 +111109,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "30-37 (Melee)'\"`UNIQ--ref-00000053-QINU`\"'",
+      "30-37 (Melee)'\"`UNIQ--ref-0000004E-QINU`\"'",
       "?? (axes)"
     ],
     "attack_style": [
@@ -111160,7 +111160,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "46-61 (Melee)'\"`UNIQ--ref-00000052-QINU`\"'",
+      "46-61 (Melee)'\"`UNIQ--ref-0000004D-QINU`\"'",
       "96 (axes)"
     ],
     "attack_style": [
@@ -111211,7 +111211,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "32-43 (Melee)'\"`UNIQ--ref-00000051-QINU`\"'",
+      "32-43 (Melee)'\"`UNIQ--ref-0000004C-QINU`\"'",
       "35 (axes)"
     ],
     "attack_style": [
@@ -118288,15 +118288,15 @@
     "magic_damage_bonus": 54,
     "range_attack_bonus": 140,
     "range_strength_bonus": 66,
-    "stab_defence_bonus": 180,
-    "slash_defence_bonus": 300,
-    "crush_defence_bonus": 220,
-    "magic_defence_bonus": 10,
+    "stab_defence_bonus": 150,
+    "slash_defence_bonus": 250,
+    "crush_defence_bonus": 180,
+    "magic_defence_bonus": -10,
     "elemental_weakness": "Earth",
     "elemental_weakness_percent": 60,
-    "light_range_defence_bonus": 300,
-    "standard_range_defence_bonus": 300,
-    "heavy_range_defence_bonus": 300,
+    "light_range_defence_bonus": 250,
+    "standard_range_defence_bonus": 250,
+    "heavy_range_defence_bonus": 250,
     "flat_armour": 0,
     "attack_speed": 10,
     "attribute": [],
@@ -131168,7 +131168,7 @@
     ],
     "attack_style": [
       "Crush",
-      "'\"`UNIQ--ref-00000114-QINU`\"' Magic",
+      "'\"`UNIQ--ref-00000134-QINU`\"' Magic",
       "Ranged"
     ],
     "experience_bonus": 67.5,
@@ -131431,58 +131431,7 @@
   {
     "page_name": "Minotaur (Fortis Colosseum)",
     "name": "Minotaur",
-    "id": [
-      "12812"
-    ],
-    "combat_level": 318,
-    "hitpoints": 225,
-    "attack_level": 300,
-    "strength_level": 360,
-    "defence_level": 190,
-    "magic_level": 250,
-    "ranged_level": 120,
-    "attack_bonus": 15,
-    "strength_bonus": 64,
-    "magic_attack_bonus": 0,
-    "magic_damage_bonus": 0,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": 0,
-    "stab_defence_bonus": 0,
-    "slash_defence_bonus": 0,
-    "crush_defence_bonus": 0,
-    "magic_defence_bonus": 0,
-    "elemental_weakness": "None",
-    "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": 12,
-    "standard_range_defence_bonus": 12,
-    "heavy_range_defence_bonus": 12,
-    "flat_armour": 0,
-    "attack_speed": 5,
-    "attribute": [],
-    "max_hit": [
-      "74"
-    ],
-    "attack_style": [
-      "Crush"
-    ],
-    "experience_bonus": 10,
-    "is_members_only": true,
-    "slayer_level": 1,
-    "slayer_experience": 0,
-    "size": 3,
-    "examine": "The least milkable cow I've ever seen.",
-    "poison_resistance": "unknown",
-    "venom_immune": "unknown",
-    "thrall_immune": "unknown",
-    "cannon_immune": "Immune",
-    "burn_immune": "unknown"
-  },
-  {
-    "page_name": "Minotaur (Fortis Colosseum)",
-    "name": "Minotaur",
-    "id": [
-      "12813"
-    ],
+    "id": "unknown",
     "combat_level": 318,
     "hitpoints": 225,
     "attack_level": 300,
@@ -146691,7 +146640,7 @@
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 1,
-    "examine": "'\"`UNIQ--nowiki-000001B5-QINU`\"'whispers*The seas are not lackin' kraken.",
+    "examine": "'\"`UNIQ--nowiki-00000003-QINU`\"'whispers*The seas are not lackin' kraken.",
     "poison_resistance": "unknown",
     "venom_immune": "unknown",
     "thrall_immune": "unknown",
@@ -152604,7 +152553,7 @@
     "attack_speed": 4,
     "attribute": [],
     "max_hit": [
-      "10"
+      "11"
     ],
     "attack_style": [
       "Slash"
@@ -153835,8 +153784,7 @@
     ],
     "attack_style": [
       "Crush",
-      "Magic",
-      "Bleed"
+      "Magic (Bleed)"
     ],
     "experience_bonus": 0,
     "is_members_only": true,
@@ -162319,7 +162267,7 @@
       "Ranged",
       "Melee"
     ],
-    "experience_bonus": 45,
+    "experience_bonus": 115,
     "is_members_only": true,
     "slayer_level": 1,
     "slayer_experience": 0,

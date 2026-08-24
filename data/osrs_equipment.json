@@ -1,8 +1,8 @@
 {
   "head": [
     {
-      "item_name": "Helm of neitiznot",
-      "item_name_variant": "Helm of neitiznot",
+      "item_name": "Helm of Neitiznot",
+      "item_name_variant": "Helm of Neitiznot",
       "item_id": [
         "10828"
       ],
@@ -11179,8 +11179,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "3rd age full helmet",
-      "item_name_variant": "3rd age full helmet",
+      "item_name": "3rd Age full helmet",
+      "item_name_variant": "3rd Age full helmet",
       "item_id": [
         "10350"
       ],
@@ -11206,8 +11206,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "3rd age mage hat",
-      "item_name_variant": "3rd age mage hat",
+      "item_name": "3rd Age mage hat",
+      "item_name_variant": "3rd Age mage hat",
       "item_id": [
         "10342"
       ],
@@ -11233,8 +11233,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "3rd age range coif",
-      "item_name_variant": "3rd age range coif",
+      "item_name": "3rd Age range coif",
+      "item_name_variant": "3rd Age range coif",
       "item_id": [
         "10334"
       ],
@@ -11368,8 +11368,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Mask of balance",
-      "item_name_variant": "Mask of balance",
+      "item_name": "Mask of Balance",
+      "item_name_variant": "Mask of Balance",
       "item_id": [
         "13203"
       ],
@@ -11632,8 +11632,8 @@
       "magic_damage_bonus": 0,
       "prayer_bonus": 0,
       "weight": 0.5,
-      "value": 100,
-      "high_alchemy_value": 60,
+      "value": 50,
+      "high_alchemy_value": 30,
       "buy_limit": 0,
       "is_members_only": true
     },
@@ -12878,8 +12878,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Helm of raedwald",
-      "item_name_variant": "Helm of raedwald",
+      "item_name": "Helm of Raedwald",
+      "item_name_variant": "Helm of Raedwald",
       "item_id": [
         "19687"
       ],
@@ -17196,8 +17196,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Mask of ranul",
-      "item_name_variant": "Mask of ranul",
+      "item_name": "Mask of Ranul",
+      "item_name_variant": "Mask of Ranul",
       "item_id": [
         "23522"
       ],
@@ -19302,8 +19302,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Helm of neitiznot (Last Man Standing)",
-      "item_name_variant": "Helm of neitiznot (Last Man Standing)",
+      "item_name": "Helm of Neitiznot (Last Man Standing)",
+      "item_name_variant": "Helm of Neitiznot (Last Man Standing)",
       "item_id": [
         "23591"
       ],
@@ -21273,8 +21273,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Hat of the eye",
-      "item_name_variant": "Hat of the eye#Red",
+      "item_name": "Hat of the Eye",
+      "item_name_variant": "Hat of the Eye#Red",
       "item_id": [
         "26858"
       ],
@@ -21300,8 +21300,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Hat of the eye",
-      "item_name_variant": "Hat of the eye#Green",
+      "item_name": "Hat of the Eye",
+      "item_name_variant": "Hat of the Eye#Green",
       "item_id": [
         "26864"
       ],
@@ -21327,8 +21327,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Hat of the eye",
-      "item_name_variant": "Hat of the eye#Blue",
+      "item_name": "Hat of the Eye",
+      "item_name_variant": "Hat of the Eye#Blue",
       "item_id": [
         "26870"
       ],
@@ -21354,8 +21354,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Hat of the eye",
-      "item_name_variant": "Hat of the eye#Regular",
+      "item_name": "Hat of the Eye",
+      "item_name_variant": "Hat of the Eye#Regular",
       "item_id": [
         "26850"
       ],
@@ -22146,8 +22146,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Mask of rebirth",
-      "item_name_variant": "Mask of rebirth",
+      "item_name": "Mask of Rebirth",
+      "item_name_variant": "Mask of Rebirth",
       "item_id": [
         "27370"
       ],
@@ -23388,8 +23388,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Helm of neitiznot (or)",
-      "item_name_variant": "Helm of neitiznot (or)",
+      "item_name": "Helm of Neitiznot (or)",
+      "item_name_variant": "Helm of Neitiznot (or)",
       "item_id": [
         "28070"
       ],
@@ -26471,8 +26471,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "3rd age mage hat (Last Man Standing)",
-      "item_name_variant": "3rd age mage hat (Last Man Standing)",
+      "item_name": "3rd Age mage hat (Last Man Standing)",
+      "item_name_variant": "3rd Age mage hat (Last Man Standing)",
       "item_id": [
         "27183"
       ],
@@ -26498,8 +26498,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "3rd age range coif (Last Man Standing)",
-      "item_name_variant": "3rd age range coif (Last Man Standing)",
+      "item_name": "3rd Age range coif (Last Man Standing)",
+      "item_name_variant": "3rd Age range coif (Last Man Standing)",
       "item_id": [
         "27201"
       ],
@@ -27363,9 +27363,9 @@
     },
     {
       "item_name": "Greenman mask",
-      "item_name_variant": "Greenman mask#Default",
+      "item_name_variant": "Greenman mask#Maple",
       "item_id": [
-        "31034"
+        "31040"
       ],
       "equipment_slot": "head",
       "stab_attack_bonus": 0,
@@ -27385,7 +27385,7 @@
       "weight": 0.1,
       "value": 1,
       "high_alchemy_value": 0,
-      "buy_limit": 4,
+      "buy_limit": 0,
       "is_members_only": true
     },
     {
@@ -27498,9 +27498,9 @@
     },
     {
       "item_name": "Greenman mask",
-      "item_name_variant": "Greenman mask#Maple",
+      "item_name_variant": "Greenman mask#Base",
       "item_id": [
-        "31040"
+        "31034"
       ],
       "equipment_slot": "head",
       "stab_attack_bonus": 0,
@@ -27520,7 +27520,7 @@
       "weight": 0.1,
       "value": 1,
       "high_alchemy_value": 0,
-      "buy_limit": 0,
+      "buy_limit": 4,
       "is_members_only": true
     },
     {
@@ -37845,8 +37845,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Rod of ivandis",
-      "item_name_variant": "Rod of ivandis#(3)",
+      "item_name": "Rod of Ivandis",
+      "item_name_variant": "Rod of Ivandis#(3)",
       "item_id": [
         "7646"
       ],
@@ -37875,8 +37875,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Rod of ivandis",
-      "item_name_variant": "Rod of ivandis#(2)",
+      "item_name": "Rod of Ivandis",
+      "item_name_variant": "Rod of Ivandis#(2)",
       "item_id": [
         "7647"
       ],
@@ -37905,8 +37905,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Rod of ivandis",
-      "item_name_variant": "Rod of ivandis#(5)",
+      "item_name": "Rod of Ivandis",
+      "item_name_variant": "Rod of Ivandis#(5)",
       "item_id": [
         "7644"
       ],
@@ -37935,8 +37935,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Rod of ivandis",
-      "item_name_variant": "Rod of ivandis#(4)",
+      "item_name": "Rod of Ivandis",
+      "item_name_variant": "Rod of Ivandis#(4)",
       "item_id": [
         "7645"
       ],
@@ -37965,8 +37965,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Rod of ivandis",
-      "item_name_variant": "Rod of ivandis#(1)",
+      "item_name": "Rod of Ivandis",
+      "item_name_variant": "Rod of Ivandis#(1)",
       "item_id": [
         "7648"
       ],
@@ -37995,8 +37995,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Rod of ivandis",
-      "item_name_variant": "Rod of ivandis#(10)",
+      "item_name": "Rod of Ivandis",
+      "item_name_variant": "Rod of Ivandis#(10)",
       "item_id": [
         "7639"
       ],
@@ -38025,8 +38025,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Rod of ivandis",
-      "item_name_variant": "Rod of ivandis#(8)",
+      "item_name": "Rod of Ivandis",
+      "item_name_variant": "Rod of Ivandis#(8)",
       "item_id": [
         "7641"
       ],
@@ -38055,8 +38055,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Rod of ivandis",
-      "item_name_variant": "Rod of ivandis#(9)",
+      "item_name": "Rod of Ivandis",
+      "item_name_variant": "Rod of Ivandis#(9)",
       "item_id": [
         "7640"
       ],
@@ -38085,8 +38085,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Rod of ivandis",
-      "item_name_variant": "Rod of ivandis#(6)",
+      "item_name": "Rod of Ivandis",
+      "item_name_variant": "Rod of Ivandis#(6)",
       "item_id": [
         "7643"
       ],
@@ -38115,8 +38115,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Rod of ivandis",
-      "item_name_variant": "Rod of ivandis#(7)",
+      "item_name": "Rod of Ivandis",
+      "item_name_variant": "Rod of Ivandis#(7)",
       "item_id": [
         "7642"
       ],
@@ -40073,8 +40073,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Trident of the seas",
-      "item_name_variant": "Trident of the seas#Partially charged",
+      "item_name": "Trident of the Seas",
+      "item_name_variant": "Trident of the Seas#Partially charged",
       "item_id": [
         "11907"
       ],
@@ -40103,8 +40103,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Trident of the seas",
-      "item_name_variant": "Trident of the seas#Charged",
+      "item_name": "Trident of the Seas",
+      "item_name_variant": "Trident of the Seas#Charged",
       "item_id": [
         "11905"
       ],
@@ -40133,8 +40133,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Trident of the seas",
-      "item_name_variant": "Trident of the seas#Uncharged",
+      "item_name": "Trident of the Seas",
+      "item_name_variant": "Trident of the Seas#Uncharged",
       "item_id": [
         "11908"
       ],
@@ -40522,8 +40522,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "3rd age wand",
-      "item_name_variant": "3rd age wand",
+      "item_name": "3rd Age wand",
+      "item_name_variant": "3rd Age wand",
       "item_id": [
         "12422"
       ],
@@ -40548,7 +40548,7 @@
       "weight": 3.175,
       "value": 150000,
       "high_alchemy_value": 90000,
-      "buy_limit": 8,
+      "buy_limit": 0,
       "is_members_only": true
     },
     {
@@ -40672,8 +40672,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "3rd age longsword",
-      "item_name_variant": "3rd age longsword",
+      "item_name": "3rd Age longsword",
+      "item_name_variant": "3rd Age longsword",
       "item_id": [
         "12426"
       ],
@@ -41122,8 +41122,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Trident of the swamp",
-      "item_name_variant": "Trident of the swamp#Charged",
+      "item_name": "Trident of the Swamp",
+      "item_name_variant": "Trident of the Swamp#Charged",
       "item_id": [
         "12899"
       ],
@@ -41152,8 +41152,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Trident of the swamp",
-      "item_name_variant": "Trident of the swamp#Uncharged",
+      "item_name": "Trident of the Swamp",
+      "item_name_variant": "Trident of the Swamp#Uncharged",
       "item_id": [
         "12900"
       ],
@@ -43009,8 +43009,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "3rd age pickaxe",
-      "item_name_variant": "3rd age pickaxe",
+      "item_name": "3rd Age pickaxe",
+      "item_name_variant": "3rd Age pickaxe",
       "item_id": [
         "20014"
       ],
@@ -43039,8 +43039,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "3rd age axe",
-      "item_name_variant": "3rd age axe",
+      "item_name": "3rd Age axe",
+      "item_name_variant": "3rd Age axe",
       "item_id": [
         "20011"
       ],
@@ -44480,8 +44480,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Trident of the seas (e)",
-      "item_name_variant": "Trident of the seas (e)#Charged",
+      "item_name": "Trident of the Seas (e)",
+      "item_name_variant": "Trident of the Seas (e)#Charged",
       "item_id": [
         "22288"
       ],
@@ -44510,8 +44510,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Trident of the seas (e)",
-      "item_name_variant": "Trident of the seas (e)#Uncharged",
+      "item_name": "Trident of the Seas (e)",
+      "item_name_variant": "Trident of the Seas (e)#Uncharged",
       "item_id": [
         "22290"
       ],
@@ -44540,8 +44540,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Trident of the swamp (e)",
-      "item_name_variant": "Trident of the swamp (e)#Charged",
+      "item_name": "Trident of the Swamp (e)",
+      "item_name_variant": "Trident of the Swamp (e)#Charged",
       "item_id": [
         "22292"
       ],
@@ -44570,8 +44570,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Trident of the swamp (e)",
-      "item_name_variant": "Trident of the swamp (e)#Uncharged",
+      "item_name": "Trident of the Swamp (e)",
+      "item_name_variant": "Trident of the Swamp (e)#Uncharged",
       "item_id": [
         "22294"
       ],
@@ -46008,8 +46008,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "3rd age druidic staff",
-      "item_name_variant": "3rd age druidic staff",
+      "item_name": "3rd Age druidic staff",
+      "item_name_variant": "3rd Age druidic staff",
       "item_id": [
         "23342"
       ],
@@ -52038,8 +52038,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Tonalztics of ralos",
-      "item_name_variant": "Tonalztics of ralos#Charged",
+      "item_name": "Tonalztics of Ralos",
+      "item_name_variant": "Tonalztics of Ralos#Charged",
       "item_id": [
         "28922"
       ],
@@ -52068,8 +52068,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Tonalztics of ralos",
-      "item_name_variant": "Tonalztics of ralos#Uncharged",
+      "item_name": "Tonalztics of Ralos",
+      "item_name_variant": "Tonalztics of Ralos#Uncharged",
       "item_id": [
         "28919"
       ],
@@ -53388,8 +53388,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Eye of ayak",
-      "item_name_variant": "Eye of ayak#Charged",
+      "item_name": "Eye of Ayak",
+      "item_name_variant": "Eye of Ayak#Charged",
       "item_id": [
         "31113"
       ],
@@ -53418,8 +53418,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Eye of ayak",
-      "item_name_variant": "Eye of ayak#Uncharged",
+      "item_name": "Eye of Ayak",
+      "item_name_variant": "Eye of Ayak#Uncharged",
       "item_id": [
         "31115"
       ],
@@ -54286,8 +54286,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Trident of the swamp (o)",
-      "item_name_variant": "Trident of the swamp (o)#Charged",
+      "item_name": "Trident of the Swamp (o)",
+      "item_name_variant": "Trident of the Swamp (o)#Charged",
       "item_id": [
         "33314"
       ],
@@ -54316,8 +54316,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Trident of the swamp (o)",
-      "item_name_variant": "Trident of the swamp (o)#Uncharged",
+      "item_name": "Trident of the Swamp (o)",
+      "item_name_variant": "Trident of the Swamp (o)#Uncharged",
       "item_id": [
         "33316"
       ],
@@ -54346,8 +54346,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Trident of the swamp (e) (o)",
-      "item_name_variant": "Trident of the swamp (e) (o)#Charged",
+      "item_name": "Trident of the Swamp (e) (o)",
+      "item_name_variant": "Trident of the Swamp (e) (o)#Charged",
       "item_id": [
         "33318"
       ],
@@ -54376,8 +54376,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Trident of the swamp (e) (o)",
-      "item_name_variant": "Trident of the swamp (e) (o)#Uncharged",
+      "item_name": "Trident of the Swamp (e) (o)",
+      "item_name_variant": "Trident of the Swamp (e) (o)#Uncharged",
       "item_id": [
         "33320"
       ],
@@ -54406,8 +54406,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Trident of the seas (o)",
-      "item_name_variant": "Trident of the seas (o)#Fully charged",
+      "item_name": "Trident of the Seas (o)",
+      "item_name_variant": "Trident of the Seas (o)#Fully charged",
       "item_id": [
         "33323"
       ],
@@ -54436,8 +54436,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Trident of the seas (o)",
-      "item_name_variant": "Trident of the seas (o)#Partially charged",
+      "item_name": "Trident of the Seas (o)",
+      "item_name_variant": "Trident of the Seas (o)#Partially charged",
       "item_id": [
         "33322"
       ],
@@ -54466,8 +54466,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Trident of the seas (e) (o)",
-      "item_name_variant": "Trident of the seas (e) (o)#Charged",
+      "item_name": "Trident of the Seas (e) (o)",
+      "item_name_variant": "Trident of the Seas (e) (o)#Charged",
       "item_id": [
         "33326"
       ],
@@ -54496,8 +54496,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Trident of the seas (e) (o)",
-      "item_name_variant": "Trident of the seas (e) (o)#Uncharged",
+      "item_name": "Trident of the Seas (e) (o)",
+      "item_name_variant": "Trident of the Seas (e) (o)#Uncharged",
       "item_id": [
         "33328"
       ],
@@ -58628,8 +58628,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "3rd age kiteshield",
-      "item_name_variant": "3rd age kiteshield",
+      "item_name": "3rd Age kiteshield",
+      "item_name_variant": "3rd Age kiteshield",
       "item_id": [
         "10352"
       ],
@@ -59843,8 +59843,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Tome of fire",
-      "item_name_variant": "Tome of fire#Charged",
+      "item_name": "Tome of Fire",
+      "item_name_variant": "Tome of Fire#Charged",
       "item_id": [
         "20714"
       ],
@@ -59870,8 +59870,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Tome of fire",
-      "item_name_variant": "Tome of fire#Empty",
+      "item_name": "Tome of Fire",
+      "item_name_variant": "Tome of Fire#Empty",
       "item_id": [
         "20716"
       ],
@@ -62748,8 +62748,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Tome of water",
-      "item_name_variant": "Tome of water#Charged",
+      "item_name": "Tome of Water",
+      "item_name_variant": "Tome of Water#Charged",
       "item_id": [
         "25574"
       ],
@@ -62775,8 +62775,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Tome of water",
-      "item_name_variant": "Tome of water#Empty",
+      "item_name": "Tome of Water",
+      "item_name_variant": "Tome of Water#Empty",
       "item_id": [
         "25576"
       ],
@@ -64862,8 +64862,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Tome of earth",
-      "item_name_variant": "Tome of earth#Charged",
+      "item_name": "Tome of Earth",
+      "item_name_variant": "Tome of Earth#Charged",
       "item_id": [
         "30064"
       ],
@@ -64889,8 +64889,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Tome of earth",
-      "item_name_variant": "Tome of earth#Empty",
+      "item_name": "Tome of Earth",
+      "item_name_variant": "Tome of Earth#Empty",
       "item_id": [
         "30066"
       ],
@@ -64916,8 +64916,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Book of egg",
-      "item_name_variant": "Book of egg",
+      "item_name": "Book of Egg",
+      "item_name_variant": "Book of Egg",
       "item_id": [
         "29433"
       ],
@@ -65051,8 +65051,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Tome of fire (Last Man Standing)",
-      "item_name_variant": "Tome of fire (Last Man Standing)",
+      "item_name": "Tome of Fire (Last Man Standing)",
+      "item_name_variant": "Tome of Fire (Last Man Standing)",
       "item_id": [
         "27358"
       ],
@@ -65591,8 +65591,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Horn of plenty",
-      "item_name_variant": "Horn of plenty#Charged",
+      "item_name": "Horn of Plenty",
+      "item_name_variant": "Horn of Plenty#Charged",
       "item_id": [
         "31241"
       ],
@@ -65618,8 +65618,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Horn of plenty",
-      "item_name_variant": "Horn of plenty#Empty",
+      "item_name": "Horn of Plenty",
+      "item_name_variant": "Horn of Plenty#Empty",
       "item_id": [
         "31243"
       ],
@@ -73827,8 +73827,8 @@
       "magic_damage_bonus": 0,
       "prayer_bonus": 0,
       "weight": 1,
-      "value": 100,
-      "high_alchemy_value": 60,
+      "value": 50,
+      "high_alchemy_value": 30,
       "buy_limit": 0,
       "is_members_only": true
     },
@@ -74940,8 +74940,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Boots of brimstone",
-      "item_name_variant": "Boots of brimstone",
+      "item_name": "Boots of Brimstone",
+      "item_name_variant": "Boots of Brimstone",
       "item_id": [
         "22951"
       ],
@@ -76398,8 +76398,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Boots of the eye",
-      "item_name_variant": "Boots of the eye",
+      "item_name": "Boots of the Eye",
+      "item_name_variant": "Boots of the Eye",
       "item_id": [
         "26856"
       ],
@@ -76988,7 +76988,7 @@
       "weight": 2,
       "value": 4000,
       "high_alchemy_value": 0,
-      "buy_limit": 0,
+      "buy_limit": 100,
       "is_members_only": true
     },
     {
@@ -81126,8 +81126,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Robe of elidinis (top)",
-      "item_name_variant": "Robe of elidinis (top)",
+      "item_name": "Robe of Elidinis (top)",
+      "item_name_variant": "Robe of Elidinis (top)",
       "item_id": [
         "6786"
       ],
@@ -84391,8 +84391,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "3rd age platebody",
-      "item_name_variant": "3rd age platebody",
+      "item_name": "3rd Age platebody",
+      "item_name_variant": "3rd Age platebody",
       "item_id": [
         "10348"
       ],
@@ -84418,8 +84418,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "3rd age robe top",
-      "item_name_variant": "3rd age robe top",
+      "item_name": "3rd Age robe top",
+      "item_name_variant": "3rd Age robe top",
       "item_id": [
         "10338"
       ],
@@ -84445,8 +84445,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "3rd age range top",
-      "item_name_variant": "3rd age range top",
+      "item_name": "3rd Age range top",
+      "item_name_variant": "3rd Age range top",
       "item_id": [
         "10330"
       ],
@@ -84547,8 +84547,8 @@
       "magic_damage_bonus": 0,
       "prayer_bonus": 0,
       "weight": 1,
-      "value": 100,
-      "high_alchemy_value": 60,
+      "value": 50,
+      "high_alchemy_value": 30,
       "buy_limit": 0,
       "is_members_only": true
     },
@@ -87307,8 +87307,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "3rd age druidic robe top",
-      "item_name_variant": "3rd age druidic robe top",
+      "item_name": "3rd Age druidic robe top",
+      "item_name_variant": "3rd Age druidic robe top",
       "item_id": [
         "23336"
       ],
@@ -90007,8 +90007,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Robe top of the eye",
-      "item_name_variant": "Robe top of the eye#Red",
+      "item_name": "Robe top of the Eye",
+      "item_name_variant": "Robe top of the Eye#Red",
       "item_id": [
         "26860"
       ],
@@ -90034,8 +90034,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Robe top of the eye",
-      "item_name_variant": "Robe top of the eye#Green",
+      "item_name": "Robe top of the Eye",
+      "item_name_variant": "Robe top of the Eye#Green",
       "item_id": [
         "26866"
       ],
@@ -90061,8 +90061,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Robe top of the eye",
-      "item_name_variant": "Robe top of the eye#Blue",
+      "item_name": "Robe top of the Eye",
+      "item_name_variant": "Robe top of the Eye#Blue",
       "item_id": [
         "26872"
       ],
@@ -90088,8 +90088,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Robe top of the eye",
-      "item_name_variant": "Robe top of the eye#Regular",
+      "item_name": "Robe top of the Eye",
+      "item_name_variant": "Robe top of the Eye#Regular",
       "item_id": [
         "26852"
       ],
@@ -93004,8 +93004,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "3rd age range top (Last Man Standing)",
-      "item_name_variant": "3rd age range top (Last Man Standing)",
+      "item_name": "3rd Age range top (Last Man Standing)",
+      "item_name_variant": "3rd Age range top (Last Man Standing)",
       "item_id": [
         "27199"
       ],
@@ -93031,8 +93031,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "3rd age robe top (Last Man Standing)",
-      "item_name_variant": "3rd age robe top (Last Man Standing)",
+      "item_name": "3rd Age robe top (Last Man Standing)",
+      "item_name_variant": "3rd Age robe top (Last Man Standing)",
       "item_id": [
         "20576"
       ],
@@ -97995,8 +97995,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Robe of elidinis (bottom)",
-      "item_name_variant": "Robe of elidinis (bottom)",
+      "item_name": "Robe of Elidinis (bottom)",
+      "item_name_variant": "Robe of Elidinis (bottom)",
       "item_id": [
         "6787"
       ],
@@ -101634,8 +101634,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "3rd age platelegs",
-      "item_name_variant": "3rd age platelegs",
+      "item_name": "3rd Age platelegs",
+      "item_name_variant": "3rd Age platelegs",
       "item_id": [
         "10346"
       ],
@@ -101661,8 +101661,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "3rd age robe",
-      "item_name_variant": "3rd age robe",
+      "item_name": "3rd Age robe",
+      "item_name_variant": "3rd Age robe",
       "item_id": [
         "10340"
       ],
@@ -101688,8 +101688,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "3rd age range legs",
-      "item_name_variant": "3rd age range legs",
+      "item_name": "3rd Age range legs",
+      "item_name_variant": "3rd Age range legs",
       "item_id": [
         "10332"
       ],
@@ -101844,8 +101844,8 @@
       "magic_damage_bonus": 0,
       "prayer_bonus": 0,
       "weight": 1,
-      "value": 100,
-      "high_alchemy_value": 60,
+      "value": 50,
+      "high_alchemy_value": 30,
       "buy_limit": 0,
       "is_members_only": true
     },
@@ -104010,8 +104010,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "3rd age plateskirt",
-      "item_name_variant": "3rd age plateskirt",
+      "item_name": "3rd Age plateskirt",
+      "item_name_variant": "3rd Age plateskirt",
       "item_id": [
         "23242"
       ],
@@ -104118,8 +104118,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "3rd age druidic robe bottoms",
-      "item_name_variant": "3rd age druidic robe bottoms",
+      "item_name": "3rd Age druidic robe bottoms",
+      "item_name_variant": "3rd Age druidic robe bottoms",
       "item_id": [
         "23339"
       ],
@@ -106575,8 +106575,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Robe bottoms of the eye",
-      "item_name_variant": "Robe bottoms of the eye#Red",
+      "item_name": "Robe bottoms of the Eye",
+      "item_name_variant": "Robe bottoms of the Eye#Red",
       "item_id": [
         "26862"
       ],
@@ -106602,8 +106602,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Robe bottoms of the eye",
-      "item_name_variant": "Robe bottoms of the eye#Green",
+      "item_name": "Robe bottoms of the Eye",
+      "item_name_variant": "Robe bottoms of the Eye#Green",
       "item_id": [
         "26868"
       ],
@@ -106629,8 +106629,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Robe bottoms of the eye",
-      "item_name_variant": "Robe bottoms of the eye#Blue",
+      "item_name": "Robe bottoms of the Eye",
+      "item_name_variant": "Robe bottoms of the Eye#Blue",
       "item_id": [
         "26874"
       ],
@@ -106656,8 +106656,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Robe bottoms of the eye",
-      "item_name_variant": "Robe bottoms of the eye#Regular",
+      "item_name": "Robe bottoms of the Eye",
+      "item_name_variant": "Robe bottoms of the Eye#Regular",
       "item_id": [
         "26854"
       ],
@@ -108973,8 +108973,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "3rd age range legs (Last Man Standing)",
-      "item_name_variant": "3rd age range legs (Last Man Standing)",
+      "item_name": "3rd Age range legs (Last Man Standing)",
+      "item_name_variant": "3rd Age range legs (Last Man Standing)",
       "item_id": [
         "27200"
       ],
@@ -109000,8 +109000,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "3rd age robe (Last Man Standing)",
-      "item_name_variant": "3rd age robe (Last Man Standing)",
+      "item_name": "3rd Age robe (Last Man Standing)",
+      "item_name_variant": "3rd Age robe (Last Man Standing)",
       "item_id": [
         "20577"
       ],
@@ -115993,8 +115993,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "3rd age bow",
-      "item_name_variant": "3rd age bow",
+      "item_name": "3rd Age bow",
+      "item_name_variant": "3rd Age bow",
       "item_id": [
         "12424"
       ],
@@ -117283,8 +117283,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Scythe of vitur",
-      "item_name_variant": "Scythe of vitur#Charged",
+      "item_name": "Scythe of Vitur",
+      "item_name_variant": "Scythe of Vitur#Charged",
       "item_id": [
         "22325"
       ],
@@ -117313,8 +117313,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Scythe of vitur",
-      "item_name_variant": "Scythe of vitur#Uncharged",
+      "item_name": "Scythe of Vitur",
+      "item_name_variant": "Scythe of Vitur#Uncharged",
       "item_id": [
         "22486"
       ],
@@ -121093,8 +121093,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "3rd age felling axe",
-      "item_name_variant": "3rd age felling axe",
+      "item_name": "3rd Age felling axe",
+      "item_name_variant": "3rd Age felling axe",
       "item_id": [
         "28226"
       ],
@@ -137746,8 +137746,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "3rd age vambraces",
-      "item_name_variant": "3rd age vambraces",
+      "item_name": "3rd Age vambraces",
+      "item_name_variant": "3rd Age vambraces",
       "item_id": [
         "10336"
       ],
@@ -139744,8 +139744,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Wristbands of the arena",
-      "item_name_variant": "Wristbands of the arena#Normal",
+      "item_name": "Wristbands of the Arena",
+      "item_name_variant": "Wristbands of the Arena#Normal",
       "item_id": [
         "26723"
       ],
@@ -139771,8 +139771,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Wristbands of the arena",
-      "item_name_variant": "Wristbands of the arena#Charged",
+      "item_name": "Wristbands of the Arena",
+      "item_name_variant": "Wristbands of the Arena#Charged",
       "item_id": [
         "26725"
       ],
@@ -139798,8 +139798,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Wristbands of the arena",
-      "item_name_variant": "Wristbands of the arena#Locked",
+      "item_name": "Wristbands of the Arena",
+      "item_name_variant": "Wristbands of the Arena#Locked",
       "item_id": [
         "26724"
       ],
@@ -139825,8 +139825,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Wristbands of the arena",
-      "item_name_variant": "Wristbands of the arena#Charged and Locked",
+      "item_name": "Wristbands of the Arena",
+      "item_name_variant": "Wristbands of the Arena#Charged and Locked",
       "item_id": [
         "26726"
       ],
@@ -139852,8 +139852,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Wristbands of the arena",
-      "item_name_variant": "Wristbands of the arena#Broken",
+      "item_name": "Wristbands of the Arena",
+      "item_name_variant": "Wristbands of the Arena#Broken",
       "item_id": [
         "26696"
       ],
@@ -139879,8 +139879,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Wristbands of the arena (i)",
-      "item_name_variant": "Wristbands of the arena (i)#Normal",
+      "item_name": "Wristbands of the Arena (i)",
+      "item_name_variant": "Wristbands of the Arena (i)#Normal",
       "item_id": [
         "26727"
       ],
@@ -139906,8 +139906,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Wristbands of the arena (i)",
-      "item_name_variant": "Wristbands of the arena (i)#Charged",
+      "item_name": "Wristbands of the Arena (i)",
+      "item_name_variant": "Wristbands of the Arena (i)#Charged",
       "item_id": [
         "26729"
       ],
@@ -139933,8 +139933,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Wristbands of the arena (i)",
-      "item_name_variant": "Wristbands of the arena (i)#Locked",
+      "item_name": "Wristbands of the Arena (i)",
+      "item_name_variant": "Wristbands of the Arena (i)#Locked",
       "item_id": [
         "26728"
       ],
@@ -139960,8 +139960,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Wristbands of the arena (i)",
-      "item_name_variant": "Wristbands of the arena (i)#Charged and Locked",
+      "item_name": "Wristbands of the Arena (i)",
+      "item_name_variant": "Wristbands of the Arena (i)#Charged and Locked",
       "item_id": [
         "26730"
       ],
@@ -139987,8 +139987,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Wristbands of the arena (i)",
-      "item_name_variant": "Wristbands of the arena (i)#Broken",
+      "item_name": "Wristbands of the Arena (i)",
+      "item_name_variant": "Wristbands of the Arena (i)#Broken",
       "item_id": [
         "26697"
       ],
@@ -140446,8 +140446,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Gloves of the damned",
-      "item_name_variant": "Gloves of the damned",
+      "item_name": "Gloves of the Damned",
+      "item_name_variant": "Gloves of the Damned",
       "item_id": [
         "30380"
       ],
@@ -143661,8 +143661,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "3rd age cloak",
-      "item_name_variant": "3rd age cloak",
+      "item_name": "3rd Age cloak",
+      "item_name_variant": "3rd Age cloak",
       "item_id": [
         "12437"
       ],
@@ -146922,8 +146922,8 @@
       "magic_damage_bonus": 0,
       "prayer_bonus": 0,
       "weight": 2.267,
-      "value": 1000,
-      "high_alchemy_value": 600,
+      "value": 500,
+      "high_alchemy_value": 300,
       "buy_limit": 0,
       "is_members_only": true
     },
@@ -147090,8 +147090,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "3rd age druidic cloak",
-      "item_name_variant": "3rd age druidic cloak",
+      "item_name": "3rd Age druidic cloak",
+      "item_name_variant": "3rd Age druidic cloak",
       "item_id": [
         "23345"
       ],
@@ -149892,8 +149892,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Blessed dizana's quiver",
-      "item_name_variant": "Blessed dizana's quiver#Locked",
+      "item_name": "Blessed Dizana's quiver",
+      "item_name_variant": "Blessed Dizana's quiver#Locked",
       "item_id": [
         "28957"
       ],
@@ -149919,8 +149919,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Blessed dizana's quiver",
-      "item_name_variant": "Blessed dizana's quiver#Broken",
+      "item_name": "Blessed Dizana's quiver",
+      "item_name_variant": "Blessed Dizana's quiver#Broken",
       "item_id": [
         "28828"
       ],
@@ -149946,8 +149946,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Blessed dizana's quiver",
-      "item_name_variant": "Blessed dizana's quiver#Normal",
+      "item_name": "Blessed Dizana's quiver",
+      "item_name_variant": "Blessed Dizana's quiver#Normal",
       "item_id": [
         "28955"
       ],
@@ -151271,8 +151271,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Amulet of nature",
-      "item_name_variant": "Amulet of nature",
+      "item_name": "Amulet of Nature",
+      "item_name_variant": "Amulet of Nature",
       "item_id": [
         "6040"
       ],
@@ -151379,8 +151379,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Beads of the dead",
-      "item_name_variant": "Beads of the dead",
+      "item_name": "Beads of the Dead",
+      "item_name_variant": "Beads of the Dead",
       "item_id": [
         "616"
       ],
@@ -152216,8 +152216,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Pendant of lucien",
-      "item_name_variant": "Pendant of lucien",
+      "item_name": "Pendant of Lucien",
+      "item_name_variant": "Pendant of Lucien",
       "item_id": [
         "86"
       ],
@@ -153998,8 +153998,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Amulet of the damned",
-      "item_name_variant": "Amulet of the damned#Full",
+      "item_name": "Amulet of the Damned",
+      "item_name_variant": "Amulet of the Damned#Full",
       "item_id": [
         "12851"
       ],
@@ -154025,8 +154025,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Amulet of the damned",
-      "item_name_variant": "Amulet of the damned#Used",
+      "item_name": "Amulet of the Damned",
+      "item_name_variant": "Amulet of the Damned#Used",
       "item_id": [
         "12853"
       ],
@@ -154160,8 +154160,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "3rd age amulet",
-      "item_name_variant": "3rd age amulet",
+      "item_name": "3rd Age amulet",
+      "item_name_variant": "3rd Age amulet",
       "item_id": [
         "10344"
       ],
@@ -155996,8 +155996,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Amulet of the eye",
-      "item_name_variant": "Amulet of the eye#Red",
+      "item_name": "Amulet of the Eye",
+      "item_name_variant": "Amulet of the Eye#Red",
       "item_id": [
         "26990"
       ],
@@ -156023,8 +156023,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Amulet of the eye",
-      "item_name_variant": "Amulet of the eye#Green",
+      "item_name": "Amulet of the Eye",
+      "item_name_variant": "Amulet of the Eye#Green",
       "item_id": [
         "26992"
       ],
@@ -156050,8 +156050,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Amulet of the eye",
-      "item_name_variant": "Amulet of the eye#Blue",
+      "item_name": "Amulet of the Eye",
+      "item_name_variant": "Amulet of the Eye#Blue",
       "item_id": [
         "26994"
       ],
@@ -156077,8 +156077,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Amulet of the eye",
-      "item_name_variant": "Amulet of the eye#Regular",
+      "item_name": "Amulet of the Eye",
+      "item_name_variant": "Amulet of the Eye#Regular",
       "item_id": [
         "26914"
       ],
@@ -156320,8 +156320,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Pendant of ates",
-      "item_name_variant": "Pendant of ates#Charged",
+      "item_name": "Pendant of Ates",
+      "item_name_variant": "Pendant of Ates#Charged",
       "item_id": [
         "29893"
       ],
@@ -156347,8 +156347,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Pendant of ates",
-      "item_name_variant": "Pendant of ates#Inert",
+      "item_name": "Pendant of Ates",
+      "item_name_variant": "Pendant of Ates#Inert",
       "item_id": [
         "29892"
       ],
@@ -156831,8 +156831,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Medallion of the deep",
-      "item_name_variant": "Medallion of the deep",
+      "item_name": "Medallion of the Deep",
+      "item_name_variant": "Medallion of the Deep",
       "item_id": [
         "32386"
       ],
@@ -157754,8 +157754,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Ring of charos",
-      "item_name_variant": "Ring of charos#Normal",
+      "item_name": "Ring of Charos",
+      "item_name_variant": "Ring of Charos#Normal",
       "item_id": [
         "4202"
       ],
@@ -157781,8 +157781,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Ring of charos",
-      "item_name_variant": "Ring of charos#Activated",
+      "item_name": "Ring of Charos",
+      "item_name_variant": "Ring of Charos#Activated",
       "item_id": [
         "6465"
       ],
@@ -159756,8 +159756,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Ring of 3rd age",
-      "item_name_variant": "Ring of 3rd age",
+      "item_name": "Ring of 3rd Age",
+      "item_name_variant": "Ring of 3rd Age",
       "item_id": [
         "23185"
       ],

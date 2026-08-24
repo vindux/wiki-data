@@ -587,16 +587,6 @@
           "quantity": "1"
         },
         {
-          "name": "Pure essence",
-          "rarity": "22/128",
-          "quantity": "13 (noted)"
-        },
-        {
-          "name": "Iron ore",
-          "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
           "name": "Coins",
           "rarity": "10/128",
           "quantity": "13"
@@ -612,6 +602,11 @@
           "quantity": "35"
         },
         {
+          "name": "Pure essence",
+          "rarity": "22/128",
+          "quantity": "13 (noted)"
+        },
+        {
           "name": "Fishing bait",
           "rarity": "22/128",
           "quantity": "15"
@@ -622,9 +617,24 @@
           "quantity": "7"
         },
         {
+          "name": "Iron ore",
+          "rarity": "1/128",
+          "quantity": "1"
+        },
+        {
           "name": "Eye of newt",
           "rarity": "1/128",
           "quantity": "1"
+        },
+        {
+          "name": "Energy potion(2)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "2 (noted)"
         },
         {
           "name": "Clue scroll (easy)",
@@ -888,7 +898,7 @@
           "quantity": "1"
         },
         {
-          "name": "Orbs of protection",
+          "name": "Orbs of Protection",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -1115,6 +1125,21 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(1)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(2)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
           "name": "Hammer",
           "rarity": "15/128",
           "quantity": "1"
@@ -1313,6 +1338,16 @@
           "name": "Coins",
           "rarity": "2/128",
           "quantity": "10"
+        },
+        {
+          "name": "Energy potion(1)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(2)",
+          "rarity": "Common",
+          "quantity": "1"
         },
         {
           "name": "Hammer",
@@ -1473,6 +1508,21 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(1)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(2)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
           "name": "Hammer",
           "rarity": "15/128",
           "quantity": "1"
@@ -1671,6 +1721,16 @@
           "name": "Coins",
           "rarity": "2/128",
           "quantity": "10"
+        },
+        {
+          "name": "Energy potion(1)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(2)",
+          "rarity": "Common",
+          "quantity": "1"
         },
         {
           "name": "Hammer",
@@ -1802,6 +1862,21 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(1)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(2)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
           "name": "Hammer",
           "rarity": "15/128",
           "quantity": "1"
@@ -2000,6 +2075,16 @@
           "name": "Coins",
           "rarity": "2/128",
           "quantity": "10"
+        },
+        {
+          "name": "Energy potion(1)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(2)",
+          "rarity": "Common",
+          "quantity": "1"
         },
         {
           "name": "Hammer",
@@ -2137,6 +2222,21 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(1)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(2)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
           "name": "Hammer",
           "rarity": "15/128",
           "quantity": "1"
@@ -2335,6 +2435,16 @@
           "name": "Coins",
           "rarity": "2/128",
           "quantity": "10"
+        },
+        {
+          "name": "Energy potion(1)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(2)",
+          "rarity": "Common",
+          "quantity": "1"
         },
         {
           "name": "Hammer",
@@ -2752,6 +2862,16 @@
           "quantity": "8"
         },
         {
+          "name": "Energy potion(2)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Crawling hand (item)",
           "rarity": "1/500",
           "quantity": "1"
@@ -2885,6 +3005,16 @@
           "name": "Coins",
           "rarity": "23/128",
           "quantity": "8"
+        },
+        {
+          "name": "Energy potion(2)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "1"
         },
         {
           "name": "Crawling hand (item)",
@@ -3022,6 +3152,16 @@
           "quantity": "8"
         },
         {
+          "name": "Energy potion(2)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Crawling hand (item)",
           "rarity": "1/500",
           "quantity": "1"
@@ -3155,6 +3295,16 @@
           "name": "Coins",
           "rarity": "23/128",
           "quantity": "8"
+        },
+        {
+          "name": "Energy potion(2)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "1"
         },
         {
           "name": "Crawling hand (item)",
@@ -3292,6 +3442,16 @@
           "quantity": "8"
         },
         {
+          "name": "Energy potion(2)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Crawling hand (item)",
           "rarity": "1/500",
           "quantity": "1"
@@ -3425,6 +3585,16 @@
           "name": "Coins",
           "rarity": "23/128",
           "quantity": "8"
+        },
+        {
+          "name": "Energy potion(2)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "1"
         },
         {
           "name": "Crawling hand (item)",
@@ -3562,6 +3732,16 @@
           "quantity": "8"
         },
         {
+          "name": "Energy potion(2)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Crawling hand (item)",
           "rarity": "1/500",
           "quantity": "1"
@@ -3695,6 +3875,16 @@
           "name": "Coins",
           "rarity": "23/128",
           "quantity": "8"
+        },
+        {
+          "name": "Energy potion(2)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "1"
         },
         {
           "name": "Crawling hand (item)",
@@ -3832,6 +4022,16 @@
           "quantity": "8"
         },
         {
+          "name": "Energy potion(2)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Crawling hand (item)",
           "rarity": "1/500",
           "quantity": "1"
@@ -3965,6 +4165,16 @@
           "name": "Coins",
           "rarity": "23/128",
           "quantity": "8"
+        },
+        {
+          "name": "Energy potion(2)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "1"
         },
         {
           "name": "Crawling hand (item)",
@@ -5319,6 +5529,16 @@
         {
           "name": "Limpwurt root",
           "rarity": "21/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(2)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -16672,6 +16892,11 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/90",
           "quantity": "1"
@@ -16839,6 +17064,11 @@
         {
           "name": "Watering can(8)",
           "rarity": "1/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -16951,6 +17181,11 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/90",
           "quantity": "1"
@@ -17118,6 +17353,11 @@
         {
           "name": "Watering can(8)",
           "rarity": "1/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -17230,6 +17470,11 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/90",
           "quantity": "1"
@@ -17397,6 +17642,11 @@
         {
           "name": "Watering can(8)",
           "rarity": "1/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -17509,6 +17759,11 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/90",
           "quantity": "1"
@@ -17676,6 +17931,11 @@
         {
           "name": "Watering can(8)",
           "rarity": "1/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -17788,6 +18048,11 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/90",
           "quantity": "1"
@@ -17955,6 +18220,11 @@
         {
           "name": "Watering can(8)",
           "rarity": "1/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -18067,6 +18337,11 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/90",
           "quantity": "1"
@@ -18234,6 +18509,11 @@
         {
           "name": "Watering can(8)",
           "rarity": "1/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -18346,6 +18626,11 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/90",
           "quantity": "1"
@@ -18513,6 +18798,11 @@
         {
           "name": "Watering can(8)",
           "rarity": "1/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -18772,6 +19062,21 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(2)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Looting bag",
           "rarity": "1/15",
           "quantity": "1"
@@ -18924,6 +19229,16 @@
         {
           "name": "Fire talisman",
           "rarity": "2/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -19096,6 +19411,21 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(2)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Looting bag",
           "rarity": "1/15",
           "quantity": "1"
@@ -19248,6 +19578,16 @@
         {
           "name": "Fire talisman",
           "rarity": "2/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -19422,6 +19762,21 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(2)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Looting bag",
           "rarity": "1/15",
           "quantity": "1"
@@ -19574,6 +19929,16 @@
         {
           "name": "Fire talisman",
           "rarity": "2/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -19748,6 +20113,21 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(2)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Looting bag",
           "rarity": "1/15",
           "quantity": "1"
@@ -19900,6 +20280,16 @@
         {
           "name": "Fire talisman",
           "rarity": "2/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -20073,6 +20463,21 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(2)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Looting bag",
           "rarity": "1/15",
           "quantity": "1"
@@ -20225,6 +20630,16 @@
         {
           "name": "Fire talisman",
           "rarity": "2/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -21931,27 +22346,27 @@
           "quantity": "1"
         },
         {
-          "name": "Contract of glyphic attenuation",
+          "name": "Contract of Glyphic Attenuation",
           "rarity": "1/123",
           "quantity": "1"
         },
         {
-          "name": "Contract of bloodied blows",
+          "name": "Contract of Bloodied Blows",
           "rarity": "1/123",
           "quantity": "1"
         },
         {
-          "name": "Contract of divine severance",
+          "name": "Contract of Divine Severance",
           "rarity": "1/123",
           "quantity": "1"
         },
         {
-          "name": "Contract of forfeit breath",
+          "name": "Contract of Forfeit Breath",
           "rarity": "1/123",
           "quantity": "1"
         },
         {
-          "name": "Contract of sensory clouding",
+          "name": "Contract of Sensory Clouding",
           "rarity": "1/123",
           "quantity": "1"
         },
@@ -22546,27 +22961,27 @@
           "quantity": "1"
         },
         {
-          "name": "Contract of glyphic attenuation",
+          "name": "Contract of Glyphic Attenuation",
           "rarity": "1/123",
           "quantity": "1"
         },
         {
-          "name": "Contract of bloodied blows",
+          "name": "Contract of Bloodied Blows",
           "rarity": "1/123",
           "quantity": "1"
         },
         {
-          "name": "Contract of divine severance",
+          "name": "Contract of Divine Severance",
           "rarity": "1/123",
           "quantity": "1"
         },
         {
-          "name": "Contract of forfeit breath",
+          "name": "Contract of Forfeit Breath",
           "rarity": "1/123",
           "quantity": "1"
         },
         {
-          "name": "Contract of sensory clouding",
+          "name": "Contract of Sensory Clouding",
           "rarity": "1/123",
           "quantity": "1"
         },
@@ -23163,27 +23578,27 @@
           "quantity": "1"
         },
         {
-          "name": "Contract of glyphic attenuation",
+          "name": "Contract of Glyphic Attenuation",
           "rarity": "1/123",
           "quantity": "1"
         },
         {
-          "name": "Contract of bloodied blows",
+          "name": "Contract of Bloodied Blows",
           "rarity": "1/123",
           "quantity": "1"
         },
         {
-          "name": "Contract of divine severance",
+          "name": "Contract of Divine Severance",
           "rarity": "1/123",
           "quantity": "1"
         },
         {
-          "name": "Contract of forfeit breath",
+          "name": "Contract of Forfeit Breath",
           "rarity": "1/123",
           "quantity": "1"
         },
         {
-          "name": "Contract of sensory clouding",
+          "name": "Contract of Sensory Clouding",
           "rarity": "1/123",
           "quantity": "1"
         },
@@ -23785,27 +24200,27 @@
           "quantity": "1"
         },
         {
-          "name": "Contract of glyphic attenuation",
+          "name": "Contract of Glyphic Attenuation",
           "rarity": "1/123",
           "quantity": "1"
         },
         {
-          "name": "Contract of bloodied blows",
+          "name": "Contract of Bloodied Blows",
           "rarity": "1/123",
           "quantity": "1"
         },
         {
-          "name": "Contract of divine severance",
+          "name": "Contract of Divine Severance",
           "rarity": "1/123",
           "quantity": "1"
         },
         {
-          "name": "Contract of forfeit breath",
+          "name": "Contract of Forfeit Breath",
           "rarity": "1/123",
           "quantity": "1"
         },
         {
-          "name": "Contract of sensory clouding",
+          "name": "Contract of Sensory Clouding",
           "rarity": "1/123",
           "quantity": "1"
         },
@@ -36450,7 +36865,7 @@
           "quantity": "1"
         },
         {
-          "name": "Jar of sand",
+          "name": "Jar of Sand",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -36851,7 +37266,7 @@
           "quantity": "1"
         },
         {
-          "name": "Jar of sand",
+          "name": "Jar of Sand",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -39646,6 +40061,26 @@
           "quantity": "1"
         },
         {
+          "name": "Coins",
+          "rarity": "5/128",
+          "quantity": "3"
+        },
+        {
+          "name": "Coins",
+          "rarity": "3/128",
+          "quantity": "8"
+        },
+        {
+          "name": "Coins",
+          "rarity": "3/128",
+          "quantity": "29"
+        },
+        {
+          "name": "Coins",
+          "rarity": "1/128",
+          "quantity": "10"
+        },
+        {
           "name": "Vial of water",
           "rarity": "13/128",
           "quantity": "1"
@@ -39681,24 +40116,14 @@
           "quantity": "1"
         },
         {
-          "name": "Coins",
-          "rarity": "5/128",
-          "quantity": "3"
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
         },
         {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "8"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "29"
-        },
-        {
-          "name": "Coins",
-          "rarity": "1/128",
-          "quantity": "10"
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "1"
         },
         {
           "name": "Frozen tear",
@@ -39901,6 +40326,26 @@
           "quantity": "1"
         },
         {
+          "name": "Coins",
+          "rarity": "5/128",
+          "quantity": "3"
+        },
+        {
+          "name": "Coins",
+          "rarity": "3/128",
+          "quantity": "8"
+        },
+        {
+          "name": "Coins",
+          "rarity": "3/128",
+          "quantity": "29"
+        },
+        {
+          "name": "Coins",
+          "rarity": "1/128",
+          "quantity": "10"
+        },
+        {
           "name": "Vial of water",
           "rarity": "13/128",
           "quantity": "1"
@@ -39936,24 +40381,14 @@
           "quantity": "1"
         },
         {
-          "name": "Coins",
-          "rarity": "5/128",
-          "quantity": "3"
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
         },
         {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "8"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "29"
-        },
-        {
-          "name": "Coins",
-          "rarity": "1/128",
-          "quantity": "10"
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "1"
         },
         {
           "name": "Frozen tear",
@@ -40156,6 +40591,26 @@
           "quantity": "1"
         },
         {
+          "name": "Coins",
+          "rarity": "5/128",
+          "quantity": "3"
+        },
+        {
+          "name": "Coins",
+          "rarity": "3/128",
+          "quantity": "8"
+        },
+        {
+          "name": "Coins",
+          "rarity": "3/128",
+          "quantity": "29"
+        },
+        {
+          "name": "Coins",
+          "rarity": "1/128",
+          "quantity": "10"
+        },
+        {
           "name": "Vial of water",
           "rarity": "13/128",
           "quantity": "1"
@@ -40191,24 +40646,14 @@
           "quantity": "1"
         },
         {
-          "name": "Coins",
-          "rarity": "5/128",
-          "quantity": "3"
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
         },
         {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "8"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "29"
-        },
-        {
-          "name": "Coins",
-          "rarity": "1/128",
-          "quantity": "10"
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "1"
         },
         {
           "name": "Frozen tear",
@@ -40411,6 +40856,26 @@
           "quantity": "1"
         },
         {
+          "name": "Coins",
+          "rarity": "5/128",
+          "quantity": "3"
+        },
+        {
+          "name": "Coins",
+          "rarity": "3/128",
+          "quantity": "8"
+        },
+        {
+          "name": "Coins",
+          "rarity": "3/128",
+          "quantity": "29"
+        },
+        {
+          "name": "Coins",
+          "rarity": "1/128",
+          "quantity": "10"
+        },
+        {
           "name": "Vial of water",
           "rarity": "13/128",
           "quantity": "1"
@@ -40446,24 +40911,14 @@
           "quantity": "1"
         },
         {
-          "name": "Coins",
-          "rarity": "5/128",
-          "quantity": "3"
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
         },
         {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "8"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "29"
-        },
-        {
-          "name": "Coins",
-          "rarity": "1/128",
-          "quantity": "10"
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "1"
         },
         {
           "name": "Frozen tear",
@@ -40666,6 +41121,26 @@
           "quantity": "1"
         },
         {
+          "name": "Coins",
+          "rarity": "5/128",
+          "quantity": "3"
+        },
+        {
+          "name": "Coins",
+          "rarity": "3/128",
+          "quantity": "8"
+        },
+        {
+          "name": "Coins",
+          "rarity": "3/128",
+          "quantity": "29"
+        },
+        {
+          "name": "Coins",
+          "rarity": "1/128",
+          "quantity": "10"
+        },
+        {
           "name": "Vial of water",
           "rarity": "13/128",
           "quantity": "1"
@@ -40701,24 +41176,14 @@
           "quantity": "1"
         },
         {
-          "name": "Coins",
-          "rarity": "5/128",
-          "quantity": "3"
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
         },
         {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "8"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "29"
-        },
-        {
-          "name": "Coins",
-          "rarity": "1/128",
-          "quantity": "10"
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "1"
         },
         {
           "name": "Frozen tear",
@@ -40921,6 +41386,26 @@
           "quantity": "1"
         },
         {
+          "name": "Coins",
+          "rarity": "5/128",
+          "quantity": "3"
+        },
+        {
+          "name": "Coins",
+          "rarity": "3/128",
+          "quantity": "8"
+        },
+        {
+          "name": "Coins",
+          "rarity": "3/128",
+          "quantity": "29"
+        },
+        {
+          "name": "Coins",
+          "rarity": "1/128",
+          "quantity": "10"
+        },
+        {
           "name": "Vial of water",
           "rarity": "13/128",
           "quantity": "1"
@@ -40956,24 +41441,14 @@
           "quantity": "1"
         },
         {
-          "name": "Coins",
-          "rarity": "5/128",
-          "quantity": "3"
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
         },
         {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "8"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "29"
-        },
-        {
-          "name": "Coins",
-          "rarity": "1/128",
-          "quantity": "10"
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "1"
         },
         {
           "name": "Frozen tear",
@@ -41850,6 +42325,11 @@
           "quantity": "25"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
           "name": "Fishing bait",
           "rarity": "5/128",
           "quantity": "1"
@@ -42028,6 +42508,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Common",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -42210,6 +42695,11 @@
           "quantity": "25"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
           "name": "Fishing bait",
           "rarity": "5/128",
           "quantity": "1"
@@ -42387,6 +42877,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Common",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -42569,6 +43064,11 @@
           "quantity": "25"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
           "name": "Fishing bait",
           "rarity": "5/128",
           "quantity": "1"
@@ -42746,6 +43246,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Common",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -42927,6 +43432,11 @@
           "quantity": "25"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
           "name": "Fishing bait",
           "rarity": "5/128",
           "quantity": "1"
@@ -43104,6 +43614,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Common",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -43285,6 +43800,11 @@
           "quantity": "25"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
           "name": "Fishing bait",
           "rarity": "5/128",
           "quantity": "1"
@@ -43462,6 +43982,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Common",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -43643,6 +44168,11 @@
           "quantity": "25"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
           "name": "Fishing bait",
           "rarity": "5/128",
           "quantity": "1"
@@ -43822,6 +44352,11 @@
           "quantity": "25"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
           "name": "Fishing bait",
           "rarity": "5/128",
           "quantity": "1"
@@ -43999,6 +44534,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Common",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -44200,27 +44740,27 @@
           "quantity": "1"
         },
         {
-          "name": "Contract of glyphic attenuation",
+          "name": "Contract of Glyphic Attenuation",
           "rarity": "1/81",
           "quantity": "1"
         },
         {
-          "name": "Contract of bloodied blows",
+          "name": "Contract of Bloodied Blows",
           "rarity": "1/81",
           "quantity": "1"
         },
         {
-          "name": "Contract of divine severance",
+          "name": "Contract of Divine Severance",
           "rarity": "1/81",
           "quantity": "1"
         },
         {
-          "name": "Contract of forfeit breath",
+          "name": "Contract of Forfeit Breath",
           "rarity": "1/81",
           "quantity": "1"
         },
         {
-          "name": "Contract of sensory clouding",
+          "name": "Contract of Sensory Clouding",
           "rarity": "1/81",
           "quantity": "1"
         },
@@ -44717,27 +45257,27 @@
           "quantity": "1"
         },
         {
-          "name": "Contract of glyphic attenuation",
+          "name": "Contract of Glyphic Attenuation",
           "rarity": "1/81",
           "quantity": "1"
         },
         {
-          "name": "Contract of bloodied blows",
+          "name": "Contract of Bloodied Blows",
           "rarity": "1/81",
           "quantity": "1"
         },
         {
-          "name": "Contract of divine severance",
+          "name": "Contract of Divine Severance",
           "rarity": "1/81",
           "quantity": "1"
         },
         {
-          "name": "Contract of forfeit breath",
+          "name": "Contract of Forfeit Breath",
           "rarity": "1/81",
           "quantity": "1"
         },
         {
-          "name": "Contract of sensory clouding",
+          "name": "Contract of Sensory Clouding",
           "rarity": "1/81",
           "quantity": "1"
         },
@@ -45227,27 +45767,27 @@
           "quantity": "1"
         },
         {
-          "name": "Contract of glyphic attenuation",
+          "name": "Contract of Glyphic Attenuation",
           "rarity": "1/81",
           "quantity": "1"
         },
         {
-          "name": "Contract of bloodied blows",
+          "name": "Contract of Bloodied Blows",
           "rarity": "1/81",
           "quantity": "1"
         },
         {
-          "name": "Contract of divine severance",
+          "name": "Contract of Divine Severance",
           "rarity": "1/81",
           "quantity": "1"
         },
         {
-          "name": "Contract of forfeit breath",
+          "name": "Contract of Forfeit Breath",
           "rarity": "1/81",
           "quantity": "1"
         },
         {
-          "name": "Contract of sensory clouding",
+          "name": "Contract of Sensory Clouding",
           "rarity": "1/81",
           "quantity": "1"
         },
@@ -45737,27 +46277,27 @@
           "quantity": "1"
         },
         {
-          "name": "Contract of glyphic attenuation",
+          "name": "Contract of Glyphic Attenuation",
           "rarity": "1/81",
           "quantity": "1"
         },
         {
-          "name": "Contract of bloodied blows",
+          "name": "Contract of Bloodied Blows",
           "rarity": "1/81",
           "quantity": "1"
         },
         {
-          "name": "Contract of divine severance",
+          "name": "Contract of Divine Severance",
           "rarity": "1/81",
           "quantity": "1"
         },
         {
-          "name": "Contract of forfeit breath",
+          "name": "Contract of Forfeit Breath",
           "rarity": "1/81",
           "quantity": "1"
         },
         {
-          "name": "Contract of sensory clouding",
+          "name": "Contract of Sensory Clouding",
           "rarity": "1/81",
           "quantity": "1"
         },
@@ -46249,27 +46789,27 @@
           "quantity": "1"
         },
         {
-          "name": "Contract of glyphic attenuation",
+          "name": "Contract of Glyphic Attenuation",
           "rarity": "1/81",
           "quantity": "1"
         },
         {
-          "name": "Contract of bloodied blows",
+          "name": "Contract of Bloodied Blows",
           "rarity": "1/81",
           "quantity": "1"
         },
         {
-          "name": "Contract of divine severance",
+          "name": "Contract of Divine Severance",
           "rarity": "1/81",
           "quantity": "1"
         },
         {
-          "name": "Contract of forfeit breath",
+          "name": "Contract of Forfeit Breath",
           "rarity": "1/81",
           "quantity": "1"
         },
         {
-          "name": "Contract of sensory clouding",
+          "name": "Contract of Sensory Clouding",
           "rarity": "1/81",
           "quantity": "1"
         },
@@ -56125,6 +56665,16 @@
           "name": "Waterskin(0)",
           "rarity": "13/128",
           "quantity": "2"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(2)",
+          "rarity": "Unknown",
+          "quantity": "6 (noted)"
         }
       ],
       "rare_drop_table": [
@@ -56360,6 +56910,16 @@
           "name": "Waterskin(0)",
           "rarity": "13/128",
           "quantity": "2"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(2)",
+          "rarity": "Unknown",
+          "quantity": "6 (noted)"
         }
       ],
       "rare_drop_table": [
@@ -56596,6 +57156,16 @@
           "name": "Waterskin(0)",
           "rarity": "13/128",
           "quantity": "2"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(2)",
+          "rarity": "Unknown",
+          "quantity": "6 (noted)"
         }
       ],
       "rare_drop_table": [
@@ -84718,27 +85288,27 @@
           "quantity": "1"
         },
         {
-          "name": "Contract of glyphic attenuation",
+          "name": "Contract of Glyphic Attenuation",
           "rarity": "1/53",
           "quantity": "1"
         },
         {
-          "name": "Contract of bloodied blows",
+          "name": "Contract of Bloodied Blows",
           "rarity": "1/53",
           "quantity": "1"
         },
         {
-          "name": "Contract of divine severance",
+          "name": "Contract of Divine Severance",
           "rarity": "1/53",
           "quantity": "1"
         },
         {
-          "name": "Contract of forfeit breath",
+          "name": "Contract of Forfeit Breath",
           "rarity": "1/53",
           "quantity": "1"
         },
         {
-          "name": "Contract of sensory clouding",
+          "name": "Contract of Sensory Clouding",
           "rarity": "1/53",
           "quantity": "1"
         },
@@ -85517,27 +86087,27 @@
           "quantity": "1"
         },
         {
-          "name": "Contract of glyphic attenuation",
+          "name": "Contract of Glyphic Attenuation",
           "rarity": "1/53",
           "quantity": "1"
         },
         {
-          "name": "Contract of bloodied blows",
+          "name": "Contract of Bloodied Blows",
           "rarity": "1/53",
           "quantity": "1"
         },
         {
-          "name": "Contract of divine severance",
+          "name": "Contract of Divine Severance",
           "rarity": "1/53",
           "quantity": "1"
         },
         {
-          "name": "Contract of forfeit breath",
+          "name": "Contract of Forfeit Breath",
           "rarity": "1/53",
           "quantity": "1"
         },
         {
-          "name": "Contract of sensory clouding",
+          "name": "Contract of Sensory Clouding",
           "rarity": "1/53",
           "quantity": "1"
         },
@@ -86309,27 +86879,27 @@
           "quantity": "1"
         },
         {
-          "name": "Contract of glyphic attenuation",
+          "name": "Contract of Glyphic Attenuation",
           "rarity": "1/53",
           "quantity": "1"
         },
         {
-          "name": "Contract of bloodied blows",
+          "name": "Contract of Bloodied Blows",
           "rarity": "1/53",
           "quantity": "1"
         },
         {
-          "name": "Contract of divine severance",
+          "name": "Contract of Divine Severance",
           "rarity": "1/53",
           "quantity": "1"
         },
         {
-          "name": "Contract of forfeit breath",
+          "name": "Contract of Forfeit Breath",
           "rarity": "1/53",
           "quantity": "1"
         },
         {
-          "name": "Contract of sensory clouding",
+          "name": "Contract of Sensory Clouding",
           "rarity": "1/53",
           "quantity": "1"
         },
@@ -87099,27 +87669,27 @@
           "quantity": "1"
         },
         {
-          "name": "Contract of glyphic attenuation",
+          "name": "Contract of Glyphic Attenuation",
           "rarity": "1/53",
           "quantity": "1"
         },
         {
-          "name": "Contract of bloodied blows",
+          "name": "Contract of Bloodied Blows",
           "rarity": "1/53",
           "quantity": "1"
         },
         {
-          "name": "Contract of divine severance",
+          "name": "Contract of Divine Severance",
           "rarity": "1/53",
           "quantity": "1"
         },
         {
-          "name": "Contract of forfeit breath",
+          "name": "Contract of Forfeit Breath",
           "rarity": "1/53",
           "quantity": "1"
         },
         {
-          "name": "Contract of sensory clouding",
+          "name": "Contract of Sensory Clouding",
           "rarity": "1/53",
           "quantity": "1"
         },
@@ -103121,6 +103691,16 @@
           "name": "Waterskin(0)",
           "rarity": "13/128",
           "quantity": "2"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(2)",
+          "rarity": "Unknown",
+          "quantity": "6 (noted)"
         }
       ],
       "rare_drop_table": [
@@ -103357,6 +103937,16 @@
           "name": "Waterskin(0)",
           "rarity": "13/128",
           "quantity": "2"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(2)",
+          "rarity": "Unknown",
+          "quantity": "6 (noted)"
         }
       ],
       "rare_drop_table": [
@@ -117144,6 +117734,11 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/90",
           "quantity": "1"
@@ -122472,6 +123067,16 @@
           "name": "Soda ash",
           "rarity": "1/140",
           "quantity": "4"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "10 (noted)"
         }
       ],
       "rare_drop_table": [
@@ -122712,6 +123317,16 @@
           "name": "Soda ash",
           "rarity": "1/140",
           "quantity": "4"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "10 (noted)"
         }
       ],
       "rare_drop_table": [
@@ -128853,6 +129468,11 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/90",
           "quantity": "1"
@@ -129046,6 +129666,11 @@
           "quantity": "25"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
           "name": "Fishing bait",
           "rarity": "5/128",
           "quantity": "1"
@@ -129214,6 +129839,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Common",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -129386,6 +130016,11 @@
           "quantity": "25"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
           "name": "Fishing bait",
           "rarity": "5/128",
           "quantity": "1"
@@ -129555,6 +130190,11 @@
           "quantity": "25"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
           "name": "Fishing bait",
           "rarity": "5/128",
           "quantity": "1"
@@ -129722,6 +130362,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Common",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -129895,6 +130540,11 @@
           "quantity": "25"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
           "name": "Fishing bait",
           "rarity": "5/128",
           "quantity": "1"
@@ -130062,6 +130712,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Common",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -152586,6 +153241,21 @@
           "quantity": "1–75"
         },
         {
+          "name": "Energy potion(1)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(2)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
           "name": "Mole claw",
           "rarity": "1/128",
           "quantity": "1"
@@ -164485,6 +165155,11 @@
           "quantity": "25"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Fishing bait",
           "rarity": "5/128",
           "quantity": "1"
@@ -164657,6 +165332,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -164833,6 +165513,11 @@
           "quantity": "25"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Fishing bait",
           "rarity": "5/128",
           "quantity": "1"
@@ -165005,6 +165690,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -165181,6 +165871,11 @@
           "quantity": "25"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Fishing bait",
           "rarity": "5/128",
           "quantity": "1"
@@ -165353,6 +166048,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -165529,6 +166229,11 @@
           "quantity": "25"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Fishing bait",
           "rarity": "5/128",
           "quantity": "1"
@@ -165701,6 +166406,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -165877,6 +166587,11 @@
           "quantity": "25"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Fishing bait",
           "rarity": "5/128",
           "quantity": "1"
@@ -166051,6 +166766,11 @@
           "quantity": "25"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Fishing bait",
           "rarity": "5/128",
           "quantity": "1"
@@ -166223,6 +166943,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -190643,22 +191368,22 @@
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "3.125/128",
+          "rarity": "1/40.96",
           "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "2.5/128",
+          "rarity": "1/51.2",
           "quantity": "1"
         },
         {
           "name": "Grimy snapdragon",
-          "rarity": "2.5/128",
+          "rarity": "1/51.2",
           "quantity": "1"
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1.875/128",
+          "rarity": "1/68.27",
           "quantity": "1"
         },
         {
@@ -190988,22 +191713,22 @@
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "3.125/128",
+          "rarity": "1/40.96",
           "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "2.5/128",
+          "rarity": "1/51.2",
           "quantity": "1"
         },
         {
           "name": "Grimy snapdragon",
-          "rarity": "2.5/128",
+          "rarity": "1/51.2",
           "quantity": "1"
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1.875/128",
+          "rarity": "1/68.27",
           "quantity": "1"
         },
         {
@@ -191333,22 +192058,22 @@
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "3.125/128",
+          "rarity": "1/40.96",
           "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "2.5/128",
+          "rarity": "1/51.2",
           "quantity": "1"
         },
         {
           "name": "Grimy snapdragon",
-          "rarity": "2.5/128",
+          "rarity": "1/51.2",
           "quantity": "1"
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1.875/128",
+          "rarity": "1/68.27",
           "quantity": "1"
         },
         {
@@ -191678,22 +192403,22 @@
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "3.125/128",
+          "rarity": "1/40.96",
           "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "2.5/128",
+          "rarity": "1/51.2",
           "quantity": "1"
         },
         {
           "name": "Grimy snapdragon",
-          "rarity": "2.5/128",
+          "rarity": "1/51.2",
           "quantity": "1"
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1.875/128",
+          "rarity": "1/68.27",
           "quantity": "1"
         },
         {
@@ -192023,22 +192748,22 @@
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "3.125/128",
+          "rarity": "1/40.96",
           "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "2.5/128",
+          "rarity": "1/51.2",
           "quantity": "1"
         },
         {
           "name": "Grimy snapdragon",
-          "rarity": "2.5/128",
+          "rarity": "1/51.2",
           "quantity": "1"
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1.875/128",
+          "rarity": "1/68.27",
           "quantity": "1"
         },
         {
@@ -192368,23 +193093,23 @@
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "3.125/128",
-          "quantity": "1 (noted)"
+          "rarity": "1/40.96",
+          "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "2.5/128",
-          "quantity": "1 (noted)"
+          "rarity": "1/51.2",
+          "quantity": "1"
         },
         {
           "name": "Grimy snapdragon",
-          "rarity": "2.5/128",
-          "quantity": "1 (noted)"
+          "rarity": "1/51.2",
+          "quantity": "1"
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1.875/128",
-          "quantity": "1 (noted)"
+          "rarity": "1/68.27",
+          "quantity": "1"
         },
         {
           "name": "Coins",
@@ -192773,23 +193498,23 @@
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "3.125/128",
-          "quantity": "1 (noted)"
+          "rarity": "1/40.96",
+          "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "2.5/128",
-          "quantity": "1 (noted)"
+          "rarity": "1/51.2",
+          "quantity": "1"
         },
         {
           "name": "Grimy snapdragon",
-          "rarity": "2.5/128",
-          "quantity": "1 (noted)"
+          "rarity": "1/51.2",
+          "quantity": "1"
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1.875/128",
-          "quantity": "1 (noted)"
+          "rarity": "1/68.27",
+          "quantity": "1"
         },
         {
           "name": "Coins",
@@ -193178,23 +193903,23 @@
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "3.125/128",
-          "quantity": "1 (noted)"
+          "rarity": "1/40.96",
+          "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "2.5/128",
-          "quantity": "1 (noted)"
+          "rarity": "1/51.2",
+          "quantity": "1"
         },
         {
           "name": "Grimy snapdragon",
-          "rarity": "2.5/128",
-          "quantity": "1 (noted)"
+          "rarity": "1/51.2",
+          "quantity": "1"
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1.875/128",
-          "quantity": "1 (noted)"
+          "rarity": "1/68.27",
+          "quantity": "1"
         },
         {
           "name": "Coins",
@@ -193583,23 +194308,23 @@
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "3.125/128",
-          "quantity": "1 (noted)"
+          "rarity": "1/40.96",
+          "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "2.5/128",
-          "quantity": "1 (noted)"
+          "rarity": "1/51.2",
+          "quantity": "1"
         },
         {
           "name": "Grimy snapdragon",
-          "rarity": "2.5/128",
-          "quantity": "1 (noted)"
+          "rarity": "1/51.2",
+          "quantity": "1"
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1.875/128",
-          "quantity": "1 (noted)"
+          "rarity": "1/68.27",
+          "quantity": "1"
         },
         {
           "name": "Coins",
@@ -193988,23 +194713,23 @@
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "3.125/128",
-          "quantity": "1 (noted)"
+          "rarity": "1/40.96",
+          "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "2.5/128",
-          "quantity": "1 (noted)"
+          "rarity": "1/51.2",
+          "quantity": "1"
         },
         {
           "name": "Grimy snapdragon",
-          "rarity": "2.5/128",
-          "quantity": "1 (noted)"
+          "rarity": "1/51.2",
+          "quantity": "1"
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1.875/128",
-          "quantity": "1 (noted)"
+          "rarity": "1/68.27",
+          "quantity": "1"
         },
         {
           "name": "Coins",
@@ -204854,7 +205579,7 @@
           "quantity": "1"
         },
         {
-          "name": "Amulet of othanian",
+          "name": "Amulet of Othanian",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -204878,7 +205603,7 @@
           "quantity": "1"
         },
         {
-          "name": "Amulet of doomion",
+          "name": "Amulet of Doomion",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -207896,7 +208621,7 @@
           "quantity": "1"
         },
         {
-          "name": "Trident of the seas (full)",
+          "name": "Trident of the Seas (full)",
           "rarity": "1/512",
           "quantity": "1"
         },
@@ -208061,7 +208786,7 @@
           "quantity": "1"
         },
         {
-          "name": "Jar of dirt",
+          "name": "Jar of Dirt",
           "rarity": "1/1,000",
           "quantity": "1"
         },
@@ -208171,7 +208896,7 @@
           "quantity": "1"
         },
         {
-          "name": "Trident of the seas (full)",
+          "name": "Trident of the Seas (full)",
           "rarity": "1/512",
           "quantity": "1"
         },
@@ -208336,7 +209061,7 @@
           "quantity": "1"
         },
         {
-          "name": "Jar of dirt",
+          "name": "Jar of Dirt",
           "rarity": "1/1,000",
           "quantity": "1"
         },
@@ -213657,7 +214382,7 @@
           "quantity": "1"
         },
         {
-          "name": "Claws of callisto",
+          "name": "Claws of Callisto",
           "rarity": "1/196",
           "quantity": "1"
         },
@@ -213941,7 +214666,7 @@
           "quantity": "1"
         },
         {
-          "name": "Skull of vet'ion",
+          "name": "Skull of Vet'ion",
           "rarity": "1/196",
           "quantity": "1"
         },
@@ -214230,7 +214955,7 @@
           "quantity": "1"
         },
         {
-          "name": "Skull of vet'ion",
+          "name": "Skull of Vet'ion",
           "rarity": "1/196",
           "quantity": "1"
         },
@@ -214519,7 +215244,7 @@
           "quantity": "1"
         },
         {
-          "name": "Fangs of venenatis",
+          "name": "Fangs of Venenatis",
           "rarity": "1/196",
           "quantity": "1"
         },
@@ -215668,7 +216393,7 @@
           "quantity": "1"
         },
         {
-          "name": "Amulet of holthion",
+          "name": "Amulet of Holthion",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -217779,7 +218504,7 @@
           "quantity": "1"
         },
         {
-          "name": "Jar of smoke",
+          "name": "Jar of Smoke",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -228230,42 +228955,42 @@
         },
         {
           "name": "Grimy kwuarm",
-          "rarity": "10/408",
+          "rarity": "1/40.8",
           "quantity": "1"
         },
         {
           "name": "Grimy dwarf weed",
-          "rarity": "8/408",
+          "rarity": "1/51",
           "quantity": "1"
         },
         {
           "name": "Grimy cadantine",
-          "rarity": "8/408",
+          "rarity": "1/51",
           "quantity": "1"
         },
         {
           "name": "Grimy lantadyme",
-          "rarity": "6/408",
+          "rarity": "1/68",
           "quantity": "1"
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "5/408",
+          "rarity": "1/81.6",
           "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "4/408",
+          "rarity": "1/102",
           "quantity": "1"
         },
         {
           "name": "Grimy snapdragon",
-          "rarity": "4/408",
+          "rarity": "1/102",
           "quantity": "1"
         },
         {
           "name": "Grimy torstol",
-          "rarity": "3/408",
+          "rarity": "1/136",
           "quantity": "1"
         },
         {
@@ -228479,42 +229204,42 @@
         },
         {
           "name": "Grimy kwuarm",
-          "rarity": "10/408",
+          "rarity": "1/40.8",
           "quantity": "1"
         },
         {
           "name": "Grimy dwarf weed",
-          "rarity": "8/408",
+          "rarity": "1/51",
           "quantity": "1"
         },
         {
           "name": "Grimy cadantine",
-          "rarity": "8/408",
+          "rarity": "1/51",
           "quantity": "1"
         },
         {
           "name": "Grimy lantadyme",
-          "rarity": "6/408",
+          "rarity": "1/68",
           "quantity": "1"
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "5/408",
+          "rarity": "1/81.6",
           "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "4/408",
+          "rarity": "1/102",
           "quantity": "1"
         },
         {
           "name": "Grimy snapdragon",
-          "rarity": "4/408",
+          "rarity": "1/102",
           "quantity": "1"
         },
         {
           "name": "Grimy torstol",
-          "rarity": "3/408",
+          "rarity": "1/136",
           "quantity": "1"
         },
         {
@@ -228728,42 +229453,42 @@
         },
         {
           "name": "Grimy kwuarm",
-          "rarity": "10/408",
+          "rarity": "1/40.8",
           "quantity": "1"
         },
         {
           "name": "Grimy dwarf weed",
-          "rarity": "8/408",
+          "rarity": "1/51",
           "quantity": "1"
         },
         {
           "name": "Grimy cadantine",
-          "rarity": "8/408",
+          "rarity": "1/51",
           "quantity": "1"
         },
         {
           "name": "Grimy lantadyme",
-          "rarity": "6/408",
+          "rarity": "1/68",
           "quantity": "1"
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "5/408",
+          "rarity": "1/81.6",
           "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "4/408",
+          "rarity": "1/102",
           "quantity": "1"
         },
         {
           "name": "Grimy snapdragon",
-          "rarity": "4/408",
+          "rarity": "1/102",
           "quantity": "1"
         },
         {
           "name": "Grimy torstol",
-          "rarity": "3/408",
+          "rarity": "1/136",
           "quantity": "1"
         },
         {
@@ -228977,42 +229702,42 @@
         },
         {
           "name": "Grimy kwuarm",
-          "rarity": "10/408",
+          "rarity": "1/40.8",
           "quantity": "1"
         },
         {
           "name": "Grimy dwarf weed",
-          "rarity": "8/408",
+          "rarity": "1/51",
           "quantity": "1"
         },
         {
           "name": "Grimy cadantine",
-          "rarity": "8/408",
+          "rarity": "1/51",
           "quantity": "1"
         },
         {
           "name": "Grimy lantadyme",
-          "rarity": "6/408",
+          "rarity": "1/68",
           "quantity": "1"
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "5/408",
+          "rarity": "1/81.6",
           "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "4/408",
+          "rarity": "1/102",
           "quantity": "1"
         },
         {
           "name": "Grimy snapdragon",
-          "rarity": "4/408",
+          "rarity": "1/102",
           "quantity": "1"
         },
         {
           "name": "Grimy torstol",
-          "rarity": "3/408",
+          "rarity": "1/136",
           "quantity": "1"
         },
         {
@@ -230493,6 +231218,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Common",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -232106,7 +232836,7 @@
           "quantity": "1"
         },
         {
-          "name": "Jar of spirits",
+          "name": "Jar of Spirits",
           "rarity": "1/1,000",
           "quantity": "1"
         },
@@ -236347,7 +237077,7 @@
           "quantity": "1"
         },
         {
-          "name": "Jar of swamp",
+          "name": "Jar of Swamp",
           "rarity": "1/3,000",
           "quantity": "1"
         },
@@ -236737,7 +237467,7 @@
           "quantity": "1"
         },
         {
-          "name": "Jar of swamp",
+          "name": "Jar of Swamp",
           "rarity": "1/3,000",
           "quantity": "1"
         },
@@ -237127,7 +237857,7 @@
           "quantity": "1"
         },
         {
-          "name": "Jar of swamp",
+          "name": "Jar of Swamp",
           "rarity": "1/3,000",
           "quantity": "1"
         },
@@ -237365,7 +238095,7 @@
           "quantity": "1"
         },
         {
-          "name": "Orb of protection",
+          "name": "Orb of Protection",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -239284,6 +240014,11 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Key (medium)",
           "rarity": "Always",
           "quantity": "1"
@@ -240926,6 +241661,11 @@
           "quantity": "25"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Common",
+          "quantity": "1"
+        },
+        {
           "name": "Fishing bait",
           "rarity": "5/128",
           "quantity": "1"
@@ -241128,6 +241868,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Common",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -241448,7 +242193,7 @@
           "quantity": "1"
         },
         {
-          "name": "Jar of souls",
+          "name": "Jar of Souls",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -244115,6 +244860,16 @@
           "name": "Waterskin(0)",
           "rarity": "13/128",
           "quantity": "2"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(2)",
+          "rarity": "Unknown",
+          "quantity": "6 (noted)"
         },
         {
           "name": "Desert lizard bone",
@@ -277830,6 +278585,11 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/90",
           "quantity": "1"
@@ -280110,6 +280870,11 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -285588,7 +286353,7 @@
           "quantity": "1"
         },
         {
-          "name": "Jar of darkness",
+          "name": "Jar of Darkness",
           "rarity": "1/200",
           "quantity": "1"
         }
@@ -288973,6 +289738,16 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(2)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "2 (noted)"
+        },
+        {
           "name": "Clue scroll (easy)",
           "rarity": "10/128",
           "quantity": "1"
@@ -289378,6 +290153,26 @@
           "quantity": "1"
         },
         {
+          "name": "Coins",
+          "rarity": "5/128",
+          "quantity": "3"
+        },
+        {
+          "name": "Coins",
+          "rarity": "3/128",
+          "quantity": "8"
+        },
+        {
+          "name": "Coins",
+          "rarity": "3/128",
+          "quantity": "29"
+        },
+        {
+          "name": "Coins",
+          "rarity": "1/128",
+          "quantity": "10"
+        },
+        {
           "name": "Vial of water",
           "rarity": "13/128",
           "quantity": "1"
@@ -289413,24 +290208,14 @@
           "quantity": "1"
         },
         {
-          "name": "Coins",
-          "rarity": "5/128",
-          "quantity": "3"
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
         },
         {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "8"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "29"
-        },
-        {
-          "name": "Coins",
-          "rarity": "1/128",
-          "quantity": "10"
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "1"
         },
         {
           "name": "Tooth half of key (moon key)",
@@ -289643,6 +290428,26 @@
           "quantity": "1"
         },
         {
+          "name": "Coins",
+          "rarity": "5/128",
+          "quantity": "3"
+        },
+        {
+          "name": "Coins",
+          "rarity": "3/128",
+          "quantity": "8"
+        },
+        {
+          "name": "Coins",
+          "rarity": "3/128",
+          "quantity": "29"
+        },
+        {
+          "name": "Coins",
+          "rarity": "1/128",
+          "quantity": "10"
+        },
+        {
           "name": "Vial of water",
           "rarity": "13/128",
           "quantity": "1"
@@ -289678,24 +290483,14 @@
           "quantity": "1"
         },
         {
-          "name": "Coins",
-          "rarity": "5/128",
-          "quantity": "3"
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
         },
         {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "8"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "29"
-        },
-        {
-          "name": "Coins",
-          "rarity": "1/128",
-          "quantity": "10"
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "1"
         },
         {
           "name": "Tooth half of key (moon key)",
@@ -293063,6 +293858,16 @@
           "name": "Coins",
           "rarity": "23/128",
           "quantity": "8"
+        },
+        {
+          "name": "Energy potion(2)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
+          "quantity": "1"
         },
         {
           "name": "Crawling hand (item)",
@@ -296465,6 +297270,16 @@
         {
           "name": "Limpwurt root",
           "rarity": "21/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(2)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -304327,22 +305142,22 @@
         },
         {
           "name": "Grimy kwuarm",
-          "rarity": "5/264",
-          "quantity": "3 (noted)"
-        },
-        {
-          "name": "Grimy cadantine",
-          "rarity": "2/132",
-          "quantity": "3 (noted)"
-        },
-        {
-          "name": "Grimy lantadyme",
-          "rarity": "3/264",
+          "rarity": "1/52.8",
           "quantity": "3 (noted)"
         },
         {
           "name": "Grimy dwarf weed",
-          "rarity": "2/132",
+          "rarity": "1/66",
+          "quantity": "3 (noted)"
+        },
+        {
+          "name": "Grimy cadantine",
+          "rarity": "1/66",
+          "quantity": "3 (noted)"
+        },
+        {
+          "name": "Grimy lantadyme",
+          "rarity": "1/88",
           "quantity": "3 (noted)"
         },
         {
@@ -305115,12 +305930,12 @@
           "quantity": "2"
         },
         {
-          "name": "Grimy cadantine",
+          "name": "Grimy dwarf weed",
           "rarity": "1/54.7",
           "quantity": "2"
         },
         {
-          "name": "Grimy dwarf weed",
+          "name": "Grimy cadantine",
           "rarity": "1/54.7",
           "quantity": "2"
         },
@@ -307052,6 +307867,11 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/90",
           "quantity": "1"
@@ -307218,6 +308038,11 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -312025,7 +312850,7 @@
           "quantity": "1"
         },
         {
-          "name": "Jar of decay",
+          "name": "Jar of Decay",
           "rarity": "1/3,000",
           "quantity": "1"
         },
@@ -312491,7 +313316,7 @@
           "quantity": "1"
         },
         {
-          "name": "Jar of decay",
+          "name": "Jar of Decay",
           "rarity": "1/3,000",
           "quantity": "1"
         },
@@ -315214,7 +316039,7 @@
     "drops": {
       "regular": [
         {
-          "name": "Verzik vitur - patient record",
+          "name": "Verzik Vitur - Patient Record",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -315234,7 +316059,7 @@
     "drops": {
       "regular": [
         {
-          "name": "Verzik vitur - patient record",
+          "name": "Verzik Vitur - Patient Record",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -315255,7 +316080,7 @@
     "drops": {
       "regular": [
         {
-          "name": "Verzik vitur - patient record",
+          "name": "Verzik Vitur - Patient Record",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -315275,7 +316100,7 @@
     "drops": {
       "regular": [
         {
-          "name": "Verzik vitur - patient record",
+          "name": "Verzik Vitur - Patient Record",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -315296,7 +316121,7 @@
     "drops": {
       "regular": [
         {
-          "name": "Verzik vitur - patient record",
+          "name": "Verzik Vitur - Patient Record",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -315316,7 +316141,7 @@
     "drops": {
       "regular": [
         {
-          "name": "Verzik vitur - patient record",
+          "name": "Verzik Vitur - Patient Record",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -315336,7 +316161,7 @@
     "drops": {
       "regular": [
         {
-          "name": "Verzik vitur - patient record",
+          "name": "Verzik Vitur - Patient Record",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -315356,7 +316181,7 @@
     "drops": {
       "regular": [
         {
-          "name": "Verzik vitur - patient record",
+          "name": "Verzik Vitur - Patient Record",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -315377,7 +316202,7 @@
     "drops": {
       "regular": [
         {
-          "name": "Verzik vitur - patient record",
+          "name": "Verzik Vitur - Patient Record",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -315426,7 +316251,7 @@
     "drops": {
       "regular": [
         {
-          "name": "The shadow realm",
+          "name": "The Shadow Realm",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -315456,7 +316281,7 @@
     "drops": {
       "regular": [
         {
-          "name": "The shadow realm",
+          "name": "The Shadow Realm",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -315486,7 +316311,7 @@
     "drops": {
       "regular": [
         {
-          "name": "The shadow realm",
+          "name": "The Shadow Realm",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -315629,7 +316454,7 @@
     "drops": {
       "regular": [
         {
-          "name": "The butcher",
+          "name": "The Butcher",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -315648,7 +316473,7 @@
     "drops": {
       "regular": [
         {
-          "name": "The butcher",
+          "name": "The Butcher",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -315667,7 +316492,7 @@
     "drops": {
       "regular": [
         {
-          "name": "The butcher",
+          "name": "The Butcher",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -315689,7 +316514,7 @@
     "drops": {
       "regular": [
         {
-          "name": "Arachnids of vampyrium",
+          "name": "Arachnids of Vampyrium",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -315711,7 +316536,7 @@
     "drops": {
       "regular": [
         {
-          "name": "Arachnids of vampyrium",
+          "name": "Arachnids of Vampyrium",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -315733,7 +316558,7 @@
     "drops": {
       "regular": [
         {
-          "name": "Arachnids of vampyrium",
+          "name": "Arachnids of Vampyrium",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -315752,7 +316577,7 @@
     "drops": {
       "regular": [
         {
-          "name": "The wild hunt",
+          "name": "The Wild Hunt",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -315771,7 +316596,7 @@
     "drops": {
       "regular": [
         {
-          "name": "The wild hunt",
+          "name": "The Wild Hunt",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -315790,7 +316615,7 @@
     "drops": {
       "regular": [
         {
-          "name": "The wild hunt",
+          "name": "The Wild Hunt",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -327531,7 +328356,7 @@
           "quantity": "1"
         },
         {
-          "name": "Jar of chemicals",
+          "name": "Jar of Chemicals",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -327997,7 +328822,7 @@
           "quantity": "1"
         },
         {
-          "name": "Jar of chemicals",
+          "name": "Jar of Chemicals",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -328463,7 +329288,7 @@
           "quantity": "1"
         },
         {
-          "name": "Jar of chemicals",
+          "name": "Jar of Chemicals",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -328929,7 +329754,7 @@
           "quantity": "1"
         },
         {
-          "name": "Jar of chemicals",
+          "name": "Jar of Chemicals",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -330035,7 +330860,7 @@
           "quantity": "1"
         },
         {
-          "name": "Contract of forfeit breath",
+          "name": "Contract of Forfeit Breath",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -330045,7 +330870,7 @@
           "quantity": "1"
         },
         {
-          "name": "Contract of glyphic attenuation",
+          "name": "Contract of Glyphic Attenuation",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -330055,7 +330880,7 @@
           "quantity": "1"
         },
         {
-          "name": "Contract of sensory clouding",
+          "name": "Contract of Sensory Clouding",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -330065,7 +330890,7 @@
           "quantity": "1"
         },
         {
-          "name": "Contract of divine severance",
+          "name": "Contract of Divine Severance",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -330075,7 +330900,7 @@
           "quantity": "1"
         },
         {
-          "name": "Contract of bloodied blows",
+          "name": "Contract of Bloodied Blows",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -330085,7 +330910,7 @@
           "quantity": "1"
         },
         {
-          "name": "Contract of familiar acquisition",
+          "name": "Contract of Familiar Acquisition",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -330319,7 +331144,7 @@
           "quantity": "1"
         },
         {
-          "name": "Contract of forfeit breath",
+          "name": "Contract of Forfeit Breath",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -330329,7 +331154,7 @@
           "quantity": "1"
         },
         {
-          "name": "Contract of glyphic attenuation",
+          "name": "Contract of Glyphic Attenuation",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -330339,7 +331164,7 @@
           "quantity": "1"
         },
         {
-          "name": "Contract of sensory clouding",
+          "name": "Contract of Sensory Clouding",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -330349,7 +331174,7 @@
           "quantity": "1"
         },
         {
-          "name": "Contract of divine severance",
+          "name": "Contract of Divine Severance",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -330359,7 +331184,7 @@
           "quantity": "1"
         },
         {
-          "name": "Contract of bloodied blows",
+          "name": "Contract of Bloodied Blows",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -330369,7 +331194,7 @@
           "quantity": "1"
         },
         {
-          "name": "Contract of familiar acquisition",
+          "name": "Contract of Familiar Acquisition",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -335446,7 +336271,7 @@
           "quantity": "1"
         },
         {
-          "name": "Jar of eyes",
+          "name": "Jar of Eyes",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -335906,7 +336731,7 @@
           "quantity": "1"
         },
         {
-          "name": "Mask of ranul",
+          "name": "Mask of Ranul",
           "rarity": "1/1,000",
           "quantity": "1"
         },
@@ -342008,7 +342833,7 @@
           "quantity": "1"
         },
         {
-          "name": "Jar of dreams",
+          "name": "Jar of Dreams",
           "rarity": "1/1,900",
           "quantity": "1"
         }
@@ -343761,7 +344586,7 @@
           "quantity": "1"
         },
         {
-          "name": "Jar of dreams",
+          "name": "Jar of Dreams",
           "rarity": "1/4,000",
           "quantity": "1"
         }
@@ -359579,22 +360404,22 @@
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "3.125/128",
+          "rarity": "1/40.96",
           "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "2.5/128",
+          "rarity": "1/51.2",
           "quantity": "1"
         },
         {
           "name": "Grimy snapdragon",
-          "rarity": "2.5/128",
+          "rarity": "1/51.2",
           "quantity": "1"
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1.875/128",
+          "rarity": "1/68.27",
           "quantity": "1"
         },
         {
@@ -359804,22 +360629,22 @@
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "3.125/128",
+          "rarity": "1/40.96",
           "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "2.5/128",
+          "rarity": "1/51.2",
           "quantity": "1"
         },
         {
           "name": "Grimy snapdragon",
-          "rarity": "2.5/128",
+          "rarity": "1/51.2",
           "quantity": "1"
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1.875/128",
+          "rarity": "1/68.27",
           "quantity": "1"
         },
         {
@@ -362835,7 +363660,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of the duke",
+          "name": "Eye of the Duke",
           "rarity": "1/720",
           "quantity": "1"
         },
@@ -363070,7 +363895,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of the duke",
+          "name": "Eye of the Duke",
           "rarity": "1/720",
           "quantity": "1"
         },
@@ -363304,7 +364129,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of the duke",
+          "name": "Eye of the Duke",
           "rarity": "1/720",
           "quantity": "1"
         },
@@ -363539,7 +364364,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of the duke",
+          "name": "Eye of the Duke",
           "rarity": "1/720",
           "quantity": "1"
         },
@@ -363774,7 +364599,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of the duke",
+          "name": "Eye of the Duke",
           "rarity": "1/720",
           "quantity": "1"
         },
@@ -364008,7 +364833,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of the duke",
+          "name": "Eye of the Duke",
           "rarity": "1/720",
           "quantity": "1"
         },
@@ -364242,7 +365067,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of the duke",
+          "name": "Eye of the Duke",
           "rarity": "1/720",
           "quantity": "1"
         },
@@ -364477,7 +365302,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of the duke",
+          "name": "Eye of the Duke",
           "rarity": "1/720",
           "quantity": "1"
         },
@@ -364711,7 +365536,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of the duke",
+          "name": "Eye of the Duke",
           "rarity": "1/720",
           "quantity": "1"
         },
@@ -368976,7 +369801,7 @@
           "quantity": "1"
         },
         {
-          "name": "Claws of callisto",
+          "name": "Claws of Callisto",
           "rarity": "1/618",
           "quantity": "1"
         },
@@ -369225,7 +370050,7 @@
           "quantity": "1"
         },
         {
-          "name": "Skull of vet'ion",
+          "name": "Skull of Vet'ion",
           "rarity": "1/618",
           "quantity": "1"
         },
@@ -369479,7 +370304,7 @@
           "quantity": "1"
         },
         {
-          "name": "Skull of vet'ion",
+          "name": "Skull of Vet'ion",
           "rarity": "1/618",
           "quantity": "1"
         },
@@ -369811,7 +370636,7 @@
           "quantity": "1"
         },
         {
-          "name": "Fangs of venenatis",
+          "name": "Fangs of Venenatis",
           "rarity": "1/618",
           "quantity": "1"
         },
@@ -384508,6 +385333,11 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/90",
           "quantity": "1"
@@ -386996,7 +387826,7 @@
           "quantity": "1"
         },
         {
-          "name": "Jar of venom",
+          "name": "Jar of Venom",
           "rarity": "1/1,500",
           "quantity": "1"
         },
@@ -387451,7 +388281,7 @@
           "quantity": "1"
         },
         {
-          "name": "Jar of venom",
+          "name": "Jar of Venom",
           "rarity": "1/1,500",
           "quantity": "1"
         },
@@ -387950,22 +388780,7 @@
   },
   {
     "name": "Minotaur",
-    "id": [
-      "12812"
-    ],
-    "combat_level": 318,
-    "slayer_level": 1,
-    "is_members_only": true,
-    "drops": {
-      "regular": [],
-      "rare_drop_table": []
-    }
-  },
-  {
-    "name": "Minotaur",
-    "id": [
-      "12813"
-    ],
+    "id": null,
     "combat_level": 318,
     "slayer_level": 1,
     "is_members_only": true,
@@ -395337,7 +396152,7 @@
           "quantity": "3"
         },
         {
-          "name": "Tome of earth (empty)",
+          "name": "Tome of Earth (empty)",
           "rarity": "1/90",
           "quantity": "1"
         },
@@ -395516,7 +396331,7 @@
           "quantity": "3"
         },
         {
-          "name": "Tome of earth (empty)",
+          "name": "Tome of Earth (empty)",
           "rarity": "1/90",
           "quantity": "1"
         },
@@ -395695,7 +396510,7 @@
           "quantity": "3"
         },
         {
-          "name": "Tome of earth (empty)",
+          "name": "Tome of Earth (empty)",
           "rarity": "1/90",
           "quantity": "1"
         },
@@ -395874,7 +396689,7 @@
           "quantity": "3"
         },
         {
-          "name": "Tome of earth (empty)",
+          "name": "Tome of Earth (empty)",
           "rarity": "1/90",
           "quantity": "1"
         },
@@ -396053,7 +396868,7 @@
           "quantity": "3"
         },
         {
-          "name": "Tome of earth (empty)",
+          "name": "Tome of Earth (empty)",
           "rarity": "1/90",
           "quantity": "1"
         },
@@ -396232,7 +397047,7 @@
           "quantity": "3"
         },
         {
-          "name": "Tome of earth (empty)",
+          "name": "Tome of Earth (empty)",
           "rarity": "1/90",
           "quantity": "1"
         },
@@ -404496,7 +405311,7 @@
           "quantity": "1"
         },
         {
-          "name": "Pendant of ates#Inert",
+          "name": "Pendant of Ates#Inert",
           "rarity": "1/25",
           "quantity": "1"
         },
@@ -404706,7 +405521,7 @@
           "quantity": "1"
         },
         {
-          "name": "Pendant of ates#Inert",
+          "name": "Pendant of Ates#Inert",
           "rarity": "1/25",
           "quantity": "1"
         },
@@ -404888,7 +405703,7 @@
           "quantity": "5–10"
         },
         {
-          "name": "Pendant of ates#Inert",
+          "name": "Pendant of Ates#Inert",
           "rarity": "1/100",
           "quantity": "1"
         },
@@ -412899,7 +413714,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of ayak (uncharged)",
+          "name": "Eye of Ayak (uncharged)",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -413063,7 +413878,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of ayak (uncharged)",
+          "name": "Eye of Ayak (uncharged)",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -413227,7 +414042,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of ayak (uncharged)",
+          "name": "Eye of Ayak (uncharged)",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -413391,7 +414206,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of ayak (uncharged)",
+          "name": "Eye of Ayak (uncharged)",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -413555,7 +414370,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of ayak (uncharged)",
+          "name": "Eye of Ayak (uncharged)",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -413719,7 +414534,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of ayak (uncharged)",
+          "name": "Eye of Ayak (uncharged)",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -413883,7 +414698,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of ayak (uncharged)",
+          "name": "Eye of Ayak (uncharged)",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -414047,7 +414862,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of ayak (uncharged)",
+          "name": "Eye of Ayak (uncharged)",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -414211,7 +415026,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of ayak (uncharged)",
+          "name": "Eye of Ayak (uncharged)",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -414375,7 +415190,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of ayak (uncharged)",
+          "name": "Eye of Ayak (uncharged)",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -414539,7 +415354,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of ayak (uncharged)",
+          "name": "Eye of Ayak (uncharged)",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -414703,7 +415518,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of ayak (uncharged)",
+          "name": "Eye of Ayak (uncharged)",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -414867,7 +415682,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of ayak (uncharged)",
+          "name": "Eye of Ayak (uncharged)",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -415031,7 +415846,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of ayak (uncharged)",
+          "name": "Eye of Ayak (uncharged)",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -415195,7 +416010,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of ayak (uncharged)",
+          "name": "Eye of Ayak (uncharged)",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -415359,7 +416174,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of ayak (uncharged)",
+          "name": "Eye of Ayak (uncharged)",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -415523,7 +416338,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of ayak (uncharged)",
+          "name": "Eye of Ayak (uncharged)",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -415687,7 +416502,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of ayak (uncharged)",
+          "name": "Eye of Ayak (uncharged)",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -415851,7 +416666,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of ayak (uncharged)",
+          "name": "Eye of Ayak (uncharged)",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -416015,7 +416830,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of ayak (uncharged)",
+          "name": "Eye of Ayak (uncharged)",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -416179,7 +416994,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of ayak (uncharged)",
+          "name": "Eye of Ayak (uncharged)",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -416343,7 +417158,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of ayak (uncharged)",
+          "name": "Eye of Ayak (uncharged)",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -416507,7 +417322,7 @@
           "quantity": "1"
         },
         {
-          "name": "Eye of ayak (uncharged)",
+          "name": "Eye of Ayak (uncharged)",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -422654,19 +423469,19 @@
           "quantity": "1"
         },
         {
-          "name": "Large dragon keel parts",
-          "rarity": "1/500",
-          "quantity": "1"
+          "name": "Dragon metal sheet",
+          "rarity": "4/720",
+          "quantity": "1–2"
         },
         {
           "name": "Dragon keel parts",
-          "rarity": "1/1,000",
+          "rarity": "1/720",
           "quantity": "1"
         },
         {
-          "name": "Dragon metal sheet",
-          "rarity": "1/200",
-          "quantity": "1–2"
+          "name": "Large dragon keel parts",
+          "rarity": "1/720",
+          "quantity": "1"
         },
         {
           "name": "Rune cannonball",
@@ -431411,7 +432226,7 @@
           "quantity": "1"
         },
         {
-          "name": "Horn of plenty (empty)",
+          "name": "Horn of Plenty (empty)",
           "rarity": "1/2,500",
           "quantity": "1"
         }
@@ -433613,7 +434428,7 @@
           "quantity": "1"
         },
         {
-          "name": "Horn of plenty (empty)",
+          "name": "Horn of Plenty (empty)",
           "rarity": "1/1,000",
           "quantity": "1"
         },
@@ -433893,7 +434708,7 @@
           "quantity": "1"
         },
         {
-          "name": "Jar of feathers",
+          "name": "Jar of Feathers",
           "rarity": "1/2,000",
           "quantity": "1"
         },
@@ -435143,22 +435958,22 @@
         },
         {
           "name": "Dragon nails",
-          "rarity": "Unknown",
+          "rarity": "1/75",
           "quantity": "4–8, 7–11"
         },
         {
           "name": "Dragon metal sheet",
-          "rarity": "Unknown",
+          "rarity": "2/400",
           "quantity": "1–2"
         },
         {
           "name": "Dragon keel parts",
-          "rarity": "Unknown",
+          "rarity": "1/400",
           "quantity": "1"
         },
         {
           "name": "Large dragon keel parts",
-          "rarity": "Unknown",
+          "rarity": "1/400",
           "quantity": "1"
         },
         {
@@ -435626,7 +436441,7 @@
       "regular": [
         {
           "name": "Dragon metal sheet",
-          "rarity": "1/140",
+          "rarity": "4/540",
           "quantity": "1–2"
         },
         {
@@ -435635,13 +436450,13 @@
           "quantity": "1"
         },
         {
-          "name": "Large dragon keel parts",
-          "rarity": "1/600",
+          "name": "Dragon keel parts",
+          "rarity": "1/540",
           "quantity": "1"
         },
         {
-          "name": "Dragon keel parts",
-          "rarity": "1/800",
+          "name": "Large dragon keel parts",
+          "rarity": "1/540",
           "quantity": "1"
         },
         {
@@ -438039,23 +438854,23 @@
     "drops": {
       "regular": [
         {
-          "name": "Bottled storm",
-          "rarity": "1/350",
-          "quantity": "1"
-        },
-        {
           "name": "Dragon metal sheet",
-          "rarity": "1/80",
+          "rarity": "2/320",
           "quantity": "1–2"
         },
         {
           "name": "Dragon keel parts",
-          "rarity": "1/300",
+          "rarity": "1/320",
           "quantity": "1"
         },
         {
           "name": "Large dragon keel parts",
-          "rarity": "1/300",
+          "rarity": "1/320",
+          "quantity": "1"
+        },
+        {
+          "name": "Bottled storm",
+          "rarity": "1/350",
           "quantity": "1"
         },
         {
@@ -442497,28 +443312,28 @@
     "drops": {
       "regular": [
         {
+          "name": "Dragon metal sheet",
+          "rarity": "2/360",
+          "quantity": "1–2"
+        },
+        {
+          "name": "Dragon keel parts",
+          "rarity": "1/360",
+          "quantity": "1"
+        },
+        {
+          "name": "Large dragon keel parts",
+          "rarity": "1/360",
+          "quantity": "1"
+        },
+        {
           "name": "Dragon cannon barrel",
           "rarity": "1/500",
           "quantity": "1"
         },
         {
-          "name": "Dragon metal sheet",
-          "rarity": "4/500",
-          "quantity": "1–2"
-        },
-        {
-          "name": "Dragon keel parts",
-          "rarity": "2/500",
-          "quantity": "1"
-        },
-        {
           "name": "Inky paint",
           "rarity": "1/1,900",
-          "quantity": "1"
-        },
-        {
-          "name": "Large dragon keel parts",
-          "rarity": "2/500",
           "quantity": "1"
         },
         {
@@ -444469,7 +445284,7 @@
           "quantity": "1"
         },
         {
-          "name": "Jar of light",
+          "name": "Jar of Light",
           "rarity": "1/1,000",
           "quantity": "1"
         },
@@ -444760,7 +445575,7 @@
           "quantity": "1"
         },
         {
-          "name": "Jar of light",
+          "name": "Jar of Light",
           "rarity": "1/1,000",
           "quantity": "1"
         },
