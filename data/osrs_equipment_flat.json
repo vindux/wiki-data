@@ -6561,6 +6561,33 @@
     "is_members_only": true
   },
   {
+    "item_name": "Blue hat (Legends' Quest)",
+    "item_name_variant": "Blue hat (Legends' Quest)",
+    "item_id": [
+      "740"
+    ],
+    "equipment_slot": "head",
+    "stab_attack_bonus": 0,
+    "slash_attack_bonus": 0,
+    "crush_attack_bonus": 0,
+    "range_attack_bonus": 0,
+    "magic_attack_bonus": 2,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "range_defence_bonus": 0,
+    "magic_defence_bonus": 2,
+    "strength_bonus": 0,
+    "ranged_strength_bonus": 0,
+    "magic_damage_bonus": 0,
+    "prayer_bonus": 0,
+    "weight": 0.453,
+    "value": 2,
+    "high_alchemy_value": 1,
+    "buy_limit": 0,
+    "is_members_only": true
+  },
+  {
     "item_name": "Rainbow partyhat",
     "item_name_variant": "Rainbow partyhat",
     "item_id": [
@@ -134995,7 +135022,7 @@
     "weight": 10,
     "value": 1250000,
     "high_alchemy_value": 750000,
-    "buy_limit": 0,
+    "buy_limit": 100,
     "is_members_only": true
   },
   {

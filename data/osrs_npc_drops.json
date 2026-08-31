@@ -131568,9 +131568,9 @@
   {
     "name": "Dwarf",
     "id": [
-      "290"
+      "1406"
     ],
-    "combat_level": 10,
+    "combat_level": 11,
     "slayer_level": 1,
     "is_members_only": false,
     "drops": {
@@ -131908,9 +131908,9 @@
   {
     "name": "Dwarf",
     "id": [
-      "294"
+      "290"
     ],
-    "combat_level": 11,
+    "combat_level": 10,
     "slayer_level": 1,
     "is_members_only": false,
     "drops": {
@@ -132588,9 +132588,9 @@
   {
     "name": "Dwarf",
     "id": [
-      "1407"
+      "1408"
     ],
-    "combat_level": 11,
+    "combat_level": 7,
     "slayer_level": 1,
     "is_members_only": false,
     "drops": {
@@ -132758,9 +132758,9 @@
   {
     "name": "Dwarf",
     "id": [
-      "1408"
+      "1407"
     ],
-    "combat_level": 7,
+    "combat_level": 11,
     "slayer_level": 1,
     "is_members_only": false,
     "drops": {
@@ -133098,7 +133098,7 @@
   {
     "name": "Dwarf",
     "id": [
-      "1406"
+      "1402"
     ],
     "combat_level": 11,
     "slayer_level": 1,
@@ -133438,7 +133438,7 @@
   {
     "name": "Dwarf",
     "id": [
-      "1402"
+      "294"
     ],
     "combat_level": 11,
     "slayer_level": 1,
@@ -295396,7 +295396,7 @@
     }
   },
   {
-    "name": "Great Olm",
+    "name": "Great Olm (Left claw)",
     "id": [
       "7552"
     ],
@@ -295409,7 +295409,7 @@
     }
   },
   {
-    "name": "Great Olm",
+    "name": "Great Olm (Left claw)",
     "id": [
       "7555"
     ],
@@ -295422,7 +295422,7 @@
     }
   },
   {
-    "name": "Great Olm",
+    "name": "Great Olm (Right claw)",
     "id": [
       "7550"
     ],
@@ -295435,7 +295435,7 @@
     }
   },
   {
-    "name": "Great Olm",
+    "name": "Great Olm (Right claw)",
     "id": [
       "7553"
     ],
