@@ -58902,7 +58902,7 @@
     "weight": 3.175,
     "value": 150000,
     "high_alchemy_value": 90000,
-    "buy_limit": 0,
+    "buy_limit": 8,
     "examine": "A beautifully crafted wand infused by ancient wizards.",
     "is_members_only": true
   },
@@ -75594,7 +75594,7 @@
     "item_id": [
       "13273"
     ],
-    "weight": 1.4,
+    "weight": 0,
     "value": 140000,
     "high_alchemy_value": 0,
     "buy_limit": 0,
@@ -212870,6 +212870,19 @@
     "is_members_only": true
   },
   {
+    "item_name": "Air diamond",
+    "item_name_variant": "Air diamond",
+    "item_id": [
+      "34404"
+    ],
+    "weight": 0.001,
+    "value": 20000,
+    "high_alchemy_value": 12000,
+    "buy_limit": 0,
+    "examine": "I wonder if I could use this to dry clothes quicker.",
+    "is_members_only": true
+  },
+  {
     "item_name": "Dragon crossbow (Last Man Standing)",
     "item_name_variant": "Dragon crossbow (Last Man Standing)",
     "item_id": [
@@ -212906,6 +212919,19 @@
     "high_alchemy_value": 750000,
     "buy_limit": 100,
     "examine": "This really fells my hallow.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Necklace of fangs",
+    "item_name_variant": "Necklace of fangs",
+    "item_id": [
+      "34401"
+    ],
+    "weight": 0.01,
+    "value": 50000,
+    "high_alchemy_value": 30000,
+    "buy_limit": 0,
+    "examine": "Toothy, and makes for decent arrowheads in a pinch.",
     "is_members_only": true
   },
   {
@@ -216148,6 +216174,19 @@
     "is_members_only": true
   },
   {
+    "item_name": "Elemental amulet",
+    "item_name_variant": "Elemental amulet",
+    "item_id": [
+      "34428"
+    ],
+    "weight": 0.007,
+    "value": 84000,
+    "high_alchemy_value": 50400,
+    "buy_limit": 0,
+    "examine": "Water, earth, fire, air. The four elements living together in harmony.",
+    "is_members_only": true
+  },
+  {
     "item_name": "Vampyre snail shell",
     "item_name_variant": "Vampyre snail shell",
     "item_id": [
@@ -216288,6 +216327,97 @@
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Ability to squeeze your body through small areas.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Earth emerald",
+    "item_name_variant": "Earth emerald",
+    "item_id": [
+      "34416"
+    ],
+    "weight": 1,
+    "value": 20000,
+    "high_alchemy_value": 12000,
+    "buy_limit": 0,
+    "examine": "This seems rather heavy for a gem.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Water sapphire",
+    "item_name_variant": "Water sapphire",
+    "item_id": [
+      "34410"
+    ],
+    "weight": 0.1,
+    "value": 20000,
+    "high_alchemy_value": 12000,
+    "buy_limit": 0,
+    "examine": "Who needs a watering can these days.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Fire ruby",
+    "item_name_variant": "Fire ruby",
+    "item_id": [
+      "34422"
+    ],
+    "weight": 0.1,
+    "value": 20000,
+    "high_alchemy_value": 12000,
+    "buy_limit": 0,
+    "examine": "Rather hot to the touch, maybe I could start a fire with this.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Amulet of fire",
+    "item_name_variant": "Amulet of fire",
+    "item_id": [
+      "34425"
+    ],
+    "weight": 0.107,
+    "value": 21000,
+    "high_alchemy_value": 12600,
+    "buy_limit": 0,
+    "examine": "I hope my clothes don't catch on fire.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Amulet of water",
+    "item_name_variant": "Amulet of water",
+    "item_id": [
+      "34413"
+    ],
+    "weight": 0.107,
+    "value": 21000,
+    "high_alchemy_value": 12600,
+    "buy_limit": 0,
+    "examine": "I'm going to get my clothes wet wearing this.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Amulet of earth",
+    "item_name_variant": "Amulet of earth",
+    "item_id": [
+      "34419"
+    ],
+    "weight": 2,
+    "value": 21000,
+    "high_alchemy_value": 12600,
+    "buy_limit": 0,
+    "examine": "Heavy is the amulet.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Amulet of air",
+    "item_name_variant": "Amulet of air",
+    "item_id": [
+      "34407"
+    ],
+    "weight": 0.101,
+    "value": 21000,
+    "high_alchemy_value": 12600,
+    "buy_limit": 0,
+    "examine": "Might be as light as a feather.",
     "is_members_only": true
   },
   {
@@ -218356,5 +218486,31 @@
     "buy_limit": 0,
     "examine": "Used to cover plank costs for camphor logs at the sawmill. Must be used in person.",
     "is_members_only": true
+  },
+  {
+    "item_name": "Big red button",
+    "item_name_variant": "Big red button",
+    "item_id": [
+      "34388"
+    ],
+    "weight": 0.1,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "WARNING: DANGER",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Lanscape coins",
+    "item_name_variant": "Lanscape coins",
+    "item_id": [
+      "34390"
+    ],
+    "weight": 0.002,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Lovely money used to purchase Finale items!",
+    "is_members_only": false
   }
 ]
