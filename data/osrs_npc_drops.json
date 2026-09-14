@@ -187945,7 +187945,7 @@
       "1098"
     ],
     "combat_level": 62,
-    "slayer_level": 40,
+    "slayer_level": 1,
     "is_members_only": true,
     "drops": {
       "regular": [
@@ -188120,7 +188120,7 @@
       "1097"
     ],
     "combat_level": 90,
-    "slayer_level": 40,
+    "slayer_level": 1,
     "is_members_only": true,
     "drops": {
       "regular": [
@@ -207716,7 +207716,7 @@
       "1101"
     ],
     "combat_level": 149,
-    "slayer_level": 1,
+    "slayer_level": 40,
     "is_members_only": true,
     "drops": {
       "regular": [
@@ -345122,6 +345122,19 @@
     }
   },
   {
+    "name": "High Priest",
+    "id": [
+      "hist6585"
+    ],
+    "combat_level": null,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
     "name": "Goblin lieutenant",
     "id": null,
     "combat_level": 50,
@@ -345162,6 +345175,32 @@
       "hist1129"
     ],
     "combat_level": 75,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "King Snagwort",
+    "id": [
+      "hist1134"
+    ],
+    "combat_level": 100,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Goblin priest",
+    "id": [
+      "hist1135"
+    ],
+    "combat_level": 50,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -446399,6 +446438,44 @@
     "is_members_only": true,
     "drops": {
       "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Outlaw",
+    "id": [
+      "16527"
+    ],
+    "combat_level": 23,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Outlaw",
+    "id": [
+      "16528"
+    ],
+    "combat_level": 22,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   }

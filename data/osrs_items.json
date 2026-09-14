@@ -154252,7 +154252,7 @@
     "value": 211000,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": null,
+    "examine": "A very old and powerful stick.",
     "is_members_only": true
   },
   {
@@ -154265,7 +154265,7 @@
     "value": 211000,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": null,
+    "examine": "A very old and powerful stick.",
     "is_members_only": true
   },
   {
@@ -175544,6 +175544,45 @@
     "high_alchemy_value": 12,
     "buy_limit": 0,
     "examine": "Hopefully leads to treasure.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Labrador",
+    "item_name_variant": "Labrador#Golden",
+    "item_id": [
+      "34431"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Do their tails ever stop wagging?",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Labrador",
+    "item_name_variant": "Labrador#Chocolate",
+    "item_id": [
+      "34433"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Do their tails ever stop wagging?",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Labrador",
+    "item_name_variant": "Labrador#Black",
+    "item_id": [
+      "34435"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Do their tails ever stop wagging?",
     "is_members_only": true
   },
   {
@@ -218512,5 +218551,1227 @@
     "buy_limit": 0,
     "examine": "Lovely money used to purchase Finale items!",
     "is_members_only": false
+  },
+  {
+    "item_name": "Greyhound puppy",
+    "item_name_variant": "Greyhound puppy#Grey",
+    "item_id": [
+      "34535"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Quick for something so small.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Greyhound puppy",
+    "item_name_variant": "Greyhound puppy#Cream",
+    "item_id": [
+      "34537"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Quick for something so small.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Greyhound puppy",
+    "item_name_variant": "Greyhound puppy#Tan",
+    "item_id": [
+      "34533"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Quick for something so small.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shell collection",
+    "item_name_variant": "Shell collection",
+    "item_id": [
+      "34589"
+    ],
+    "weight": 0.84,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A tool leprechaun notes produce, but these shells produce notes.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Stuffed dog",
+    "item_name_variant": "Stuffed dog",
+    "item_id": [
+      "34602"
+    ],
+    "weight": 0.907,
+    "value": 300,
+    "high_alchemy_value": 180,
+    "buy_limit": 0,
+    "examine": "Probably good enough to fool a goblin.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Instrument",
+    "item_name_variant": "Instrument",
+    "item_id": [
+      "34587"
+    ],
+    "weight": 1.218,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "It's all about that bass.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Pug puppy",
+    "item_name_variant": "Pug puppy#Brown",
+    "item_id": [
+      "34541"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The folds on its face are adorable.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Pug puppy",
+    "item_name_variant": "Pug puppy#Fawn",
+    "item_id": [
+      "34539"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The folds on its face are adorable.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Pug puppy",
+    "item_name_variant": "Pug puppy#Black",
+    "item_id": [
+      "34543"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The folds on its face are adorable.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shell C",
+    "item_name_variant": "Shell C",
+    "item_id": [
+      "34591"
+    ],
+    "weight": 0.15,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "I can hear the sea with this.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shiba puppy",
+    "item_name_variant": "Shiba puppy#Toasted",
+    "item_id": [
+      "34561"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Pocket sized.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shiba puppy",
+    "item_name_variant": "Shiba puppy#White",
+    "item_id": [
+      "34559"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Pocket sized.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shiba puppy",
+    "item_name_variant": "Shiba puppy#Tan",
+    "item_id": [
+      "34557"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Pocket sized.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Labrador puppy",
+    "item_name_variant": "Labrador puppy#Golden",
+    "item_id": [
+      "34503"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A lovable bundle of energy.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Labrador puppy",
+    "item_name_variant": "Labrador puppy#Chocolate",
+    "item_id": [
+      "34505"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A lovable bundle of energy.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Labrador puppy",
+    "item_name_variant": "Labrador puppy#Black",
+    "item_id": [
+      "34507"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A lovable bundle of energy.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Border Collie puppy",
+    "item_name_variant": "Border Collie puppy#Merle",
+    "item_id": [
+      "34523"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A bottomless well of energy.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Border Collie puppy",
+    "item_name_variant": "Border Collie puppy#Chocolate",
+    "item_id": [
+      "34521"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A bottomless well of energy.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Border Collie puppy",
+    "item_name_variant": "Border Collie puppy#Black & White",
+    "item_id": [
+      "34525"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A bottomless well of energy.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Spaniel puppy",
+    "item_name_variant": "Spaniel puppy#Brown",
+    "item_id": [
+      "34566"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The folds on its face are adorable.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Spaniel puppy",
+    "item_name_variant": "Spaniel puppy#Fawn",
+    "item_id": [
+      "34563"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The folds on its face are adorable.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Spaniel puppy",
+    "item_name_variant": "Spaniel puppy#Black",
+    "item_id": [
+      "34567"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The folds on its face are adorable.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shell E",
+    "item_name_variant": "Shell E",
+    "item_id": [
+      "34593"
+    ],
+    "weight": 0.13,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "I can hear the sea with this.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shell D",
+    "item_name_variant": "Shell D",
+    "item_id": [
+      "34592"
+    ],
+    "weight": 0.14,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "I can hear the sea with this.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shell F",
+    "item_name_variant": "Shell F",
+    "item_id": [
+      "34594"
+    ],
+    "weight": 0.12,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "I can hear the sea with this.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shell G",
+    "item_name_variant": "Shell G",
+    "item_id": [
+      "34595"
+    ],
+    "weight": 0.11,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "I can hear the sea with this.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shell A",
+    "item_name_variant": "Shell A",
+    "item_id": [
+      "34596"
+    ],
+    "weight": 0.1,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "I can hear the sea with this.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shell A-sharp",
+    "item_name_variant": "Shell A-sharp",
+    "item_id": [
+      "34597"
+    ],
+    "weight": 0.09,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "I can hear the sea with this.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Pug",
+    "item_name_variant": "Pug#Brown",
+    "item_id": [
+      "34469"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Get three together to create a grumble.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Pug",
+    "item_name_variant": "Pug#Fawn",
+    "item_id": [
+      "34467"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Get three together to create a grumble.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Pug",
+    "item_name_variant": "Pug#Black",
+    "item_id": [
+      "34471"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Get three together to create a grumble.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Spaniel",
+    "item_name_variant": "Spaniel#Brown",
+    "item_id": [
+      "34493"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Lovely floppy ears.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Spaniel",
+    "item_name_variant": "Spaniel#Fawn",
+    "item_id": [
+      "34491"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Lovely floppy ears.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Spaniel",
+    "item_name_variant": "Spaniel#Black",
+    "item_id": [
+      "34495"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Lovely floppy ears.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Husky puppy",
+    "item_name_variant": "Husky puppy#Grey",
+    "item_id": [
+      "34511"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Wearing a lovely coat to keep warm.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Husky puppy",
+    "item_name_variant": "Husky puppy#Chocolate",
+    "item_id": [
+      "34513"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Wearing a lovely coat to keep warm.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Husky puppy",
+    "item_name_variant": "Husky puppy#Black & white",
+    "item_id": [
+      "34509"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Wearing a lovely coat to keep warm.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Chihuahua puppy",
+    "item_name_variant": "Chihuahua puppy#Toasted",
+    "item_id": [
+      "34519"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Pocket sized.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Chihuahua puppy",
+    "item_name_variant": "Chihuahua puppy#White",
+    "item_id": [
+      "34517"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Pocket sized.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Chihuahua puppy",
+    "item_name_variant": "Chihuahua puppy#Tan",
+    "item_id": [
+      "34515"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Pocket sized.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Corgi puppy",
+    "item_name_variant": "Corgi puppy#Toasted",
+    "item_id": [
+      "34531"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Stout, long and adorable.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Corgi puppy",
+    "item_name_variant": "Corgi puppy#Fawn",
+    "item_id": [
+      "34529"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Stout, long and adorable.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Corgi puppy",
+    "item_name_variant": "Corgi puppy#Tan",
+    "item_id": [
+      "34527"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Stout, long and adorable.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Samoyed puppy",
+    "item_name_variant": "Samoyed puppy#Golden",
+    "item_id": [
+      "34547"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "They love ear scratches.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Samoyed puppy",
+    "item_name_variant": "Samoyed puppy#Black",
+    "item_id": [
+      "34549"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "They love ear scratches.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Samoyed puppy",
+    "item_name_variant": "Samoyed puppy#White",
+    "item_id": [
+      "34545"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "They love ear scratches.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Bernese Mountain Dog puppy",
+    "item_name_variant": "Bernese Mountain Dog puppy#Merle",
+    "item_id": [
+      "34553"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Has a lot of growing to do.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Bernese Mountain Dog puppy",
+    "item_name_variant": "Bernese Mountain Dog puppy#Toasted",
+    "item_id": [
+      "34555"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Has a lot of growing to do.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Bernese Mountain Dog puppy",
+    "item_name_variant": "Bernese Mountain Dog puppy#Chocolate",
+    "item_id": [
+      "34551"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Has a lot of growing to do.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Yorkie puppy",
+    "item_name_variant": "Yorkie puppy#Brown",
+    "item_id": [
+      "34557"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Pocket sized.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Yorkie puppy",
+    "item_name_variant": "Yorkie puppy#Golden",
+    "item_id": [
+      "34561"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Pocket sized.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Yorkie puppy",
+    "item_name_variant": "Yorkie puppy#White",
+    "item_id": [
+      "34559"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Pocket sized.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Stray puppy (A Ruff Situation)",
+    "item_name_variant": "Stray puppy (A Ruff Situation)#Labrador",
+    "item_id": [
+      "34598"
+    ],
+    "weight": 3,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "She seems to have taken a liking to you.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Stray puppy (A Ruff Situation)",
+    "item_name_variant": "Stray puppy (A Ruff Situation)#Pug",
+    "item_id": [
+      "34599"
+    ],
+    "weight": 3,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A rather stout looking fella.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Stray puppy (A Ruff Situation)",
+    "item_name_variant": "Stray puppy (A Ruff Situation)#Spaniel",
+    "item_id": [
+      "34600"
+    ],
+    "weight": 3,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Seems unbothered by its previous ordeals.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shell (Crab Quest)",
+    "item_name_variant": "Shell (Crab Quest)#Tiny white",
+    "item_id": [
+      "34581"
+    ],
+    "weight": 0.09,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "I can hear the sea with this.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shell (Crab Quest)",
+    "item_name_variant": "Shell (Crab Quest)#Exotic-looking",
+    "item_id": [
+      "34579"
+    ],
+    "weight": 0.11,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "I can hear the sea with this.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shell (Crab Quest)",
+    "item_name_variant": "Shell (Crab Quest)#Unassuming cream",
+    "item_id": [
+      "34580"
+    ],
+    "weight": 0.1,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "I can hear the sea with this.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shell (Crab Quest)",
+    "item_name_variant": "Shell (Crab Quest)#Bad 2",
+    "item_id": [
+      "34583"
+    ],
+    "weight": 0.12,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Best left on a beach.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shell (Crab Quest)",
+    "item_name_variant": "Shell (Crab Quest)#Bad 1",
+    "item_id": [
+      "34582"
+    ],
+    "weight": 0.12,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Best left on a beach.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shell (Crab Quest)",
+    "item_name_variant": "Shell (Crab Quest)#Really large rose",
+    "item_id": [
+      "34575"
+    ],
+    "weight": 0.15,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "I can hear the sea with this.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shell (Crab Quest)",
+    "item_name_variant": "Shell (Crab Quest)#Bright yellow",
+    "item_id": [
+      "34578"
+    ],
+    "weight": 0.12,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "I can hear the sea with this.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shell (Crab Quest)",
+    "item_name_variant": "Shell (Crab Quest)#Cool black and white",
+    "item_id": [
+      "34576"
+    ],
+    "weight": 0.14,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "I can hear the sea with this.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shell (Crab Quest)",
+    "item_name_variant": "Shell (Crab Quest)#Vivid orange",
+    "item_id": [
+      "34577"
+    ],
+    "weight": 0.13,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "I can hear the sea with this.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Chihuahua",
+    "item_name_variant": "Chihuahua#Toasted",
+    "item_id": [
+      "34441"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Small but mighty.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Chihuahua",
+    "item_name_variant": "Chihuahua#White",
+    "item_id": [
+      "34439"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Small but mighty.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Chihuahua",
+    "item_name_variant": "Chihuahua#Tan",
+    "item_id": [
+      "34437"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Small but mighty.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Border Collie",
+    "item_name_variant": "Border Collie#Merle",
+    "item_id": [
+      "34445"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "On the lookout for some sheep to herd.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Border Collie",
+    "item_name_variant": "Border Collie#Chocolate",
+    "item_id": [
+      "34443"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "On the lookout for some sheep to herd.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Border Collie",
+    "item_name_variant": "Border Collie#Black & white",
+    "item_id": [
+      "34447"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "On the lookout for some sheep to herd.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Bernese Mountain Dog",
+    "item_name_variant": "Bernese Mountain Dog#Merle",
+    "item_id": [
+      "34481"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A gentle giant.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Bernese Mountain Dog",
+    "item_name_variant": "Bernese Mountain Dog#Toasted",
+    "item_id": [
+      "34483"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A gentle giant.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Bernese Mountain Dog",
+    "item_name_variant": "Bernese Mountain Dog#Chocolate",
+    "item_id": [
+      "34479"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A gentle giant.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Corgi",
+    "item_name_variant": "Corgi#Toasted",
+    "item_id": [
+      "34453"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Small but mighty.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Corgi",
+    "item_name_variant": "Corgi#Fawn",
+    "item_id": [
+      "34451"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Small but mighty.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Corgi",
+    "item_name_variant": "Corgi#Tan",
+    "item_id": [
+      "34449"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Small but mighty.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Greyhound",
+    "item_name_variant": "Greyhound#Grey",
+    "item_id": [
+      "34457"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Good luck keeping up.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Greyhound",
+    "item_name_variant": "Greyhound#Cream",
+    "item_id": [
+      "34459"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Good luck keeping up.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Greyhound",
+    "item_name_variant": "Greyhound#Tan",
+    "item_id": [
+      "34455"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Good luck keeping up.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Husky",
+    "item_name_variant": "Husky#Grey",
+    "item_id": [
+      "34463"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Prefers the colder climates.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Husky",
+    "item_name_variant": "Husky#Chocolate",
+    "item_id": [
+      "34465"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Prefers the colder climates.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Husky",
+    "item_name_variant": "Husky#Black & white",
+    "item_id": [
+      "34461"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Prefers the colder climates.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Samoyed",
+    "item_name_variant": "Samoyed#Golden",
+    "item_id": [
+      "34475"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A rather happy individual.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Samoyed",
+    "item_name_variant": "Samoyed#Black",
+    "item_id": [
+      "34477"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A rather happy individual.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Samoyed",
+    "item_name_variant": "Samoyed#White",
+    "item_id": [
+      "34473"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A rather happy individual.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shiba",
+    "item_name_variant": "Shiba#Toasted",
+    "item_id": [
+      "34489"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Small but mighty.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shiba",
+    "item_name_variant": "Shiba#White",
+    "item_id": [
+      "34487"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Small but mighty.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Shiba",
+    "item_name_variant": "Shiba#Tan",
+    "item_id": [
+      "34485"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Small but mighty.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Yorkie",
+    "item_name_variant": "Yorkie#Brown",
+    "item_id": [
+      "34497"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Small but mighty.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Yorkie",
+    "item_name_variant": "Yorkie#Golden",
+    "item_id": [
+      "34501"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Small but mighty.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Yorkie",
+    "item_name_variant": "Yorkie#White",
+    "item_id": [
+      "34499"
+    ],
+    "weight": 0.75,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Small but mighty.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Sea-soaked bowstring",
+    "item_name_variant": "Sea-soaked bowstring",
+    "item_id": [
+      "34586"
+    ],
+    "weight": 0.02,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Squelchy!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Battered barrel",
+    "item_name_variant": "Battered barrel",
+    "item_id": [
+      "34585"
+    ],
+    "weight": 1.2,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Unusable for any kind of storage.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Weathered rosewood plank",
+    "item_name_variant": "Weathered rosewood plank",
+    "item_id": [
+      "34584"
+    ],
+    "weight": 0.4,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This plank has been through some stuff, including, but not limited to, the sea.",
+    "is_members_only": true
   }
 ]
