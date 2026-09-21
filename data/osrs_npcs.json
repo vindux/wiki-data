@@ -31902,7 +31902,7 @@
     "attack_speed": 4,
     "attribute": [],
     "max_hit": [
-      "115% of targeted player's max hit'\"`UNIQ--ref-0000006D-QINU`\"'"
+      "115% of targeted player's max hit'\"`UNIQ--ref-000000F0-QINU`\"'"
     ],
     "attack_style": [
       "Slash"
@@ -72348,7 +72348,7 @@
     "slayer_level": 85,
     "slayer_experience": 50,
     "size": 2,
-    "examine": "'\"`UNIQ--nowiki-0000020F-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
+    "examine": "'\"`UNIQ--nowiki-0000003B-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
     "poison_resistance": "100",
     "venom_immune": "unknown",
     "thrall_immune": "Not immune",
@@ -87468,7 +87468,7 @@
     "attack_speed": 10,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-000000AE-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-00000026-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -87518,7 +87518,7 @@
     "attack_speed": 7,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-000000AE-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-00000026-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -89647,7 +89647,7 @@
       "15 (melee) 33 (special attack)"
     ],
     "attack_style": [
-      "Slash '\"`UNIQ--ref-00000181-QINU`\"'"
+      "Slash '\"`UNIQ--ref-00000004-QINU`\"'"
     ],
     "experience_bonus": 0,
     "is_members_only": true,
@@ -111298,7 +111298,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "30-37 (Melee)'\"`UNIQ--ref-000002B1-QINU`\"'",
+      "30-37 (Melee)'\"`UNIQ--ref-000000B3-QINU`\"'",
       "?? (axes)"
     ],
     "attack_style": [
@@ -111349,7 +111349,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "46-61 (Melee)'\"`UNIQ--ref-000002B0-QINU`\"'",
+      "46-61 (Melee)'\"`UNIQ--ref-000000B2-QINU`\"'",
       "96 (axes)"
     ],
     "attack_style": [
@@ -111400,7 +111400,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "32-43 (Melee)'\"`UNIQ--ref-000002AF-QINU`\"'",
+      "32-43 (Melee)'\"`UNIQ--ref-000000B1-QINU`\"'",
       "35 (axes)"
     ],
     "attack_style": [
@@ -113571,9 +113571,105 @@
     "page_name": "Bandit (Shayzien)",
     "name": "Bandit",
     "id": [
-      "11063",
-      "11064",
+      "11063"
+    ],
+    "combat_level": 22,
+    "hitpoints": 27,
+    "attack_level": 17,
+    "strength_level": 17,
+    "defence_level": 17,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 11,
+    "strength_bonus": 12,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 4,
+    "slash_defence_bonus": 8,
+    "crush_defence_bonus": 5,
+    "magic_defence_bonus": 1,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 4,
+    "standard_range_defence_bonus": 4,
+    "heavy_range_defence_bonus": 4,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [],
+    "max_hit": [
+      "3"
+    ],
+    "attack_style": [
+      "Stab"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 1,
+    "examine": "A bandit hiding within the Shayzia Ruin.",
+    "poison_resistance": "0",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "unknown",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Bandit (Shayzien)",
+    "name": "Bandit",
+    "id": [
       "11065"
+    ],
+    "combat_level": 22,
+    "hitpoints": 27,
+    "attack_level": 17,
+    "strength_level": 17,
+    "defence_level": 17,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 11,
+    "strength_bonus": 12,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 4,
+    "slash_defence_bonus": 8,
+    "crush_defence_bonus": 5,
+    "magic_defence_bonus": 1,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 4,
+    "standard_range_defence_bonus": 4,
+    "heavy_range_defence_bonus": 4,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [],
+    "max_hit": [
+      "3"
+    ],
+    "attack_style": [
+      "Stab"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 1,
+    "examine": "A bandit hiding within the Shayzia Ruin.",
+    "poison_resistance": "0",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "unknown",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Bandit (Shayzien)",
+    "name": "Bandit",
+    "id": [
+      "11064"
     ],
     "combat_level": 22,
     "hitpoints": 27,
@@ -131357,7 +131453,7 @@
     ],
     "attack_style": [
       "Crush",
-      "'\"`UNIQ--ref-0000017E-QINU`\"' Magic",
+      "'\"`UNIQ--ref-0000007F-QINU`\"' Magic",
       "Ranged"
     ],
     "experience_bonus": 67.5,
@@ -146832,7 +146928,7 @@
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 1,
-    "examine": "'\"`UNIQ--nowiki-00000045-QINU`\"'whispers*The seas are not lackin' kraken.",
+    "examine": "'\"`UNIQ--nowiki-000000AE-QINU`\"'whispers*The seas are not lackin' kraken.",
     "poison_resistance": "0",
     "venom_immune": "unknown",
     "thrall_immune": "unknown",
