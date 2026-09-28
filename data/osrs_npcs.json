@@ -31902,7 +31902,7 @@
     "attack_speed": 4,
     "attribute": [],
     "max_hit": [
-      "115% of targeted player's max hit'\"`UNIQ--ref-000000F0-QINU`\"'"
+      "115% of targeted player's max hit'\"`UNIQ--ref-00000022-QINU`\"'"
     ],
     "attack_style": [
       "Slash"
@@ -35691,8 +35691,8 @@
     "attack_speed": 4,
     "attribute": [],
     "max_hit": [
-      "9 Ranged",
-      "4 Melee"
+      "9 (Ranged)",
+      "4 (Melee)"
     ],
     "attack_style": [
       "Ranged",
@@ -47218,7 +47218,7 @@
     "attack_style": [
       "Crush"
     ],
-    "experience_bonus": 0,
+    "experience_bonus": -97.5,
     "is_members_only": true,
     "slayer_level": 1,
     "slayer_experience": 126,
@@ -82854,6 +82854,7 @@
     "page_name": "Great Olm",
     "name": "Great Olm",
     "id": [
+      "7551",
       "7554"
     ],
     "combat_level": 1043,
@@ -82907,7 +82908,8 @@
     "page_name": "Great Olm",
     "name": "Great Olm",
     "id": [
-      "7551"
+      "7551",
+      "7554"
     ],
     "combat_level": 1043,
     "hitpoints": 800,
@@ -82960,7 +82962,8 @@
     "page_name": "Great Olm",
     "name": "Great Olm (Left claw)",
     "id": [
-      "7552"
+      "7552",
+      "7555"
     ],
     "combat_level": 750,
     "hitpoints": 600,
@@ -83012,6 +83015,7 @@
     "page_name": "Great Olm",
     "name": "Great Olm (Left claw)",
     "id": [
+      "7552",
       "7555"
     ],
     "combat_level": 750,
@@ -83064,7 +83068,8 @@
     "page_name": "Great Olm",
     "name": "Great Olm (Right claw)",
     "id": [
-      "7550"
+      "7550",
+      "7553"
     ],
     "combat_level": 549,
     "hitpoints": 600,
@@ -83116,6 +83121,7 @@
     "page_name": "Great Olm",
     "name": "Great Olm (Right claw)",
     "id": [
+      "7550",
       "7553"
     ],
     "combat_level": 549,
@@ -87468,7 +87474,7 @@
     "attack_speed": 10,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-00000026-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-0000012C-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -87518,7 +87524,7 @@
     "attack_speed": 7,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-00000026-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-0000012C-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -89647,7 +89653,7 @@
       "15 (melee) 33 (special attack)"
     ],
     "attack_style": [
-      "Slash '\"`UNIQ--ref-00000004-QINU`\"'"
+      "Slash '\"`UNIQ--ref-0000006D-QINU`\"'"
     ],
     "experience_bonus": 0,
     "is_members_only": true,
@@ -91695,8 +91701,8 @@
     "examine": "Nasty looking thing.",
     "poison_resistance": "100",
     "venom_immune": "unknown",
-    "thrall_immune": "unknown",
-    "cannon_immune": "unknown",
+    "thrall_immune": "Immune",
+    "cannon_immune": "Immune",
     "burn_immune": "unknown"
   },
   {
@@ -91746,8 +91752,8 @@
     "examine": "Nasty looking thing.",
     "poison_resistance": "100",
     "venom_immune": "unknown",
-    "thrall_immune": "unknown",
-    "cannon_immune": "unknown",
+    "thrall_immune": "Immune",
+    "cannon_immune": "Immune",
     "burn_immune": "unknown"
   },
   {
@@ -109900,30 +109906,30 @@
     "id": [
       "removed"
     ],
-    "combat_level": "unknown",
-    "hitpoints": "unknown",
-    "attack_level": "unknown",
-    "strength_level": "unknown",
-    "defence_level": "unknown",
-    "magic_level": "unknown",
-    "ranged_level": "unknown",
-    "attack_bonus": "unknown",
-    "strength_bonus": "unknown",
-    "magic_attack_bonus": "unknown",
-    "magic_damage_bonus": "unknown",
-    "range_attack_bonus": "unknown",
-    "range_strength_bonus": "unknown",
-    "stab_defence_bonus": "unknown",
-    "slash_defence_bonus": "unknown",
-    "crush_defence_bonus": "unknown",
-    "magic_defence_bonus": "unknown",
+    "combat_level": 79,
+    "hitpoints": 85,
+    "attack_level": 65,
+    "strength_level": 65,
+    "defence_level": 65,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
     "elemental_weakness": "None",
     "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": "unknown",
-    "standard_range_defence_bonus": "unknown",
-    "heavy_range_defence_bonus": "unknown",
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
     "flat_armour": 0,
-    "attack_speed": "unknown",
+    "attack_speed": 4,
     "attribute": [],
     "max_hit": "unknown",
     "attack_style": [
@@ -109947,37 +109953,225 @@
     "id": [
       "removed"
     ],
-    "combat_level": 253,
-    "hitpoints": "unknown",
-    "attack_level": "unknown",
-    "strength_level": "unknown",
-    "defence_level": "unknown",
-    "magic_level": "unknown",
-    "ranged_level": "unknown",
-    "attack_bonus": "unknown",
-    "strength_bonus": "unknown",
-    "magic_attack_bonus": "unknown",
-    "magic_damage_bonus": "unknown",
-    "range_attack_bonus": "unknown",
-    "range_strength_bonus": "unknown",
-    "stab_defence_bonus": "unknown",
-    "slash_defence_bonus": "unknown",
-    "crush_defence_bonus": "unknown",
-    "magic_defence_bonus": "unknown",
+    "combat_level": 159,
+    "hitpoints": 170,
+    "attack_level": 130,
+    "strength_level": 130,
+    "defence_level": 130,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
     "elemental_weakness": "None",
     "elemental_weakness_percent": 0,
-    "light_range_defence_bonus": "unknown",
-    "standard_range_defence_bonus": "unknown",
-    "heavy_range_defence_bonus": "unknown",
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
     "flat_armour": 0,
-    "attack_speed": "unknown",
+    "attack_speed": 4,
     "attribute": [],
     "max_hit": "unknown",
     "attack_style": [
       "Melee"
     ],
     "experience_bonus": 0,
-    "is_members_only": false,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 1,
+    "examine": "The strong arm of the law.",
+    "poison_resistance": "unknown",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "unknown",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Watchman (random event)",
+    "name": "Watchman",
+    "id": [
+      "removed"
+    ],
+    "combat_level": 29,
+    "hitpoints": 40,
+    "attack_level": 22,
+    "strength_level": 22,
+    "defence_level": 22,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [],
+    "max_hit": "unknown",
+    "attack_style": [
+      "Melee"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 1,
+    "examine": "The strong arm of the law.",
+    "poison_resistance": "unknown",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "unknown",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Watchman (random event)",
+    "name": "Watchman",
+    "id": [
+      "removed"
+    ],
+    "combat_level": 14,
+    "hitpoints": 25,
+    "attack_level": 9,
+    "strength_level": 9,
+    "defence_level": 9,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [],
+    "max_hit": "unknown",
+    "attack_style": [
+      "Melee"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 1,
+    "examine": "The strong arm of the law.",
+    "poison_resistance": "unknown",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "unknown",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Watchman (random event)",
+    "name": "Watchman",
+    "id": [
+      "removed"
+    ],
+    "combat_level": 120,
+    "hitpoints": 120,
+    "attack_level": 100,
+    "strength_level": 100,
+    "defence_level": 100,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [],
+    "max_hit": "unknown",
+    "attack_style": [
+      "Melee"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 1,
+    "examine": "The strong arm of the law.",
+    "poison_resistance": "unknown",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "unknown",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Watchman (random event)",
+    "name": "Watchman",
+    "id": [
+      "removed"
+    ],
+    "combat_level": 49,
+    "hitpoints": 60,
+    "attack_level": 38,
+    "strength_level": 38,
+    "defence_level": 38,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [],
+    "max_hit": "unknown",
+    "attack_style": [
+      "Melee"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 1,
@@ -111298,7 +111492,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "30-37 (Melee)'\"`UNIQ--ref-000000B3-QINU`\"'",
+      "30-37 (Melee)'\"`UNIQ--ref-00000112-QINU`\"'",
       "?? (axes)"
     ],
     "attack_style": [
@@ -111349,7 +111543,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "46-61 (Melee)'\"`UNIQ--ref-000000B2-QINU`\"'",
+      "46-61 (Melee)'\"`UNIQ--ref-00000111-QINU`\"'",
       "96 (axes)"
     ],
     "attack_style": [
@@ -111400,7 +111594,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "32-43 (Melee)'\"`UNIQ--ref-000000B1-QINU`\"'",
+      "32-43 (Melee)'\"`UNIQ--ref-00000110-QINU`\"'",
       "35 (axes)"
     ],
     "attack_style": [
@@ -131453,7 +131647,7 @@
     ],
     "attack_style": [
       "Crush",
-      "'\"`UNIQ--ref-0000007F-QINU`\"' Magic",
+      "'\"`UNIQ--ref-00000045-QINU`\"' Magic",
       "Ranged"
     ],
     "experience_bonus": 67.5,
@@ -146928,7 +147122,7 @@
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 1,
-    "examine": "'\"`UNIQ--nowiki-000000AE-QINU`\"'whispers*The seas are not lackin' kraken.",
+    "examine": "'\"`UNIQ--nowiki-00000134-QINU`\"'whispers*The seas are not lackin' kraken.",
     "poison_resistance": "0",
     "venom_immune": "unknown",
     "thrall_immune": "unknown",

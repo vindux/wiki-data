@@ -295776,6 +295776,7 @@
   {
     "name": "Great Olm",
     "id": [
+      "7551",
       "7554"
     ],
     "combat_level": 1043,
@@ -295789,7 +295790,8 @@
   {
     "name": "Great Olm",
     "id": [
-      "7551"
+      "7551",
+      "7554"
     ],
     "combat_level": 1043,
     "slayer_level": 1,
@@ -295802,7 +295804,8 @@
   {
     "name": "Great Olm (Left claw)",
     "id": [
-      "7552"
+      "7552",
+      "7555"
     ],
     "combat_level": 750,
     "slayer_level": 1,
@@ -295815,6 +295818,7 @@
   {
     "name": "Great Olm (Left claw)",
     "id": [
+      "7552",
       "7555"
     ],
     "combat_level": 750,
@@ -295828,7 +295832,8 @@
   {
     "name": "Great Olm (Right claw)",
     "id": [
-      "7550"
+      "7550",
+      "7553"
     ],
     "combat_level": 549,
     "slayer_level": 1,
@@ -295841,6 +295846,7 @@
   {
     "name": "Great Olm (Right claw)",
     "id": [
+      "7550",
       "7553"
     ],
     "combat_level": 549,
@@ -336065,7 +336071,7 @@
         {
           "name": "Death rune",
           "rarity": "1/36",
-          "quantity": "201–832"
+          "quantity": "201–1046"
         },
         {
           "name": "Law rune",
@@ -336209,7 +336215,7 @@
         {
           "name": "Death rune",
           "rarity": "1/36",
-          "quantity": "201–832"
+          "quantity": "201–1046"
         },
         {
           "name": "Law rune",
@@ -352297,7 +352303,7 @@
     "id": [
       "removed"
     ],
-    "combat_level": null,
+    "combat_level": 79,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -352310,9 +352316,61 @@
     "id": [
       "removed"
     ],
-    "combat_level": 253,
+    "combat_level": 159,
     "slayer_level": 1,
-    "is_members_only": false,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Watchman",
+    "id": [
+      "removed"
+    ],
+    "combat_level": 29,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Watchman",
+    "id": [
+      "removed"
+    ],
+    "combat_level": 14,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Watchman",
+    "id": [
+      "removed"
+    ],
+    "combat_level": 120,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Watchman",
+    "id": [
+      "removed"
+    ],
+    "combat_level": 49,
+    "slayer_level": 1,
+    "is_members_only": true,
     "drops": {
       "regular": [],
       "rare_drop_table": []
