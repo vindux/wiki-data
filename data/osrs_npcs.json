@@ -31902,7 +31902,7 @@
     "attack_speed": 4,
     "attribute": [],
     "max_hit": [
-      "115% of targeted player's max hit'\"`UNIQ--ref-00000022-QINU`\"'"
+      "115% of targeted player's max hit'\"`UNIQ--ref-00000010-QINU`\"'"
     ],
     "attack_style": [
       "Slash"
@@ -42327,7 +42327,7 @@
     "poison_resistance": "0",
     "venom_immune": "unknown",
     "thrall_immune": "unknown",
-    "cannon_immune": "unknown",
+    "cannon_immune": "Immune",
     "burn_immune": "unknown"
   },
   {
@@ -42376,7 +42376,7 @@
     "poison_resistance": "0",
     "venom_immune": "unknown",
     "thrall_immune": "unknown",
-    "cannon_immune": "unknown",
+    "cannon_immune": "Immune",
     "burn_immune": "unknown"
   },
   {
@@ -42425,7 +42425,7 @@
     "poison_resistance": "0",
     "venom_immune": "unknown",
     "thrall_immune": "unknown",
-    "cannon_immune": "unknown",
+    "cannon_immune": "Immune",
     "burn_immune": "unknown"
   },
   {
@@ -42476,7 +42476,7 @@
     "poison_resistance": "0",
     "venom_immune": "unknown",
     "thrall_immune": "unknown",
-    "cannon_immune": "unknown",
+    "cannon_immune": "Immune",
     "burn_immune": "unknown"
   },
   {
@@ -42525,7 +42525,7 @@
     "poison_resistance": "0",
     "venom_immune": "unknown",
     "thrall_immune": "unknown",
-    "cannon_immune": "unknown",
+    "cannon_immune": "Immune",
     "burn_immune": "unknown"
   },
   {
@@ -72348,7 +72348,7 @@
     "slayer_level": 85,
     "slayer_experience": 50,
     "size": 2,
-    "examine": "'\"`UNIQ--nowiki-0000003B-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
+    "examine": "'\"`UNIQ--nowiki-00000001-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
     "poison_resistance": "100",
     "venom_immune": "unknown",
     "thrall_immune": "Not immune",
@@ -87474,7 +87474,7 @@
     "attack_speed": 10,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-0000012C-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-000000E7-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -87524,7 +87524,7 @@
     "attack_speed": 7,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-0000012C-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-000000E7-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -89653,7 +89653,7 @@
       "15 (melee) 33 (special attack)"
     ],
     "attack_style": [
-      "Slash '\"`UNIQ--ref-0000006D-QINU`\"'"
+      "Slash '\"`UNIQ--ref-000000F5-QINU`\"'"
     ],
     "experience_bonus": 0,
     "is_members_only": true,
@@ -91161,7 +91161,7 @@
     "attack_bonus": 14,
     "strength_bonus": 0,
     "magic_attack_bonus": 148,
-    "magic_damage_bonus": 0,
+    "magic_damage_bonus": 42,
     "range_attack_bonus": 96,
     "range_strength_bonus": 0,
     "stab_defence_bonus": 66,
@@ -95083,10 +95083,8 @@
     "id": [
       "8344",
       "8350",
-      "8383",
       "10793",
-      "10799",
-      "10860"
+      "10799"
     ],
     "combat_level": 162,
     "hitpoints": 11,
@@ -95115,6 +95113,103 @@
     "attribute": [],
     "max_hit": [
       "17"
+    ],
+    "attack_style": [
+      "Magic"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 1,
+    "examine": "One of Verzik's pets.",
+    "poison_resistance": "100",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "unknown",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Nylocas Hagios",
+    "name": "Nylocas Hagios",
+    "id": [
+      "10843"
+    ],
+    "combat_level": 46,
+    "hitpoints": 3,
+    "attack_level": "unknown",
+    "strength_level": "unknown",
+    "defence_level": "unknown",
+    "magic_level": "unknown",
+    "ranged_level": "unknown",
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": "unknown",
+    "magic_damage_bonus": "unknown",
+    "range_attack_bonus": 0,
+    "range_strength_bonus": "unknown",
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "Fire",
+    "elemental_weakness_percent": 15,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 3,
+    "attribute": [],
+    "max_hit": "unknown",
+    "attack_style": [
+      "Magic"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 2,
+    "examine": "One of Verzik's pets.",
+    "poison_resistance": "100",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "unknown",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Nylocas Hagios",
+    "name": "Nylocas Hagios",
+    "id": [
+      "10776",
+      "10782"
+    ],
+    "combat_level": 46,
+    "hitpoints": 2,
+    "attack_level": 80,
+    "strength_level": 40,
+    "defence_level": 1,
+    "magic_level": 1,
+    "ranged_level": 80,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 505,
+    "magic_damage_bonus": 280,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": -30,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "Fire",
+    "elemental_weakness_percent": 15,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 3,
+    "attribute": [],
+    "max_hit": [
+      "5"
     ],
     "attack_style": [
       "Magic"
@@ -95185,56 +95280,6 @@
     "page_name": "Nylocas Hagios",
     "name": "Nylocas Hagios",
     "id": [
-      "10776",
-      "10782"
-    ],
-    "combat_level": 46,
-    "hitpoints": 2,
-    "attack_level": 80,
-    "strength_level": 40,
-    "defence_level": 1,
-    "magic_level": 1,
-    "ranged_level": 80,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 505,
-    "magic_damage_bonus": 280,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": -30,
-    "stab_defence_bonus": 0,
-    "slash_defence_bonus": 0,
-    "crush_defence_bonus": 0,
-    "magic_defence_bonus": 0,
-    "elemental_weakness": "Fire",
-    "elemental_weakness_percent": 15,
-    "light_range_defence_bonus": 0,
-    "standard_range_defence_bonus": 0,
-    "heavy_range_defence_bonus": 0,
-    "flat_armour": 0,
-    "attack_speed": 3,
-    "attribute": [],
-    "max_hit": [
-      "5"
-    ],
-    "attack_style": [
-      "Magic"
-    ],
-    "experience_bonus": 0,
-    "is_members_only": true,
-    "slayer_level": 1,
-    "slayer_experience": 0,
-    "size": 1,
-    "examine": "One of Verzik's pets.",
-    "poison_resistance": "100",
-    "venom_immune": "unknown",
-    "thrall_immune": "unknown",
-    "cannon_immune": "unknown",
-    "burn_immune": "unknown"
-  },
-  {
-    "page_name": "Nylocas Hagios",
-    "name": "Nylocas Hagios",
-    "id": [
       "8347",
       "8353",
       "10796",
@@ -95289,10 +95334,8 @@
     "id": [
       "8342",
       "8348",
-      "8381",
       "10791",
-      "10797",
-      "10858"
+      "10797"
     ],
     "combat_level": 162,
     "hitpoints": 11,
@@ -95321,6 +95364,151 @@
     "attribute": [],
     "max_hit": [
       "17"
+    ],
+    "attack_style": [
+      "Stab"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 1,
+    "examine": "One of Verzik's pets.",
+    "poison_resistance": "100",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "unknown",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Nylocas Ischyros",
+    "name": "Nylocas Ischyros",
+    "id": [
+      "8381",
+      "10858"
+    ],
+    "combat_level": 162,
+    "hitpoints": 25,
+    "attack_level": "unknown",
+    "strength_level": "unknown",
+    "defence_level": "unknown",
+    "magic_level": "unknown",
+    "ranged_level": "unknown",
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": "unknown",
+    "magic_damage_bonus": "unknown",
+    "range_attack_bonus": 0,
+    "range_strength_bonus": "unknown",
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "Fire",
+    "elemental_weakness_percent": 15,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 3,
+    "attribute": [],
+    "max_hit": "unknown",
+    "attack_style": [
+      "Stab"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 2,
+    "examine": "One of Verzik's pets.",
+    "poison_resistance": "100",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "unknown",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Nylocas Ischyros",
+    "name": "Nylocas Ischyros",
+    "id": [
+      "10841"
+    ],
+    "combat_level": 46,
+    "hitpoints": 3,
+    "attack_level": "unknown",
+    "strength_level": "unknown",
+    "defence_level": "unknown",
+    "magic_level": "unknown",
+    "ranged_level": "unknown",
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": "unknown",
+    "magic_damage_bonus": "unknown",
+    "range_attack_bonus": 0,
+    "range_strength_bonus": "unknown",
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "Fire",
+    "elemental_weakness_percent": 15,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 3,
+    "attribute": [],
+    "max_hit": "unknown",
+    "attack_style": [
+      "Stab"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 2,
+    "examine": "One of Verzik's pets.",
+    "poison_resistance": "100",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "unknown",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Nylocas Ischyros",
+    "name": "Nylocas Ischyros",
+    "id": [
+      "10774",
+      "10780"
+    ],
+    "combat_level": 46,
+    "hitpoints": 2,
+    "attack_level": 80,
+    "strength_level": 40,
+    "defence_level": 1,
+    "magic_level": 1,
+    "ranged_level": 80,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 505,
+    "magic_damage_bonus": 280,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": -30,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "Fire",
+    "elemental_weakness_percent": 15,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 3,
+    "attribute": [],
+    "max_hit": [
+      "5"
     ],
     "attack_style": [
       "Stab"
@@ -95391,56 +95579,6 @@
     "page_name": "Nylocas Ischyros",
     "name": "Nylocas Ischyros",
     "id": [
-      "10774",
-      "10780"
-    ],
-    "combat_level": 46,
-    "hitpoints": 2,
-    "attack_level": 80,
-    "strength_level": 40,
-    "defence_level": 1,
-    "magic_level": 1,
-    "ranged_level": 80,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 505,
-    "magic_damage_bonus": 280,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": -30,
-    "stab_defence_bonus": 0,
-    "slash_defence_bonus": 0,
-    "crush_defence_bonus": 0,
-    "magic_defence_bonus": 0,
-    "elemental_weakness": "Fire",
-    "elemental_weakness_percent": 15,
-    "light_range_defence_bonus": 0,
-    "standard_range_defence_bonus": 0,
-    "heavy_range_defence_bonus": 0,
-    "flat_armour": 0,
-    "attack_speed": 3,
-    "attribute": [],
-    "max_hit": [
-      "5"
-    ],
-    "attack_style": [
-      "Stab"
-    ],
-    "experience_bonus": 0,
-    "is_members_only": true,
-    "slayer_level": 1,
-    "slayer_experience": 0,
-    "size": 1,
-    "examine": "One of Verzik's pets.",
-    "poison_resistance": "100",
-    "venom_immune": "unknown",
-    "thrall_immune": "unknown",
-    "cannon_immune": "unknown",
-    "burn_immune": "unknown"
-  },
-  {
-    "page_name": "Nylocas Ischyros",
-    "name": "Nylocas Ischyros",
-    "id": [
       "8345",
       "8351",
       "10794",
@@ -95495,10 +95633,8 @@
     "id": [
       "8343",
       "8349",
-      "8382",
       "10792",
-      "10798",
-      "10859"
+      "10798"
     ],
     "combat_level": 162,
     "hitpoints": 11,
@@ -95527,6 +95663,151 @@
     "attribute": [],
     "max_hit": [
       "17"
+    ],
+    "attack_style": [
+      "Ranged"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 1,
+    "examine": "One of Verzik's pets.",
+    "poison_resistance": "100",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "unknown",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Nylocas Toxobolos",
+    "name": "Nylocas Toxobolos",
+    "id": [
+      "8382",
+      "10859"
+    ],
+    "combat_level": 162,
+    "hitpoints": 25,
+    "attack_level": "unknown",
+    "strength_level": "unknown",
+    "defence_level": "unknown",
+    "magic_level": "unknown",
+    "ranged_level": "unknown",
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": "unknown",
+    "magic_damage_bonus": "unknown",
+    "range_attack_bonus": 0,
+    "range_strength_bonus": "unknown",
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "Fire",
+    "elemental_weakness_percent": 15,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 3,
+    "attribute": [],
+    "max_hit": "unknown",
+    "attack_style": [
+      "Ranged"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 2,
+    "examine": "One of Verzik's pets.",
+    "poison_resistance": "100",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "unknown",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Nylocas Toxobolos",
+    "name": "Nylocas Toxobolos",
+    "id": [
+      "10842"
+    ],
+    "combat_level": 46,
+    "hitpoints": 3,
+    "attack_level": "unknown",
+    "strength_level": "unknown",
+    "defence_level": "unknown",
+    "magic_level": "unknown",
+    "ranged_level": "unknown",
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": "unknown",
+    "magic_damage_bonus": "unknown",
+    "range_attack_bonus": 0,
+    "range_strength_bonus": "unknown",
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "Fire",
+    "elemental_weakness_percent": 15,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 3,
+    "attribute": [],
+    "max_hit": "unknown",
+    "attack_style": [
+      "Ranged"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 2,
+    "examine": "One of Verzik's pets.",
+    "poison_resistance": "100",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "unknown",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Nylocas Toxobolos",
+    "name": "Nylocas Toxobolos",
+    "id": [
+      "10775",
+      "10781"
+    ],
+    "combat_level": 46,
+    "hitpoints": 2,
+    "attack_level": 80,
+    "strength_level": 40,
+    "defence_level": 1,
+    "magic_level": 1,
+    "ranged_level": 80,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 505,
+    "magic_damage_bonus": 280,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": -30,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "Fire",
+    "elemental_weakness_percent": 15,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 3,
+    "attribute": [],
+    "max_hit": [
+      "5"
     ],
     "attack_style": [
       "Ranged"
@@ -95586,56 +95867,6 @@
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 2,
-    "examine": "One of Verzik's pets.",
-    "poison_resistance": "100",
-    "venom_immune": "unknown",
-    "thrall_immune": "unknown",
-    "cannon_immune": "unknown",
-    "burn_immune": "unknown"
-  },
-  {
-    "page_name": "Nylocas Toxobolos",
-    "name": "Nylocas Toxobolos",
-    "id": [
-      "10775",
-      "10781"
-    ],
-    "combat_level": 46,
-    "hitpoints": 2,
-    "attack_level": 80,
-    "strength_level": 40,
-    "defence_level": 1,
-    "magic_level": 1,
-    "ranged_level": 80,
-    "attack_bonus": 0,
-    "strength_bonus": 0,
-    "magic_attack_bonus": 505,
-    "magic_damage_bonus": 280,
-    "range_attack_bonus": 0,
-    "range_strength_bonus": -30,
-    "stab_defence_bonus": 0,
-    "slash_defence_bonus": 0,
-    "crush_defence_bonus": 0,
-    "magic_defence_bonus": 0,
-    "elemental_weakness": "Fire",
-    "elemental_weakness_percent": 15,
-    "light_range_defence_bonus": 0,
-    "standard_range_defence_bonus": 0,
-    "heavy_range_defence_bonus": 0,
-    "flat_armour": 0,
-    "attack_speed": 3,
-    "attribute": [],
-    "max_hit": [
-      "5"
-    ],
-    "attack_style": [
-      "Ranged"
-    ],
-    "experience_bonus": 0,
-    "is_members_only": true,
-    "slayer_level": 1,
-    "slayer_experience": 0,
-    "size": 1,
     "examine": "One of Verzik's pets.",
     "poison_resistance": "100",
     "venom_immune": "unknown",
@@ -111492,7 +111723,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "30-37 (Melee)'\"`UNIQ--ref-00000112-QINU`\"'",
+      "30-37 (Melee)'\"`UNIQ--ref-00000095-QINU`\"'",
       "?? (axes)"
     ],
     "attack_style": [
@@ -111543,7 +111774,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "46-61 (Melee)'\"`UNIQ--ref-00000111-QINU`\"'",
+      "46-61 (Melee)'\"`UNIQ--ref-00000094-QINU`\"'",
       "96 (axes)"
     ],
     "attack_style": [
@@ -111594,7 +111825,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "32-43 (Melee)'\"`UNIQ--ref-00000110-QINU`\"'",
+      "32-43 (Melee)'\"`UNIQ--ref-00000093-QINU`\"'",
       "35 (axes)"
     ],
     "attack_style": [
@@ -131647,7 +131878,7 @@
     ],
     "attack_style": [
       "Crush",
-      "'\"`UNIQ--ref-00000045-QINU`\"' Magic",
+      "'\"`UNIQ--ref-00000029-QINU`\"' Magic",
       "Ranged"
     ],
     "experience_bonus": 67.5,
@@ -142893,7 +143124,7 @@
       "52 (Magic)"
     ],
     "attack_style": [
-      "Range",
+      "Ranged",
       "Magic"
     ],
     "experience_bonus": 0,
@@ -147122,7 +147353,7 @@
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 1,
-    "examine": "'\"`UNIQ--nowiki-00000134-QINU`\"'whispers*The seas are not lackin' kraken.",
+    "examine": "'\"`UNIQ--nowiki-000000AF-QINU`\"'whispers*The seas are not lackin' kraken.",
     "poison_resistance": "0",
     "venom_immune": "unknown",
     "thrall_immune": "unknown",
@@ -163039,5 +163270,255 @@
     "thrall_immune": "Not immune",
     "cannon_immune": "Not immune",
     "burn_immune": "Not immune"
+  },
+  {
+    "page_name": "Venator (The Blood Moon Rises)",
+    "name": "Venator",
+    "id": [
+      "16213"
+    ],
+    "combat_level": 195,
+    "hitpoints": 160,
+    "attack_level": 200,
+    "strength_level": 200,
+    "defence_level": 100,
+    "magic_level": 100,
+    "ranged_level": 75,
+    "attack_bonus": "unknown",
+    "strength_bonus": "unknown",
+    "magic_attack_bonus": "unknown",
+    "magic_damage_bonus": "unknown",
+    "range_attack_bonus": "unknown",
+    "range_strength_bonus": "unknown",
+    "stab_defence_bonus": "unknown",
+    "slash_defence_bonus": "unknown",
+    "crush_defence_bonus": "unknown",
+    "magic_defence_bonus": "unknown",
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": "unknown",
+    "standard_range_defence_bonus": "unknown",
+    "heavy_range_defence_bonus": "unknown",
+    "flat_armour": 0,
+    "attack_speed": "unknown",
+    "attribute": [
+      "vampyre3"
+    ],
+    "max_hit": "unknown",
+    "attack_style": [
+      "Stab",
+      "Ranged"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 2,
+    "examine": "Large, toothy, bloodthirsty dog.",
+    "poison_resistance": "0",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "unknown",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Venator (The Blood Moon Rises)",
+    "name": "Venator",
+    "id": [
+      "16215"
+    ],
+    "combat_level": 195,
+    "hitpoints": 160,
+    "attack_level": 200,
+    "strength_level": 200,
+    "defence_level": 100,
+    "magic_level": 100,
+    "ranged_level": 75,
+    "attack_bonus": "unknown",
+    "strength_bonus": "unknown",
+    "magic_attack_bonus": "unknown",
+    "magic_damage_bonus": "unknown",
+    "range_attack_bonus": "unknown",
+    "range_strength_bonus": "unknown",
+    "stab_defence_bonus": "unknown",
+    "slash_defence_bonus": "unknown",
+    "crush_defence_bonus": "unknown",
+    "magic_defence_bonus": "unknown",
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": "unknown",
+    "standard_range_defence_bonus": "unknown",
+    "heavy_range_defence_bonus": "unknown",
+    "flat_armour": 0,
+    "attack_speed": "unknown",
+    "attribute": [
+      "vampyre3"
+    ],
+    "max_hit": "unknown",
+    "attack_style": [
+      "Stab",
+      "Ranged"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 2,
+    "examine": "Large, toothy, bloodthirsty dog.",
+    "poison_resistance": "0",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "unknown",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Venator (The Blood Moon Rises)",
+    "name": "Venator",
+    "id": [
+      "16214"
+    ],
+    "combat_level": 195,
+    "hitpoints": 160,
+    "attack_level": 200,
+    "strength_level": 200,
+    "defence_level": 100,
+    "magic_level": 100,
+    "ranged_level": 75,
+    "attack_bonus": "unknown",
+    "strength_bonus": "unknown",
+    "magic_attack_bonus": "unknown",
+    "magic_damage_bonus": "unknown",
+    "range_attack_bonus": "unknown",
+    "range_strength_bonus": "unknown",
+    "stab_defence_bonus": "unknown",
+    "slash_defence_bonus": "unknown",
+    "crush_defence_bonus": "unknown",
+    "magic_defence_bonus": "unknown",
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": "unknown",
+    "standard_range_defence_bonus": "unknown",
+    "heavy_range_defence_bonus": "unknown",
+    "flat_armour": 0,
+    "attack_speed": "unknown",
+    "attribute": [
+      "vampyre3"
+    ],
+    "max_hit": "unknown",
+    "attack_style": [
+      "Stab",
+      "Ranged"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 2,
+    "examine": "Large, toothy, bloodthirsty dog.",
+    "poison_resistance": "0",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "unknown",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Venator (The Blood Moon Rises)",
+    "name": "Venator",
+    "id": [
+      "16217"
+    ],
+    "combat_level": 195,
+    "hitpoints": 160,
+    "attack_level": 200,
+    "strength_level": 200,
+    "defence_level": 100,
+    "magic_level": 100,
+    "ranged_level": 75,
+    "attack_bonus": "unknown",
+    "strength_bonus": "unknown",
+    "magic_attack_bonus": "unknown",
+    "magic_damage_bonus": "unknown",
+    "range_attack_bonus": "unknown",
+    "range_strength_bonus": "unknown",
+    "stab_defence_bonus": "unknown",
+    "slash_defence_bonus": "unknown",
+    "crush_defence_bonus": "unknown",
+    "magic_defence_bonus": "unknown",
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": "unknown",
+    "standard_range_defence_bonus": "unknown",
+    "heavy_range_defence_bonus": "unknown",
+    "flat_armour": 0,
+    "attack_speed": "unknown",
+    "attribute": [
+      "vampyre3"
+    ],
+    "max_hit": "unknown",
+    "attack_style": [
+      "Stab",
+      "Ranged"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 2,
+    "examine": "Large, toothy, bloodthirsty dog.",
+    "poison_resistance": "0",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "unknown",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Venator (The Blood Moon Rises)",
+    "name": "Venator",
+    "id": [
+      "16216"
+    ],
+    "combat_level": 195,
+    "hitpoints": 160,
+    "attack_level": 200,
+    "strength_level": 200,
+    "defence_level": 100,
+    "magic_level": 100,
+    "ranged_level": 75,
+    "attack_bonus": "unknown",
+    "strength_bonus": "unknown",
+    "magic_attack_bonus": "unknown",
+    "magic_damage_bonus": "unknown",
+    "range_attack_bonus": "unknown",
+    "range_strength_bonus": "unknown",
+    "stab_defence_bonus": "unknown",
+    "slash_defence_bonus": "unknown",
+    "crush_defence_bonus": "unknown",
+    "magic_defence_bonus": "unknown",
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": "unknown",
+    "standard_range_defence_bonus": "unknown",
+    "heavy_range_defence_bonus": "unknown",
+    "flat_armour": 0,
+    "attack_speed": "unknown",
+    "attribute": [
+      "vampyre3"
+    ],
+    "max_hit": "unknown",
+    "attack_style": [
+      "Stab",
+      "Ranged"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 2,
+    "examine": "Large, toothy, bloodthirsty dog.",
+    "poison_resistance": "0",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "unknown",
+    "burn_immune": "unknown"
   }
 ]

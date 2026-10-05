@@ -228225,7 +228225,13 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [],
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   },
@@ -228238,7 +228244,13 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [],
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   },
@@ -291277,18 +291289,8 @@
     "drops": {
       "regular": [
         {
-          "name": "Bones",
-          "rarity": "Always",
-          "quantity": "1"
-        },
-        {
-          "name": "Staff",
-          "rarity": "8/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Staff of fire",
-          "rarity": "1/128",
+          "name": "Lava battlestaff",
+          "rarity": "1/1,000",
           "quantity": "1"
         },
         {
@@ -291302,8 +291304,18 @@
           "quantity": "1"
         },
         {
-          "name": "Lava battlestaff",
-          "rarity": "1/1,000",
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Staff",
+          "rarity": "8/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Staff of fire",
+          "rarity": "1/128",
           "quantity": "1"
         },
         {
@@ -291392,6 +291404,11 @@
           "quantity": "29"
         },
         {
+          "name": "Fire ruby",
+          "rarity": "1/64",
+          "quantity": "1"
+        },
+        {
           "name": "Mist battlestaff",
           "rarity": "1/274",
           "quantity": "1"
@@ -291409,11 +291426,6 @@
         {
           "name": "Imbued heart",
           "rarity": "1/960",
-          "quantity": "1"
-        },
-        {
-          "name": "Fire ruby",
-          "rarity": "1/64",
           "quantity": "1"
         }
       ],
@@ -317172,10 +317184,8 @@
     "id": [
       "8344",
       "8350",
-      "8383",
       "10793",
-      "10799",
-      "10860"
+      "10799"
     ],
     "combat_level": 162,
     "slayer_level": 1,
@@ -317188,10 +317198,9 @@
   {
     "name": "Nylocas Hagios",
     "id": [
-      "10779",
-      "10785"
+      "10843"
     ],
-    "combat_level": 82,
+    "combat_level": 46,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -317206,6 +317215,20 @@
       "10782"
     ],
     "combat_level": 46,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Nylocas Hagios",
+    "id": [
+      "10779",
+      "10785"
+    ],
+    "combat_level": 82,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -317234,9 +317257,21 @@
     "id": [
       "8342",
       "8348",
-      "8381",
       "10791",
-      "10797",
+      "10797"
+    ],
+    "combat_level": 162,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Nylocas Ischyros",
+    "id": [
+      "8381",
       "10858"
     ],
     "combat_level": 162,
@@ -317250,10 +317285,9 @@
   {
     "name": "Nylocas Ischyros",
     "id": [
-      "10777",
-      "10783"
+      "10841"
     ],
-    "combat_level": 82,
+    "combat_level": 46,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -317268,6 +317302,20 @@
       "10780"
     ],
     "combat_level": 46,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Nylocas Ischyros",
+    "id": [
+      "10777",
+      "10783"
+    ],
+    "combat_level": 82,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -317296,9 +317344,21 @@
     "id": [
       "8343",
       "8349",
-      "8382",
       "10792",
-      "10798",
+      "10798"
+    ],
+    "combat_level": 162,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Nylocas Toxobolos",
+    "id": [
+      "8382",
       "10859"
     ],
     "combat_level": 162,
@@ -317312,10 +317372,9 @@
   {
     "name": "Nylocas Toxobolos",
     "id": [
-      "10778",
-      "10784"
+      "10842"
     ],
-    "combat_level": 82,
+    "combat_level": 46,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -317330,6 +317389,20 @@
       "10781"
     ],
     "combat_level": 46,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Nylocas Toxobolos",
+    "id": [
+      "10778",
+      "10784"
+    ],
+    "combat_level": 82,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -448346,6 +448419,101 @@
       "regular": [
         {
           "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Venator",
+    "id": [
+      "16213"
+    ],
+    "combat_level": 195,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Mysterious jerky",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Venator",
+    "id": [
+      "16215"
+    ],
+    "combat_level": 195,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Mysterious jerky",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Venator",
+    "id": [
+      "16214"
+    ],
+    "combat_level": 195,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Mysterious jerky",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Venator",
+    "id": [
+      "16217"
+    ],
+    "combat_level": 195,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Mysterious jerky",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Venator",
+    "id": [
+      "16216"
+    ],
+    "combat_level": 195,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Mysterious jerky",
           "rarity": "Always",
           "quantity": "1"
         }
