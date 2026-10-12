@@ -163451,7 +163451,7 @@
     "weight": 0.5,
     "value": 5000,
     "high_alchemy_value": 0,
-    "buy_limit": 0,
+    "buy_limit": 4,
     "examine": "Used on the Dinh's Bulwark to give it a theme from Leagues IV: Trailblazer Reloaded.",
     "is_members_only": true
   },
@@ -177401,7 +177401,7 @@
     "weight": 0,
     "value": 10,
     "high_alchemy_value": 6,
-    "buy_limit": 0,
+    "buy_limit": 15000,
     "examine": "Teleports you to the Ancient Guthixian Temple.",
     "is_members_only": true
   },
@@ -185938,8 +185938,8 @@
     "is_members_only": true
   },
   {
-    "item_name": "Clue scroll (master) - Buried beneath the ground, who knows where it's found",
-    "item_name_variant": "Clue scroll (master) - Buried beneath the ground, who knows where it's found",
+    "item_name": "Clue scroll (master) - Buried beneath the ground, who knows where it's found (Twisted League)",
+    "item_name_variant": "Clue scroll (master) - Buried beneath the ground, who knows where it's found (Twisted League)",
     "item_id": null,
     "weight": 0.02,
     "value": 20,
@@ -213920,7 +213920,7 @@
     "weight": 0.907,
     "value": 170000,
     "high_alchemy_value": 102000,
-    "buy_limit": 0,
+    "buy_limit": 4500,
     "examine": "Unrefined dragon metal.",
     "is_members_only": true
   },
@@ -219785,6 +219785,160 @@
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "This plank has been through some stuff, including, but not limited to, the sea.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Net trap (item)",
+    "item_name_variant": "Net trap (item)",
+    "item_id": [
+      "34631"
+    ],
+    "weight": 1,
+    "value": 32,
+    "high_alchemy_value": 19,
+    "buy_limit": 0,
+    "examine": "A rope tied onto a small net - genius!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ancient fabric",
+    "item_name_variant": "Ancient fabric",
+    "item_id": [
+      "34641"
+    ],
+    "weight": 0.453,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A shadowy material that can be used to alter an imbued god cape.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Pete's vouchers",
+    "item_name_variant": "Pete's vouchers",
+    "item_id": [
+      "34644"
+    ],
+    "weight": 0,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "I can exchange these with Justine for items.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Imbued ancient cape",
+    "item_name_variant": "Imbued ancient cape#Broken",
+    "item_id": [
+      "34635"
+    ],
+    "weight": 0.453,
+    "value": 80000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A cape from an almighty god, imbued with great power.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Imbued ancient cape",
+    "item_name_variant": "Imbued ancient cape#Locked",
+    "item_id": [
+      "34637"
+    ],
+    "weight": 0.453,
+    "value": 80000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A cape from an almighty god, imbued with great power.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Imbued ancient cape",
+    "item_name_variant": "Imbued ancient cape#Normal",
+    "item_id": [
+      "34633"
+    ],
+    "weight": 0.453,
+    "value": 80000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A cape from an almighty god, imbued with great power.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Imbued ancient max cape",
+    "item_name_variant": "Imbued ancient max cape#Normal",
+    "item_id": [
+      "34625"
+    ],
+    "weight": 0.453,
+    "value": 99000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The cape worn by only the most experienced players.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Imbued ancient max cape",
+    "item_name_variant": "Imbued ancient max cape#Broken",
+    "item_id": [
+      "34629"
+    ],
+    "weight": 0.453,
+    "value": 99000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The cape worn by only the most experienced players. This one is broken.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Imbued ancient max hood",
+    "item_name_variant": "Imbued ancient max hood",
+    "item_id": [
+      "34627"
+    ],
+    "weight": 0.453,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The hood worn by only the most experienced players.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Imbued ancient cape (Deadman)",
+    "item_name_variant": "Imbued ancient cape (Deadman)",
+    "item_id": [
+      "34607"
+    ],
+    "weight": 0.453,
+    "value": 80000,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A cape from an almighty god, imbued with great power.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Supply crate (Pete Kayer's Challenges)",
+    "item_name_variant": "Supply crate (Pete Kayer's Challenges)",
+    "item_id": [
+      "34643"
+    ],
+    "weight": 0,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Contains some useful supplies.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Clue scroll (master) - A massive battle rages beneath",
+    "item_name_variant": "Clue scroll (master) - A massive battle rages beneath",
+    "item_id": null,
+    "weight": 0.02,
+    "value": 20,
+    "high_alchemy_value": 12,
+    "buy_limit": 0,
+    "examine": "Hopefully leads to treasure.",
     "is_members_only": true
   }
 ]

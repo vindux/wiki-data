@@ -201843,6 +201843,11 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/90",
           "quantity": "1"
@@ -202009,6 +202014,11 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -202181,6 +202191,11 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/90",
           "quantity": "1"
@@ -202347,6 +202362,11 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -245074,6 +245094,11 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/90",
           "quantity": "1"
@@ -287778,6 +287803,11 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/90",
           "quantity": "1"
@@ -297999,6 +298029,11 @@
           "quantity": "1"
         },
         {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/90",
           "quantity": "1"
@@ -305085,6 +305120,11 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -353242,6 +353282,21 @@
     "drops": {
       "regular": [
         {
+          "name": "Mind rune",
+          "rarity": "8/52",
+          "quantity": "5–10"
+        },
+        {
+          "name": "Mind rune",
+          "rarity": "6/52",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune essence",
+          "rarity": "6/52",
+          "quantity": "3–5 (noted)"
+        },
+        {
           "name": "Clay",
           "rarity": "6/52",
           "quantity": "2–3"
@@ -353262,26 +353317,6 @@
           "quantity": "1–2"
         },
         {
-          "name": "Rune essence",
-          "rarity": "6/52",
-          "quantity": "3–5 (noted)"
-        },
-        {
-          "name": "Rune essence",
-          "rarity": "1/52",
-          "quantity": "1 (noted)"
-        },
-        {
-          "name": "Mind rune",
-          "rarity": "8/52",
-          "quantity": "5–10"
-        },
-        {
-          "name": "Mind rune",
-          "rarity": "6/52",
-          "quantity": "1"
-        },
-        {
           "name": "Uncut sapphire",
           "rarity": "4/52",
           "quantity": "1"
@@ -353297,23 +353332,28 @@
           "quantity": "1"
         },
         {
+          "name": "Rune essence",
+          "rarity": "1/52",
+          "quantity": "1 (noted)"
+        },
+        {
           "name": "Barronite shards",
-          "rarity": "2/15",
+          "rarity": "5/36",
           "quantity": "8–16"
         },
         {
           "name": "Mind core",
-          "rarity": "2/15",
-          "quantity": "1"
-        },
-        {
-          "name": "Barronite guard",
-          "rarity": "1/500",
+          "rarity": "5/36",
           "quantity": "1"
         },
         {
           "name": "Clue scroll (beginner)",
           "rarity": "1/50",
+          "quantity": "1"
+        },
+        {
+          "name": "Barronite guard",
+          "rarity": "1/500",
           "quantity": "1"
         }
       ],
@@ -353331,6 +353371,21 @@
     "drops": {
       "regular": [
         {
+          "name": "Mind rune",
+          "rarity": "8/52",
+          "quantity": "5–10"
+        },
+        {
+          "name": "Mind rune",
+          "rarity": "6/52",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune essence",
+          "rarity": "6/52",
+          "quantity": "3–5 (noted)"
+        },
+        {
           "name": "Clay",
           "rarity": "6/52",
           "quantity": "2–3"
@@ -353351,26 +353406,6 @@
           "quantity": "1–2"
         },
         {
-          "name": "Rune essence",
-          "rarity": "6/52",
-          "quantity": "3–5 (noted)"
-        },
-        {
-          "name": "Rune essence",
-          "rarity": "1/52",
-          "quantity": "1 (noted)"
-        },
-        {
-          "name": "Mind rune",
-          "rarity": "8/52",
-          "quantity": "5–10"
-        },
-        {
-          "name": "Mind rune",
-          "rarity": "6/52",
-          "quantity": "1"
-        },
-        {
           "name": "Uncut sapphire",
           "rarity": "4/52",
           "quantity": "1"
@@ -353386,23 +353421,28 @@
           "quantity": "1"
         },
         {
+          "name": "Rune essence",
+          "rarity": "1/52",
+          "quantity": "1 (noted)"
+        },
+        {
           "name": "Barronite shards",
-          "rarity": "2/15",
+          "rarity": "5/36",
           "quantity": "8–16"
         },
         {
           "name": "Mind core",
-          "rarity": "2/15",
-          "quantity": "1"
-        },
-        {
-          "name": "Barronite guard",
-          "rarity": "1/500",
+          "rarity": "5/36",
           "quantity": "1"
         },
         {
           "name": "Clue scroll (beginner)",
           "rarity": "1/50",
+          "quantity": "1"
+        },
+        {
+          "name": "Barronite guard",
+          "rarity": "1/500",
           "quantity": "1"
         }
       ],
@@ -448518,6 +448558,217 @@
           "quantity": "1"
         }
       ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Pete Kayer",
+    "id": [
+      "16588",
+      "16589",
+      "16590",
+      "16591",
+      "16592",
+      "16593",
+      "16594",
+      "16595",
+      "16596",
+      "19597"
+    ],
+    "combat_level": 135,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Pete Kayer",
+    "id": [
+      "16579",
+      "16580",
+      "16581",
+      "16582",
+      "16583",
+      "16584",
+      "16585",
+      "16586"
+    ],
+    "combat_level": 135,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Sparring partner",
+    "id": [
+      "16607"
+    ],
+    "combat_level": 126,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Sparring partner",
+    "id": [
+      "16609"
+    ],
+    "combat_level": 126,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Sparring partner",
+    "id": [
+      "16608"
+    ],
+    "combat_level": 126,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Sparring partner",
+    "id": [
+      "16611"
+    ],
+    "combat_level": 97,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Sparring partner",
+    "id": [
+      "16610"
+    ],
+    "combat_level": 126,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Sparring partner",
+    "id": [
+      "16613"
+    ],
+    "combat_level": 67,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Sparring partner",
+    "id": [
+      "16612"
+    ],
+    "combat_level": 101,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Sparring partner",
+    "id": [
+      "16615"
+    ],
+    "combat_level": 83,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Sparring partner",
+    "id": [
+      "16614"
+    ],
+    "combat_level": 111,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Sparring partner",
+    "id": [
+      "16617"
+    ],
+    "combat_level": 122,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Sparring partner",
+    "id": [
+      "16616"
+    ],
+    "combat_level": 92,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Blink",
+    "id": [
+      "16598"
+    ],
+    "combat_level": 126,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Blink",
+    "id": [
+      "16625"
+    ],
+    "combat_level": 126,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
       "rare_drop_table": []
     }
   }
