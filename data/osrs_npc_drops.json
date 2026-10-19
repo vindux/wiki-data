@@ -487,6 +487,11 @@
     "drops": {
       "regular": [
         {
+          "name": "Mystic gloves (dark)",
+          "rarity": "1/512",
+          "quantity": "1"
+        },
+        {
           "name": "Iron mace",
           "rarity": "2/128",
           "quantity": "1"
@@ -499,11 +504,6 @@
         {
           "name": "Iron kiteshield",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Mystic gloves (dark)",
-          "rarity": "1/512",
           "quantity": "1"
         },
         {
@@ -533,63 +533,58 @@
         },
         {
           "name": "Grimy guam leaf",
-          "rarity": "1/15.1",
+          "rarity": "1/15.5",
           "quantity": "1"
         },
         {
           "name": "Grimy marrentill",
-          "rarity": "1/20.1",
+          "rarity": "1/20.7",
           "quantity": "1"
         },
         {
           "name": "Grimy tarromin",
-          "rarity": "1/26.8",
+          "rarity": "1/27.6",
           "quantity": "1"
         },
         {
           "name": "Grimy harralander",
-          "rarity": "1/34.4",
+          "rarity": "1/35.5",
           "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "1/43.8",
+          "rarity": "1/45.1",
           "quantity": "1"
         },
         {
           "name": "Grimy irit leaf",
-          "rarity": "1/60.2",
+          "rarity": "1/62.1",
           "quantity": "1"
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "1/80.3",
+          "rarity": "1/82.7",
           "quantity": "1"
         },
         {
           "name": "Grimy kwuarm",
-          "rarity": "1/96.4",
+          "rarity": "1/99.3",
           "quantity": "1"
         },
         {
           "name": "Grimy cadantine",
-          "rarity": "1/120.5",
+          "rarity": "1/124.1",
           "quantity": "1"
         },
         {
           "name": "Grimy lantadyme",
-          "rarity": "1/160.6",
+          "rarity": "1/165.5",
           "quantity": "1"
         },
         {
           "name": "Grimy dwarf weed",
-          "rarity": "1/160.6",
+          "rarity": "1/165.5",
           "quantity": "1"
-        },
-        {
-          "name": "Coins",
-          "rarity": "10/128",
-          "quantity": "13"
         },
         {
           "name": "Coins",
@@ -603,13 +598,18 @@
         },
         {
           "name": "Pure essence",
-          "rarity": "22/128",
+          "rarity": "21/128",
           "quantity": "13 (noted)"
         },
         {
-          "name": "Fishing bait",
-          "rarity": "22/128",
-          "quantity": "15"
+          "name": "Energy potion(4)",
+          "rarity": "21/128",
+          "quantity": "2 (noted)"
+        },
+        {
+          "name": "Energy potion(2)",
+          "rarity": "10/128",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -625,16 +625,6 @@
           "name": "Eye of newt",
           "rarity": "1/128",
           "quantity": "1"
-        },
-        {
-          "name": "Energy potion(2)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(4)",
-          "rarity": "Unknown",
-          "quantity": "2 (noted)"
         },
         {
           "name": "Clue scroll (easy)",
@@ -1080,14 +1070,14 @@
           "quantity": "1"
         },
         {
-          "name": "Body rune",
-          "rarity": "5/128",
-          "quantity": "7"
-        },
-        {
           "name": "Water rune",
           "rarity": "6/128",
           "quantity": "6"
+        },
+        {
+          "name": "Body rune",
+          "rarity": "5/128",
+          "quantity": "7"
         },
         {
           "name": "Earth rune",
@@ -1102,16 +1092,6 @@
         {
           "name": "Coins",
           "rarity": "28/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "9"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
           "quantity": "15"
         },
         {
@@ -1125,33 +1105,8 @@
           "quantity": "1"
         },
         {
-          "name": "Energy potion(1)",
-          "rarity": "Common",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(2)",
-          "rarity": "Common",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(4)",
-          "rarity": "Common",
-          "quantity": "1"
-        },
-        {
           "name": "Hammer",
           "rarity": "15/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Goblin book",
-          "rarity": "2/128",
           "quantity": "1"
         },
         {
@@ -1162,6 +1117,21 @@
         {
           "name": "Chef's hat",
           "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Goblin book",
+          "rarity": "2/128",
           "quantity": "1"
         },
         {
@@ -1317,12 +1287,7 @@
         {
           "name": "Coins",
           "rarity": "34/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Coins",
-          "rarity": "13/128",
-          "quantity": "3"
+          "quantity": "8"
         },
         {
           "name": "Coins",
@@ -1345,13 +1310,13 @@
           "quantity": "10"
         },
         {
-          "name": "Energy potion(1)",
-          "rarity": "Common",
+          "name": "Energy potion(2)",
+          "rarity": "13/128",
           "quantity": "1"
         },
         {
-          "name": "Energy potion(2)",
-          "rarity": "Common",
+          "name": "Goblin mail",
+          "rarity": "10/128",
           "quantity": "1"
         },
         {
@@ -1362,11 +1327,6 @@
         {
           "name": "Goblin book",
           "rarity": "2/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Goblin mail",
-          "rarity": "10/128",
           "quantity": "1"
         },
         {
@@ -1468,14 +1428,14 @@
           "quantity": "1"
         },
         {
-          "name": "Body rune",
-          "rarity": "5/128",
-          "quantity": "7"
-        },
-        {
           "name": "Water rune",
           "rarity": "6/128",
           "quantity": "6"
+        },
+        {
+          "name": "Body rune",
+          "rarity": "5/128",
+          "quantity": "7"
         },
         {
           "name": "Earth rune",
@@ -1490,16 +1450,6 @@
         {
           "name": "Coins",
           "rarity": "28/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "9"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
           "quantity": "15"
         },
         {
@@ -1513,33 +1463,8 @@
           "quantity": "1"
         },
         {
-          "name": "Energy potion(1)",
-          "rarity": "Common",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(2)",
-          "rarity": "Common",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(4)",
-          "rarity": "Common",
-          "quantity": "1"
-        },
-        {
           "name": "Hammer",
           "rarity": "15/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Goblin book",
-          "rarity": "2/128",
           "quantity": "1"
         },
         {
@@ -1550,6 +1475,21 @@
         {
           "name": "Chef's hat",
           "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Goblin book",
+          "rarity": "2/128",
           "quantity": "1"
         },
         {
@@ -1705,12 +1645,7 @@
         {
           "name": "Coins",
           "rarity": "34/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Coins",
-          "rarity": "13/128",
-          "quantity": "3"
+          "quantity": "8"
         },
         {
           "name": "Coins",
@@ -1733,13 +1668,13 @@
           "quantity": "10"
         },
         {
-          "name": "Energy potion(1)",
-          "rarity": "Common",
+          "name": "Energy potion(2)",
+          "rarity": "13/128",
           "quantity": "1"
         },
         {
-          "name": "Energy potion(2)",
-          "rarity": "Common",
+          "name": "Goblin mail",
+          "rarity": "10/128",
           "quantity": "1"
         },
         {
@@ -1750,11 +1685,6 @@
         {
           "name": "Goblin book",
           "rarity": "2/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Goblin mail",
-          "rarity": "10/128",
           "quantity": "1"
         },
         {
@@ -1827,14 +1757,14 @@
           "quantity": "1"
         },
         {
-          "name": "Body rune",
-          "rarity": "5/128",
-          "quantity": "7"
-        },
-        {
           "name": "Water rune",
           "rarity": "6/128",
           "quantity": "6"
+        },
+        {
+          "name": "Body rune",
+          "rarity": "5/128",
+          "quantity": "7"
         },
         {
           "name": "Earth rune",
@@ -1849,16 +1779,6 @@
         {
           "name": "Coins",
           "rarity": "28/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "9"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
           "quantity": "15"
         },
         {
@@ -1872,33 +1792,8 @@
           "quantity": "1"
         },
         {
-          "name": "Energy potion(1)",
-          "rarity": "Common",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(2)",
-          "rarity": "Common",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(4)",
-          "rarity": "Common",
-          "quantity": "1"
-        },
-        {
           "name": "Hammer",
           "rarity": "15/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Goblin book",
-          "rarity": "2/128",
           "quantity": "1"
         },
         {
@@ -1909,6 +1804,21 @@
         {
           "name": "Chef's hat",
           "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Goblin book",
+          "rarity": "2/128",
           "quantity": "1"
         },
         {
@@ -2064,12 +1974,7 @@
         {
           "name": "Coins",
           "rarity": "34/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Coins",
-          "rarity": "13/128",
-          "quantity": "3"
+          "quantity": "8"
         },
         {
           "name": "Coins",
@@ -2092,13 +1997,13 @@
           "quantity": "10"
         },
         {
-          "name": "Energy potion(1)",
-          "rarity": "Common",
+          "name": "Energy potion(2)",
+          "rarity": "13/128",
           "quantity": "1"
         },
         {
-          "name": "Energy potion(2)",
-          "rarity": "Common",
+          "name": "Goblin mail",
+          "rarity": "10/128",
           "quantity": "1"
         },
         {
@@ -2109,11 +2014,6 @@
         {
           "name": "Goblin book",
           "rarity": "2/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Goblin mail",
-          "rarity": "10/128",
           "quantity": "1"
         },
         {
@@ -2192,14 +2092,14 @@
           "quantity": "1"
         },
         {
-          "name": "Body rune",
-          "rarity": "5/128",
-          "quantity": "7"
-        },
-        {
           "name": "Water rune",
           "rarity": "6/128",
           "quantity": "6"
+        },
+        {
+          "name": "Body rune",
+          "rarity": "5/128",
+          "quantity": "7"
         },
         {
           "name": "Earth rune",
@@ -2214,16 +2114,6 @@
         {
           "name": "Coins",
           "rarity": "28/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "9"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
           "quantity": "15"
         },
         {
@@ -2237,33 +2127,8 @@
           "quantity": "1"
         },
         {
-          "name": "Energy potion(1)",
-          "rarity": "Common",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(2)",
-          "rarity": "Common",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(4)",
-          "rarity": "Common",
-          "quantity": "1"
-        },
-        {
           "name": "Hammer",
           "rarity": "15/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Goblin book",
-          "rarity": "2/128",
           "quantity": "1"
         },
         {
@@ -2274,6 +2139,21 @@
         {
           "name": "Chef's hat",
           "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Goblin book",
+          "rarity": "2/128",
           "quantity": "1"
         },
         {
@@ -2429,12 +2309,7 @@
         {
           "name": "Coins",
           "rarity": "34/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Coins",
-          "rarity": "13/128",
-          "quantity": "3"
+          "quantity": "8"
         },
         {
           "name": "Coins",
@@ -2457,13 +2332,13 @@
           "quantity": "10"
         },
         {
-          "name": "Energy potion(1)",
-          "rarity": "Common",
+          "name": "Energy potion(2)",
+          "rarity": "13/128",
           "quantity": "1"
         },
         {
-          "name": "Energy potion(2)",
-          "rarity": "Common",
+          "name": "Goblin mail",
+          "rarity": "10/128",
           "quantity": "1"
         },
         {
@@ -2474,11 +2349,6 @@
         {
           "name": "Goblin book",
           "rarity": "2/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Goblin mail",
-          "rarity": "10/128",
           "quantity": "1"
         },
         {
@@ -2873,22 +2743,12 @@
         },
         {
           "name": "Coins",
-          "rarity": "21/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
-          "rarity": "23/128",
+          "rarity": "24/128",
           "quantity": "8"
         },
         {
-          "name": "Energy potion(2)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
           "name": "Energy potion(4)",
-          "rarity": "Unknown",
+          "rarity": "13/128",
           "quantity": "1"
         },
         {
@@ -3018,22 +2878,12 @@
         },
         {
           "name": "Coins",
-          "rarity": "21/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
-          "rarity": "23/128",
+          "rarity": "24/128",
           "quantity": "8"
         },
         {
-          "name": "Energy potion(2)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
           "name": "Energy potion(4)",
-          "rarity": "Unknown",
+          "rarity": "13/128",
           "quantity": "1"
         },
         {
@@ -3163,22 +3013,12 @@
         },
         {
           "name": "Coins",
-          "rarity": "21/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
-          "rarity": "23/128",
+          "rarity": "24/128",
           "quantity": "8"
         },
         {
-          "name": "Energy potion(2)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
           "name": "Energy potion(4)",
-          "rarity": "Unknown",
+          "rarity": "13/128",
           "quantity": "1"
         },
         {
@@ -3308,22 +3148,12 @@
         },
         {
           "name": "Coins",
-          "rarity": "21/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
-          "rarity": "23/128",
+          "rarity": "24/128",
           "quantity": "8"
         },
         {
-          "name": "Energy potion(2)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
           "name": "Energy potion(4)",
-          "rarity": "Unknown",
+          "rarity": "13/128",
           "quantity": "1"
         },
         {
@@ -3453,22 +3283,12 @@
         },
         {
           "name": "Coins",
-          "rarity": "21/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
-          "rarity": "23/128",
+          "rarity": "24/128",
           "quantity": "8"
         },
         {
-          "name": "Energy potion(2)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
           "name": "Energy potion(4)",
-          "rarity": "Unknown",
+          "rarity": "13/128",
           "quantity": "1"
         },
         {
@@ -3598,22 +3418,12 @@
         },
         {
           "name": "Coins",
-          "rarity": "21/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
-          "rarity": "23/128",
+          "rarity": "24/128",
           "quantity": "8"
         },
         {
-          "name": "Energy potion(2)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
           "name": "Energy potion(4)",
-          "rarity": "Unknown",
+          "rarity": "13/128",
           "quantity": "1"
         },
         {
@@ -3743,22 +3553,12 @@
         },
         {
           "name": "Coins",
-          "rarity": "21/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
-          "rarity": "23/128",
+          "rarity": "24/128",
           "quantity": "8"
         },
         {
-          "name": "Energy potion(2)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
           "name": "Energy potion(4)",
-          "rarity": "Unknown",
+          "rarity": "13/128",
           "quantity": "1"
         },
         {
@@ -3888,22 +3688,12 @@
         },
         {
           "name": "Coins",
-          "rarity": "21/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
-          "rarity": "23/128",
+          "rarity": "24/128",
           "quantity": "8"
         },
         {
-          "name": "Energy potion(2)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
           "name": "Energy potion(4)",
-          "rarity": "Unknown",
+          "rarity": "13/128",
           "quantity": "1"
         },
         {
@@ -4033,22 +3823,12 @@
         },
         {
           "name": "Coins",
-          "rarity": "21/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
-          "rarity": "23/128",
+          "rarity": "24/128",
           "quantity": "8"
         },
         {
-          "name": "Energy potion(2)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
           "name": "Energy potion(4)",
-          "rarity": "Unknown",
+          "rarity": "13/128",
           "quantity": "1"
         },
         {
@@ -4178,22 +3958,12 @@
         },
         {
           "name": "Coins",
-          "rarity": "21/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
-          "rarity": "23/128",
+          "rarity": "24/128",
           "quantity": "8"
         },
         {
-          "name": "Energy potion(2)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
           "name": "Energy potion(4)",
-          "rarity": "Unknown",
+          "rarity": "13/128",
           "quantity": "1"
         },
         {
@@ -5362,6 +5132,11 @@
           "quantity": "1"
         },
         {
+          "name": "Mystic boots (light)",
+          "rarity": "1/512",
+          "quantity": "1"
+        },
+        {
           "name": "Iron sword",
           "rarity": "3/128",
           "quantity": "1"
@@ -5387,11 +5162,6 @@
           "quantity": "1"
         },
         {
-          "name": "Mystic boots (light)",
-          "rarity": "1/512",
-          "quantity": "1"
-        },
-        {
           "name": "Nature rune",
           "rarity": "6/128",
           "quantity": "2"
@@ -5402,14 +5172,14 @@
           "quantity": "4"
         },
         {
-          "name": "Nature rune",
-          "rarity": "2/128",
-          "quantity": "6"
-        },
-        {
           "name": "Law rune",
           "rarity": "3/128",
           "quantity": "2"
+        },
+        {
+          "name": "Nature rune",
+          "rarity": "2/128",
+          "quantity": "6"
         },
         {
           "name": "Water rune",
@@ -5524,11 +5294,6 @@
         {
           "name": "Coins",
           "rarity": "12/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
-          "rarity": "12/128",
           "quantity": "28"
         },
         {
@@ -5537,28 +5302,18 @@
           "quantity": "62"
         },
         {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "42"
-        },
-        {
-          "name": "Coins",
-          "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
           "name": "Limpwurt root",
           "rarity": "21/128",
           "quantity": "1"
         },
         {
           "name": "Energy potion(2)",
-          "rarity": "Unknown",
+          "rarity": "12/128",
           "quantity": "1"
         },
         {
           "name": "Energy potion(4)",
-          "rarity": "Unknown",
+          "rarity": "4/128",
           "quantity": "1"
         },
         {
@@ -17192,11 +16947,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -17204,6 +16954,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "9/128",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -17223,11 +16978,6 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -17398,11 +17148,6 @@
         {
           "name": "Watering can(8)",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -17481,11 +17226,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -17493,6 +17233,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "9/128",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -17512,11 +17257,6 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -17687,11 +17427,6 @@
         {
           "name": "Watering can(8)",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -17770,11 +17505,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -17782,6 +17512,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "9/128",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -17801,11 +17536,6 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -17976,11 +17706,6 @@
         {
           "name": "Watering can(8)",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -18059,11 +17784,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -18071,6 +17791,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "9/128",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -18090,11 +17815,6 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -18265,11 +17985,6 @@
         {
           "name": "Watering can(8)",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -18348,11 +18063,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -18360,6 +18070,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "9/128",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -18379,11 +18094,6 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -18554,11 +18264,6 @@
         {
           "name": "Watering can(8)",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -18637,11 +18342,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -18649,6 +18349,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "9/128",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -18668,11 +18373,6 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -18843,11 +18543,6 @@
         {
           "name": "Watering can(8)",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -18926,11 +18621,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -18938,6 +18628,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "9/128",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -18957,11 +18652,6 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -19132,11 +18822,6 @@
         {
           "name": "Watering can(8)",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -19367,18 +19052,8 @@
         },
         {
           "name": "Coins",
-          "rarity": "16/128",
-          "quantity": "2"
-        },
-        {
-          "name": "Coins",
           "rarity": "7/128",
           "quantity": "4"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "29"
         },
         {
           "name": "Coins",
@@ -19397,17 +19072,12 @@
         },
         {
           "name": "Energy potion(2)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
+          "rarity": "16/128",
           "quantity": "1"
         },
         {
           "name": "Energy potion(4)",
-          "rarity": "Unknown",
+          "rarity": "3/128",
           "quantity": "1"
         },
         {
@@ -19537,18 +19207,8 @@
         },
         {
           "name": "Coins",
-          "rarity": "16/128",
-          "quantity": "2"
-        },
-        {
-          "name": "Coins",
           "rarity": "9/128",
           "quantity": "4"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "29"
         },
         {
           "name": "Coins",
@@ -19567,12 +19227,12 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Unknown",
+          "rarity": "16/128",
           "quantity": "1"
         },
         {
           "name": "Energy potion(4)",
-          "rarity": "Unknown",
+          "rarity": "3/128",
           "quantity": "1"
         },
         {
@@ -19716,18 +19376,8 @@
         },
         {
           "name": "Coins",
-          "rarity": "16/128",
-          "quantity": "2"
-        },
-        {
-          "name": "Coins",
           "rarity": "7/128",
           "quantity": "4"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "29"
         },
         {
           "name": "Coins",
@@ -19746,17 +19396,12 @@
         },
         {
           "name": "Energy potion(2)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
+          "rarity": "16/128",
           "quantity": "1"
         },
         {
           "name": "Energy potion(4)",
-          "rarity": "Unknown",
+          "rarity": "3/128",
           "quantity": "1"
         },
         {
@@ -19886,18 +19531,8 @@
         },
         {
           "name": "Coins",
-          "rarity": "16/128",
-          "quantity": "2"
-        },
-        {
-          "name": "Coins",
           "rarity": "9/128",
           "quantity": "4"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "29"
         },
         {
           "name": "Coins",
@@ -19916,12 +19551,12 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Unknown",
+          "rarity": "16/128",
           "quantity": "1"
         },
         {
           "name": "Energy potion(4)",
-          "rarity": "Unknown",
+          "rarity": "3/128",
           "quantity": "1"
         },
         {
@@ -20067,18 +19702,8 @@
         },
         {
           "name": "Coins",
-          "rarity": "16/128",
-          "quantity": "2"
-        },
-        {
-          "name": "Coins",
           "rarity": "7/128",
           "quantity": "4"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "29"
         },
         {
           "name": "Coins",
@@ -20097,17 +19722,12 @@
         },
         {
           "name": "Energy potion(2)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
+          "rarity": "16/128",
           "quantity": "1"
         },
         {
           "name": "Energy potion(4)",
-          "rarity": "Unknown",
+          "rarity": "3/128",
           "quantity": "1"
         },
         {
@@ -20237,18 +19857,8 @@
         },
         {
           "name": "Coins",
-          "rarity": "16/128",
-          "quantity": "2"
-        },
-        {
-          "name": "Coins",
           "rarity": "9/128",
           "quantity": "4"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "29"
         },
         {
           "name": "Coins",
@@ -20267,12 +19877,12 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Unknown",
+          "rarity": "16/128",
           "quantity": "1"
         },
         {
           "name": "Energy potion(4)",
-          "rarity": "Unknown",
+          "rarity": "3/128",
           "quantity": "1"
         },
         {
@@ -20418,18 +20028,8 @@
         },
         {
           "name": "Coins",
-          "rarity": "16/128",
-          "quantity": "2"
-        },
-        {
-          "name": "Coins",
           "rarity": "7/128",
           "quantity": "4"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "29"
         },
         {
           "name": "Coins",
@@ -20448,17 +20048,12 @@
         },
         {
           "name": "Energy potion(2)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
+          "rarity": "16/128",
           "quantity": "1"
         },
         {
           "name": "Energy potion(4)",
-          "rarity": "Unknown",
+          "rarity": "3/128",
           "quantity": "1"
         },
         {
@@ -20588,18 +20183,8 @@
         },
         {
           "name": "Coins",
-          "rarity": "16/128",
-          "quantity": "2"
-        },
-        {
-          "name": "Coins",
           "rarity": "9/128",
           "quantity": "4"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "29"
         },
         {
           "name": "Coins",
@@ -20618,12 +20203,12 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Unknown",
+          "rarity": "16/128",
           "quantity": "1"
         },
         {
           "name": "Energy potion(4)",
-          "rarity": "Unknown",
+          "rarity": "3/128",
           "quantity": "1"
         },
         {
@@ -20768,18 +20353,8 @@
         },
         {
           "name": "Coins",
-          "rarity": "16/128",
-          "quantity": "2"
-        },
-        {
-          "name": "Coins",
           "rarity": "7/128",
           "quantity": "4"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "29"
         },
         {
           "name": "Coins",
@@ -20798,17 +20373,12 @@
         },
         {
           "name": "Energy potion(2)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
+          "rarity": "16/128",
           "quantity": "1"
         },
         {
           "name": "Energy potion(4)",
-          "rarity": "Unknown",
+          "rarity": "3/128",
           "quantity": "1"
         },
         {
@@ -20938,18 +20508,8 @@
         },
         {
           "name": "Coins",
-          "rarity": "16/128",
-          "quantity": "2"
-        },
-        {
-          "name": "Coins",
           "rarity": "9/128",
           "quantity": "4"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "29"
         },
         {
           "name": "Coins",
@@ -20968,12 +20528,12 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Unknown",
+          "rarity": "16/128",
           "quantity": "1"
         },
         {
           "name": "Energy potion(4)",
-          "rarity": "Unknown",
+          "rarity": "3/128",
           "quantity": "1"
         },
         {
@@ -40292,7 +39852,7 @@
         {
           "name": "Nature rune",
           "rarity": "6/128",
-          "quantity": "3–4"
+          "quantity": "3"
         },
         {
           "name": "Fire rune",
@@ -40346,68 +39906,58 @@
         },
         {
           "name": "Grimy guam leaf",
-          "rarity": "1/23.3",
+          "rarity": "1/22.3",
           "quantity": "1"
         },
         {
           "name": "Grimy marrentill",
-          "rarity": "1/31",
+          "rarity": "1/29.7",
           "quantity": "1"
         },
         {
           "name": "Grimy tarromin",
-          "rarity": "1/41.4",
+          "rarity": "1/39.6",
           "quantity": "1"
         },
         {
           "name": "Grimy harralander",
-          "rarity": "1/53.2",
+          "rarity": "1/50.9",
           "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "1/67.7",
+          "rarity": "1/64.8",
           "quantity": "1"
         },
         {
           "name": "Grimy irit leaf",
-          "rarity": "1/93.1",
+          "rarity": "1/89",
           "quantity": "1"
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "1/124.1",
+          "rarity": "1/118.7",
           "quantity": "1"
         },
         {
           "name": "Grimy kwuarm",
-          "rarity": "1/148.9",
+          "rarity": "1/142.5",
           "quantity": "1"
         },
         {
           "name": "Grimy cadantine",
-          "rarity": "1/186.2",
+          "rarity": "1/178.1",
           "quantity": "1"
         },
         {
           "name": "Grimy lantadyme",
-          "rarity": "1/248.2",
+          "rarity": "1/237.4",
           "quantity": "1"
         },
         {
           "name": "Grimy dwarf weed",
-          "rarity": "1/248.2",
+          "rarity": "1/237.4",
           "quantity": "1"
-        },
-        {
-          "name": "Coins",
-          "rarity": "5/128",
-          "quantity": "3"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "8"
         },
         {
           "name": "Coins",
@@ -40420,13 +39970,23 @@
           "quantity": "10"
         },
         {
-          "name": "Vial of water",
+          "name": "Energy potion(3)",
           "rarity": "13/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "5/128",
           "quantity": "1"
         },
         {
           "name": "White berries",
           "rarity": "5/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Vial of water",
+          "rarity": "3/128",
           "quantity": "1"
         },
         {
@@ -40455,18 +40015,8 @@
           "quantity": "1"
         },
         {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(4)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
           "name": "Frozen tear",
-          "rarity": "Unknown",
+          "rarity": "1/134",
           "quantity": "5"
         },
         {
@@ -40557,7 +40107,7 @@
         {
           "name": "Nature rune",
           "rarity": "6/128",
-          "quantity": "3–4"
+          "quantity": "3"
         },
         {
           "name": "Fire rune",
@@ -40611,68 +40161,58 @@
         },
         {
           "name": "Grimy guam leaf",
-          "rarity": "1/23.3",
+          "rarity": "1/22.3",
           "quantity": "1"
         },
         {
           "name": "Grimy marrentill",
-          "rarity": "1/31",
+          "rarity": "1/29.7",
           "quantity": "1"
         },
         {
           "name": "Grimy tarromin",
-          "rarity": "1/41.4",
+          "rarity": "1/39.6",
           "quantity": "1"
         },
         {
           "name": "Grimy harralander",
-          "rarity": "1/53.2",
+          "rarity": "1/50.9",
           "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "1/67.7",
+          "rarity": "1/64.8",
           "quantity": "1"
         },
         {
           "name": "Grimy irit leaf",
-          "rarity": "1/93.1",
+          "rarity": "1/89",
           "quantity": "1"
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "1/124.1",
+          "rarity": "1/118.7",
           "quantity": "1"
         },
         {
           "name": "Grimy kwuarm",
-          "rarity": "1/148.9",
+          "rarity": "1/142.5",
           "quantity": "1"
         },
         {
           "name": "Grimy cadantine",
-          "rarity": "1/186.2",
+          "rarity": "1/178.1",
           "quantity": "1"
         },
         {
           "name": "Grimy lantadyme",
-          "rarity": "1/248.2",
+          "rarity": "1/237.4",
           "quantity": "1"
         },
         {
           "name": "Grimy dwarf weed",
-          "rarity": "1/248.2",
+          "rarity": "1/237.4",
           "quantity": "1"
-        },
-        {
-          "name": "Coins",
-          "rarity": "5/128",
-          "quantity": "3"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "8"
         },
         {
           "name": "Coins",
@@ -40685,13 +40225,23 @@
           "quantity": "10"
         },
         {
-          "name": "Vial of water",
+          "name": "Energy potion(3)",
           "rarity": "13/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "5/128",
           "quantity": "1"
         },
         {
           "name": "White berries",
           "rarity": "5/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Vial of water",
+          "rarity": "3/128",
           "quantity": "1"
         },
         {
@@ -40720,18 +40270,8 @@
           "quantity": "1"
         },
         {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(4)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
           "name": "Frozen tear",
-          "rarity": "Unknown",
+          "rarity": "1/134",
           "quantity": "5"
         },
         {
@@ -40822,7 +40362,7 @@
         {
           "name": "Nature rune",
           "rarity": "6/128",
-          "quantity": "3–4"
+          "quantity": "3"
         },
         {
           "name": "Fire rune",
@@ -40876,68 +40416,58 @@
         },
         {
           "name": "Grimy guam leaf",
-          "rarity": "1/23.3",
+          "rarity": "1/22.3",
           "quantity": "1"
         },
         {
           "name": "Grimy marrentill",
-          "rarity": "1/31",
+          "rarity": "1/29.7",
           "quantity": "1"
         },
         {
           "name": "Grimy tarromin",
-          "rarity": "1/41.4",
+          "rarity": "1/39.6",
           "quantity": "1"
         },
         {
           "name": "Grimy harralander",
-          "rarity": "1/53.2",
+          "rarity": "1/50.9",
           "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "1/67.7",
+          "rarity": "1/64.8",
           "quantity": "1"
         },
         {
           "name": "Grimy irit leaf",
-          "rarity": "1/93.1",
+          "rarity": "1/89",
           "quantity": "1"
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "1/124.1",
+          "rarity": "1/118.7",
           "quantity": "1"
         },
         {
           "name": "Grimy kwuarm",
-          "rarity": "1/148.9",
+          "rarity": "1/142.5",
           "quantity": "1"
         },
         {
           "name": "Grimy cadantine",
-          "rarity": "1/186.2",
+          "rarity": "1/178.1",
           "quantity": "1"
         },
         {
           "name": "Grimy lantadyme",
-          "rarity": "1/248.2",
+          "rarity": "1/237.4",
           "quantity": "1"
         },
         {
           "name": "Grimy dwarf weed",
-          "rarity": "1/248.2",
+          "rarity": "1/237.4",
           "quantity": "1"
-        },
-        {
-          "name": "Coins",
-          "rarity": "5/128",
-          "quantity": "3"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "8"
         },
         {
           "name": "Coins",
@@ -40950,13 +40480,23 @@
           "quantity": "10"
         },
         {
-          "name": "Vial of water",
+          "name": "Energy potion(3)",
           "rarity": "13/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "5/128",
           "quantity": "1"
         },
         {
           "name": "White berries",
           "rarity": "5/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Vial of water",
+          "rarity": "3/128",
           "quantity": "1"
         },
         {
@@ -40985,18 +40525,8 @@
           "quantity": "1"
         },
         {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(4)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
           "name": "Frozen tear",
-          "rarity": "Unknown",
+          "rarity": "1/134",
           "quantity": "5"
         },
         {
@@ -41087,7 +40617,7 @@
         {
           "name": "Nature rune",
           "rarity": "6/128",
-          "quantity": "3–4"
+          "quantity": "3"
         },
         {
           "name": "Fire rune",
@@ -41141,68 +40671,58 @@
         },
         {
           "name": "Grimy guam leaf",
-          "rarity": "1/23.3",
+          "rarity": "1/22.3",
           "quantity": "1"
         },
         {
           "name": "Grimy marrentill",
-          "rarity": "1/31",
+          "rarity": "1/29.7",
           "quantity": "1"
         },
         {
           "name": "Grimy tarromin",
-          "rarity": "1/41.4",
+          "rarity": "1/39.6",
           "quantity": "1"
         },
         {
           "name": "Grimy harralander",
-          "rarity": "1/53.2",
+          "rarity": "1/50.9",
           "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "1/67.7",
+          "rarity": "1/64.8",
           "quantity": "1"
         },
         {
           "name": "Grimy irit leaf",
-          "rarity": "1/93.1",
+          "rarity": "1/89",
           "quantity": "1"
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "1/124.1",
+          "rarity": "1/118.7",
           "quantity": "1"
         },
         {
           "name": "Grimy kwuarm",
-          "rarity": "1/148.9",
+          "rarity": "1/142.5",
           "quantity": "1"
         },
         {
           "name": "Grimy cadantine",
-          "rarity": "1/186.2",
+          "rarity": "1/178.1",
           "quantity": "1"
         },
         {
           "name": "Grimy lantadyme",
-          "rarity": "1/248.2",
+          "rarity": "1/237.4",
           "quantity": "1"
         },
         {
           "name": "Grimy dwarf weed",
-          "rarity": "1/248.2",
+          "rarity": "1/237.4",
           "quantity": "1"
-        },
-        {
-          "name": "Coins",
-          "rarity": "5/128",
-          "quantity": "3"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "8"
         },
         {
           "name": "Coins",
@@ -41215,13 +40735,23 @@
           "quantity": "10"
         },
         {
-          "name": "Vial of water",
+          "name": "Energy potion(3)",
           "rarity": "13/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "5/128",
           "quantity": "1"
         },
         {
           "name": "White berries",
           "rarity": "5/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Vial of water",
+          "rarity": "3/128",
           "quantity": "1"
         },
         {
@@ -41250,18 +40780,8 @@
           "quantity": "1"
         },
         {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(4)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
           "name": "Frozen tear",
-          "rarity": "Unknown",
+          "rarity": "1/134",
           "quantity": "5"
         },
         {
@@ -41352,7 +40872,7 @@
         {
           "name": "Nature rune",
           "rarity": "6/128",
-          "quantity": "3–4"
+          "quantity": "3"
         },
         {
           "name": "Fire rune",
@@ -41406,68 +40926,58 @@
         },
         {
           "name": "Grimy guam leaf",
-          "rarity": "1/23.3",
+          "rarity": "1/22.3",
           "quantity": "1"
         },
         {
           "name": "Grimy marrentill",
-          "rarity": "1/31",
+          "rarity": "1/29.7",
           "quantity": "1"
         },
         {
           "name": "Grimy tarromin",
-          "rarity": "1/41.4",
+          "rarity": "1/39.6",
           "quantity": "1"
         },
         {
           "name": "Grimy harralander",
-          "rarity": "1/53.2",
+          "rarity": "1/50.9",
           "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "1/67.7",
+          "rarity": "1/64.8",
           "quantity": "1"
         },
         {
           "name": "Grimy irit leaf",
-          "rarity": "1/93.1",
+          "rarity": "1/89",
           "quantity": "1"
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "1/124.1",
+          "rarity": "1/118.7",
           "quantity": "1"
         },
         {
           "name": "Grimy kwuarm",
-          "rarity": "1/148.9",
+          "rarity": "1/142.5",
           "quantity": "1"
         },
         {
           "name": "Grimy cadantine",
-          "rarity": "1/186.2",
+          "rarity": "1/178.1",
           "quantity": "1"
         },
         {
           "name": "Grimy lantadyme",
-          "rarity": "1/248.2",
+          "rarity": "1/237.4",
           "quantity": "1"
         },
         {
           "name": "Grimy dwarf weed",
-          "rarity": "1/248.2",
+          "rarity": "1/237.4",
           "quantity": "1"
-        },
-        {
-          "name": "Coins",
-          "rarity": "5/128",
-          "quantity": "3"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "8"
         },
         {
           "name": "Coins",
@@ -41480,13 +40990,23 @@
           "quantity": "10"
         },
         {
-          "name": "Vial of water",
+          "name": "Energy potion(3)",
           "rarity": "13/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "5/128",
           "quantity": "1"
         },
         {
           "name": "White berries",
           "rarity": "5/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Vial of water",
+          "rarity": "3/128",
           "quantity": "1"
         },
         {
@@ -41515,18 +41035,8 @@
           "quantity": "1"
         },
         {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(4)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
           "name": "Frozen tear",
-          "rarity": "Unknown",
+          "rarity": "1/134",
           "quantity": "5"
         },
         {
@@ -41617,7 +41127,7 @@
         {
           "name": "Nature rune",
           "rarity": "6/128",
-          "quantity": "3–4"
+          "quantity": "3"
         },
         {
           "name": "Fire rune",
@@ -41671,68 +41181,58 @@
         },
         {
           "name": "Grimy guam leaf",
-          "rarity": "1/23.3",
+          "rarity": "1/22.3",
           "quantity": "1"
         },
         {
           "name": "Grimy marrentill",
-          "rarity": "1/31",
+          "rarity": "1/29.7",
           "quantity": "1"
         },
         {
           "name": "Grimy tarromin",
-          "rarity": "1/41.4",
+          "rarity": "1/39.6",
           "quantity": "1"
         },
         {
           "name": "Grimy harralander",
-          "rarity": "1/53.2",
+          "rarity": "1/50.9",
           "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "1/67.7",
+          "rarity": "1/64.8",
           "quantity": "1"
         },
         {
           "name": "Grimy irit leaf",
-          "rarity": "1/93.1",
+          "rarity": "1/89",
           "quantity": "1"
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "1/124.1",
+          "rarity": "1/118.7",
           "quantity": "1"
         },
         {
           "name": "Grimy kwuarm",
-          "rarity": "1/148.9",
+          "rarity": "1/142.5",
           "quantity": "1"
         },
         {
           "name": "Grimy cadantine",
-          "rarity": "1/186.2",
+          "rarity": "1/178.1",
           "quantity": "1"
         },
         {
           "name": "Grimy lantadyme",
-          "rarity": "1/248.2",
+          "rarity": "1/237.4",
           "quantity": "1"
         },
         {
           "name": "Grimy dwarf weed",
-          "rarity": "1/248.2",
+          "rarity": "1/237.4",
           "quantity": "1"
-        },
-        {
-          "name": "Coins",
-          "rarity": "5/128",
-          "quantity": "3"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "8"
         },
         {
           "name": "Coins",
@@ -41745,13 +41245,23 @@
           "quantity": "10"
         },
         {
-          "name": "Vial of water",
+          "name": "Energy potion(3)",
           "rarity": "13/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "5/128",
           "quantity": "1"
         },
         {
           "name": "White berries",
           "rarity": "5/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Vial of water",
+          "rarity": "3/128",
           "quantity": "1"
         },
         {
@@ -41780,18 +41290,8 @@
           "quantity": "1"
         },
         {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(4)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
           "name": "Frozen tear",
-          "rarity": "Unknown",
+          "rarity": "1/134",
           "quantity": "5"
         },
         {
@@ -42650,11 +42150,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -42665,7 +42160,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Common",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -42835,11 +42330,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -42850,7 +42340,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Common",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -43020,11 +42510,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -43035,7 +42520,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Common",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -43204,11 +42689,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -43219,7 +42699,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Common",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -43389,11 +42869,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -43404,7 +42879,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Common",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -43573,11 +43048,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -43588,7 +43058,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Common",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -43757,11 +43227,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -43772,7 +43237,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Common",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -43941,11 +43406,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -43956,7 +43416,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Common",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -44125,11 +43585,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -44140,7 +43595,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Common",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -44309,11 +43764,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -44324,7 +43774,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Common",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -44493,11 +43943,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -44508,7 +43953,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Common",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -44677,11 +44122,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -44692,7 +44132,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Common",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -44861,11 +44301,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -44876,7 +44311,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Common",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -56961,8 +56396,13 @@
           "quantity": "2"
         },
         {
-          "name": "Coal",
-          "rarity": "13/128",
+          "name": "Iron ore",
+          "rarity": "22/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Tin ore",
+          "rarity": "4/128",
           "quantity": "1"
         },
         {
@@ -56971,23 +56411,13 @@
           "quantity": "1"
         },
         {
-          "name": "Iron ore",
-          "rarity": "22/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Silver bar",
-          "rarity": "2/128",
-          "quantity": "1"
-        },
-        {
           "name": "Silver ore",
           "rarity": "3/128",
           "quantity": "1"
         },
         {
-          "name": "Tin ore",
-          "rarity": "4/128",
+          "name": "Silver bar",
+          "rarity": "2/128",
           "quantity": "1"
         },
         {
@@ -57001,19 +56431,14 @@
           "quantity": "1"
         },
         {
-          "name": "Waterskin(0)",
+          "name": "Energy potion(2)",
           "rarity": "13/128",
-          "quantity": "2"
+          "quantity": "6 (noted)"
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Unknown",
+          "rarity": "13/128",
           "quantity": "1"
-        },
-        {
-          "name": "Energy potion(2)",
-          "rarity": "Unknown",
-          "quantity": "6 (noted)"
         }
       ],
       "rare_drop_table": [
@@ -57206,8 +56631,13 @@
           "quantity": "2"
         },
         {
-          "name": "Coal",
-          "rarity": "13/128",
+          "name": "Iron ore",
+          "rarity": "22/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Tin ore",
+          "rarity": "4/128",
           "quantity": "1"
         },
         {
@@ -57216,23 +56646,13 @@
           "quantity": "1"
         },
         {
-          "name": "Iron ore",
-          "rarity": "22/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Silver bar",
-          "rarity": "2/128",
-          "quantity": "1"
-        },
-        {
           "name": "Silver ore",
           "rarity": "3/128",
           "quantity": "1"
         },
         {
-          "name": "Tin ore",
-          "rarity": "4/128",
+          "name": "Silver bar",
+          "rarity": "2/128",
           "quantity": "1"
         },
         {
@@ -57246,19 +56666,14 @@
           "quantity": "1"
         },
         {
-          "name": "Waterskin(0)",
+          "name": "Energy potion(2)",
           "rarity": "13/128",
-          "quantity": "2"
+          "quantity": "6 (noted)"
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Unknown",
+          "rarity": "13/128",
           "quantity": "1"
-        },
-        {
-          "name": "Energy potion(2)",
-          "rarity": "Unknown",
-          "quantity": "6 (noted)"
         }
       ],
       "rare_drop_table": [
@@ -57452,8 +56867,13 @@
           "quantity": "2"
         },
         {
-          "name": "Coal",
-          "rarity": "13/128",
+          "name": "Iron ore",
+          "rarity": "22/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Tin ore",
+          "rarity": "4/128",
           "quantity": "1"
         },
         {
@@ -57462,23 +56882,13 @@
           "quantity": "1"
         },
         {
-          "name": "Iron ore",
-          "rarity": "22/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Silver bar",
-          "rarity": "2/128",
-          "quantity": "1"
-        },
-        {
           "name": "Silver ore",
           "rarity": "3/128",
           "quantity": "1"
         },
         {
-          "name": "Tin ore",
-          "rarity": "4/128",
+          "name": "Silver bar",
+          "rarity": "2/128",
           "quantity": "1"
         },
         {
@@ -57492,19 +56902,14 @@
           "quantity": "1"
         },
         {
-          "name": "Waterskin(0)",
+          "name": "Energy potion(2)",
           "rarity": "13/128",
-          "quantity": "2"
+          "quantity": "6 (noted)"
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Unknown",
+          "rarity": "13/128",
           "quantity": "1"
-        },
-        {
-          "name": "Energy potion(2)",
-          "rarity": "Unknown",
-          "quantity": "6 (noted)"
         }
       ],
       "rare_drop_table": [
@@ -104007,8 +103412,13 @@
           "quantity": "2"
         },
         {
-          "name": "Coal",
-          "rarity": "13/128",
+          "name": "Iron ore",
+          "rarity": "22/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Tin ore",
+          "rarity": "4/128",
           "quantity": "1"
         },
         {
@@ -104017,23 +103427,13 @@
           "quantity": "1"
         },
         {
-          "name": "Iron ore",
-          "rarity": "22/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Silver bar",
-          "rarity": "2/128",
-          "quantity": "1"
-        },
-        {
           "name": "Silver ore",
           "rarity": "3/128",
           "quantity": "1"
         },
         {
-          "name": "Tin ore",
-          "rarity": "4/128",
+          "name": "Silver bar",
+          "rarity": "2/128",
           "quantity": "1"
         },
         {
@@ -104047,19 +103447,14 @@
           "quantity": "1"
         },
         {
-          "name": "Waterskin(0)",
+          "name": "Energy potion(2)",
           "rarity": "13/128",
-          "quantity": "2"
+          "quantity": "6 (noted)"
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Unknown",
+          "rarity": "13/128",
           "quantity": "1"
-        },
-        {
-          "name": "Energy potion(2)",
-          "rarity": "Unknown",
-          "quantity": "6 (noted)"
         }
       ],
       "rare_drop_table": [
@@ -104253,8 +103648,13 @@
           "quantity": "2"
         },
         {
-          "name": "Coal",
-          "rarity": "13/128",
+          "name": "Iron ore",
+          "rarity": "22/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Tin ore",
+          "rarity": "4/128",
           "quantity": "1"
         },
         {
@@ -104263,23 +103663,13 @@
           "quantity": "1"
         },
         {
-          "name": "Iron ore",
-          "rarity": "22/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Silver bar",
-          "rarity": "2/128",
-          "quantity": "1"
-        },
-        {
           "name": "Silver ore",
           "rarity": "3/128",
           "quantity": "1"
         },
         {
-          "name": "Tin ore",
-          "rarity": "4/128",
+          "name": "Silver bar",
+          "rarity": "2/128",
           "quantity": "1"
         },
         {
@@ -104293,19 +103683,14 @@
           "quantity": "1"
         },
         {
-          "name": "Waterskin(0)",
+          "name": "Energy potion(2)",
           "rarity": "13/128",
-          "quantity": "2"
+          "quantity": "6 (noted)"
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Unknown",
+          "rarity": "13/128",
           "quantity": "1"
-        },
-        {
-          "name": "Energy potion(2)",
-          "rarity": "Unknown",
-          "quantity": "6 (noted)"
         }
       ],
       "rare_drop_table": [
@@ -118059,11 +117444,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -118071,6 +117451,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "9/128",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -118090,11 +117475,6 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -123263,179 +122643,169 @@
           "quantity": "1"
         },
         {
-          "name": "Staff of fire",
-          "rarity": "2/140",
-          "quantity": "1"
-        },
-        {
-          "name": "Staff of air",
-          "rarity": "2/140",
-          "quantity": "1"
-        },
-        {
-          "name": "Fire battlestaff",
-          "rarity": "1/140",
-          "quantity": "1"
-        },
-        {
-          "name": "Air battlestaff",
-          "rarity": "1/140",
-          "quantity": "1"
-        },
-        {
           "name": "Mystic fire staff",
           "rarity": "1/512",
           "quantity": "1"
         },
         {
-          "name": "Air rune",
-          "rarity": "3/140",
-          "quantity": "5"
+          "name": "Staff of fire",
+          "rarity": "2/139",
+          "quantity": "1"
         },
         {
-          "name": "Air rune",
-          "rarity": "2/140",
-          "quantity": "17"
+          "name": "Staff of air",
+          "rarity": "2/139",
+          "quantity": "1"
         },
         {
-          "name": "Fire rune",
-          "rarity": "5/140",
-          "quantity": "18"
+          "name": "Fire battlestaff",
+          "rarity": "1/139",
+          "quantity": "1"
         },
         {
-          "name": "Fire rune",
-          "rarity": "8/140",
-          "quantity": "45"
+          "name": "Air battlestaff",
+          "rarity": "1/139",
+          "quantity": "1"
         },
         {
           "name": "Nature rune",
-          "rarity": "11/140",
+          "rarity": "11/139",
           "quantity": "8"
         },
         {
-          "name": "Nature rune",
-          "rarity": "1/140",
-          "quantity": "37"
-        },
-        {
           "name": "Chaos rune",
-          "rarity": "9/140",
+          "rarity": "9/139",
           "quantity": "4"
         },
         {
+          "name": "Fire rune",
+          "rarity": "8/139",
+          "quantity": "45"
+        },
+        {
+          "name": "Fire rune",
+          "rarity": "5/139",
+          "quantity": "18"
+        },
+        {
+          "name": "Air rune",
+          "rarity": "3/139",
+          "quantity": "5"
+        },
+        {
           "name": "Death rune",
-          "rarity": "3/140",
+          "rarity": "3/139",
           "quantity": "2"
         },
         {
+          "name": "Air rune",
+          "rarity": "2/139",
+          "quantity": "17"
+        },
+        {
           "name": "Steam rune",
-          "rarity": "2/140",
+          "rarity": "2/139",
           "quantity": "2"
         },
         {
           "name": "Steel cannonball",
-          "rarity": "2/140",
+          "rarity": "2/139",
           "quantity": "3"
         },
         {
+          "name": "Nature rune",
+          "rarity": "1/139",
+          "quantity": "37"
+        },
+        {
           "name": "Grimy guam leaf",
-          "rarity": "1/16",
+          "rarity": "1/15.9",
           "quantity": "1"
         },
         {
           "name": "Grimy marrentill",
-          "rarity": "1/21.3",
+          "rarity": "1/21.2",
           "quantity": "1"
         },
         {
           "name": "Grimy tarromin",
-          "rarity": "1/28.4",
+          "rarity": "1/28.2",
           "quantity": "1"
         },
         {
           "name": "Grimy harralander",
-          "rarity": "1/36.6",
+          "rarity": "1/36.3",
           "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "1/46.5",
+          "rarity": "1/46.2",
           "quantity": "1"
         },
         {
           "name": "Grimy irit leaf",
-          "rarity": "1/64",
+          "rarity": "1/63.5",
           "quantity": "1"
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "1/85.3",
+          "rarity": "1/84.7",
           "quantity": "1"
         },
         {
           "name": "Grimy kwuarm",
-          "rarity": "1/102.4",
+          "rarity": "1/101.7",
           "quantity": "1"
         },
         {
           "name": "Grimy cadantine",
-          "rarity": "1/128",
+          "rarity": "1/127.1",
           "quantity": "1"
         },
         {
           "name": "Grimy lantadyme",
-          "rarity": "1/170.7",
+          "rarity": "1/169.4",
           "quantity": "1"
         },
         {
           "name": "Grimy dwarf weed",
-          "rarity": "1/170.7",
+          "rarity": "1/169.4",
           "quantity": "1"
         },
         {
           "name": "Coins",
-          "rarity": "23/140",
+          "rarity": "11/139",
+          "quantity": "200"
+        },
+        {
+          "name": "Coins",
+          "rarity": "3/139",
           "quantity": "11"
         },
         {
           "name": "Coins",
-          "rarity": "28/140",
-          "quantity": "44"
-        },
-        {
-          "name": "Coins",
-          "rarity": "1/140",
-          "quantity": "76"
-        },
-        {
-          "name": "Coins",
-          "rarity": "1/140",
+          "rarity": "1/139",
           "quantity": "127"
         },
         {
-          "name": "Coins",
-          "rarity": "11/140",
-          "quantity": "200"
-        },
-        {
-          "name": "Fire orb",
-          "rarity": "1/140",
-          "quantity": "2"
-        },
-        {
-          "name": "Soda ash",
-          "rarity": "1/140",
-          "quantity": "4"
-        },
-        {
           "name": "Energy potion(4)",
-          "rarity": "1/16",
+          "rarity": "29/139",
           "quantity": "1"
         },
         {
           "name": "Energy potion(4)",
-          "rarity": "1/40",
+          "rarity": "1/139",
           "quantity": "10 (noted)"
+        },
+        {
+          "name": "Fire orb",
+          "rarity": "1/139",
+          "quantity": "2"
+        },
+        {
+          "name": "Soda ash",
+          "rarity": "1/139",
+          "quantity": "4"
         },
         {
           "name": "Air diamond",
@@ -123446,57 +122816,57 @@
       "rare_drop_table": [
         {
           "name": "Uncut sapphire",
-          "rarity": "1/112",
+          "rarity": "1/111.2",
           "quantity": "1"
         },
         {
           "name": "Uncut emerald",
-          "rarity": "1/224",
+          "rarity": "1/222.4",
           "quantity": "1"
         },
         {
           "name": "Uncut ruby",
-          "rarity": "1/448",
+          "rarity": "1/444.8",
           "quantity": "1"
         },
         {
           "name": "Nature talisman",
-          "rarity": "1/1,194.67",
+          "rarity": "1/1,186.13",
           "quantity": "1"
         },
         {
           "name": "Uncut diamond",
-          "rarity": "1/1,792",
+          "rarity": "1/1,779.2",
           "quantity": "1"
         },
         {
           "name": "Rune javelin",
-          "rarity": "1/3,584",
+          "rarity": "1/3,558.4",
           "quantity": "5"
         },
         {
           "name": "Loop half of key",
-          "rarity": "1/3,584",
+          "rarity": "1/3,558.4",
           "quantity": "1"
         },
         {
           "name": "Tooth half of key",
-          "rarity": "1/3,584",
+          "rarity": "1/3,558.4",
           "quantity": "1"
         },
         {
           "name": "Rune spear",
-          "rarity": "1/57,344",
+          "rarity": "1/56,934.4",
           "quantity": "1"
         },
         {
           "name": "Shield left half",
-          "rarity": "1/114,688",
+          "rarity": "1/113,868.8",
           "quantity": "1"
         },
         {
           "name": "Dragon spear",
-          "rarity": "1/152,917.33",
+          "rarity": "1/151,825.07",
           "quantity": "1"
         }
       ]
@@ -123518,179 +122888,169 @@
           "quantity": "1"
         },
         {
-          "name": "Staff of fire",
-          "rarity": "2/140",
-          "quantity": "1"
-        },
-        {
-          "name": "Staff of air",
-          "rarity": "2/140",
-          "quantity": "1"
-        },
-        {
-          "name": "Fire battlestaff",
-          "rarity": "1/140",
-          "quantity": "1"
-        },
-        {
-          "name": "Air battlestaff",
-          "rarity": "1/140",
-          "quantity": "1"
-        },
-        {
           "name": "Mystic fire staff",
           "rarity": "1/512",
           "quantity": "1"
         },
         {
-          "name": "Air rune",
-          "rarity": "3/140",
-          "quantity": "5"
+          "name": "Staff of fire",
+          "rarity": "2/139",
+          "quantity": "1"
         },
         {
-          "name": "Air rune",
-          "rarity": "2/140",
-          "quantity": "17"
+          "name": "Staff of air",
+          "rarity": "2/139",
+          "quantity": "1"
         },
         {
-          "name": "Fire rune",
-          "rarity": "5/140",
-          "quantity": "18"
+          "name": "Fire battlestaff",
+          "rarity": "1/139",
+          "quantity": "1"
         },
         {
-          "name": "Fire rune",
-          "rarity": "8/140",
-          "quantity": "45"
+          "name": "Air battlestaff",
+          "rarity": "1/139",
+          "quantity": "1"
         },
         {
           "name": "Nature rune",
-          "rarity": "11/140",
+          "rarity": "11/139",
           "quantity": "8"
         },
         {
-          "name": "Nature rune",
-          "rarity": "1/140",
-          "quantity": "37"
-        },
-        {
           "name": "Chaos rune",
-          "rarity": "9/140",
+          "rarity": "9/139",
           "quantity": "4"
         },
         {
+          "name": "Fire rune",
+          "rarity": "8/139",
+          "quantity": "45"
+        },
+        {
+          "name": "Fire rune",
+          "rarity": "5/139",
+          "quantity": "18"
+        },
+        {
+          "name": "Air rune",
+          "rarity": "3/139",
+          "quantity": "5"
+        },
+        {
           "name": "Death rune",
-          "rarity": "3/140",
+          "rarity": "3/139",
           "quantity": "2"
         },
         {
+          "name": "Air rune",
+          "rarity": "2/139",
+          "quantity": "17"
+        },
+        {
           "name": "Steam rune",
-          "rarity": "2/140",
+          "rarity": "2/139",
           "quantity": "2"
         },
         {
           "name": "Steel cannonball",
-          "rarity": "2/140",
+          "rarity": "2/139",
           "quantity": "3"
         },
         {
+          "name": "Nature rune",
+          "rarity": "1/139",
+          "quantity": "37"
+        },
+        {
           "name": "Grimy guam leaf",
-          "rarity": "1/16",
+          "rarity": "1/15.9",
           "quantity": "1"
         },
         {
           "name": "Grimy marrentill",
-          "rarity": "1/21.3",
+          "rarity": "1/21.2",
           "quantity": "1"
         },
         {
           "name": "Grimy tarromin",
-          "rarity": "1/28.4",
+          "rarity": "1/28.2",
           "quantity": "1"
         },
         {
           "name": "Grimy harralander",
-          "rarity": "1/36.6",
+          "rarity": "1/36.3",
           "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "1/46.5",
+          "rarity": "1/46.2",
           "quantity": "1"
         },
         {
           "name": "Grimy irit leaf",
-          "rarity": "1/64",
+          "rarity": "1/63.5",
           "quantity": "1"
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "1/85.3",
+          "rarity": "1/84.7",
           "quantity": "1"
         },
         {
           "name": "Grimy kwuarm",
-          "rarity": "1/102.4",
+          "rarity": "1/101.7",
           "quantity": "1"
         },
         {
           "name": "Grimy cadantine",
-          "rarity": "1/128",
+          "rarity": "1/127.1",
           "quantity": "1"
         },
         {
           "name": "Grimy lantadyme",
-          "rarity": "1/170.7",
+          "rarity": "1/169.4",
           "quantity": "1"
         },
         {
           "name": "Grimy dwarf weed",
-          "rarity": "1/170.7",
+          "rarity": "1/169.4",
           "quantity": "1"
         },
         {
           "name": "Coins",
-          "rarity": "23/140",
+          "rarity": "11/139",
+          "quantity": "200"
+        },
+        {
+          "name": "Coins",
+          "rarity": "3/139",
           "quantity": "11"
         },
         {
           "name": "Coins",
-          "rarity": "28/140",
-          "quantity": "44"
-        },
-        {
-          "name": "Coins",
-          "rarity": "1/140",
-          "quantity": "76"
-        },
-        {
-          "name": "Coins",
-          "rarity": "1/140",
+          "rarity": "1/139",
           "quantity": "127"
         },
         {
-          "name": "Coins",
-          "rarity": "11/140",
-          "quantity": "200"
-        },
-        {
-          "name": "Fire orb",
-          "rarity": "1/140",
-          "quantity": "2"
-        },
-        {
-          "name": "Soda ash",
-          "rarity": "1/140",
-          "quantity": "4"
-        },
-        {
           "name": "Energy potion(4)",
-          "rarity": "1/16",
+          "rarity": "29/139",
           "quantity": "1"
         },
         {
           "name": "Energy potion(4)",
-          "rarity": "1/40",
+          "rarity": "1/139",
           "quantity": "10 (noted)"
+        },
+        {
+          "name": "Fire orb",
+          "rarity": "1/139",
+          "quantity": "2"
+        },
+        {
+          "name": "Soda ash",
+          "rarity": "1/139",
+          "quantity": "4"
         },
         {
           "name": "Air diamond",
@@ -123701,57 +123061,57 @@
       "rare_drop_table": [
         {
           "name": "Uncut sapphire",
-          "rarity": "1/112",
+          "rarity": "1/111.2",
           "quantity": "1"
         },
         {
           "name": "Uncut emerald",
-          "rarity": "1/224",
+          "rarity": "1/222.4",
           "quantity": "1"
         },
         {
           "name": "Uncut ruby",
-          "rarity": "1/448",
+          "rarity": "1/444.8",
           "quantity": "1"
         },
         {
           "name": "Nature talisman",
-          "rarity": "1/1,194.67",
+          "rarity": "1/1,186.13",
           "quantity": "1"
         },
         {
           "name": "Uncut diamond",
-          "rarity": "1/1,792",
+          "rarity": "1/1,779.2",
           "quantity": "1"
         },
         {
           "name": "Rune javelin",
-          "rarity": "1/3,584",
+          "rarity": "1/3,558.4",
           "quantity": "5"
         },
         {
           "name": "Loop half of key",
-          "rarity": "1/3,584",
+          "rarity": "1/3,558.4",
           "quantity": "1"
         },
         {
           "name": "Tooth half of key",
-          "rarity": "1/3,584",
+          "rarity": "1/3,558.4",
           "quantity": "1"
         },
         {
           "name": "Rune spear",
-          "rarity": "1/57,344",
+          "rarity": "1/56,934.4",
           "quantity": "1"
         },
         {
           "name": "Shield left half",
-          "rarity": "1/114,688",
+          "rarity": "1/113,868.8",
           "quantity": "1"
         },
         {
           "name": "Dragon spear",
-          "rarity": "1/152,917.33",
+          "rarity": "1/151,825.07",
           "quantity": "1"
         }
       ]
@@ -129803,11 +129163,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -129815,6 +129170,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "9/128",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -129834,11 +129194,6 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -130021,11 +129376,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -130036,7 +129386,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Common",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -130196,11 +129546,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -130211,7 +129556,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Common",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -130371,11 +129716,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -130386,7 +129726,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Common",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -130545,11 +129885,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -130560,7 +129895,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Common",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -130719,11 +130054,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -130734,7 +130064,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Common",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -130895,11 +130225,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -130910,7 +130235,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Common",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -131069,11 +130394,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -131084,7 +130404,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Common",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -153605,13 +152925,8 @@
           "quantity": "5–8"
         },
         {
-          "name": "Coins",
-          "rarity": "10/128",
-          "quantity": "1–75"
-        },
-        {
           "name": "Energy potion(3)",
-          "rarity": "Common",
+          "rarity": "10/128",
           "quantity": "1"
         },
         {
@@ -165505,11 +164820,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -165520,7 +164830,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Unknown",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -165684,11 +164994,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -165699,7 +165004,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Unknown",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -165863,11 +165168,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -165878,7 +165178,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Unknown",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -166042,11 +165342,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -166057,7 +165352,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Unknown",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -166221,11 +165516,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -166236,7 +165526,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Unknown",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -166400,11 +165690,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -166415,7 +165700,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Unknown",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -166579,11 +165864,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -166594,7 +165874,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Unknown",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -166758,11 +166038,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -166773,7 +166048,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Unknown",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -166937,11 +166212,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -166952,7 +166222,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Unknown",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -167116,11 +166386,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -167131,7 +166396,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Unknown",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -167295,11 +166560,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -167310,7 +166570,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Unknown",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -195686,6 +194946,346 @@
   {
     "name": "Giant Rock Crab",
     "id": [
+      "14424"
+    ],
+    "combat_level": 137,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Steel platebody",
+          "rarity": "5/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Black claws",
+          "rarity": "5/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Black platebody",
+          "rarity": "5/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Mithril axe",
+          "rarity": "10/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Rock-shell gloves",
+          "rarity": "2/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Rock-shell boots",
+          "rarity": "2/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Black warhammer",
+          "rarity": "5/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Adamant longsword",
+          "rarity": "5/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Water rune",
+          "rarity": "10/128",
+          "quantity": "1–40"
+        },
+        {
+          "name": "Earth rune",
+          "rarity": "10/128",
+          "quantity": "1–40"
+        },
+        {
+          "name": "Grimy guam leaf",
+          "rarity": "1/64",
+          "quantity": "1"
+        },
+        {
+          "name": "Grimy marrentill",
+          "rarity": "1/85.3",
+          "quantity": "1"
+        },
+        {
+          "name": "Grimy tarromin",
+          "rarity": "1/113.8",
+          "quantity": "1"
+        },
+        {
+          "name": "Grimy harralander",
+          "rarity": "1/146.3",
+          "quantity": "1"
+        },
+        {
+          "name": "Grimy ranarr weed",
+          "rarity": "1/186.2",
+          "quantity": "1"
+        },
+        {
+          "name": "Grimy irit leaf",
+          "rarity": "1/256",
+          "quantity": "1"
+        },
+        {
+          "name": "Grimy avantoe",
+          "rarity": "1/341.3",
+          "quantity": "1"
+        },
+        {
+          "name": "Grimy kwuarm",
+          "rarity": "1/409.6",
+          "quantity": "1"
+        },
+        {
+          "name": "Grimy cadantine",
+          "rarity": "1/512",
+          "quantity": "1"
+        },
+        {
+          "name": "Grimy lantadyme",
+          "rarity": "1/682.7",
+          "quantity": "1"
+        },
+        {
+          "name": "Grimy dwarf weed",
+          "rarity": "1/682.7",
+          "quantity": "1"
+        },
+        {
+          "name": "Toadflax seed",
+          "rarity": "1/645.9",
+          "quantity": "1"
+        },
+        {
+          "name": "Irit seed",
+          "rarity": "1/942.7",
+          "quantity": "1"
+        },
+        {
+          "name": "Belladonna seed",
+          "rarity": "1/975.7",
+          "quantity": "1"
+        },
+        {
+          "name": "Poison ivy seed",
+          "rarity": "1/1,354.6",
+          "quantity": "1"
+        },
+        {
+          "name": "Avantoe seed",
+          "rarity": "1/1,381.4",
+          "quantity": "1"
+        },
+        {
+          "name": "Cactus seed",
+          "rarity": "1/1,453.3",
+          "quantity": "1"
+        },
+        {
+          "name": "Potato cactus seed",
+          "rarity": "1/1,993.1",
+          "quantity": "1"
+        },
+        {
+          "name": "Kwuarm seed",
+          "rarity": "1/2,022",
+          "quantity": "1"
+        },
+        {
+          "name": "Snapdragon seed",
+          "rarity": "1/3,033",
+          "quantity": "1"
+        },
+        {
+          "name": "Cadantine seed",
+          "rarity": "1/4,360",
+          "quantity": "1"
+        },
+        {
+          "name": "Lantadyme seed",
+          "rarity": "1/6,066.1",
+          "quantity": "1"
+        },
+        {
+          "name": "Snape grass seed",
+          "rarity": "1/6,976",
+          "quantity": "3"
+        },
+        {
+          "name": "Dwarf weed seed",
+          "rarity": "1/9,965.7",
+          "quantity": "1"
+        },
+        {
+          "name": "Torstol seed",
+          "rarity": "1/15,502.2",
+          "quantity": "1"
+        },
+        {
+          "name": "Air talisman",
+          "rarity": "1/89.6",
+          "quantity": "1"
+        },
+        {
+          "name": "Body talisman",
+          "rarity": "1/89.6",
+          "quantity": "1"
+        },
+        {
+          "name": "Earth talisman",
+          "rarity": "1/89.6",
+          "quantity": "1"
+        },
+        {
+          "name": "Fire talisman",
+          "rarity": "1/89.6",
+          "quantity": "1"
+        },
+        {
+          "name": "Mind talisman",
+          "rarity": "1/89.6",
+          "quantity": "1"
+        },
+        {
+          "name": "Water talisman",
+          "rarity": "1/89.6",
+          "quantity": "1"
+        },
+        {
+          "name": "Cosmic talisman",
+          "rarity": "1/224",
+          "quantity": "1"
+        },
+        {
+          "name": "Chaos talisman",
+          "rarity": "1/298.7",
+          "quantity": "1"
+        },
+        {
+          "name": "Nature talisman",
+          "rarity": "1/298.7",
+          "quantity": "1"
+        },
+        {
+          "name": "Coins",
+          "rarity": "10/128",
+          "quantity": "1–140"
+        },
+        {
+          "name": "Raw lobster",
+          "rarity": "10/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Raw bass",
+          "rarity": "10/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Tinderbox",
+          "rarity": "10/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Casket",
+          "rarity": "2/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Rock-shell splinter",
+          "rarity": "2/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Rock-shell chunk",
+          "rarity": "2/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Rock-shell shard",
+          "rarity": "2/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Clue scroll (medium)",
+          "rarity": "1/128",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": [
+        {
+          "name": "Uncut sapphire",
+          "rarity": "1/512",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut emerald",
+          "rarity": "1/1,024",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut ruby",
+          "rarity": "1/2,048",
+          "quantity": "1"
+        },
+        {
+          "name": "Nature talisman",
+          "rarity": "1/5,461.33",
+          "quantity": "1"
+        },
+        {
+          "name": "Uncut diamond",
+          "rarity": "1/8,192",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune javelin",
+          "rarity": "1/16,384",
+          "quantity": "5"
+        },
+        {
+          "name": "Loop half of key",
+          "rarity": "1/16,384",
+          "quantity": "1"
+        },
+        {
+          "name": "Tooth half of key",
+          "rarity": "1/16,384",
+          "quantity": "1"
+        },
+        {
+          "name": "Rune spear",
+          "rarity": "1/262,144",
+          "quantity": "1"
+        },
+        {
+          "name": "Shield left half",
+          "rarity": "1/524,288",
+          "quantity": "1"
+        },
+        {
+          "name": "Dragon spear",
+          "rarity": "1/699,050.67",
+          "quantity": "1"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Giant Rock Crab",
+    "id": [
       "5940"
     ],
     "combat_level": 137,
@@ -201809,11 +201409,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -201821,6 +201416,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "9/128",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -201840,11 +201440,6 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -201983,11 +201578,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -201995,6 +201585,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "9/128",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -202014,11 +201609,6 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -202157,11 +201747,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -202169,6 +201754,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "9/128",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -202188,11 +201778,6 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -202331,11 +201916,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -202343,6 +201923,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "9/128",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -202362,11 +201947,6 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -231617,11 +231197,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -231632,7 +231207,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Common",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -234081,6 +233656,294 @@
     "is_members_only": true,
     "drops": {
       "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Mr Hyde",
+    "id": [
+      "hist311"
+    ],
+    "combat_level": 79,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Super energy(1)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Mr Hyde",
+    "id": [
+      "hist313"
+    ],
+    "combat_level": 159,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Super energy(1)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Mr Hyde",
+    "id": [
+      "hist309"
+    ],
+    "combat_level": 29,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Super energy(1)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Mr Hyde",
+    "id": [
+      "hist308"
+    ],
+    "combat_level": 14,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Super energy(1)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Mr Hyde",
+    "id": [
+      "hist312"
+    ],
+    "combat_level": 120,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Super energy(1)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Mr Hyde",
+    "id": [
+      "hist310"
+    ],
+    "combat_level": 49,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Super energy(1)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Mr Hyde",
+    "id": [
+      "hist320"
+    ],
+    "combat_level": 159,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Super energy(1)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Mr Hyde",
+    "id": [
+      "hist315"
+    ],
+    "combat_level": 14,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Super energy(1)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Mr Hyde",
+    "id": [
+      "hist317"
+    ],
+    "combat_level": 49,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Super energy(1)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Mr Hyde",
+    "id": [
+      "hist319"
+    ],
+    "combat_level": 120,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Super energy(1)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Mr Hyde",
+    "id": [
+      "hist316"
+    ],
+    "combat_level": 29,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Super energy(1)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Mr Hyde",
+    "id": [
+      "hist318"
+    ],
+    "combat_level": 79,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Super energy(1)",
+          "rarity": "Unknown",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   },
@@ -240391,11 +240254,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -240403,6 +240261,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "9/128",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -240422,11 +240285,6 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -241605,14 +241463,14 @@
           "quantity": "1"
         },
         {
-          "name": "Body rune",
-          "rarity": "5/128",
-          "quantity": "7"
-        },
-        {
           "name": "Water rune",
           "rarity": "6/128",
           "quantity": "6"
+        },
+        {
+          "name": "Body rune",
+          "rarity": "5/128",
+          "quantity": "7"
         },
         {
           "name": "Earth rune",
@@ -241627,16 +241485,6 @@
         {
           "name": "Coins",
           "rarity": "28/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "9"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
           "quantity": "15"
         },
         {
@@ -241655,11 +241503,6 @@
           "quantity": "1"
         },
         {
-          "name": "Goblin book",
-          "rarity": "2/128",
-          "quantity": "1"
-        },
-        {
           "name": "Goblin mail",
           "rarity": "5/128",
           "quantity": "1"
@@ -241667,6 +241510,21 @@
         {
           "name": "Chef's hat",
           "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Goblin book",
+          "rarity": "2/128",
           "quantity": "1"
         },
         {
@@ -242068,11 +241926,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -242083,7 +241936,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Common",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -242143,7 +241996,7 @@
         },
         {
           "name": "Looting bag",
-          "rarity": "1/10",
+          "rarity": "1/3",
           "quantity": "1"
         },
         {
@@ -242277,11 +242130,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -242292,7 +242140,7 @@
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Common",
+          "rarity": "9/128",
           "quantity": "1"
         },
         {
@@ -242352,7 +242200,7 @@
         },
         {
           "name": "Looting bag",
-          "rarity": "1/10",
+          "rarity": "1/3",
           "quantity": "1"
         },
         {
@@ -245060,11 +244908,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -245072,6 +244915,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "9/128",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -245091,11 +244939,6 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -245243,8 +245086,13 @@
           "quantity": "2"
         },
         {
-          "name": "Coal",
-          "rarity": "13/128",
+          "name": "Iron ore",
+          "rarity": "22/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Tin ore",
+          "rarity": "4/128",
           "quantity": "1"
         },
         {
@@ -245253,23 +245101,13 @@
           "quantity": "1"
         },
         {
-          "name": "Iron ore",
-          "rarity": "22/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Silver bar",
-          "rarity": "2/128",
-          "quantity": "1"
-        },
-        {
           "name": "Silver ore",
           "rarity": "3/128",
           "quantity": "1"
         },
         {
-          "name": "Tin ore",
-          "rarity": "4/128",
+          "name": "Silver bar",
+          "rarity": "2/128",
           "quantity": "1"
         },
         {
@@ -245283,19 +245121,14 @@
           "quantity": "1"
         },
         {
-          "name": "Waterskin(0)",
+          "name": "Energy potion(2)",
           "rarity": "13/128",
-          "quantity": "2"
+          "quantity": "6 (noted)"
         },
         {
           "name": "Energy potion(3)",
-          "rarity": "Unknown",
+          "rarity": "13/128",
           "quantity": "1"
-        },
-        {
-          "name": "Energy potion(2)",
-          "rarity": "Unknown",
-          "quantity": "6 (noted)"
         },
         {
           "name": "Desert lizard bone",
@@ -278987,11 +278820,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -278999,6 +278827,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "9/128",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -279018,11 +278851,6 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -281275,11 +281103,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -281287,6 +281110,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "9/128",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -281306,11 +281134,6 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -287769,11 +287592,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -287781,6 +287599,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "9/128",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -287800,11 +287623,6 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -290140,11 +289958,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "10/128",
-          "quantity": "13"
-        },
-        {
-          "name": "Coins",
           "rarity": "8/128",
           "quantity": "26"
         },
@@ -290159,9 +289972,14 @@
           "quantity": "13 (noted)"
         },
         {
-          "name": "Fishing bait",
-          "rarity": "22/128",
-          "quantity": "15"
+          "name": "Energy potion(4)",
+          "rarity": "21/128",
+          "quantity": "2 (noted)"
+        },
+        {
+          "name": "Energy potion(2)",
+          "rarity": "10/128",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -290177,16 +289995,6 @@
           "name": "Iron ore",
           "rarity": "1/128",
           "quantity": "1"
-        },
-        {
-          "name": "Energy potion(2)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(4)",
-          "rarity": "Unknown",
-          "quantity": "2 (noted)"
         },
         {
           "name": "Clue scroll (easy)",
@@ -290486,7 +290294,7 @@
         {
           "name": "Nature rune",
           "rarity": "6/128",
-          "quantity": "3–4"
+          "quantity": "3"
         },
         {
           "name": "Fire rune",
@@ -290595,16 +290403,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "5/128",
-          "quantity": "3"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "8"
-        },
-        {
-          "name": "Coins",
           "rarity": "3/128",
           "quantity": "29"
         },
@@ -290614,13 +290412,23 @@
           "quantity": "10"
         },
         {
-          "name": "Vial of water",
+          "name": "Energy potion(3)",
           "rarity": "13/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "5/128",
           "quantity": "1"
         },
         {
           "name": "White berries",
           "rarity": "5/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Vial of water",
+          "rarity": "3/128",
           "quantity": "1"
         },
         {
@@ -290646,16 +290454,6 @@
         {
           "name": "Snape grass",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(4)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -290761,7 +290559,7 @@
         {
           "name": "Nature rune",
           "rarity": "6/128",
-          "quantity": "3–4"
+          "quantity": "3"
         },
         {
           "name": "Fire rune",
@@ -290870,16 +290668,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "5/128",
-          "quantity": "3"
-        },
-        {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "8"
-        },
-        {
-          "name": "Coins",
           "rarity": "3/128",
           "quantity": "29"
         },
@@ -290889,13 +290677,23 @@
           "quantity": "10"
         },
         {
-          "name": "Vial of water",
+          "name": "Energy potion(3)",
           "rarity": "13/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Energy potion(4)",
+          "rarity": "5/128",
           "quantity": "1"
         },
         {
           "name": "White berries",
           "rarity": "5/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Vial of water",
+          "rarity": "3/128",
           "quantity": "1"
         },
         {
@@ -290921,16 +290719,6 @@
         {
           "name": "Snape grass",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(4)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -294297,22 +294085,12 @@
         },
         {
           "name": "Coins",
-          "rarity": "21/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
-          "rarity": "23/128",
+          "rarity": "24/128",
           "quantity": "8"
         },
         {
-          "name": "Energy potion(2)",
-          "rarity": "Unknown",
-          "quantity": "1"
-        },
-        {
           "name": "Energy potion(4)",
-          "rarity": "Unknown",
+          "rarity": "13/128",
           "quantity": "1"
         },
         {
@@ -297697,11 +297475,6 @@
         {
           "name": "Coins",
           "rarity": "12/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
-          "rarity": "12/128",
           "quantity": "28"
         },
         {
@@ -297710,28 +297483,18 @@
           "quantity": "62"
         },
         {
-          "name": "Coins",
-          "rarity": "3/128",
-          "quantity": "42"
-        },
-        {
-          "name": "Coins",
-          "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
           "name": "Limpwurt root",
           "rarity": "21/128",
           "quantity": "1"
         },
         {
           "name": "Energy potion(2)",
-          "rarity": "Unknown",
+          "rarity": "12/128",
           "quantity": "1"
         },
         {
           "name": "Energy potion(4)",
-          "rarity": "Unknown",
+          "rarity": "4/128",
           "quantity": "1"
         },
         {
@@ -297995,11 +297758,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -298007,6 +297765,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "9/128",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -298026,11 +297789,6 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -305089,11 +304847,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -305101,6 +304854,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "9/128",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -305120,11 +304878,6 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -308295,11 +308048,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -308307,6 +308055,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "9/128",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -308326,11 +308079,6 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -308469,11 +308217,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -308481,6 +308224,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "9/128",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -308500,11 +308248,6 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -317226,6 +316969,20 @@
       "8350",
       "10793",
       "10799"
+    ],
+    "combat_level": 162,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Nylocas Hagios",
+    "id": [
+      "8383",
+      "10860"
     ],
     "combat_level": 162,
     "slayer_level": 1,
@@ -354569,12 +354326,7 @@
         {
           "name": "Coins",
           "rarity": "34/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Coins",
-          "rarity": "13/128",
-          "quantity": "3"
+          "quantity": "8"
         },
         {
           "name": "Coins",
@@ -354597,13 +354349,8 @@
           "quantity": "10"
         },
         {
-          "name": "Hammer",
-          "rarity": "9/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Goblin book",
-          "rarity": "2/128",
+          "name": "Energy potion(2)",
+          "rarity": "13/128",
           "quantity": "1"
         },
         {
@@ -354614,6 +354361,16 @@
         {
           "name": "Green goblin mail",
           "rarity": "10/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Hammer",
+          "rarity": "9/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Goblin book",
+          "rarity": "2/128",
           "quantity": "1"
         },
         {
@@ -354789,12 +354546,7 @@
         {
           "name": "Coins",
           "rarity": "34/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Coins",
-          "rarity": "13/128",
-          "quantity": "3"
+          "quantity": "8"
         },
         {
           "name": "Coins",
@@ -354817,13 +354569,8 @@
           "quantity": "10"
         },
         {
-          "name": "Hammer",
-          "rarity": "9/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Goblin book",
-          "rarity": "2/128",
+          "name": "Energy potion(2)",
+          "rarity": "13/128",
           "quantity": "1"
         },
         {
@@ -354834,6 +354581,16 @@
         {
           "name": "Green goblin mail",
           "rarity": "10/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Hammer",
+          "rarity": "9/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Goblin book",
+          "rarity": "2/128",
           "quantity": "1"
         },
         {
@@ -355003,12 +354760,7 @@
         {
           "name": "Coins",
           "rarity": "34/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Coins",
-          "rarity": "13/128",
-          "quantity": "3"
+          "quantity": "8"
         },
         {
           "name": "Coins",
@@ -355031,6 +354783,16 @@
           "quantity": "10"
         },
         {
+          "name": "Energy potion(2)",
+          "rarity": "13/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Goblin mail",
+          "rarity": "10/128",
+          "quantity": "1"
+        },
+        {
           "name": "Hammer",
           "rarity": "9/128",
           "quantity": "1"
@@ -355038,11 +354800,6 @@
         {
           "name": "Goblin book",
           "rarity": "2/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Goblin mail",
-          "rarity": "10/128",
           "quantity": "1"
         },
         {
@@ -355213,12 +354970,7 @@
         {
           "name": "Coins",
           "rarity": "34/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Coins",
-          "rarity": "13/128",
-          "quantity": "3"
+          "quantity": "8"
         },
         {
           "name": "Coins",
@@ -355241,6 +354993,16 @@
           "quantity": "10"
         },
         {
+          "name": "Energy potion(2)",
+          "rarity": "13/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Goblin mail",
+          "rarity": "10/128",
+          "quantity": "1"
+        },
+        {
           "name": "Hammer",
           "rarity": "9/128",
           "quantity": "1"
@@ -355248,11 +355010,6 @@
         {
           "name": "Goblin book",
           "rarity": "2/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Goblin mail",
-          "rarity": "10/128",
           "quantity": "1"
         },
         {
@@ -355422,12 +355179,7 @@
         {
           "name": "Coins",
           "rarity": "34/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Coins",
-          "rarity": "13/128",
-          "quantity": "3"
+          "quantity": "8"
         },
         {
           "name": "Coins",
@@ -355450,6 +355202,16 @@
           "quantity": "10"
         },
         {
+          "name": "Energy potion(2)",
+          "rarity": "13/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Goblin mail",
+          "rarity": "10/128",
+          "quantity": "1"
+        },
+        {
           "name": "Hammer",
           "rarity": "9/128",
           "quantity": "1"
@@ -355457,11 +355219,6 @@
         {
           "name": "Goblin book",
           "rarity": "2/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Goblin mail",
-          "rarity": "10/128",
           "quantity": "1"
         },
         {
@@ -355631,12 +355388,7 @@
         {
           "name": "Coins",
           "rarity": "34/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Coins",
-          "rarity": "13/128",
-          "quantity": "3"
+          "quantity": "8"
         },
         {
           "name": "Coins",
@@ -355659,6 +355411,16 @@
           "quantity": "10"
         },
         {
+          "name": "Energy potion(2)",
+          "rarity": "13/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Goblin mail",
+          "rarity": "10/128",
+          "quantity": "1"
+        },
+        {
           "name": "Hammer",
           "rarity": "9/128",
           "quantity": "1"
@@ -355666,11 +355428,6 @@
         {
           "name": "Goblin book",
           "rarity": "2/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Goblin mail",
-          "rarity": "10/128",
           "quantity": "1"
         },
         {
@@ -355840,12 +355597,7 @@
         {
           "name": "Coins",
           "rarity": "34/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Coins",
-          "rarity": "13/128",
-          "quantity": "3"
+          "quantity": "8"
         },
         {
           "name": "Coins",
@@ -355868,6 +355620,16 @@
           "quantity": "10"
         },
         {
+          "name": "Energy potion(2)",
+          "rarity": "13/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Goblin mail",
+          "rarity": "10/128",
+          "quantity": "1"
+        },
+        {
           "name": "Hammer",
           "rarity": "9/128",
           "quantity": "1"
@@ -355875,11 +355637,6 @@
         {
           "name": "Goblin book",
           "rarity": "2/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Goblin mail",
-          "rarity": "10/128",
           "quantity": "1"
         },
         {
@@ -386306,11 +386063,6 @@
         },
         {
           "name": "Coins",
-          "rarity": "9/128",
-          "quantity": "5"
-        },
-        {
-          "name": "Coins",
           "rarity": "4/128",
           "quantity": "15"
         },
@@ -386318,6 +386070,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "25"
+        },
+        {
+          "name": "Energy potion(3)",
+          "rarity": "9/128",
+          "quantity": "1"
         },
         {
           "name": "Fishing bait",
@@ -386337,11 +386094,6 @@
         {
           "name": "Cabbage",
           "rarity": "1/128",
-          "quantity": "1"
-        },
-        {
-          "name": "Energy potion(3)",
-          "rarity": "Unknown",
           "quantity": "1"
         },
         {
@@ -434306,7 +434058,7 @@
         },
         {
           "name": "Osprey feather",
-          "rarity": "1/3",
+          "rarity": "1/2",
           "quantity": "1"
         },
         {
@@ -434420,7 +434172,7 @@
         },
         {
           "name": "Frigatebird feather",
-          "rarity": "1/3",
+          "rarity": "1/2",
           "quantity": "1"
         },
         {
@@ -435795,9 +435547,9 @@
           "quantity": "1"
         },
         {
-          "name": "Dragon cannonball",
-          "rarity": "1/128",
-          "quantity": "9–15"
+          "name": "Water rune",
+          "rarity": "1/13",
+          "quantity": "150–350"
         },
         {
           "name": "Rune cannonball",
@@ -435805,19 +435557,9 @@
           "quantity": "14–22"
         },
         {
-          "name": "Umbral frag",
-          "rarity": "1/22",
-          "quantity": "1"
-        },
-        {
-          "name": "Pillar frag",
-          "rarity": "1/22",
-          "quantity": "1–3"
-        },
-        {
-          "name": "Elkhorn frag",
-          "rarity": "1/22",
-          "quantity": "2–4"
+          "name": "Dragon cannonball",
+          "rarity": "1/128",
+          "quantity": "9–15"
         },
         {
           "name": "Snape grass seed",
@@ -435860,6 +435602,21 @@
           "quantity": "1"
         },
         {
+          "name": "Umbral frag",
+          "rarity": "1/22",
+          "quantity": "1"
+        },
+        {
+          "name": "Pillar frag",
+          "rarity": "1/22",
+          "quantity": "1–3"
+        },
+        {
+          "name": "Elkhorn frag",
+          "rarity": "1/22",
+          "quantity": "2–4"
+        },
+        {
           "name": "Snape grass",
           "rarity": "1/13",
           "quantity": "1–2"
@@ -435878,11 +435635,6 @@
           "name": "Uncut diamond",
           "rarity": "1/42",
           "quantity": "1"
-        },
-        {
-          "name": "Water rune",
-          "rarity": "1/13",
-          "quantity": "150–350"
         },
         {
           "name": "Water battlestaff",
@@ -435954,9 +435706,9 @@
           "quantity": "1"
         },
         {
-          "name": "Dragon cannonball",
-          "rarity": "1/128",
-          "quantity": "9–15"
+          "name": "Water rune",
+          "rarity": "1/13",
+          "quantity": "150–350"
         },
         {
           "name": "Rune cannonball",
@@ -435964,19 +435716,9 @@
           "quantity": "14–22"
         },
         {
-          "name": "Umbral frag",
-          "rarity": "1/22",
-          "quantity": "1"
-        },
-        {
-          "name": "Pillar frag",
-          "rarity": "1/22",
-          "quantity": "1–3"
-        },
-        {
-          "name": "Elkhorn frag",
-          "rarity": "1/22",
-          "quantity": "2–4"
+          "name": "Dragon cannonball",
+          "rarity": "1/128",
+          "quantity": "9–15"
         },
         {
           "name": "Snape grass seed",
@@ -436019,6 +435761,21 @@
           "quantity": "1"
         },
         {
+          "name": "Umbral frag",
+          "rarity": "1/22",
+          "quantity": "1"
+        },
+        {
+          "name": "Pillar frag",
+          "rarity": "1/22",
+          "quantity": "1–3"
+        },
+        {
+          "name": "Elkhorn frag",
+          "rarity": "1/22",
+          "quantity": "2–4"
+        },
+        {
           "name": "Snape grass",
           "rarity": "1/13",
           "quantity": "1–2"
@@ -436037,11 +435794,6 @@
           "name": "Uncut diamond",
           "rarity": "1/42",
           "quantity": "1"
-        },
-        {
-          "name": "Water rune",
-          "rarity": "1/13",
-          "quantity": "150–350"
         },
         {
           "name": "Water battlestaff",
@@ -437307,7 +437059,7 @@
         },
         {
           "name": "Bull shark jaw",
-          "rarity": "1/3",
+          "rarity": "1/2",
           "quantity": "1"
         },
         {
@@ -448575,7 +448327,7 @@
       "16596",
       "19597"
     ],
-    "combat_level": 135,
+    "combat_level": 126,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -448595,7 +448347,7 @@
       "16585",
       "16586"
     ],
-    "combat_level": 135,
+    "combat_level": 126,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -448749,7 +448501,7 @@
   {
     "name": "Blink",
     "id": [
-      "16598"
+      "16625"
     ],
     "combat_level": 126,
     "slayer_level": 1,
@@ -448762,7 +448514,7 @@
   {
     "name": "Blink",
     "id": [
-      "16625"
+      "16598"
     ],
     "combat_level": 126,
     "slayer_level": 1,
