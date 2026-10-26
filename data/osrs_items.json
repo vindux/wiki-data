@@ -190464,7 +190464,7 @@
     "weight": 0.05,
     "value": 145000,
     "high_alchemy_value": 87000,
-    "buy_limit": 0,
+    "buy_limit": 5,
     "examine": "A set containing a Oathplate helm, Oathplate chest, and Oathplate legs.",
     "is_members_only": true
   },
@@ -212987,6 +212987,19 @@
     "is_members_only": true
   },
   {
+    "item_name": "Rondache",
+    "item_name_variant": "Rondache",
+    "item_id": [
+      "34719"
+    ],
+    "weight": 4.122,
+    "value": 4000000,
+    "high_alchemy_value": 2400000,
+    "buy_limit": 0,
+    "examine": "A finely crafted rondache shield.",
+    "is_members_only": true
+  },
+  {
     "item_name": "Maggot marquess",
     "item_name_variant": "Maggot marquess",
     "item_id": [
@@ -215134,6 +215147,19 @@
     "is_members_only": true
   },
   {
+    "item_name": "Ascension crossbows",
+    "item_name_variant": "Ascension crossbows",
+    "item_id": [
+      "34681"
+    ],
+    "weight": 6,
+    "value": 4000000,
+    "high_alchemy_value": 2400000,
+    "buy_limit": 0,
+    "examine": "Ancient crossbows formed of powerful crystal.",
+    "is_members_only": true
+  },
+  {
     "item_name": "Letvek in a bucket",
     "item_name_variant": "Letvek in a bucket",
     "item_id": [
@@ -215144,6 +215170,32 @@
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "I should probably get rid of it before it drinks all of my sap.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Obligator",
+    "item_name_variant": "Obligator#Charged",
+    "item_id": [
+      "34715"
+    ],
+    "weight": 4.989,
+    "value": 4000000,
+    "high_alchemy_value": 2400000,
+    "buy_limit": 0,
+    "examine": "A huge mace on a writhing vine.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Obligator",
+    "item_name_variant": "Obligator#Uncharged",
+    "item_id": [
+      "34717"
+    ],
+    "weight": 4.989,
+    "value": 4000000,
+    "high_alchemy_value": 2400000,
+    "buy_limit": 0,
+    "examine": "A huge mace on a writhing vine.",
     "is_members_only": true
   },
   {
@@ -216262,6 +216314,32 @@
     "high_alchemy_value": 180,
     "buy_limit": 0,
     "examine": "Master of snelms.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Zorya's tome",
+    "item_name_variant": "Zorya's tome#Charged",
+    "item_id": [
+      "34725"
+    ],
+    "weight": 5,
+    "value": 4000000,
+    "high_alchemy_value": 2400000,
+    "buy_limit": 0,
+    "examine": "The book is weighed down by all the knowledge it contains.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Zorya's tome",
+    "item_name_variant": "Zorya's tome#Uncharged",
+    "item_id": [
+      "34727"
+    ],
+    "weight": 4,
+    "value": 4000000,
+    "high_alchemy_value": 2400000,
+    "buy_limit": 0,
+    "examine": "The book is weighed down by all the knowledge it contains.",
     "is_members_only": true
   },
   {
@@ -219788,6 +219866,84 @@
     "is_members_only": true
   },
   {
+    "item_name": "Archivist's folio",
+    "item_name_variant": "Archivist's folio#Charged",
+    "item_id": [
+      "34723"
+    ],
+    "weight": 0.06,
+    "value": 500,
+    "high_alchemy_value": 300,
+    "buy_limit": 0,
+    "examine": "A collection of manuscripts used by Guthixian archivists for convenient travel.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Archivist's folio",
+    "item_name_variant": "Archivist's folio#Inert",
+    "item_id": [
+      "34722"
+    ],
+    "weight": 0.06,
+    "value": 500,
+    "high_alchemy_value": 300,
+    "buy_limit": 0,
+    "examine": "A collection of manuscripts used by Guthixian archivists for convenient travel.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ascension shards",
+    "item_name_variant": "Ascension shards",
+    "item_id": [
+      "34669"
+    ],
+    "weight": 0,
+    "value": 1000,
+    "high_alchemy_value": 600,
+    "buy_limit": 100,
+    "examine": "Shards of powerful crystal.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ascension bolts",
+    "item_name_variant": "Ascension bolts",
+    "item_id": [
+      "34684"
+    ],
+    "weight": 0,
+    "value": 575,
+    "high_alchemy_value": 345,
+    "buy_limit": 11000,
+    "examine": "Bolts chiseled from powerful crystals.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Diamond ascension bolts",
+    "item_name_variant": "Diamond ascension bolts",
+    "item_id": [
+      "34690"
+    ],
+    "weight": 0,
+    "value": 1000,
+    "high_alchemy_value": 600,
+    "buy_limit": 0,
+    "examine": "Bolts chiselled from powerful crystals, tipped with diamond.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Onyx ascension bolts",
+    "item_name_variant": "Onyx ascension bolts",
+    "item_id": [
+      "34702"
+    ],
+    "weight": 0,
+    "value": 14050,
+    "high_alchemy_value": 8430,
+    "buy_limit": 0,
+    "examine": "Bolts chiselled from powerful crystals, tipped with onyx.",
+    "is_members_only": true
+  },
+  {
     "item_name": "Net trap (item)",
     "item_name_variant": "Net trap (item)",
     "item_id": [
@@ -219939,6 +220095,240 @@
     "high_alchemy_value": 12,
     "buy_limit": 0,
     "examine": "Hopefully leads to treasure.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Orion",
+    "item_name_variant": "Orion#Orion (robed)",
+    "item_id": [
+      "34648"
+    ],
+    "weight": 0.015,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Reality trembles with their mere presence.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Orion",
+    "item_name_variant": "Orion#Orion",
+    "item_id": [
+      "34646"
+    ],
+    "weight": 0.015,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Reality trembles with their mere presence.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Horn of Bran",
+    "item_name_variant": "Horn of Bran",
+    "item_id": [
+      "34679"
+    ],
+    "weight": 0.453,
+    "value": 3000000,
+    "high_alchemy_value": 1800000,
+    "buy_limit": 0,
+    "examine": "Based on text inscribed upon it, it presumably belonged to someone called Bran.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Alliance's message",
+    "item_name_variant": "Alliance's message",
+    "item_id": [
+      "34657"
+    ],
+    "weight": 0.003,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A message from the Alliance.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Diamond ascension bolts (e)",
+    "item_name_variant": "Diamond ascension bolts (e)",
+    "item_id": [
+      "34696"
+    ],
+    "weight": 0,
+    "value": 1030,
+    "high_alchemy_value": 618,
+    "buy_limit": 11000,
+    "examine": "Enchanted bolts chiselled from powerful crystals, tipped with diamond.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Living record (tier 5)",
+    "item_name_variant": "Living record (tier 5)",
+    "item_id": [
+      "34667"
+    ],
+    "weight": 0.453,
+    "value": 10,
+    "high_alchemy_value": 6,
+    "buy_limit": 0,
+    "examine": "Once used to honour the archivists, now awarded to those who defend their work. The engraving reads \"Antisqüien\".",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Living record (tier 4)",
+    "item_name_variant": "Living record (tier 4)",
+    "item_id": [
+      "34665"
+    ],
+    "weight": 0.453,
+    "value": 10,
+    "high_alchemy_value": 6,
+    "buy_limit": 0,
+    "examine": "Once used to honour the archivists, now awarded to those who defend their work. The engraving reads \"Reliquist\".",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Living record (tier 3)",
+    "item_name_variant": "Living record (tier 3)",
+    "item_id": [
+      "34663"
+    ],
+    "weight": 0.453,
+    "value": 10,
+    "high_alchemy_value": 6,
+    "buy_limit": 0,
+    "examine": "Once used to honour the archivists, now awarded to those who defend their work. The engraving reads \"Prospector\".",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Living record (tier 2)",
+    "item_name_variant": "Living record (tier 2)",
+    "item_id": [
+      "34661"
+    ],
+    "weight": 0.453,
+    "value": 10,
+    "high_alchemy_value": 6,
+    "buy_limit": 0,
+    "examine": "Once used to honour the archivists, now awarded to those who defend their work. The engraving reads \"Salvager\".",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Living record (tier 1)",
+    "item_name_variant": "Living record (tier 1)",
+    "item_id": [
+      "34659"
+    ],
+    "weight": 0.453,
+    "value": 10,
+    "high_alchemy_value": 6,
+    "buy_limit": 0,
+    "examine": "Once used to honour the archivists, now awarded to those who defend their work. The engraving reads \"Scrivener\".",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Fragment of burning fire",
+    "item_name_variant": "Fragment of burning fire",
+    "item_id": [
+      "34677"
+    ],
+    "weight": 0.453,
+    "value": 30000,
+    "high_alchemy_value": 18000,
+    "buy_limit": 0,
+    "examine": "A mysterious fragment, infused with the power of fire.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Fragment of living earth",
+    "item_name_variant": "Fragment of living earth",
+    "item_id": [
+      "34671"
+    ],
+    "weight": 0.453,
+    "value": 30000,
+    "high_alchemy_value": 18000,
+    "buy_limit": 0,
+    "examine": "A mysterious fragment, infused with the power of earth.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Fragment of deep water",
+    "item_name_variant": "Fragment of deep water",
+    "item_id": [
+      "34673"
+    ],
+    "weight": 0.453,
+    "value": 30000,
+    "high_alchemy_value": 18000,
+    "buy_limit": 0,
+    "examine": "A mysterious fragment, infused with the power of water.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Fragment of whispering wind",
+    "item_name_variant": "Fragment of whispering wind",
+    "item_id": [
+      "34675"
+    ],
+    "weight": 0.453,
+    "value": 30000,
+    "high_alchemy_value": 18000,
+    "buy_limit": 0,
+    "examine": "A mysterious fragment, infused with the power of air.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Archive key",
+    "item_name_variant": "Archive key",
+    "item_id": [
+      "34658"
+    ],
+    "weight": 0.02,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A key-like object made of stone and vines found within the Fractured Archive. What does it open?",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Alliance log",
+    "item_name_variant": "Alliance log",
+    "item_id": [
+      "34729"
+    ],
+    "weight": 0.01,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A note from the Alliance detailing your progress so far.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Onyx ascension bolts (e)",
+    "item_name_variant": "Onyx ascension bolts (e)",
+    "item_id": [
+      "34708"
+    ],
+    "weight": 0,
+    "value": 15950,
+    "high_alchemy_value": 9570,
+    "buy_limit": 11000,
+    "examine": "Enchanted bolts chiselled from powerful crystals, tipped with onyx.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Leftovers",
+    "item_name_variant": "Leftovers",
+    "item_id": [
+      "34730"
+    ],
+    "weight": 1.5,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The scrapings of congealed leftovers from what was probably a delicious meal.",
     "is_members_only": true
   }
 ]

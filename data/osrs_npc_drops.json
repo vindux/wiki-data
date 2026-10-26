@@ -287640,6 +287640,19 @@
     }
   },
   {
+    "name": "Bork",
+    "id": [
+      "16640"
+    ],
+    "combat_level": 871,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
     "name": "Rune dragon",
     "id": [
       "8031",
@@ -354094,19 +354107,6 @@
   {
     "name": "Goblin",
     "id": [
-      "677"
-    ],
-    "combat_level": 5,
-    "slayer_level": 1,
-    "is_members_only": false,
-    "drops": {
-      "regular": [],
-      "rare_drop_table": []
-    }
-  },
-  {
-    "name": "Goblin",
-    "id": [
       "678"
     ],
     "combat_level": 5,
@@ -354120,20 +354120,7 @@
   {
     "name": "Goblin",
     "id": [
-      "3047"
-    ],
-    "combat_level": 5,
-    "slayer_level": 1,
-    "is_members_only": false,
-    "drops": {
-      "regular": [],
-      "rare_drop_table": []
-    }
-  },
-  {
-    "name": "Goblin",
-    "id": [
-      "3048"
+      "677"
     ],
     "combat_level": 5,
     "slayer_level": 1,
@@ -389197,6 +389184,19 @@
           "quantity": "1"
         }
       ]
+    }
+  },
+  {
+    "name": "Moia",
+    "id": [
+      "16667"
+    ],
+    "combat_level": 1064,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
     }
   },
   {
@@ -441362,6 +441362,57 @@
     }
   },
   {
+    "name": "Archive Guardian",
+    "id": [
+      "16659"
+    ],
+    "combat_level": 984,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archive key",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Archive Guardian",
+    "id": [
+      "16659"
+    ],
+    "combat_level": 984,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Archive key",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Ezekiel",
+    "id": [
+      "16652"
+    ],
+    "combat_level": 984,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
     "name": "Splatter",
     "id": [
       "15550"
@@ -445871,6 +445922,19 @@
     }
   },
   {
+    "name": "The Smorks",
+    "id": [
+      "16641"
+    ],
+    "combat_level": 640,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
     "name": "Venator",
     "id": [
       "15765"
@@ -448314,6 +448378,73 @@
     }
   },
   {
+    "name": "Dreadnoth the Jellied",
+    "id": [
+      "16665"
+    ],
+    "combat_level": 888,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Xarth",
+    "id": [
+      "16684"
+    ],
+    "combat_level": 912,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Ocellus",
+    "id": [
+      "16673",
+      "16674"
+    ],
+    "combat_level": 1121,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Ocellus",
+    "id": [
+      "16675",
+      "16676"
+    ],
+    "combat_level": 0,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Ocellus",
+    "id": [
+      "16677"
+    ],
+    "combat_level": 1601,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
     "name": "Pete Kayer",
     "id": [
       "16588",
@@ -448519,6 +448650,191 @@
     "combat_level": 126,
     "slayer_level": 1,
     "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Dagon'hai Elder",
+    "id": [
+      "16643",
+      "16644"
+    ],
+    "combat_level": 427,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Dagon'hai Monk",
+    "id": [
+      "16647",
+      "16648"
+    ],
+    "combat_level": 427,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Dagon'hai Monk",
+    "id": [
+      "16645",
+      "16646"
+    ],
+    "combat_level": 427,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Void Vine",
+    "id": [
+      "16681"
+    ],
+    "combat_level": 0,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Void Rift",
+    "id": [
+      "16678"
+    ],
+    "combat_level": 138,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Void Augmenter",
+    "id": [
+      "16680"
+    ],
+    "combat_level": 138,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Corpse",
+    "id": [
+      "16687"
+    ],
+    "combat_level": 89,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Corpse",
+    "id": [
+      "16688"
+    ],
+    "combat_level": 89,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Jelly",
+    "id": [
+      "16666"
+    ],
+    "combat_level": 101,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Void Siphon",
+    "id": [
+      "16679"
+    ],
+    "combat_level": 138,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Undead binder",
+    "id": [
+      "16670"
+    ],
+    "combat_level": 135,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Imp",
+    "id": [
+      "16650"
+    ],
+    "combat_level": 168,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Goblin",
+    "id": [
+      "3048"
+    ],
+    "combat_level": 5,
+    "slayer_level": 1,
+    "is_members_only": false,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Goblin",
+    "id": [
+      "3047"
+    ],
+    "combat_level": 5,
+    "slayer_level": 1,
+    "is_members_only": false,
     "drops": {
       "regular": [],
       "rare_drop_table": []
