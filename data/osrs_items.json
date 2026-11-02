@@ -56363,7 +56363,7 @@
     "value": 6,
     "high_alchemy_value": 3,
     "buy_limit": 0,
-    "examine": "Previously a nice crispy loaf of bread.  Now just kind of icky.",
+    "examine": "Previously a nice crispy loaf of bread. Now just kind of icky.",
     "is_members_only": true
   },
   {
@@ -162815,7 +162815,7 @@
     "value": 800,
     "high_alchemy_value": 480,
     "buy_limit": 0,
-    "examine": "An abyssal extract amplifying the creation of blood, soul and wrath runes.",
+    "examine": "An abyssal extract amplifying the creation of blood, soul, wrath and aether runes.",
     "is_members_only": true
   },
   {
@@ -197927,7 +197927,7 @@
     "weight": 0.3,
     "value": 100,
     "high_alchemy_value": 60,
-    "buy_limit": 0,
+    "buy_limit": 13000,
     "examine": "A paste made by crushing squid.",
     "is_members_only": true
   },
@@ -212995,7 +212995,7 @@
     "weight": 4.122,
     "value": 4000000,
     "high_alchemy_value": 2400000,
-    "buy_limit": 0,
+    "buy_limit": 8,
     "examine": "A finely crafted rondache shield.",
     "is_members_only": true
   },
@@ -216338,7 +216338,7 @@
     "weight": 4,
     "value": 4000000,
     "high_alchemy_value": 2400000,
-    "buy_limit": 0,
+    "buy_limit": 8,
     "examine": "The book is weighed down by all the knowledge it contains.",
     "is_members_only": true
   },
@@ -219900,7 +219900,7 @@
     "weight": 0,
     "value": 1000,
     "high_alchemy_value": 600,
-    "buy_limit": 100,
+    "buy_limit": 30000,
     "examine": "Shards of powerful crystal.",
     "is_members_only": true
   },
@@ -220084,7 +220084,7 @@
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Contains some useful supplies.",
-    "is_members_only": true
+    "is_members_only": false
   },
   {
     "item_name": "Clue scroll (master) - A massive battle rages beneath",
@@ -220330,5 +220330,224 @@
     "buy_limit": 0,
     "examine": "The scrapings of congealed leftovers from what was probably a delicious meal.",
     "is_members_only": true
+  },
+  {
+    "item_name": "Molten sugar",
+    "item_name_variant": "Molten sugar",
+    "item_id": [
+      "34736"
+    ],
+    "weight": 0.907,
+    "value": 3,
+    "high_alchemy_value": 1,
+    "buy_limit": 0,
+    "examine": "A pot of hot molten sugar.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Old onion",
+    "item_name_variant": "Old onion",
+    "item_id": [
+      "34738"
+    ],
+    "weight": 1.36,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "An old, soft and slightly furry onion.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Sugar",
+    "item_name_variant": "Sugar",
+    "item_id": [
+      "34734"
+    ],
+    "weight": 1.36,
+    "value": 10,
+    "high_alchemy_value": 6,
+    "buy_limit": 0,
+    "examine": "Sweet!",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Candy onion",
+    "item_name_variant": "Candy onion",
+    "item_id": [
+      "34732"
+    ],
+    "weight": 2.267,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Delicious!",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Vampyre monocle",
+    "item_name_variant": "Vampyre monocle",
+    "item_id": [
+      "34740"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Similar to the one worn by another pretend vampyre.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Vampyre costume top",
+    "item_name_variant": "Vampyre costume top",
+    "item_id": [
+      "34742"
+    ],
+    "weight": 1,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This is the outfit of a killer!",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Vampyre costume bottom",
+    "item_name_variant": "Vampyre costume bottom",
+    "item_id": [
+      "34744"
+    ],
+    "weight": 1,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This is the outfit of a killer!",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Vampyre costume cape",
+    "item_name_variant": "Vampyre costume cape",
+    "item_id": [
+      "34746"
+    ],
+    "weight": 0.5,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This is the outfit of a killer!",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Abyssal gland",
+    "item_name_variant": "Abyssal gland",
+    "item_id": null,
+    "weight": 0,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": null,
+    "is_members_only": true
+  },
+  {
+    "item_name": "Anglerfish (Pete Kayer's Challenges)",
+    "item_name_variant": "Anglerfish (Pete Kayer's Challenges)",
+    "item_id": [
+      "34623"
+    ],
+    "weight": 0.4,
+    "value": 2,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "I hope this tastes better than it looks.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Dragon boots (Pete Kayer's Challenges)",
+    "item_name_variant": "Dragon boots (Pete Kayer's Challenges)",
+    "item_id": [
+      "34621"
+    ],
+    "weight": 1,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "These will protect my feet.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Karil's leatherskirt (Pete Kayer's Challenges)",
+    "item_name_variant": "Karil's leatherskirt (Pete Kayer's Challenges)",
+    "item_id": [
+      "34609"
+    ],
+    "weight": 5.443,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Karil the Tainted's leather skirt.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Abyssal tentacle (Pete Kayer's Challenges)",
+    "item_name_variant": "Abyssal tentacle (Pete Kayer's Challenges)",
+    "item_id": [
+      "34619"
+    ],
+    "weight": 0.453,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A weapon from the Abyss, embedded in a slimy tentacle.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Torva full helm (Pete Kayer's Challenges)",
+    "item_name_variant": "Torva full helm (Pete Kayer's Challenges)",
+    "item_id": [
+      "34617"
+    ],
+    "weight": 2.721,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "An ancient warrior's full helm.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Black d'hide shield (Pete Kayer's Challenges)",
+    "item_name_variant": "Black d'hide shield (Pete Kayer's Challenges)",
+    "item_id": [
+      "34615"
+    ],
+    "weight": 8,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A solid redwood shield covered in black dragon leather.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Fighter torso (Pete Kayer's Challenges)",
+    "item_name_variant": "Fighter torso (Pete Kayer's Challenges)",
+    "item_id": [
+      "34613"
+    ],
+    "weight": 4,
+    "value": 100,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A Penance Fighter torso armour.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Bandos chestplate (Pete Kayer's Challenges)",
+    "item_name_variant": "Bandos chestplate (Pete Kayer's Challenges)",
+    "item_id": [
+      "34611"
+    ],
+    "weight": 12,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A sturdy chestplate.",
+    "is_members_only": false
   }
 ]
