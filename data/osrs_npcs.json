@@ -20236,8 +20236,7 @@
       "2176",
       "2177",
       "2178",
-      "2179",
-      "2187"
+      "2179"
     ],
     "combat_level": 149,
     "hitpoints": 140,
@@ -24959,7 +24958,7 @@
       "Crush"
     ],
     "experience_bonus": 0,
-    "is_members_only": false,
+    "is_members_only": true,
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 1,
@@ -31902,7 +31901,7 @@
     "attack_speed": 4,
     "attribute": [],
     "max_hit": [
-      "115% of targeted player's max hit'\"`UNIQ--ref-0000010D-QINU`\"'"
+      "115% of targeted player's max hit'\"`UNIQ--ref-0000003E-QINU`\"'"
     ],
     "attack_style": [
       "Slash"
@@ -42664,7 +42663,7 @@
     ],
     "attack_style": [
       "Crush",
-      "Ranged"
+      "Typeless Ranged"
     ],
     "experience_bonus": 10,
     "is_members_only": true,
@@ -72960,7 +72959,7 @@
     "slayer_level": 85,
     "slayer_experience": 50,
     "size": 2,
-    "examine": "'\"`UNIQ--nowiki-0000013C-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
+    "examine": "'\"`UNIQ--nowiki-00000069-QINU`\"'\n*Provides vital gases to support a Sire in stasis.\n*Noxious gases are being exchanged.\n*It appears to be dying.\n*The vent is silent.",
     "poison_resistance": "100",
     "venom_immune": "unknown",
     "thrall_immune": "Not immune",
@@ -88133,7 +88132,7 @@
     "attack_speed": 10,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-000000EF-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-00000036-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -88183,7 +88182,7 @@
     "attack_speed": 7,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-000000EF-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-00000036-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -90312,7 +90311,7 @@
       "15 (melee) 33 (special attack)"
     ],
     "attack_style": [
-      "Slash '\"`UNIQ--ref-0000012F-QINU`\"'"
+      "Slash '\"`UNIQ--ref-00000000-QINU`\"'"
     ],
     "experience_bonus": 0,
     "is_members_only": true,
@@ -112430,7 +112429,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "30-37 (Melee)'\"`UNIQ--ref-000000AB-QINU`\"'",
+      "30-37 (Melee)'\"`UNIQ--ref-00000033-QINU`\"'",
       "?? (axes)"
     ],
     "attack_style": [
@@ -112481,7 +112480,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "46-61 (Melee)'\"`UNIQ--ref-000000AA-QINU`\"'",
+      "46-61 (Melee)'\"`UNIQ--ref-00000032-QINU`\"'",
       "96 (axes)"
     ],
     "attack_style": [
@@ -112532,7 +112531,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "32-43 (Melee)'\"`UNIQ--ref-000000A9-QINU`\"'",
+      "32-43 (Melee)'\"`UNIQ--ref-00000031-QINU`\"'",
       "35 (axes)"
     ],
     "attack_style": [
@@ -132548,7 +132547,7 @@
     ],
     "attack_style": [
       "Crush",
-      "'\"`UNIQ--ref-000000B0-QINU`\"' Magic",
+      "'\"`UNIQ--ref-00000044-QINU`\"' Magic",
       "Ranged"
     ],
     "experience_bonus": 67.5,
@@ -132625,7 +132624,7 @@
     "defence_level": 195,
     "magic_level": 350,
     "ranged_level": 200,
-    "attack_bonus": "unknown",
+    "attack_bonus": 0,
     "strength_bonus": 0,
     "magic_attack_bonus": 300,
     "magic_damage_bonus": 15,
@@ -132643,12 +132642,15 @@
     "flat_armour": 0,
     "attack_speed": 5,
     "attribute": [],
-    "max_hit": "unknown",
+    "max_hit": [
+      "32 (Ranged)",
+      "44 (Magic)"
+    ],
     "attack_style": [
       "Ranged",
       "Magic"
     ],
-    "experience_bonus": 0,
+    "experience_bonus": 12.5,
     "is_members_only": true,
     "slayer_level": 1,
     "slayer_experience": 0,
@@ -148071,7 +148073,7 @@
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 1,
-    "examine": "'\"`UNIQ--nowiki-0000004D-QINU`\"'whispers*The seas are not lackin' kraken.",
+    "examine": "'\"`UNIQ--nowiki-000000BC-QINU`\"'whispers*The seas are not lackin' kraken.",
     "poison_resistance": "0",
     "venom_immune": "unknown",
     "thrall_immune": "unknown",
@@ -164741,7 +164743,7 @@
     "standard_range_defence_bonus": 250,
     "heavy_range_defence_bonus": 250,
     "flat_armour": 0,
-    "attack_speed": 6,
+    "attack_speed": 3,
     "attribute": [
       "demon"
     ],
@@ -165556,7 +165558,7 @@
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 2,
-    "examine": "A monk of the Dagon'hai",
+    "examine": "A monk of the Dagon'hai.",
     "poison_resistance": "100",
     "venom_immune": "unknown",
     "thrall_immune": "unknown",
@@ -165602,7 +165604,7 @@
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 2,
-    "examine": "A monk of the Dagon'hai",
+    "examine": "A monk of the Dagon'hai.",
     "poison_resistance": "100",
     "venom_immune": "unknown",
     "thrall_immune": "unknown",
@@ -166664,6 +166666,346 @@
     "slayer_experience": 0,
     "size": "unknown",
     "examine": "unknown",
+    "poison_resistance": "unknown",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "unknown",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Outlaw (Mudfoot's Big Adventure)",
+    "name": "Outlaw",
+    "id": [
+      "16835",
+      "16836"
+    ],
+    "combat_level": 6,
+    "hitpoints": 9,
+    "attack_level": 1,
+    "strength_level": 1,
+    "defence_level": 3,
+    "magic_level": 2,
+    "ranged_level": 6,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 2,
+    "slash_defence_bonus": 6,
+    "crush_defence_bonus": 6,
+    "magic_defence_bonus": 10,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 8,
+    "standard_range_defence_bonus": 8,
+    "heavy_range_defence_bonus": 8,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [],
+    "max_hit": [
+      "2"
+    ],
+    "attack_style": [
+      "Ranged"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": false,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 1,
+    "examine": "An outlaw with a bow who is trying to blend in.",
+    "poison_resistance": "0",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "Immune",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Outlaw (Mudfoot's Big Adventure)",
+    "name": "Outlaw",
+    "id": [
+      "16837"
+    ],
+    "combat_level": 6,
+    "hitpoints": 9,
+    "attack_level": 1,
+    "strength_level": 1,
+    "defence_level": 3,
+    "magic_level": 2,
+    "ranged_level": 6,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 2,
+    "slash_defence_bonus": 6,
+    "crush_defence_bonus": 6,
+    "magic_defence_bonus": 10,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 8,
+    "standard_range_defence_bonus": 8,
+    "heavy_range_defence_bonus": 8,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [],
+    "max_hit": [
+      "2"
+    ],
+    "attack_style": [
+      "Ranged"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": false,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 1,
+    "examine": "An outlaw with a bow who has failed to blend in.",
+    "poison_resistance": "0",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "Immune",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Outlaw (Mudfoot's Big Adventure)",
+    "name": "Outlaw",
+    "id": [
+      "16839"
+    ],
+    "combat_level": 6,
+    "hitpoints": 9,
+    "attack_level": 1,
+    "strength_level": 1,
+    "defence_level": 3,
+    "magic_level": 6,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 10,
+    "slash_defence_bonus": 10,
+    "crush_defence_bonus": 10,
+    "magic_defence_bonus": 12,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 2,
+    "standard_range_defence_bonus": 2,
+    "heavy_range_defence_bonus": 2,
+    "flat_armour": 0,
+    "attack_speed": 5,
+    "attribute": [],
+    "max_hit": [
+      "2"
+    ],
+    "attack_style": [
+      "Magic"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": false,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 1,
+    "examine": "An outlaw with a staff who is trying to blend in.",
+    "poison_resistance": "0",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "Immune",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Outlaw (Mudfoot's Big Adventure)",
+    "name": "Outlaw",
+    "id": [
+      "16840"
+    ],
+    "combat_level": 6,
+    "hitpoints": 9,
+    "attack_level": 1,
+    "strength_level": 1,
+    "defence_level": 3,
+    "magic_level": 6,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 10,
+    "slash_defence_bonus": 10,
+    "crush_defence_bonus": 10,
+    "magic_defence_bonus": 12,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 2,
+    "standard_range_defence_bonus": 2,
+    "heavy_range_defence_bonus": 2,
+    "flat_armour": 0,
+    "attack_speed": 5,
+    "attribute": [],
+    "max_hit": [
+      "2"
+    ],
+    "attack_style": [
+      "Magic"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": false,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 1,
+    "examine": "An outlaw with a staff who has failed to blend in.",
+    "poison_resistance": "0",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "Immune",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Outlaw (Mudfoot's Big Adventure)",
+    "name": "Outlaw",
+    "id": [
+      "16842"
+    ],
+    "combat_level": 8,
+    "hitpoints": 15,
+    "attack_level": 6,
+    "strength_level": 6,
+    "defence_level": 3,
+    "magic_level": 2,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 8,
+    "slash_defence_bonus": 8,
+    "crush_defence_bonus": 6,
+    "magic_defence_bonus": -5,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 10,
+    "standard_range_defence_bonus": 10,
+    "heavy_range_defence_bonus": 10,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [],
+    "max_hit": [
+      "2"
+    ],
+    "attack_style": [
+      "Slash"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": false,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 1,
+    "examine": "An outlaw with a sword and shield who has failed to blend in.",
+    "poison_resistance": "0",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "Immune",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Outlaw (Mudfoot's Big Adventure)",
+    "name": "Outlaw",
+    "id": [
+      "16843"
+    ],
+    "combat_level": 8,
+    "hitpoints": 15,
+    "attack_level": 6,
+    "strength_level": 6,
+    "defence_level": 3,
+    "magic_level": 2,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 8,
+    "slash_defence_bonus": 8,
+    "crush_defence_bonus": 6,
+    "magic_defence_bonus": -5,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 10,
+    "standard_range_defence_bonus": 10,
+    "heavy_range_defence_bonus": 10,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [],
+    "max_hit": [
+      "2"
+    ],
+    "attack_style": [
+      "Slash"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": false,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 1,
+    "examine": "An outlaw with a sword and shield who has failed to blend in.",
+    "poison_resistance": "0",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "Immune",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Strange plant (discontinued)",
+    "name": "Strange plant",
+    "id": [
+      "hist324"
+    ],
+    "combat_level": "unknown",
+    "hitpoints": 200,
+    "attack_level": "unknown",
+    "strength_level": "unknown",
+    "defence_level": "unknown",
+    "magic_level": "unknown",
+    "ranged_level": "unknown",
+    "attack_bonus": "unknown",
+    "strength_bonus": "unknown",
+    "magic_attack_bonus": "unknown",
+    "magic_damage_bonus": "unknown",
+    "range_attack_bonus": "unknown",
+    "range_strength_bonus": "unknown",
+    "stab_defence_bonus": "unknown",
+    "slash_defence_bonus": "unknown",
+    "crush_defence_bonus": "unknown",
+    "magic_defence_bonus": "unknown",
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": "unknown",
+    "standard_range_defence_bonus": "unknown",
+    "heavy_range_defence_bonus": "unknown",
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [],
+    "max_hit": "unknown",
+    "attack_style": "unknown",
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 1,
+    "examine": "A very strange plant.",
     "poison_resistance": "unknown",
     "venom_immune": "unknown",
     "thrall_immune": "unknown",

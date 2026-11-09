@@ -429,8 +429,8 @@
     "is_members_only": false
   },
   {
-    "item_name": "Iron sword",
-    "item_name_variant": "Iron sword",
+    "item_name": "Iron shortsword",
+    "item_name_variant": "Iron shortsword",
     "item_id": [
       "1279"
     ],
@@ -438,7 +438,7 @@
     "value": 91,
     "high_alchemy_value": 54,
     "buy_limit": 125,
-    "examine": "A razor sharp sword.",
+    "examine": "A razor sharp shortsword.",
     "is_members_only": false
   },
   {
@@ -780,8 +780,8 @@
     "is_members_only": false
   },
   {
-    "item_name": "Steel sword",
-    "item_name_variant": "Steel sword",
+    "item_name": "Steel shortsword",
+    "item_name_variant": "Steel shortsword",
     "item_id": [
       "1281"
     ],
@@ -789,7 +789,7 @@
     "value": 325,
     "high_alchemy_value": 195,
     "buy_limit": 125,
-    "examine": "A razor sharp sword.",
+    "examine": "A razor sharp shortsword.",
     "is_members_only": false
   },
   {
@@ -1807,8 +1807,8 @@
     "is_members_only": false
   },
   {
-    "item_name": "Black sword",
-    "item_name_variant": "Black sword",
+    "item_name": "Black shortsword",
+    "item_name_variant": "Black shortsword",
     "item_id": [
       "1283"
     ],
@@ -1816,7 +1816,7 @@
     "value": 624,
     "high_alchemy_value": 374,
     "buy_limit": 125,
-    "examine": "A razor sharp sword.",
+    "examine": "A razor sharp shortsword.",
     "is_members_only": false
   },
   {
@@ -4628,8 +4628,8 @@
     "is_members_only": false
   },
   {
-    "item_name": "Adamant sword",
-    "item_name_variant": "Adamant sword",
+    "item_name": "Adamant shortsword",
+    "item_name_variant": "Adamant shortsword",
     "item_id": [
       "1287"
     ],
@@ -4637,7 +4637,7 @@
     "value": 2080,
     "high_alchemy_value": 1248,
     "buy_limit": 125,
-    "examine": "A razor sharp sword.",
+    "examine": "A razor sharp shortsword.",
     "is_members_only": false
   },
   {
@@ -6903,8 +6903,8 @@
     "is_members_only": false
   },
   {
-    "item_name": "Mithril sword",
-    "item_name_variant": "Mithril sword",
+    "item_name": "Mithril shortsword",
+    "item_name_variant": "Mithril shortsword",
     "item_id": [
       "1285"
     ],
@@ -6912,7 +6912,7 @@
     "value": 845,
     "high_alchemy_value": 507,
     "buy_limit": 125,
-    "examine": "A razor sharp sword.",
+    "examine": "A razor sharp shortsword.",
     "is_members_only": false
   },
   {
@@ -7020,8 +7020,8 @@
     "is_members_only": false
   },
   {
-    "item_name": "Bronze sword",
-    "item_name_variant": "Bronze sword",
+    "item_name": "Bronze shortsword",
+    "item_name_variant": "Bronze shortsword",
     "item_id": [
       "1277"
     ],
@@ -7029,7 +7029,7 @@
     "value": 26,
     "high_alchemy_value": 15,
     "buy_limit": 125,
-    "examine": "A razor sharp sword.",
+    "examine": "A razor sharp shortsword.",
     "is_members_only": false
   },
   {
@@ -7553,8 +7553,8 @@
     "is_members_only": true
   },
   {
-    "item_name": "Rune sword",
-    "item_name_variant": "Rune sword",
+    "item_name": "Rune shortsword",
+    "item_name_variant": "Rune shortsword",
     "item_id": [
       "1289"
     ],
@@ -7562,7 +7562,7 @@
     "value": 20800,
     "high_alchemy_value": 12480,
     "buy_limit": 70,
-    "examine": "A razor sharp sword.",
+    "examine": "A razor sharp shortsword.",
     "is_members_only": false
   },
   {
@@ -14456,8 +14456,8 @@
     "is_members_only": false
   },
   {
-    "item_name": "Training sword",
-    "item_name_variant": "Training sword",
+    "item_name": "Training shortsword",
+    "item_name_variant": "Training shortsword",
     "item_id": [
       "9703"
     ],
@@ -14465,7 +14465,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "Basic training sword.",
+    "examine": "A basic training shortsword.",
     "is_members_only": false
   },
   {
@@ -19540,8 +19540,8 @@
     "is_members_only": true
   },
   {
-    "item_name": "Training bow",
-    "item_name_variant": "Training bow",
+    "item_name": "Training shortbow",
+    "item_name_variant": "Training shortbow",
     "item_id": [
       "9705"
     ],
@@ -29665,8 +29665,8 @@
     "is_members_only": true
   },
   {
-    "item_name": "White sword",
-    "item_name_variant": "White sword",
+    "item_name": "White shortsword",
+    "item_name_variant": "White shortsword",
     "item_id": [
       "6605"
     ],
@@ -29674,7 +29674,7 @@
     "value": 624,
     "high_alchemy_value": 374,
     "buy_limit": 125,
-    "examine": "A razor sharp sword.",
+    "examine": "A razor sharp shortsword.",
     "is_members_only": true
   },
   {
@@ -29795,8 +29795,8 @@
     "is_members_only": true
   },
   {
-    "item_name": "Wooden sword",
-    "item_name_variant": "Wooden sword",
+    "item_name": "Wooden shortsword",
+    "item_name_variant": "Wooden shortsword",
     "item_id": [
       "7675"
     ],
@@ -29804,7 +29804,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "A less-than razor sharp sword.",
+    "examine": "A less-than razor sharp shortsword.",
     "is_members_only": true
   },
   {
@@ -93854,8 +93854,8 @@
     "is_members_only": true
   },
   {
-    "item_name": "Dragon sword",
-    "item_name_variant": "Dragon sword",
+    "item_name": "Dragon shortsword",
+    "item_name_variant": "Dragon shortsword",
     "item_id": [
       "21009"
     ],
@@ -93863,7 +93863,7 @@
     "value": 72001,
     "high_alchemy_value": 43200,
     "buy_limit": 70,
-    "examine": "A razor sharp sword.",
+    "examine": "A razor sharp shortsword.",
     "is_members_only": true
   },
   {
@@ -107641,7 +107641,7 @@
       "22517"
     ],
     "weight": 0,
-    "value": 100000,
+    "value": 10000,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A magical crystal that can transport you out of certain dangerous areas.",
@@ -152215,8 +152215,8 @@
     "is_members_only": false
   },
   {
-    "item_name": "Clue scroll (medium) - HQNM LZM STSNQ",
-    "item_name_variant": "Clue scroll (medium) - HQNM LZM STSNQ",
+    "item_name": "Clue scroll (medium) - BZOSZHM GZQKZM",
+    "item_name_variant": "Clue scroll (medium) - BZOSZHM GZQKZM",
     "item_id": [
       "19770"
     ],
@@ -157433,8 +157433,8 @@
     "is_members_only": true
   },
   {
-    "item_name": "Dragon sword (cr)",
-    "item_name_variant": "Dragon sword (cr)",
+    "item_name": "Dragon shortsword (cr)",
+    "item_name_variant": "Dragon shortsword (cr)",
     "item_id": [
       "28029"
     ],
@@ -157442,7 +157442,7 @@
     "value": 73001,
     "high_alchemy_value": 43800,
     "buy_limit": 0,
-    "examine": "A razor sharp sword.",
+    "examine": "A razor sharp shortsword.",
     "is_members_only": true
   },
   {
@@ -166836,8 +166836,8 @@
     "is_members_only": true
   },
   {
-    "item_name": "Clue scroll (easy) - I wonder how many bronze swords he has handed out",
-    "item_name_variant": "Clue scroll (easy) - I wonder how many bronze swords he has handed out",
+    "item_name": "Clue scroll (easy) - I wonder how many bronze shortswords he has handed out",
+    "item_name_variant": "Clue scroll (easy) - I wonder how many bronze shortswords he has handed out",
     "item_id": [
       "19816"
     ],
@@ -210518,7 +210518,7 @@
   },
   {
     "item_name": "Bottomless milk bucket",
-    "item_name_variant": "Bottomless milk bucket#Full",
+    "item_name_variant": "Bottomless milk bucket#Filled",
     "item_id": [
       "33089"
     ],
@@ -220549,5 +220549,201 @@
     "buy_limit": 0,
     "examine": "A sturdy chestplate.",
     "is_members_only": false
+  },
+  {
+    "item_name": "Amulet of sight",
+    "item_name_variant": "Amulet of sight",
+    "item_id": [
+      "34762"
+    ],
+    "weight": 0.01,
+    "value": 1500,
+    "high_alchemy_value": 900,
+    "buy_limit": 0,
+    "examine": "A useful amulet for a ranger.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Antique lamp (Romeo & Juliet)",
+    "item_name_variant": "Antique lamp (Romeo & Juliet)",
+    "item_id": [
+      "34754"
+    ],
+    "weight": 0.1,
+    "value": 40,
+    "high_alchemy_value": 24,
+    "buy_limit": 0,
+    "examine": "I wonder what happens if I rub it...",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Antique lamp (Demon Slayer)",
+    "item_name_variant": "Antique lamp (Demon Slayer)",
+    "item_id": [
+      "34749"
+    ],
+    "weight": 0.1,
+    "value": 40,
+    "high_alchemy_value": 24,
+    "buy_limit": 0,
+    "examine": "Give it a rub.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Antique lamp (Shield of Arrav)",
+    "item_name_variant": "Antique lamp (Shield of Arrav)",
+    "item_id": [
+      "34755"
+    ],
+    "weight": 0.1,
+    "value": 40,
+    "high_alchemy_value": 24,
+    "buy_limit": 0,
+    "examine": "I wonder what happens if I rub it...",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Antique lamp (Black Knights' Fortress)",
+    "item_name_variant": "Antique lamp (Black Knights' Fortress)",
+    "item_id": [
+      "34748"
+    ],
+    "weight": 0.1,
+    "value": 40,
+    "high_alchemy_value": 24,
+    "buy_limit": 0,
+    "examine": "Give it a rub.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Antique lamp (Ernest the Chicken)",
+    "item_name_variant": "Antique lamp (Ernest the Chicken)",
+    "item_id": [
+      "34750"
+    ],
+    "weight": 0.1,
+    "value": 40,
+    "high_alchemy_value": 24,
+    "buy_limit": 0,
+    "examine": "I wonder what happens if I rub it...",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Antique lamp (Mudfoot's Big Adventure)",
+    "item_name_variant": "Antique lamp (Mudfoot's Big Adventure)",
+    "item_id": [
+      "34751"
+    ],
+    "weight": 0.1,
+    "value": 40,
+    "high_alchemy_value": 24,
+    "buy_limit": 0,
+    "examine": "Give it a rub.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Mudfoot (item)",
+    "item_name_variant": "Mudfoot (item)",
+    "item_id": [
+      "34752",
+      "34753"
+    ],
+    "weight": 0.001,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Goblins... Such curious creatures.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Bloody knife (The Writing's on the Wall)",
+    "item_name_variant": "Bloody knife (The Writing's on the Wall)",
+    "item_id": [
+      "34758"
+    ],
+    "weight": 0.2,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A blood-covered knife found in the butcher's home in Land's End.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Letter (Jack Holland)",
+    "item_name_variant": "Letter (Jack Holland)",
+    "item_id": [
+      "34756"
+    ],
+    "weight": 0.003,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A letter found on the body of Betty's father in Land's End.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Letter (Bernard Holland)",
+    "item_name_variant": "Letter (Bernard Holland)",
+    "item_id": [
+      "34760"
+    ],
+    "weight": 0.003,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A letter found in the mouth of Betty's uncle near Hosidius.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Newspaper cutting",
+    "item_name_variant": "Newspaper cutting",
+    "item_id": [
+      "34757"
+    ],
+    "weight": 0.003,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A cutting from an old newspaper found in Betty's home in Land's End.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Human head",
+    "item_name_variant": "Human head",
+    "item_id": [
+      "34759"
+    ],
+    "weight": 0.6,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A decapitated head found at Betty's uncle's home near Hosidius.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Certificate (The Writing's on the Wall)",
+    "item_name_variant": "Certificate (The Writing's on the Wall)",
+    "item_id": [
+      "34761"
+    ],
+    "weight": 0.003,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A certificate found in Betty's uncle's home near Hosidius.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Monkfish (Last Man Standing)",
+    "item_name_variant": "Monkfish (Last Man Standing)",
+    "item_id": [
+      "20547"
+    ],
+    "weight": 400,
+    "value": 10,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A tasty fish.",
+    "is_members_only": true
   }
 ]

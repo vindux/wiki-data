@@ -28717,8 +28717,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Iron sword",
-      "item_name_variant": "Iron sword",
+      "item_name": "Iron shortsword",
+      "item_name_variant": "Iron shortsword",
       "item_id": [
         "1279"
       ],
@@ -28957,8 +28957,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Steel sword",
-      "item_name_variant": "Steel sword",
+      "item_name": "Steel shortsword",
+      "item_name_variant": "Steel shortsword",
       "item_id": [
         "1281"
       ],
@@ -29734,8 +29734,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Black sword",
-      "item_name_variant": "Black sword",
+      "item_name": "Black shortsword",
+      "item_name_variant": "Black shortsword",
       "item_id": [
         "1283"
       ],
@@ -30784,8 +30784,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Adamant sword",
-      "item_name_variant": "Adamant sword",
+      "item_name": "Adamant shortsword",
+      "item_name_variant": "Adamant shortsword",
       "item_id": [
         "1287"
       ],
@@ -32674,8 +32674,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Mithril sword",
-      "item_name_variant": "Mithril sword",
+      "item_name": "Mithril shortsword",
+      "item_name_variant": "Mithril shortsword",
       "item_id": [
         "1285"
       ],
@@ -32794,8 +32794,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Bronze sword",
-      "item_name_variant": "Bronze sword",
+      "item_name": "Bronze shortsword",
+      "item_name_variant": "Bronze shortsword",
       "item_id": [
         "1277"
       ],
@@ -33214,8 +33214,8 @@
       "is_members_only": false
     },
     {
-      "item_name": "Rune sword",
-      "item_name_variant": "Rune sword",
+      "item_name": "Rune shortsword",
+      "item_name_variant": "Rune shortsword",
       "item_id": [
         "1289"
       ],
@@ -35344,8 +35344,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Training sword",
-      "item_name_variant": "Training sword",
+      "item_name": "Training shortsword",
+      "item_name_variant": "Training shortsword",
       "item_id": [
         "9703"
       ],
@@ -38280,8 +38280,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "White sword",
-      "item_name_variant": "White sword",
+      "item_name": "White shortsword",
+      "item_name_variant": "White shortsword",
       "item_id": [
         "6605"
       ],
@@ -38490,8 +38490,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Wooden sword",
-      "item_name_variant": "Wooden sword",
+      "item_name": "Wooden shortsword",
+      "item_name_variant": "Wooden shortsword",
       "item_id": [
         "7675"
       ],
@@ -43954,8 +43954,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Dragon sword",
-      "item_name_variant": "Dragon sword",
+      "item_name": "Dragon shortsword",
+      "item_name_variant": "Dragon shortsword",
       "item_id": [
         "21009"
       ],
@@ -51453,8 +51453,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Dragon sword (cr)",
-      "item_name_variant": "Dragon sword (cr)",
+      "item_name": "Dragon shortsword (cr)",
+      "item_name_variant": "Dragon shortsword (cr)",
       "item_id": [
         "28029"
       ],
@@ -115093,8 +115093,8 @@
       "is_members_only": true
     },
     {
-      "item_name": "Training bow",
-      "item_name_variant": "Training bow",
+      "item_name": "Training shortbow",
+      "item_name_variant": "Training shortbow",
       "item_id": [
         "9705"
       ],
@@ -146812,6 +146812,33 @@
       "high_alchemy_value": 12600,
       "buy_limit": 0,
       "is_members_only": true
+    },
+    {
+      "item_name": "Amulet of sight",
+      "item_name_variant": "Amulet of sight",
+      "item_id": [
+        "34762"
+      ],
+      "equipment_slot": "neck",
+      "stab_attack_bonus": 0,
+      "slash_attack_bonus": 0,
+      "crush_attack_bonus": 0,
+      "range_attack_bonus": 10,
+      "magic_attack_bonus": 0,
+      "stab_defence_bonus": 0,
+      "slash_defence_bonus": 0,
+      "crush_defence_bonus": 0,
+      "range_defence_bonus": 0,
+      "magic_defence_bonus": 0,
+      "strength_bonus": 0,
+      "ranged_strength_bonus": 0,
+      "magic_damage_bonus": 0,
+      "prayer_bonus": 0,
+      "weight": 0.01,
+      "value": 1500,
+      "high_alchemy_value": 900,
+      "buy_limit": 0,
+      "is_members_only": true
     }
   ],
   "ring": [
@@ -149542,7 +149569,7 @@
       "magic_damage_bonus": 0,
       "prayer_bonus": 0,
       "weight": 0,
-      "value": 100000,
+      "value": 10000,
       "high_alchemy_value": 0,
       "buy_limit": 0,
       "is_members_only": true
