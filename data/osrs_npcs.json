@@ -28854,7 +28854,7 @@
     "attack_speed": 4,
     "attribute": [],
     "max_hit": [
-      "52 (Magic)",
+      "49 (Magic)",
       "55 (Melee)"
     ],
     "attack_style": [
@@ -28905,7 +28905,7 @@
     "attack_speed": 4,
     "attribute": [],
     "max_hit": [
-      "52 (Magic)",
+      "49 (Magic)",
       "55 (Melee)"
     ],
     "attack_style": [
@@ -81117,7 +81117,7 @@
       "16640"
     ],
     "combat_level": 871,
-    "hitpoints": 1500,
+    "hitpoints": 1650,
     "attack_level": 200,
     "strength_level": 200,
     "defence_level": 300,
@@ -88132,7 +88132,7 @@
     "attack_speed": 10,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-00000036-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-000000CE-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -88182,7 +88182,7 @@
     "attack_speed": 7,
     "attribute": [],
     "max_hit": [
-      "148&thinsp;'\"`UNIQ--ref-00000036-QINU`\"'"
+      "148&thinsp;'\"`UNIQ--ref-000000CE-QINU`\"'"
     ],
     "attack_style": [
       "Typeless Magic",
@@ -112429,7 +112429,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "30-37 (Melee)'\"`UNIQ--ref-00000033-QINU`\"'",
+      "30-37 (Melee)'\"`UNIQ--ref-00000015-QINU`\"'",
       "?? (axes)"
     ],
     "attack_style": [
@@ -112480,7 +112480,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "46-61 (Melee)'\"`UNIQ--ref-00000032-QINU`\"'",
+      "46-61 (Melee)'\"`UNIQ--ref-00000014-QINU`\"'",
       "96 (axes)"
     ],
     "attack_style": [
@@ -112531,7 +112531,7 @@
     "attack_speed": 5,
     "attribute": [],
     "max_hit": [
-      "32-43 (Melee)'\"`UNIQ--ref-00000031-QINU`\"'",
+      "32-43 (Melee)'\"`UNIQ--ref-00000013-QINU`\"'",
       "35 (axes)"
     ],
     "attack_style": [
@@ -132547,7 +132547,7 @@
     ],
     "attack_style": [
       "Crush",
-      "'\"`UNIQ--ref-00000044-QINU`\"' Magic",
+      "'\"`UNIQ--ref-00000089-QINU`\"' Magic",
       "Ranged"
     ],
     "experience_bonus": 67.5,
@@ -148073,7 +148073,7 @@
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 1,
-    "examine": "'\"`UNIQ--nowiki-000000BC-QINU`\"'whispers*The seas are not lackin' kraken.",
+    "examine": "'\"`UNIQ--nowiki-0000005E-QINU`\"'whispers*The seas are not lackin' kraken.",
     "poison_resistance": "0",
     "venom_immune": "unknown",
     "thrall_immune": "unknown",
@@ -159579,9 +159579,9 @@
     "stab_defence_bonus": 120,
     "slash_defence_bonus": 90,
     "crush_defence_bonus": 20,
-    "magic_defence_bonus": 130,
+    "magic_defence_bonus": 50,
     "elemental_weakness": "Fire",
-    "elemental_weakness_percent": 40,
+    "elemental_weakness_percent": 80,
     "light_range_defence_bonus": 50,
     "standard_range_defence_bonus": 115,
     "heavy_range_defence_bonus": 50,
@@ -159632,7 +159632,7 @@
     "magic_defence_bonus": 130,
     "elemental_weakness": "Fire",
     "elemental_weakness_percent": 80,
-    "light_range_defence_bonus": 75,
+    "light_range_defence_bonus": 55,
     "standard_range_defence_bonus": 120,
     "heavy_range_defence_bonus": 50,
     "flat_armour": 0,
@@ -162667,7 +162667,7 @@
       "16641"
     ],
     "combat_level": 640,
-    "hitpoints": 600,
+    "hitpoints": 650,
     "attack_level": 1,
     "strength_level": 1,
     "defence_level": 220,
@@ -164567,7 +164567,7 @@
       "16684"
     ],
     "combat_level": 912,
-    "hitpoints": 2600,
+    "hitpoints": 2450,
     "attack_level": 250,
     "strength_level": 225,
     "defence_level": 170,
@@ -164579,7 +164579,7 @@
     "magic_damage_bonus": 0,
     "range_attack_bonus": 250,
     "range_strength_bonus": 30,
-    "stab_defence_bonus": 115,
+    "stab_defence_bonus": 60,
     "slash_defence_bonus": 105,
     "crush_defence_bonus": 20,
     "magic_defence_bonus": 205,
@@ -164593,11 +164593,16 @@
     "attribute": [
       "demon"
     ],
-    "max_hit": "unknown",
+    "max_hit": [
+      "36 (Magic)",
+      "34 (Ranged)",
+      "34 (Melee)",
+      "? (Explosion)"
+    ],
     "attack_style": [
       "Magic",
       "Ranged",
-      "Melee"
+      "Melee (Slash)"
     ],
     "experience_bonus": 180,
     "is_members_only": true,
@@ -164646,7 +164651,7 @@
       "demon"
     ],
     "max_hit": [
-      "24"
+      "36"
     ],
     "attack_style": [
       "Magic",
@@ -164660,9 +164665,9 @@
     "examine": "The fallen guardian of the Archive.",
     "poison_resistance": "100",
     "venom_immune": "unknown",
-    "thrall_immune": "unknown",
+    "thrall_immune": "Not immune",
     "cannon_immune": "Immune",
-    "burn_immune": "unknown"
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "Ocellus",
@@ -164697,12 +164702,12 @@
     "attack_speed": 0,
     "attribute": [],
     "max_hit": [
-      "24"
+      "25 (Portal)"
     ],
     "attack_style": [
       "Magic"
     ],
-    "experience_bonus": 0,
+    "experience_bonus": 12.5,
     "is_members_only": true,
     "slayer_level": 1,
     "slayer_experience": 0,
@@ -164710,9 +164715,9 @@
     "examine": "Gone crazed with power.",
     "poison_resistance": "100",
     "venom_immune": "unknown",
-    "thrall_immune": "unknown",
+    "thrall_immune": "Not immune",
     "cannon_immune": "Immune",
-    "burn_immune": "unknown"
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "Ocellus",
@@ -164748,7 +164753,8 @@
       "demon"
     ],
     "max_hit": [
-      "24"
+      "30 (Melee)",
+      "36 (Magic)"
     ],
     "attack_style": [
       "Magic",
@@ -164763,9 +164769,9 @@
     "examine": "Corrupted by imperfect magic.",
     "poison_resistance": "100",
     "venom_immune": "unknown",
-    "thrall_immune": "unknown",
+    "thrall_immune": "Not immune",
     "cannon_immune": "Immune",
-    "burn_immune": "unknown"
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "Pete Kayer",
@@ -165484,7 +165490,7 @@
     "defence_level": 100,
     "magic_level": 290,
     "ranged_level": 260,
-    "attack_bonus": "unknown",
+    "attack_bonus": 0,
     "strength_bonus": 1,
     "magic_attack_bonus": 250,
     "magic_damage_bonus": 0,
@@ -165502,12 +165508,15 @@
     "flat_armour": 0,
     "attack_speed": 6,
     "attribute": [],
-    "max_hit": "unknown",
+    "max_hit": [
+      "30 (Magic)",
+      "27 (Ranged)"
+    ],
     "attack_style": [
       "Magic",
       "Ranged"
     ],
-    "experience_bonus": 0,
+    "experience_bonus": 2.5,
     "is_members_only": true,
     "slayer_level": 1,
     "slayer_experience": 0,
@@ -165515,9 +165524,9 @@
     "examine": "An elder of the Dagon'hai.",
     "poison_resistance": "100",
     "venom_immune": "unknown",
-    "thrall_immune": "unknown",
+    "thrall_immune": "Not immune",
     "cannon_immune": "Immune",
-    "burn_immune": "unknown"
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "Dagon'hai Monk",
@@ -165533,7 +165542,7 @@
     "defence_level": 100,
     "magic_level": 290,
     "ranged_level": 260,
-    "attack_bonus": "unknown",
+    "attack_bonus": 0,
     "strength_bonus": 1,
     "magic_attack_bonus": 250,
     "magic_damage_bonus": 0,
@@ -165551,9 +165560,14 @@
     "flat_armour": 0,
     "attack_speed": 6,
     "attribute": [],
-    "max_hit": "unknown",
-    "attack_style": "unknown",
-    "experience_bonus": 0,
+    "max_hit": [
+      "27 (Zamorak)",
+      "55 (Bandos)"
+    ],
+    "attack_style": [
+      "Magic"
+    ],
+    "experience_bonus": 2.5,
     "is_members_only": true,
     "slayer_level": 1,
     "slayer_experience": 0,
@@ -165561,9 +165575,9 @@
     "examine": "A monk of the Dagon'hai.",
     "poison_resistance": "100",
     "venom_immune": "unknown",
-    "thrall_immune": "unknown",
+    "thrall_immune": "Not immune",
     "cannon_immune": "Immune",
-    "burn_immune": "unknown"
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "Dagon'hai Monk",
@@ -165579,7 +165593,7 @@
     "defence_level": 100,
     "magic_level": 290,
     "ranged_level": 260,
-    "attack_bonus": "unknown",
+    "attack_bonus": 0,
     "strength_bonus": 1,
     "magic_attack_bonus": 250,
     "magic_damage_bonus": 0,
@@ -165597,9 +165611,14 @@
     "flat_armour": 0,
     "attack_speed": 6,
     "attribute": [],
-    "max_hit": "unknown",
-    "attack_style": "unknown",
-    "experience_bonus": 0,
+    "max_hit": [
+      "27 (Zamorak)",
+      "55 (Bandos)"
+    ],
+    "attack_style": [
+      "Magic"
+    ],
+    "experience_bonus": 2.5,
     "is_members_only": true,
     "slayer_level": 1,
     "slayer_experience": 0,
@@ -165607,9 +165626,9 @@
     "examine": "A monk of the Dagon'hai.",
     "poison_resistance": "100",
     "venom_immune": "unknown",
-    "thrall_immune": "unknown",
+    "thrall_immune": "Not immune",
     "cannon_immune": "Immune",
-    "burn_immune": "unknown"
+    "burn_immune": "Not immune"
   },
   {
     "page_name": "Void Vine",
@@ -165957,12 +165976,12 @@
     "defence_level": 225,
     "magic_level": 50,
     "ranged_level": 1,
-    "attack_bonus": "unknown",
+    "attack_bonus": 0,
     "strength_bonus": 15,
-    "magic_attack_bonus": "unknown",
-    "magic_damage_bonus": "unknown",
-    "range_attack_bonus": "unknown",
-    "range_strength_bonus": "unknown",
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
     "stab_defence_bonus": 12,
     "slash_defence_bonus": 15,
     "crush_defence_bonus": 10,
@@ -165974,15 +165993,71 @@
     "heavy_range_defence_bonus": 20,
     "flat_armour": 0,
     "attack_speed": 5,
-    "attribute": [],
-    "max_hit": "unknown",
-    "attack_style": "unknown",
+    "attribute": [
+      "undead"
+    ],
+    "max_hit": [
+      "22"
+    ],
+    "attack_style": [
+      "Crush"
+    ],
     "experience_bonus": 0,
     "is_members_only": true,
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 1,
     "examine": "Surprisingly few rings.",
+    "poison_resistance": "0",
+    "venom_immune": "unknown",
+    "thrall_immune": "Not immune",
+    "cannon_immune": "unknown",
+    "burn_immune": "Not immune"
+  },
+  {
+    "page_name": "Inert Guardian (Wall)",
+    "name": "Inert Guardian",
+    "id": [
+      "16661",
+      "16662"
+    ],
+    "combat_level": 0,
+    "hitpoints": 150,
+    "attack_level": 1,
+    "strength_level": 1,
+    "defence_level": 50,
+    "magic_level": 50,
+    "ranged_level": 1,
+    "attack_bonus": "unknown",
+    "strength_bonus": "unknown",
+    "magic_attack_bonus": "unknown",
+    "magic_damage_bonus": "unknown",
+    "range_attack_bonus": "unknown",
+    "range_strength_bonus": "unknown",
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 20,
+    "crush_defence_bonus": -20,
+    "magic_defence_bonus": "unknown",
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": "unknown",
+    "standard_range_defence_bonus": "unknown",
+    "heavy_range_defence_bonus": "unknown",
+    "flat_armour": 0,
+    "attack_speed": 0,
+    "attribute": [],
+    "max_hit": [
+      "N/A"
+    ],
+    "attack_style": [
+      "N/A"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 2,
+    "examine": "Looks inactive, but holding a lot of power.",
     "poison_resistance": "unknown",
     "venom_immune": "unknown",
     "thrall_immune": "unknown",
@@ -165996,39 +166071,45 @@
       "16653"
     ],
     "combat_level": "unknown",
-    "hitpoints": "unknown",
-    "attack_level": "unknown",
-    "strength_level": "unknown",
-    "defence_level": "unknown",
-    "magic_level": "unknown",
-    "ranged_level": "unknown",
-    "attack_bonus": "unknown",
-    "strength_bonus": "unknown",
-    "magic_attack_bonus": "unknown",
-    "magic_damage_bonus": "unknown",
-    "range_attack_bonus": "unknown",
-    "range_strength_bonus": "unknown",
-    "stab_defence_bonus": "unknown",
-    "slash_defence_bonus": "unknown",
-    "crush_defence_bonus": "unknown",
-    "magic_defence_bonus": "unknown",
+    "hitpoints": 120,
+    "attack_level": 1,
+    "strength_level": 1,
+    "defence_level": 115,
+    "magic_level": 90,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 100,
+    "slash_defence_bonus": 100,
+    "crush_defence_bonus": 100,
+    "magic_defence_bonus": 100,
     "elemental_weakness": "Air",
-    "elemental_weakness_percent": 100,
+    "elemental_weakness_percent": 125,
     "light_range_defence_bonus": "unknown",
     "standard_range_defence_bonus": "unknown",
     "heavy_range_defence_bonus": "unknown",
     "flat_armour": 0,
-    "attack_speed": "unknown",
-    "attribute": [],
-    "max_hit": "unknown",
-    "attack_style": "unknown",
+    "attack_speed": -1,
+    "attribute": [
+      "flying"
+    ],
+    "max_hit": [
+      "70"
+    ],
+    "attack_style": [
+      "None"
+    ],
     "experience_bonus": 0,
     "is_members_only": true,
     "slayer_level": 1,
     "slayer_experience": 0,
     "size": 3,
     "examine": "Animated by a powerful warrior.",
-    "poison_resistance": "unknown",
+    "poison_resistance": "100",
     "venom_immune": "unknown",
     "thrall_immune": "unknown",
     "cannon_immune": "unknown",
@@ -166662,7 +166743,7 @@
     "attack_style": "unknown",
     "experience_bonus": 0,
     "is_members_only": true,
-    "slayer_level": 79,
+    "slayer_level": 73,
     "slayer_experience": 0,
     "size": "unknown",
     "examine": "unknown",
@@ -167006,6 +167087,149 @@
     "slayer_experience": 0,
     "size": 1,
     "examine": "A very strange plant.",
+    "poison_resistance": "unknown",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "unknown",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "SnelmLover500",
+    "name": "SnelmLover500",
+    "id": [
+      "16885"
+    ],
+    "combat_level": 50,
+    "hitpoints": 35,
+    "attack_level": 50,
+    "strength_level": 50,
+    "defence_level": 35,
+    "magic_level": 10,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 20,
+    "slash_defence_bonus": 20,
+    "crush_defence_bonus": 10,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [],
+    "max_hit": [
+      "6"
+    ],
+    "attack_style": [
+      "Slash"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 1,
+    "examine": "A snelm enthusiast.",
+    "poison_resistance": "0",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "Immune",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Leech (A Shell of a Friend)",
+    "name": "Leech",
+    "id": [
+      "16883"
+    ],
+    "combat_level": 39,
+    "hitpoints": 25,
+    "attack_level": 80,
+    "strength_level": 20,
+    "defence_level": 1,
+    "magic_level": 1,
+    "ranged_level": 1,
+    "attack_bonus": 0,
+    "strength_bonus": 0,
+    "magic_attack_bonus": 0,
+    "magic_damage_bonus": 0,
+    "range_attack_bonus": 0,
+    "range_strength_bonus": 0,
+    "stab_defence_bonus": 0,
+    "slash_defence_bonus": 0,
+    "crush_defence_bonus": 0,
+    "magic_defence_bonus": 0,
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": 0,
+    "standard_range_defence_bonus": 0,
+    "heavy_range_defence_bonus": 0,
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [],
+    "max_hit": [
+      "3"
+    ],
+    "attack_style": [
+      "Stab"
+    ],
+    "experience_bonus": 0,
+    "is_members_only": true,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 1,
+    "examine": "Yuck! It's all slimy!",
+    "poison_resistance": "0",
+    "venom_immune": "unknown",
+    "thrall_immune": "unknown",
+    "cannon_immune": "Not immune",
+    "burn_immune": "unknown"
+  },
+  {
+    "page_name": "Security Guard (random event)",
+    "name": "Security Guard",
+    "id": [
+      "hist5442"
+    ],
+    "combat_level": "unknown",
+    "hitpoints": 250,
+    "attack_level": "unknown",
+    "strength_level": "unknown",
+    "defence_level": "unknown",
+    "magic_level": "unknown",
+    "ranged_level": "unknown",
+    "attack_bonus": "unknown",
+    "strength_bonus": "unknown",
+    "magic_attack_bonus": "unknown",
+    "magic_damage_bonus": "unknown",
+    "range_attack_bonus": "unknown",
+    "range_strength_bonus": "unknown",
+    "stab_defence_bonus": "unknown",
+    "slash_defence_bonus": "unknown",
+    "crush_defence_bonus": "unknown",
+    "magic_defence_bonus": "unknown",
+    "elemental_weakness": "None",
+    "elemental_weakness_percent": 0,
+    "light_range_defence_bonus": "unknown",
+    "standard_range_defence_bonus": "unknown",
+    "heavy_range_defence_bonus": "unknown",
+    "flat_armour": 0,
+    "attack_speed": 4,
+    "attribute": [],
+    "max_hit": "unknown",
+    "attack_style": "unknown",
+    "experience_bonus": 0,
+    "is_members_only": false,
+    "slayer_level": 1,
+    "slayer_experience": 0,
+    "size": 1,
+    "examine": "A RuneScape Security Guard.",
     "poison_resistance": "unknown",
     "venom_immune": "unknown",
     "thrall_immune": "unknown",

@@ -287827,7 +287827,13 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [],
+      "regular": [
+        {
+          "name": "Big bones",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   },
@@ -296924,7 +296930,7 @@
           "quantity": "1"
         },
         {
-          "name": "Butterfly net",
+          "name": "Insect net",
           "rarity": "1/18",
           "quantity": "1"
         },
@@ -297003,7 +297009,7 @@
           "quantity": "1"
         },
         {
-          "name": "Butterfly net",
+          "name": "Insect net",
           "rarity": "1/18",
           "quantity": "1"
         },
@@ -449112,7 +449118,13 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [],
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   },
@@ -451581,7 +451593,13 @@
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
-      "regular": [],
+      "regular": [
+        {
+          "name": "Infernal ashes",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
       "rare_drop_table": []
     }
   },
@@ -451984,6 +452002,20 @@
     }
   },
   {
+    "name": "Inert Guardian",
+    "id": [
+      "16661",
+      "16662"
+    ],
+    "combat_level": 0,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
     "name": "Animated Sword",
     "id": [
       "16653"
@@ -452169,7 +452201,7 @@
     "name": "Abyssal arbalest",
     "id": null,
     "combat_level": null,
-    "slayer_level": 79,
+    "slayer_level": 73,
     "is_members_only": true,
     "drops": {
       "regular": [],
@@ -452569,6 +452601,51 @@
     "combat_level": null,
     "slayer_level": 1,
     "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "SnelmLover500",
+    "id": [
+      "16885"
+    ],
+    "combat_level": 50,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Pink snelm",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Leech",
+    "id": [
+      "16883"
+    ],
+    "combat_level": 39,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Security Guard",
+    "id": [
+      "hist5442"
+    ],
+    "combat_level": null,
+    "slayer_level": 1,
+    "is_members_only": false,
     "drops": {
       "regular": [],
       "rare_drop_table": []

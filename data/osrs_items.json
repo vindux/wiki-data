@@ -1293,7 +1293,7 @@
       "498"
     ],
     "weight": 0.907,
-    "value": 1,
+    "value": 0,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Bob can fix this for me.",
@@ -1761,8 +1761,8 @@
       "500"
     ],
     "weight": 0.907,
-    "value": 1,
-    "high_alchemy_value": 0,
+    "value": 10,
+    "high_alchemy_value": 6,
     "buy_limit": 0,
     "examine": "Bob can fix this for me.",
     "is_members_only": false
@@ -8463,8 +8463,8 @@
     "is_members_only": true
   },
   {
-    "item_name": "Butterfly net",
-    "item_name_variant": "Butterfly net",
+    "item_name": "Insect net",
+    "item_name_variant": "Insect net",
     "item_id": [
       "10010"
     ],
@@ -8472,7 +8472,7 @@
     "value": 20,
     "high_alchemy_value": 12,
     "buy_limit": 125,
-    "examine": "For catching butterflies...",
+    "examine": "For catching insects...",
     "is_members_only": true
   },
   {
@@ -12142,8 +12142,8 @@
     "is_members_only": true
   },
   {
-    "item_name": "Magic butterfly net",
-    "item_name_variant": "Magic butterfly net",
+    "item_name": "Magic insect net",
+    "item_name_variant": "Magic insect net",
     "item_id": [
       "11259"
     ],
@@ -12151,7 +12151,7 @@
     "value": 1000,
     "high_alchemy_value": 600,
     "buy_limit": 0,
-    "examine": "For catching butterflies.",
+    "examine": "For catching insects.",
     "is_members_only": true
   },
   {
@@ -37068,8 +37068,8 @@
       "502"
     ],
     "weight": 0.68,
-    "value": 1,
-    "high_alchemy_value": 0,
+    "value": 18,
+    "high_alchemy_value": 10,
     "buy_limit": 0,
     "examine": "Bob can fix this for me.",
     "is_members_only": false
@@ -37081,7 +37081,7 @@
       "494"
     ],
     "weight": 0.907,
-    "value": 1,
+    "value": 0,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Bob can fix this for me.",
@@ -37094,7 +37094,7 @@
       "496"
     ],
     "weight": 0.907,
-    "value": 1,
+    "value": 0,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Bob can fix this for me.",
@@ -37107,8 +37107,8 @@
       "504"
     ],
     "weight": 1.133,
-    "value": 1,
-    "high_alchemy_value": 0,
+    "value": 43,
+    "high_alchemy_value": 25,
     "buy_limit": 0,
     "examine": "Bob can fix this for me.",
     "is_members_only": false
@@ -37120,8 +37120,8 @@
       "506"
     ],
     "weight": 0.907,
-    "value": 1,
-    "high_alchemy_value": 0,
+    "value": 427,
+    "high_alchemy_value": 256,
     "buy_limit": 0,
     "examine": "Bob can fix this for me.",
     "is_members_only": false
@@ -50055,11 +50055,11 @@
       "6741"
     ],
     "weight": 0.907,
-    "value": 1,
-    "high_alchemy_value": 0,
+    "value": 1800,
+    "high_alchemy_value": 1080,
     "buy_limit": 0,
     "examine": "Bob can fix this for me.",
-    "is_members_only": false
+    "is_members_only": true
   },
   {
     "item_name": "Black boater",
@@ -148107,7 +148107,7 @@
     "value": 400,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "The perfect hood for runecrafting.",
+    "examine": "The perfect hat for runecrafting.",
     "is_members_only": true
   },
   {
@@ -163222,6 +163222,19 @@
     "is_members_only": true
   },
   {
+    "item_name": "Bee box",
+    "item_name_variant": "Bee box",
+    "item_id": [
+      "34775"
+    ],
+    "weight": 0.01,
+    "value": 10,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A box full of stinging insects.",
+    "is_members_only": true
+  },
+  {
     "item_name": "Sage's greaves",
     "item_name_variant": "Sage's greaves",
     "item_id": [
@@ -167798,8 +167811,8 @@
     "is_members_only": true
   },
   {
-    "item_name": "Clue scroll (easy) - Someone watching the fights in the Emir's Arena",
-    "item_name_variant": "Clue scroll (easy) - Someone watching the fights in the Emir's Arena",
+    "item_name": "Clue scroll (easy) - Someone watching the fights at the Emir's Arena",
+    "item_name_variant": "Clue scroll (easy) - Someone watching the fights at the Emir's Arena",
     "item_id": [
       "3514"
     ],
@@ -184045,6 +184058,19 @@
     "buy_limit": 0,
     "examine": "Just how deep do the Leprechaun's pockets go?",
     "is_members_only": true
+  },
+  {
+    "item_name": "Painted kiteshield",
+    "item_name_variant": "Painted kiteshield",
+    "item_id": [
+      "34769"
+    ],
+    "weight": 5.443,
+    "value": 30,
+    "high_alchemy_value": 18,
+    "buy_limit": 0,
+    "examine": "A pretty kiteshield.",
+    "is_members_only": false
   },
   {
     "item_name": "Asgarnia echo orb",
@@ -215194,7 +215220,7 @@
     "weight": 4.989,
     "value": 4000000,
     "high_alchemy_value": 2400000,
-    "buy_limit": 0,
+    "buy_limit": 8,
     "examine": "A huge mace on a writhing vine.",
     "is_members_only": true
   },
@@ -219926,7 +219952,7 @@
     "weight": 0,
     "value": 1000,
     "high_alchemy_value": 600,
-    "buy_limit": 0,
+    "buy_limit": 11000,
     "examine": "Bolts chiselled from powerful crystals, tipped with diamond.",
     "is_members_only": true
   },
@@ -220744,6 +220770,201 @@
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "A tasty fish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wasp sting",
+    "item_name_variant": "Wasp sting",
+    "item_id": [
+      "34779"
+    ],
+    "weight": 0.005,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "If this is the point of the wasp, I can see why many people don't like them.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Brown feather",
+    "item_name_variant": "Brown feather",
+    "item_id": [
+      "34783"
+    ],
+    "weight": 0.002,
+    "value": 15,
+    "high_alchemy_value": 9,
+    "buy_limit": 0,
+    "examine": "A fairly plain feather.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wasp dart",
+    "item_name_variant": "Wasp dart",
+    "item_id": [
+      "34787"
+    ],
+    "weight": 0.01,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A deadly throwing dart with a wasp stinger tip. Bea will trade these for supplies.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Painted shortsword",
+    "item_name_variant": "Painted shortsword",
+    "item_id": [
+      "34766"
+    ],
+    "weight": 1.814,
+    "value": 30,
+    "high_alchemy_value": 18,
+    "buy_limit": 0,
+    "examine": "A pretty shortsword.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Painted shortbow",
+    "item_name_variant": "Painted shortbow",
+    "item_id": [
+      "34772"
+    ],
+    "weight": 1.36,
+    "value": 30,
+    "high_alchemy_value": 18,
+    "buy_limit": 0,
+    "examine": "A pretty shortbow.",
+    "is_members_only": false
+  },
+  {
+    "item_name": "Killer wasp dart",
+    "item_name_variant": "Killer wasp dart",
+    "item_id": [
+      "34789"
+    ],
+    "weight": 0.01,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A deadly throwing dart with a killer wasp stinger tip. Bea will trade these for supplies.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Killer wasp sting",
+    "item_name_variant": "Killer wasp sting",
+    "item_id": [
+      "34781"
+    ],
+    "weight": 0.005,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Perfectly engineered to cause sadness and pain.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Pink snelm",
+    "item_name_variant": "Pink snelm",
+    "item_id": [
+      "34801"
+    ],
+    "weight": 2,
+    "value": 300,
+    "high_alchemy_value": 180,
+    "buy_limit": 0,
+    "examine": "A pink snail shell helmet.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Bea's supplies",
+    "item_name_variant": "Bea's supplies",
+    "item_id": [
+      "34791"
+    ],
+    "weight": 0.1,
+    "value": 5,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A sack of supplies for helping Bea on her farm.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Bee hunter's hat",
+    "item_name_variant": "Bee hunter's hat",
+    "item_id": [
+      "34777"
+    ],
+    "weight": 0.001,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Makes sure no bees get in your eyes!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Black feather",
+    "item_name_variant": "Black feather",
+    "item_id": [
+      "34785"
+    ],
+    "weight": 0.002,
+    "value": 15,
+    "high_alchemy_value": 9,
+    "buy_limit": 0,
+    "examine": "A fairly plain feather.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Fresh leaves",
+    "item_name_variant": "Fresh leaves",
+    "item_id": [
+      "34793"
+    ],
+    "weight": 0.056,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A pile of fresh leaves. A snail's favourite treat!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Dew-covered branch",
+    "item_name_variant": "Dew-covered branch",
+    "item_id": [
+      "34795"
+    ],
+    "weight": 0.056,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A dew-soaked branch. The dew might be useful.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Restorative dew",
+    "item_name_variant": "Restorative dew",
+    "item_id": [
+      "34797"
+    ],
+    "weight": 0.028,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Full of the good stuff.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Strong sticks",
+    "item_name_variant": "Strong sticks",
+    "item_id": [
+      "34799"
+    ],
+    "weight": 0.056,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Some dry wooden sticks. They look sturdy.",
     "is_members_only": true
   }
 ]
