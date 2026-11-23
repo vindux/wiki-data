@@ -1023,7 +1023,7 @@
         },
         {
           "name": "Rat bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -2752,6 +2752,11 @@
           "quantity": "1"
         },
         {
+          "name": "Crawling hand bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Crawling hand (item)",
           "rarity": "1/500",
           "quantity": "1"
@@ -2884,6 +2889,11 @@
         {
           "name": "Energy potion(4)",
           "rarity": "13/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Crawling hand bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -3022,6 +3032,11 @@
           "quantity": "1"
         },
         {
+          "name": "Crawling hand bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Crawling hand (item)",
           "rarity": "1/500",
           "quantity": "1"
@@ -3154,6 +3169,11 @@
         {
           "name": "Energy potion(4)",
           "rarity": "13/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Crawling hand bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -3292,6 +3312,11 @@
           "quantity": "1"
         },
         {
+          "name": "Crawling hand bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Crawling hand (item)",
           "rarity": "1/500",
           "quantity": "1"
@@ -3424,6 +3449,11 @@
         {
           "name": "Energy potion(4)",
           "rarity": "13/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Crawling hand bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -3562,6 +3592,11 @@
           "quantity": "1"
         },
         {
+          "name": "Crawling hand bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Crawling hand (item)",
           "rarity": "1/500",
           "quantity": "1"
@@ -3694,6 +3729,11 @@
         {
           "name": "Energy potion(4)",
           "rarity": "13/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Crawling hand bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -3832,6 +3872,11 @@
           "quantity": "1"
         },
         {
+          "name": "Crawling hand bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Crawling hand (item)",
           "rarity": "1/500",
           "quantity": "1"
@@ -3964,6 +4009,11 @@
         {
           "name": "Energy potion(4)",
           "rarity": "13/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Crawling hand bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -4237,6 +4287,11 @@
           "quantity": "1"
         },
         {
+          "name": "Catablepon ribs",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (medium)",
           "rarity": "1/101",
           "quantity": "1"
@@ -4502,6 +4557,11 @@
           "quantity": "1"
         },
         {
+          "name": "Catablepon ribs",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (medium)",
           "rarity": "1/101",
           "quantity": "1"
@@ -4764,6 +4824,11 @@
         {
           "name": "Top of sceptre",
           "rarity": "3/101",
+          "quantity": "1"
+        },
+        {
+          "name": "Catablepon ribs",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -13874,6 +13939,11 @@
           "quantity": "15"
         },
         {
+          "name": "Chicken wing",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Key (medium)",
           "rarity": "Always",
           "quantity": "1"
@@ -13918,6 +13988,11 @@
           "name": "Feather",
           "rarity": "32/128",
           "quantity": "15"
+        },
+        {
+          "name": "Chicken wing",
+          "rarity": "Always",
+          "quantity": "1"
         },
         {
           "name": "Key (medium)",
@@ -13967,6 +14042,11 @@
           "quantity": "15"
         },
         {
+          "name": "Chicken wing",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Key (medium)",
           "rarity": "Always",
           "quantity": "1"
@@ -14010,6 +14090,11 @@
           "name": "Feather",
           "rarity": "32/128",
           "quantity": "15"
+        },
+        {
+          "name": "Chicken wing",
+          "rarity": "Always",
+          "quantity": "1"
         },
         {
           "name": "Key (medium)",
@@ -14192,7 +14277,7 @@
         },
         {
           "name": "Fire giant bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -14566,7 +14651,7 @@
         },
         {
           "name": "Fire giant bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -14931,7 +15016,7 @@
         },
         {
           "name": "Fire giant bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -15459,7 +15544,7 @@
         },
         {
           "name": "Moss giant bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -15915,7 +16000,7 @@
         },
         {
           "name": "Moss giant bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -16375,7 +16460,7 @@
         },
         {
           "name": "Moss giant bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -18860,7 +18945,7 @@
         },
         {
           "name": "Experiment bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -18889,7 +18974,7 @@
         },
         {
           "name": "Experiment bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -18918,7 +19003,7 @@
         },
         {
           "name": "Experiment bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -20641,6 +20726,11 @@
           "quantity": "1"
         },
         {
+          "name": "Minotaur bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Ensouled minotaur head",
           "rarity": "1/50",
           "quantity": "1"
@@ -20806,6 +20896,11 @@
           "quantity": "1"
         },
         {
+          "name": "Minotaur bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Ensouled minotaur head",
           "rarity": "1/50",
           "quantity": "1"
@@ -20968,6 +21063,11 @@
         {
           "name": "Right skull half",
           "rarity": "3/101",
+          "quantity": "1"
+        },
+        {
+          "name": "Minotaur bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -21191,6 +21291,11 @@
           "quantity": "1"
         },
         {
+          "name": "Druid ribs",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Looting bag",
           "rarity": "1/11",
           "quantity": "1"
@@ -21294,7 +21399,7 @@
         },
         {
           "name": "Bat wing",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -21804,7 +21909,7 @@
         },
         {
           "name": "Snake spine",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -22029,6 +22134,11 @@
           "name": "Coins",
           "rarity": "3/128",
           "quantity": "29"
+        },
+        {
+          "name": "Infernal mage bone",
+          "rarity": "Always",
+          "quantity": "1"
         },
         {
           "name": "Fire ruby",
@@ -24534,6 +24644,11 @@
           "quantity": "1"
         },
         {
+          "name": "Cow bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/128",
           "quantity": "1"
@@ -24564,6 +24679,11 @@
         },
         {
           "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Cow bone",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -24602,6 +24722,11 @@
           "quantity": "1"
         },
         {
+          "name": "Cow bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/128",
           "quantity": "1"
@@ -24636,6 +24761,11 @@
           "quantity": "1"
         },
         {
+          "name": "Cow bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/128",
           "quantity": "1"
@@ -24666,6 +24796,11 @@
         },
         {
           "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Cow bone",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -26344,7 +26479,7 @@
         },
         {
           "name": "Ogre ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -26518,7 +26653,7 @@
         },
         {
           "name": "Ogre ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -26692,7 +26827,7 @@
         },
         {
           "name": "Ogre ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -27368,6 +27503,11 @@
           "quantity": "5–204"
         },
         {
+          "name": "Cyclops bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (hard)",
           "rarity": "1/512",
           "quantity": "1"
@@ -27660,6 +27800,11 @@
         {
           "name": "Lobster",
           "rarity": "7/100",
+          "quantity": "1"
+        },
+        {
+          "name": "Cyclops bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -28205,6 +28350,11 @@
           "quantity": "5–204"
         },
         {
+          "name": "Cyclops bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (hard)",
           "rarity": "1/512",
           "quantity": "1"
@@ -28497,6 +28647,11 @@
         {
           "name": "Lobster",
           "rarity": "7/100",
+          "quantity": "1"
+        },
+        {
+          "name": "Cyclops bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -29042,6 +29197,11 @@
           "quantity": "5–204"
         },
         {
+          "name": "Cyclops bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (hard)",
           "rarity": "1/512",
           "quantity": "1"
@@ -29334,6 +29494,11 @@
         {
           "name": "Lobster",
           "rarity": "7/100",
+          "quantity": "1"
+        },
+        {
+          "name": "Cyclops bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -62624,6 +62789,11 @@
           "quantity": "1"
         },
         {
+          "name": "Ankou bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Ancient shard",
           "rarity": "1/293",
           "quantity": "1"
@@ -62961,6 +63131,11 @@
         {
           "name": "Clue scroll (hard)",
           "rarity": "1/256",
+          "quantity": "1"
+        },
+        {
+          "name": "Ankou bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -63524,6 +63699,11 @@
           "quantity": "1"
         },
         {
+          "name": "Ankou bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Ancient shard",
           "rarity": "1/293",
           "quantity": "1"
@@ -63861,6 +64041,11 @@
         {
           "name": "Clue scroll (hard)",
           "rarity": "1/256",
+          "quantity": "1"
+        },
+        {
+          "name": "Ankou bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -64424,6 +64609,11 @@
           "quantity": "1"
         },
         {
+          "name": "Ankou bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Ancient shard",
           "rarity": "1/293",
           "quantity": "1"
@@ -64761,6 +64951,11 @@
         {
           "name": "Clue scroll (hard)",
           "rarity": "1/256",
+          "quantity": "1"
+        },
+        {
+          "name": "Ankou bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -65325,6 +65520,11 @@
           "quantity": "1"
         },
         {
+          "name": "Ankou bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Ancient shard",
           "rarity": "1/293",
           "quantity": "1"
@@ -65662,6 +65862,11 @@
         {
           "name": "Clue scroll (hard)",
           "rarity": "1/256",
+          "quantity": "1"
+        },
+        {
+          "name": "Ankou bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -66226,6 +66431,11 @@
           "quantity": "1"
         },
         {
+          "name": "Ankou bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Ancient shard",
           "rarity": "1/293",
           "quantity": "1"
@@ -66563,6 +66773,11 @@
         {
           "name": "Clue scroll (hard)",
           "rarity": "1/256",
+          "quantity": "1"
+        },
+        {
+          "name": "Ankou bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -67000,7 +67215,7 @@
         },
         {
           "name": "Werewolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -67245,7 +67460,7 @@
         },
         {
           "name": "Werewolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -67490,7 +67705,7 @@
         },
         {
           "name": "Werewolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -67735,7 +67950,7 @@
         },
         {
           "name": "Werewolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -67980,7 +68195,7 @@
         },
         {
           "name": "Werewolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -68225,7 +68440,7 @@
         },
         {
           "name": "Werewolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -68470,7 +68685,7 @@
         },
         {
           "name": "Werewolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -68715,7 +68930,7 @@
         },
         {
           "name": "Werewolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -68960,7 +69175,7 @@
         },
         {
           "name": "Werewolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -69205,7 +69420,7 @@
         },
         {
           "name": "Werewolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -69450,7 +69665,7 @@
         },
         {
           "name": "Werewolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -69695,7 +69910,7 @@
         },
         {
           "name": "Werewolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -69940,7 +70155,7 @@
         },
         {
           "name": "Werewolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -70185,7 +70400,7 @@
         },
         {
           "name": "Werewolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -70430,7 +70645,7 @@
         },
         {
           "name": "Werewolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -70675,7 +70890,7 @@
         },
         {
           "name": "Werewolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -70920,7 +71135,7 @@
         },
         {
           "name": "Werewolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -71165,7 +71380,7 @@
         },
         {
           "name": "Werewolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -71410,7 +71625,7 @@
         },
         {
           "name": "Werewolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -71655,7 +71870,7 @@
         },
         {
           "name": "Werewolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -71900,7 +72115,7 @@
         },
         {
           "name": "Werewolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -72145,7 +72360,7 @@
         },
         {
           "name": "Werewolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -84715,7 +84930,7 @@
         },
         {
           "name": "Rat bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -84735,7 +84950,7 @@
         },
         {
           "name": "Rat bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -84760,7 +84975,7 @@
         },
         {
           "name": "Rat bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -84780,7 +84995,7 @@
         },
         {
           "name": "Rat bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -84804,7 +85019,7 @@
         },
         {
           "name": "Ghoul bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -88153,6 +88368,11 @@
           "quantity": "1"
         },
         {
+          "name": "Blue dragon bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Ensouled dragon head",
           "rarity": "1/50",
           "quantity": "1"
@@ -88410,6 +88630,11 @@
         {
           "name": "Bass",
           "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Blue dragon bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -88673,6 +88898,11 @@
           "quantity": "1"
         },
         {
+          "name": "Blue dragon bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Ensouled dragon head",
           "rarity": "1/50",
           "quantity": "1"
@@ -88930,6 +89160,11 @@
         {
           "name": "Bass",
           "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Blue dragon bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -89193,6 +89428,11 @@
           "quantity": "1"
         },
         {
+          "name": "Blue dragon bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Ensouled dragon head",
           "rarity": "1/50",
           "quantity": "1"
@@ -89450,6 +89690,11 @@
         {
           "name": "Bass",
           "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Blue dragon bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -89713,6 +89958,11 @@
           "quantity": "1"
         },
         {
+          "name": "Blue dragon bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Ensouled dragon head",
           "rarity": "1/50",
           "quantity": "1"
@@ -89970,6 +90220,11 @@
         {
           "name": "Bass",
           "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Blue dragon bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -90233,6 +90488,11 @@
           "quantity": "1"
         },
         {
+          "name": "Blue dragon bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Ensouled dragon head",
           "rarity": "1/50",
           "quantity": "1"
@@ -90490,6 +90750,11 @@
         {
           "name": "Bass",
           "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Blue dragon bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -90753,6 +91018,11 @@
           "quantity": "1"
         },
         {
+          "name": "Blue dragon bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Ensouled dragon head",
           "rarity": "1/50",
           "quantity": "1"
@@ -91010,6 +91280,11 @@
         {
           "name": "Bass",
           "rarity": "3/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Blue dragon bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -93004,7 +93279,7 @@
         },
         {
           "name": "Troll bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -93388,7 +93663,7 @@
         },
         {
           "name": "Troll bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -94508,6 +94783,11 @@
           "quantity": "440"
         },
         {
+          "name": "Turoth leg",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (hard)",
           "rarity": "1/128",
           "quantity": "1"
@@ -94791,6 +95071,11 @@
           "name": "Coins",
           "rarity": "1/129",
           "quantity": "440"
+        },
+        {
+          "name": "Turoth leg",
+          "rarity": "Always",
+          "quantity": "1"
         },
         {
           "name": "Clue scroll (hard)",
@@ -95078,6 +95363,11 @@
           "quantity": "440"
         },
         {
+          "name": "Turoth leg",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (hard)",
           "rarity": "1/128",
           "quantity": "1"
@@ -95361,6 +95651,11 @@
           "name": "Coins",
           "rarity": "1/129",
           "quantity": "440"
+        },
+        {
+          "name": "Turoth leg",
+          "rarity": "Always",
+          "quantity": "1"
         },
         {
           "name": "Clue scroll (hard)",
@@ -96250,7 +96545,7 @@
         },
         {
           "name": "Dagannoth ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -96555,7 +96850,7 @@
         },
         {
           "name": "Dagannoth ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -96862,7 +97157,7 @@
         },
         {
           "name": "Dagannoth ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -97169,7 +97464,7 @@
         },
         {
           "name": "Dagannoth ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -97289,7 +97584,7 @@
         },
         {
           "name": "Baby dragon bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -97333,7 +97628,7 @@
         },
         {
           "name": "Baby dragon bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -97377,7 +97672,7 @@
         },
         {
           "name": "Baby dragon bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -97421,7 +97716,7 @@
         },
         {
           "name": "Baby dragon bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -97465,7 +97760,7 @@
         },
         {
           "name": "Baby dragon bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -97654,7 +97949,7 @@
         },
         {
           "name": "Basilisk bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -99767,6 +100062,11 @@
           "name": "Grimy dwarf weed",
           "rarity": "1/853.3",
           "quantity": "1"
+        },
+        {
+          "name": "Crocodile bone",
+          "rarity": "Always",
+          "quantity": "1"
         }
       ],
       "rare_drop_table": []
@@ -99840,6 +100140,11 @@
         {
           "name": "Grimy dwarf weed",
           "rarity": "1/853.3",
+          "quantity": "1"
+        },
+        {
+          "name": "Crocodile bone",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -99915,6 +100220,11 @@
           "name": "Grimy dwarf weed",
           "rarity": "1/853.3",
           "quantity": "1"
+        },
+        {
+          "name": "Crocodile bone",
+          "rarity": "Always",
+          "quantity": "1"
         }
       ],
       "rare_drop_table": []
@@ -99956,7 +100266,7 @@
         },
         {
           "name": "Wolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -99980,7 +100290,7 @@
         },
         {
           "name": "Wolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -101716,7 +102026,7 @@
         },
         {
           "name": "Undead cow ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -104173,6 +104483,11 @@
           "name": "Antipoison(3)",
           "rarity": "1/128",
           "quantity": "1"
+        },
+        {
+          "name": "Druid ribs",
+          "rarity": "Always",
+          "quantity": "1"
         }
       ],
       "rare_drop_table": []
@@ -104669,7 +104984,7 @@
         },
         {
           "name": "Ice giant ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -105489,7 +105804,7 @@
         },
         {
           "name": "Ice giant ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -106309,7 +106624,7 @@
         },
         {
           "name": "Ice giant ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -107129,7 +107444,7 @@
         },
         {
           "name": "Ice giant ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -107949,7 +108264,7 @@
         },
         {
           "name": "Ice giant ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -108769,7 +109084,7 @@
         },
         {
           "name": "Ice giant ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -109589,7 +109904,7 @@
         },
         {
           "name": "Ice giant ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -110409,7 +110724,7 @@
         },
         {
           "name": "Ice giant ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -111229,7 +111544,7 @@
         },
         {
           "name": "Ice giant ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -112049,7 +112364,7 @@
         },
         {
           "name": "Ice giant ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -112848,6 +113163,11 @@
           "quantity": "2"
         },
         {
+          "name": "Cave horror bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Ensouled horror head",
           "rarity": "1/30",
           "quantity": "1"
@@ -113176,6 +113496,11 @@
           "name": "Mahogany logs",
           "rarity": "3/128",
           "quantity": "2"
+        },
+        {
+          "name": "Cave horror bone",
+          "rarity": "Always",
+          "quantity": "1"
         },
         {
           "name": "Ensouled horror head",
@@ -113508,6 +113833,11 @@
           "quantity": "2"
         },
         {
+          "name": "Cave horror bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Ensouled horror head",
           "rarity": "1/30",
           "quantity": "1"
@@ -113838,6 +114168,11 @@
           "quantity": "2"
         },
         {
+          "name": "Cave horror bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Ensouled horror head",
           "rarity": "1/30",
           "quantity": "1"
@@ -114166,6 +114501,11 @@
           "name": "Mahogany logs",
           "rarity": "3/128",
           "quantity": "2"
+        },
+        {
+          "name": "Cave horror bone",
+          "rarity": "Always",
+          "quantity": "1"
         },
         {
           "name": "Ensouled horror head",
@@ -116439,7 +116779,7 @@
         },
         {
           "name": "Dagannoth ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -116874,7 +117214,7 @@
         },
         {
           "name": "Jogre bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -117224,7 +117564,7 @@
         },
         {
           "name": "Jogre bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -129241,7 +129581,7 @@
         },
         {
           "name": "Zogre bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -130471,7 +130811,7 @@
         },
         {
           "name": "Wolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -130505,7 +130845,7 @@
         },
         {
           "name": "Wolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -130539,7 +130879,7 @@
         },
         {
           "name": "Wolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -130573,7 +130913,7 @@
         },
         {
           "name": "Wolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -130607,7 +130947,7 @@
         },
         {
           "name": "Wolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -133365,7 +133705,7 @@
         },
         {
           "name": "Cave goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -133459,7 +133799,7 @@
         },
         {
           "name": "Cave goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -133553,7 +133893,7 @@
         },
         {
           "name": "Cave goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -133647,7 +133987,7 @@
         },
         {
           "name": "Cave goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -144056,7 +144396,7 @@
         },
         {
           "name": "Troll bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -144316,7 +144656,7 @@
         },
         {
           "name": "Troll bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -144576,7 +144916,7 @@
         },
         {
           "name": "Troll bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -144930,7 +145270,7 @@
         },
         {
           "name": "Mogre bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -145849,7 +146189,8 @@
   {
     "name": "Tolna",
     "id": [
-      "1075"
+      "1075",
+      "16910"
     ],
     "combat_level": 46,
     "slayer_level": 1,
@@ -145862,7 +146203,8 @@
   {
     "name": "Tolna",
     "id": [
-      "1076"
+      "1076",
+      "16909"
     ],
     "combat_level": 46,
     "slayer_level": 1,
@@ -145875,7 +146217,8 @@
   {
     "name": "Tolna",
     "id": [
-      "1077"
+      "1077",
+      "16911"
     ],
     "combat_level": 46,
     "slayer_level": 1,
@@ -147180,7 +147523,7 @@
         },
         {
           "name": "Troll bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -147279,7 +147622,7 @@
         },
         {
           "name": "Troll bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -147378,7 +147721,7 @@
         },
         {
           "name": "Troll bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -147477,7 +147820,7 @@
         },
         {
           "name": "Troll bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -147576,7 +147919,7 @@
         },
         {
           "name": "Troll bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -147675,7 +148018,7 @@
         },
         {
           "name": "Troll bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -150705,6 +151048,11 @@
           "name": "Goat horn",
           "rarity": "Always",
           "quantity": "1"
+        },
+        {
+          "name": "Goat ribs",
+          "rarity": "Always",
+          "quantity": "1"
         }
       ],
       "rare_drop_table": []
@@ -150728,6 +151076,11 @@
         },
         {
           "name": "Goat horn",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Goat ribs",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -150754,6 +151107,11 @@
           "name": "Goat horn",
           "rarity": "Always",
           "quantity": "1"
+        },
+        {
+          "name": "Goat ribs",
+          "rarity": "Always",
+          "quantity": "1"
         }
       ],
       "rare_drop_table": []
@@ -150776,6 +151134,11 @@
         },
         {
           "name": "Goat horn",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Goat ribs",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -151192,7 +151555,7 @@
         },
         {
           "name": "Dagannoth ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -151632,7 +151995,7 @@
         },
         {
           "name": "Dagannoth ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -153050,7 +153413,7 @@
         },
         {
           "name": "Cave goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -153104,7 +153467,7 @@
         },
         {
           "name": "Cave goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -153158,7 +153521,7 @@
         },
         {
           "name": "Cave goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -153212,7 +153575,7 @@
         },
         {
           "name": "Cave goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -153266,7 +153629,7 @@
         },
         {
           "name": "Cave goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -153320,7 +153683,7 @@
         },
         {
           "name": "Cave goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -153374,7 +153737,7 @@
         },
         {
           "name": "Cave goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -153428,7 +153791,7 @@
         },
         {
           "name": "Cave goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -153482,7 +153845,7 @@
         },
         {
           "name": "Cave goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -153541,7 +153904,7 @@
         },
         {
           "name": "Cave goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -154482,7 +154845,7 @@
         },
         {
           "name": "Wolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -154511,7 +154874,7 @@
         },
         {
           "name": "Wolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -154541,7 +154904,7 @@
         },
         {
           "name": "Jackal bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -154566,7 +154929,7 @@
         },
         {
           "name": "Seagull wing",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -154590,7 +154953,7 @@
         },
         {
           "name": "Seagull wing",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -154614,7 +154977,7 @@
         },
         {
           "name": "Vulture wing",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -154638,7 +155001,7 @@
         },
         {
           "name": "Vulture wing",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -159701,6 +160064,11 @@
           "quantity": "1"
         },
         {
+          "name": "Hill giant bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Key (medium)",
           "rarity": "Always",
           "quantity": "1"
@@ -160074,6 +160442,11 @@
         {
           "name": "Body talisman",
           "rarity": "2/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Hill giant bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -160453,6 +160826,11 @@
           "quantity": "1"
         },
         {
+          "name": "Hill giant bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Key (medium)",
           "rarity": "Always",
           "quantity": "1"
@@ -160825,6 +161203,11 @@
         {
           "name": "Body talisman",
           "rarity": "2/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Hill giant bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -161203,6 +161586,11 @@
           "quantity": "1"
         },
         {
+          "name": "Hill giant bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Key (medium)",
           "rarity": "Always",
           "quantity": "1"
@@ -161575,6 +161963,11 @@
         {
           "name": "Body talisman",
           "rarity": "2/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Hill giant bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -161953,6 +162346,11 @@
           "quantity": "1"
         },
         {
+          "name": "Hill giant bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Key (medium)",
           "rarity": "Always",
           "quantity": "1"
@@ -162325,6 +162723,11 @@
         {
           "name": "Body talisman",
           "rarity": "2/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Hill giant bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -162703,6 +163106,11 @@
           "quantity": "1"
         },
         {
+          "name": "Hill giant bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Key (medium)",
           "rarity": "Always",
           "quantity": "1"
@@ -163075,6 +163483,11 @@
         {
           "name": "Body talisman",
           "rarity": "2/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Hill giant bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -163453,6 +163866,11 @@
           "quantity": "1"
         },
         {
+          "name": "Hill giant bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Key (medium)",
           "rarity": "Always",
           "quantity": "1"
@@ -163828,6 +164246,11 @@
           "quantity": "1"
         },
         {
+          "name": "Hill giant bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Key (medium)",
           "rarity": "Always",
           "quantity": "1"
@@ -164200,6 +164623,11 @@
         {
           "name": "Body talisman",
           "rarity": "2/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Hill giant bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -168387,7 +168815,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -168623,7 +169051,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -168859,7 +169287,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -169095,7 +169523,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -169330,7 +169758,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -169566,7 +169994,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -169802,7 +170230,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -170038,7 +170466,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -170274,7 +170702,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -170509,7 +170937,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -170745,7 +171173,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -170980,7 +171408,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -171215,7 +171643,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -171451,7 +171879,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -171687,7 +172115,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -171922,7 +172350,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -172157,7 +172585,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -172392,7 +172820,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -172627,7 +173055,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -172862,7 +173290,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -173097,7 +173525,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -173333,7 +173761,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -173568,7 +173996,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -173803,7 +174231,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -174038,7 +174466,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -174273,7 +174701,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -175086,7 +175514,7 @@
         },
         {
           "name": "Zogre bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -175125,7 +175553,7 @@
         },
         {
           "name": "Zogre bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -175164,7 +175592,7 @@
         },
         {
           "name": "Zogre bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -179644,7 +180072,7 @@
         },
         {
           "name": "Ogre ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -180034,7 +180462,7 @@
         },
         {
           "name": "Ogre ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -180198,7 +180626,7 @@
         },
         {
           "name": "Ogre ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -181156,6 +181584,11 @@
           "quantity": "5"
         },
         {
+          "name": "Aviansie wing",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Ensouled aviansie head",
           "rarity": "1/35",
           "quantity": "1"
@@ -181399,6 +181832,11 @@
           "name": "Swordfish",
           "rarity": "2/128",
           "quantity": "5"
+        },
+        {
+          "name": "Aviansie wing",
+          "rarity": "Always",
+          "quantity": "1"
         },
         {
           "name": "Ensouled aviansie head",
@@ -181646,6 +182084,11 @@
           "quantity": "5"
         },
         {
+          "name": "Aviansie wing",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Ensouled aviansie head",
           "rarity": "1/35",
           "quantity": "1"
@@ -181889,6 +182332,11 @@
           "name": "Swordfish",
           "rarity": "2/128",
           "quantity": "5"
+        },
+        {
+          "name": "Aviansie wing",
+          "rarity": "Always",
+          "quantity": "1"
         },
         {
           "name": "Ensouled aviansie head",
@@ -182136,6 +182584,11 @@
           "quantity": "5"
         },
         {
+          "name": "Aviansie wing",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Ensouled aviansie head",
           "rarity": "1/35",
           "quantity": "1"
@@ -182379,6 +182832,11 @@
           "name": "Swordfish",
           "rarity": "2/128",
           "quantity": "5"
+        },
+        {
+          "name": "Aviansie wing",
+          "rarity": "Always",
+          "quantity": "1"
         },
         {
           "name": "Ensouled aviansie head",
@@ -182626,6 +183084,11 @@
           "quantity": "5"
         },
         {
+          "name": "Aviansie wing",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Ensouled aviansie head",
           "rarity": "1/35",
           "quantity": "1"
@@ -182869,6 +183332,11 @@
           "name": "Swordfish",
           "rarity": "2/128",
           "quantity": "5"
+        },
+        {
+          "name": "Aviansie wing",
+          "rarity": "Always",
+          "quantity": "1"
         },
         {
           "name": "Ensouled aviansie head",
@@ -183116,6 +183584,11 @@
           "quantity": "5"
         },
         {
+          "name": "Aviansie wing",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Ensouled aviansie head",
           "rarity": "1/35",
           "quantity": "1"
@@ -183359,6 +183832,11 @@
           "name": "Swordfish",
           "rarity": "2/128",
           "quantity": "5"
+        },
+        {
+          "name": "Aviansie wing",
+          "rarity": "Always",
+          "quantity": "1"
         },
         {
           "name": "Ensouled aviansie head",
@@ -183606,6 +184084,11 @@
           "quantity": "5"
         },
         {
+          "name": "Aviansie wing",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Ensouled aviansie head",
           "rarity": "1/35",
           "quantity": "1"
@@ -183849,6 +184332,11 @@
           "name": "Swordfish",
           "rarity": "2/128",
           "quantity": "5"
+        },
+        {
+          "name": "Aviansie wing",
+          "rarity": "Always",
+          "quantity": "1"
         },
         {
           "name": "Ensouled aviansie head",
@@ -184096,6 +184584,11 @@
           "quantity": "5"
         },
         {
+          "name": "Aviansie wing",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Ensouled aviansie head",
           "rarity": "1/35",
           "quantity": "1"
@@ -184341,6 +184834,11 @@
           "quantity": "5"
         },
         {
+          "name": "Aviansie wing",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Ensouled aviansie head",
           "rarity": "1/35",
           "quantity": "1"
@@ -184584,6 +185082,11 @@
           "name": "Swordfish",
           "rarity": "2/128",
           "quantity": "5"
+        },
+        {
+          "name": "Aviansie wing",
+          "rarity": "Always",
+          "quantity": "1"
         },
         {
           "name": "Ensouled aviansie head",
@@ -184838,6 +185341,11 @@
         {
           "name": "Curved bone",
           "rarity": "1/5,012.5",
+          "quantity": "1"
+        },
+        {
+          "name": "Aviansie wing",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -185623,7 +186131,12 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Sorebones bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -185878,7 +186391,12 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Sorebones bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -188390,7 +188908,7 @@
         },
         {
           "name": "Wolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -188415,7 +188933,7 @@
         },
         {
           "name": "Wolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -188907,7 +189425,7 @@
         },
         {
           "name": "Zogre bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -191181,7 +191699,7 @@
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "1/40.96",
+          "rarity": "1/41",
           "quantity": "1"
         },
         {
@@ -191196,7 +191714,7 @@
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1/68.27",
+          "rarity": "1/68.3",
           "quantity": "1"
         },
         {
@@ -191526,7 +192044,7 @@
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "1/40.96",
+          "rarity": "1/41",
           "quantity": "1"
         },
         {
@@ -191541,7 +192059,7 @@
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1/68.27",
+          "rarity": "1/68.3",
           "quantity": "1"
         },
         {
@@ -191871,7 +192389,7 @@
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "1/40.96",
+          "rarity": "1/41",
           "quantity": "1"
         },
         {
@@ -191886,7 +192404,7 @@
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1/68.27",
+          "rarity": "1/68.3",
           "quantity": "1"
         },
         {
@@ -192216,7 +192734,7 @@
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "1/40.96",
+          "rarity": "1/41",
           "quantity": "1"
         },
         {
@@ -192231,7 +192749,7 @@
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1/68.27",
+          "rarity": "1/68.3",
           "quantity": "1"
         },
         {
@@ -192561,7 +193079,7 @@
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "1/40.96",
+          "rarity": "1/41",
           "quantity": "1"
         },
         {
@@ -192576,7 +193094,7 @@
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1/68.27",
+          "rarity": "1/68.3",
           "quantity": "1"
         },
         {
@@ -192906,7 +193424,7 @@
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "1/40.96",
+          "rarity": "1/41",
           "quantity": "1"
         },
         {
@@ -192921,7 +193439,7 @@
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1/68.27",
+          "rarity": "1/68.3",
           "quantity": "1"
         },
         {
@@ -193311,7 +193829,7 @@
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "1/40.96",
+          "rarity": "1/41",
           "quantity": "1"
         },
         {
@@ -193326,7 +193844,7 @@
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1/68.27",
+          "rarity": "1/68.3",
           "quantity": "1"
         },
         {
@@ -193716,7 +194234,7 @@
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "1/40.96",
+          "rarity": "1/41",
           "quantity": "1"
         },
         {
@@ -193731,7 +194249,7 @@
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1/68.27",
+          "rarity": "1/68.3",
           "quantity": "1"
         },
         {
@@ -194121,7 +194639,7 @@
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "1/40.96",
+          "rarity": "1/41",
           "quantity": "1"
         },
         {
@@ -194136,7 +194654,7 @@
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1/68.27",
+          "rarity": "1/68.3",
           "quantity": "1"
         },
         {
@@ -194526,7 +195044,7 @@
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "1/40.96",
+          "rarity": "1/41",
           "quantity": "1"
         },
         {
@@ -194541,7 +195059,7 @@
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1/68.27",
+          "rarity": "1/68.3",
           "quantity": "1"
         },
         {
@@ -196197,7 +196715,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -196231,7 +196749,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -196265,7 +196783,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -196612,7 +197130,7 @@
         },
         {
           "name": "Troll bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -197499,6 +198017,11 @@
           "quantity": "1–2"
         },
         {
+          "name": "Wallasalki bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (medium)",
           "rarity": "1/128",
           "quantity": "1"
@@ -197832,6 +198355,11 @@
           "name": "Raw tuna",
           "rarity": "2/128",
           "quantity": "1–2"
+        },
+        {
+          "name": "Wallasalki bone",
+          "rarity": "Always",
+          "quantity": "1"
         },
         {
           "name": "Clue scroll (medium)",
@@ -198376,7 +198904,7 @@
         },
         {
           "name": "Rabbit bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -198407,7 +198935,7 @@
         },
         {
           "name": "Rabbit bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -198438,7 +198966,7 @@
         },
         {
           "name": "Rabbit bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -198468,7 +198996,7 @@
         },
         {
           "name": "Rabbit bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -199039,7 +199567,7 @@
         },
         {
           "name": "Troll bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -203295,6 +203823,11 @@
           "name": "Raw ugthanki meat",
           "rarity": "Always",
           "quantity": "1"
+        },
+        {
+          "name": "Ugthanki ribs",
+          "rarity": "Always",
+          "quantity": "1"
         }
       ],
       "rare_drop_table": []
@@ -203399,6 +203932,11 @@
           "name": "Grimy kwuarm",
           "rarity": "8/127",
           "quantity": "1 (noted)"
+        },
+        {
+          "name": "Aviansie wing",
+          "rarity": "Always",
+          "quantity": "1"
         },
         {
           "name": "Frozen key piece (Armadyl)",
@@ -203520,6 +204058,11 @@
           "quantity": "1 (noted)"
         },
         {
+          "name": "Aviansie wing",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Frozen key piece (Armadyl)",
           "rarity": "1/20",
           "quantity": "1"
@@ -203639,6 +204182,11 @@
           "quantity": "1 (noted)"
         },
         {
+          "name": "Aviansie wing",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Frozen key piece (Armadyl)",
           "rarity": "1/20",
           "quantity": "1"
@@ -203729,7 +204277,7 @@
         },
         {
           "name": "Dagannoth ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -205781,7 +206329,7 @@
         },
         {
           "name": "Terrorbird wing",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -205805,7 +206353,7 @@
         },
         {
           "name": "Terrorbird wing",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -205829,7 +206377,7 @@
         },
         {
           "name": "Terrorbird wing",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -207043,6 +207591,11 @@
         {
           "name": "Tea flask",
           "rarity": "1/10",
+          "quantity": "1"
+        },
+        {
+          "name": "Frogeel spine",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -208638,6 +209191,11 @@
           "quantity": "1"
         },
         {
+          "name": "Cow bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/128",
           "quantity": "1"
@@ -208672,6 +209230,11 @@
           "quantity": "1"
         },
         {
+          "name": "Cow bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/128",
           "quantity": "1"
@@ -208702,6 +209265,11 @@
         },
         {
           "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Cow bone",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -212292,6 +212860,11 @@
           "quantity": "1"
         },
         {
+          "name": "Druid ribs",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Ensouled chaos druid head",
           "rarity": "1/20",
           "quantity": "1"
@@ -212764,7 +213337,7 @@
         },
         {
           "name": "Dagannoth ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -213094,7 +213667,7 @@
         },
         {
           "name": "Dagannoth ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -213540,7 +214113,7 @@
         },
         {
           "name": "Dagannoth ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -213870,7 +214443,7 @@
         },
         {
           "name": "Dagannoth ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -216715,6 +217288,11 @@
           "quantity": "1"
         },
         {
+          "name": "Druid ribs",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Ensouled chaos druid head",
           "rarity": "1/25",
           "quantity": "1"
@@ -217049,6 +217627,11 @@
           "quantity": "2"
         },
         {
+          "name": "Tortoise bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Bones",
           "rarity": "Always",
           "quantity": "1"
@@ -217337,6 +217920,11 @@
           "name": "Teak logs",
           "rarity": "1/128",
           "quantity": "4"
+        },
+        {
+          "name": "Tortoise bone",
+          "rarity": "Always",
+          "quantity": "1"
         }
       ],
       "rare_drop_table": []
@@ -217573,6 +218161,11 @@
           "quantity": "2"
         },
         {
+          "name": "Tortoise bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Bones",
           "rarity": "Always",
           "quantity": "1"
@@ -217861,6 +218454,11 @@
           "name": "Teak logs",
           "rarity": "1/128",
           "quantity": "4"
+        },
+        {
+          "name": "Tortoise bone",
+          "rarity": "Always",
+          "quantity": "1"
         }
       ],
       "rare_drop_table": []
@@ -217883,7 +218481,7 @@
         },
         {
           "name": "Snake spine",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -217907,7 +218505,7 @@
         },
         {
           "name": "Snake spine",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -217931,7 +218529,7 @@
         },
         {
           "name": "Snake spine",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -217956,7 +218554,7 @@
         },
         {
           "name": "Snake spine",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -219078,6 +219676,11 @@
           "quantity": "1"
         },
         {
+          "name": "Ork skull",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Looting bag",
           "rarity": "1/3",
           "quantity": "1"
@@ -219396,7 +219999,7 @@
         },
         {
           "name": "Troll bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -219651,7 +220254,7 @@
         },
         {
           "name": "Troll bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -219906,7 +220509,7 @@
         },
         {
           "name": "Troll bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -220280,7 +220883,7 @@
         },
         {
           "name": "Troll bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -226268,7 +226871,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -226503,7 +227106,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -226738,7 +227341,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -226973,7 +227576,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -227208,7 +227811,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -227443,7 +228046,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -227697,11 +228300,11 @@
   {
     "name": "Shade",
     "id": [
-      "6740"
+      "7258"
     ],
-    "combat_level": 159,
+    "combat_level": 140,
     "slayer_level": 1,
-    "is_members_only": false,
+    "is_members_only": true,
     "drops": {
       "regular": [
         {
@@ -227741,11 +228344,55 @@
   {
     "name": "Shade",
     "id": [
-      "7258"
+      "16917"
     ],
-    "combat_level": 140,
+    "combat_level": 102,
     "slayer_level": 1,
     "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Shade robe top",
+          "rarity": "32/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Shade robe",
+          "rarity": "32/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Ancient shard",
+          "rarity": "1/256",
+          "quantity": "1"
+        },
+        {
+          "name": "Dark totem base",
+          "rarity": "1/385",
+          "quantity": "1"
+        },
+        {
+          "name": "Dark totem middle",
+          "rarity": "1/385",
+          "quantity": "1"
+        },
+        {
+          "name": "Dark totem top",
+          "rarity": "1/385",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Shade",
+    "id": [
+      "6740"
+    ],
+    "combat_level": 159,
+    "slayer_level": 1,
+    "is_members_only": false,
     "drops": {
       "regular": [
         {
@@ -231717,6 +232364,11 @@
           "name": "Bones",
           "rarity": "Always",
           "quantity": "1"
+        },
+        {
+          "name": "Gnome child bone",
+          "rarity": "Always",
+          "quantity": "1"
         }
       ],
       "rare_drop_table": []
@@ -231736,6 +232388,11 @@
           "name": "Bones",
           "rarity": "Always",
           "quantity": "1"
+        },
+        {
+          "name": "Gnome child bone",
+          "rarity": "Always",
+          "quantity": "1"
         }
       ],
       "rare_drop_table": []
@@ -231753,6 +232410,11 @@
       "regular": [
         {
           "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Gnome child bone",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -232488,7 +233150,7 @@
         },
         {
           "name": "Wolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -232512,7 +233174,7 @@
         },
         {
           "name": "Wolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -232536,7 +233198,7 @@
         },
         {
           "name": "Wolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -234286,7 +234948,7 @@
         },
         {
           "name": "Experiment bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -234352,6 +235014,19 @@
           "quantity": "1"
         }
       ]
+    }
+  },
+  {
+    "name": "Archmage Sedridor",
+    "id": [
+      "16905"
+    ],
+    "combat_level": 7,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
     }
   },
   {
@@ -236963,6 +237638,11 @@
           "name": "Iron ore",
           "rarity": "1/128",
           "quantity": "1"
+        },
+        {
+          "name": "Colonel radick's bone",
+          "rarity": "Always",
+          "quantity": "1"
         }
       ],
       "rare_drop_table": []
@@ -237237,6 +237917,11 @@
           "quantity": "15"
         },
         {
+          "name": "Chicken wing",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/300",
           "quantity": "1"
@@ -237274,6 +237959,11 @@
           "name": "Feather",
           "rarity": "32/128",
           "quantity": "15"
+        },
+        {
+          "name": "Chicken wing",
+          "rarity": "Always",
+          "quantity": "1"
         },
         {
           "name": "Clue scroll (beginner)",
@@ -240011,7 +240701,7 @@
         },
         {
           "name": "Wolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -240035,7 +240725,7 @@
         },
         {
           "name": "Wolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -240059,7 +240749,7 @@
         },
         {
           "name": "Wolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -240287,6 +240977,11 @@
           "name": "Bones",
           "rarity": "Always",
           "quantity": "1"
+        },
+        {
+          "name": "Angry giant rat bone",
+          "rarity": "Always",
+          "quantity": "1"
         }
       ],
       "rare_drop_table": []
@@ -240304,6 +240999,11 @@
       "regular": [
         {
           "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Angry giant rat bone",
           "rarity": "Always",
           "quantity": "1"
         }
@@ -240545,7 +241245,7 @@
         },
         {
           "name": "Rabbit bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -240574,7 +241274,7 @@
         },
         {
           "name": "Rabbit bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -240859,7 +241559,7 @@
         },
         {
           "name": "Snake spine",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -241158,7 +241858,7 @@
         },
         {
           "name": "Troll bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -241533,7 +242233,7 @@
         },
         {
           "name": "Troll bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -245311,7 +246011,7 @@
         },
         {
           "name": "Desert lizard bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -246480,7 +247180,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -246735,7 +247435,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -246990,7 +247690,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -247425,7 +248125,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -247680,7 +248380,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -247935,7 +248635,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -248370,7 +249070,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -248625,7 +249325,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -248880,7 +249580,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -249315,7 +250015,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -249570,7 +250270,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -249825,7 +250525,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -250260,7 +250960,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -250515,7 +251215,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -250770,7 +251470,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -251205,7 +251905,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -251460,7 +252160,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -251715,7 +252415,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -252150,7 +252850,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -252405,7 +253105,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -252660,7 +253360,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -253095,7 +253795,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -253350,7 +254050,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -253605,7 +254305,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -254040,7 +254740,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -254295,7 +254995,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -254550,7 +255250,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -254985,7 +255685,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -255240,7 +255940,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -255495,7 +256195,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -255930,7 +256630,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -256185,7 +256885,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -256440,7 +257140,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -256875,7 +257575,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -257130,7 +257830,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -257385,7 +258085,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -257820,7 +258520,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -258075,7 +258775,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -258330,7 +259030,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -258765,7 +259465,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -259020,7 +259720,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -259275,7 +259975,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -259710,7 +260410,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -259965,7 +260665,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -260220,7 +260920,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -260655,7 +261355,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -260910,7 +261610,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -261165,7 +261865,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -261600,7 +262300,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -261855,7 +262555,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -262110,7 +262810,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -262545,7 +263245,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -262800,7 +263500,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -263055,7 +263755,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -263390,7 +264090,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -263405,7 +264105,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -263565,7 +264265,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -263795,7 +264495,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -263810,7 +264510,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -263970,7 +264670,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -264200,7 +264900,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -264215,7 +264915,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -264375,7 +265075,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -264605,7 +265305,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -264620,7 +265320,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -264780,7 +265480,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -265010,7 +265710,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -265025,7 +265725,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -265185,7 +265885,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -265415,7 +266115,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -265430,7 +266130,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -265590,7 +266290,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -265820,7 +266520,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -265835,7 +266535,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -265995,7 +266695,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -266225,7 +266925,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -266240,7 +266940,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -266400,7 +267100,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -266630,7 +267330,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -266645,7 +267345,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -266805,7 +267505,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -267035,7 +267735,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -267050,7 +267750,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -267210,7 +267910,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -267440,7 +268140,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -267455,7 +268155,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -267615,7 +268315,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -267845,7 +268545,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -267860,7 +268560,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -268020,7 +268720,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -268250,7 +268950,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -268265,7 +268965,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -268425,7 +269125,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -268655,7 +269355,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -268670,7 +269370,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -268830,7 +269530,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -269060,7 +269760,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -269075,7 +269775,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -269235,7 +269935,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -269465,7 +270165,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -269480,7 +270180,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -269640,7 +270340,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -269870,7 +270570,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -269885,7 +270585,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -270045,7 +270745,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -270275,7 +270975,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -270290,7 +270990,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -270450,7 +271150,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -270680,7 +271380,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -270695,7 +271395,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -270855,7 +271555,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -271085,7 +271785,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -271100,7 +271800,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -271260,7 +271960,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -271490,7 +272190,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -271505,7 +272205,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -271665,7 +272365,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -271895,7 +272595,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -271910,7 +272610,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -272070,7 +272770,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -272300,7 +273000,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -272315,7 +273015,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -272475,7 +273175,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -272705,7 +273405,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -272720,7 +273420,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -272880,7 +273580,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -273110,7 +273810,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -273125,7 +273825,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -273285,7 +273985,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -273650,7 +274350,7 @@
         },
         {
           "name": "Troll bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -274025,7 +274725,7 @@
         },
         {
           "name": "Troll bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -274524,7 +275224,7 @@
         },
         {
           "name": "Dagannoth ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -275230,6 +275930,11 @@
           "quantity": "1"
         },
         {
+          "name": "Lizardman bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Brimstone key",
           "rarity": "1/541",
           "quantity": "1"
@@ -275377,6 +276082,11 @@
         {
           "name": "Xeric's talisman (inert)",
           "rarity": "1/250",
+          "quantity": "1"
+        },
+        {
+          "name": "Lizardman bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -275546,6 +276256,11 @@
           "quantity": "1"
         },
         {
+          "name": "Lizardman bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Brimstone key",
           "rarity": "1/541",
           "quantity": "1"
@@ -275693,6 +276408,11 @@
         {
           "name": "Xeric's talisman (inert)",
           "rarity": "1/250",
+          "quantity": "1"
+        },
+        {
+          "name": "Lizardman bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -276042,6 +276762,11 @@
           "quantity": "1"
         },
         {
+          "name": "Lizardman bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Brimstone key",
           "rarity": "1/245",
           "quantity": "1"
@@ -276204,6 +276929,11 @@
         {
           "name": "Xeric's talisman (inert)",
           "rarity": "1/250",
+          "quantity": "1"
+        },
+        {
+          "name": "Lizardman bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -277880,6 +278610,11 @@
           "quantity": "1"
         },
         {
+          "name": "Lizardman bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Brimstone key",
           "rarity": "1/90",
           "quantity": "1"
@@ -278250,6 +278985,11 @@
           "quantity": "1"
         },
         {
+          "name": "Lizardman bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Brimstone key",
           "rarity": "1/90",
           "quantity": "1"
@@ -278426,7 +279166,7 @@
         },
         {
           "name": "Rat bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -278699,7 +279439,7 @@
       "regular": [
         {
           "name": "Ogre ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -278731,7 +279471,7 @@
       "regular": [
         {
           "name": "Troll bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -278782,7 +279522,7 @@
       "regular": [
         {
           "name": "Dagannoth ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -281508,6 +282248,11 @@
           "quantity": "621"
         },
         {
+          "name": "Blue dragon bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Ensouled dragon head",
           "rarity": "1/20",
           "quantity": "1"
@@ -281866,6 +282611,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "621"
+        },
+        {
+          "name": "Blue dragon bone",
+          "rarity": "Always",
+          "quantity": "1"
         },
         {
           "name": "Ensouled dragon head",
@@ -287940,7 +288690,7 @@
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1/84.67",
+          "rarity": "1/84.7",
           "quantity": "1"
         },
         {
@@ -292790,6 +293540,11 @@
           "quantity": "2"
         },
         {
+          "name": "Cave horror bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (hard)",
           "rarity": "10/128",
           "quantity": "1"
@@ -294292,6 +295047,11 @@
           "quantity": "1"
         },
         {
+          "name": "Crawling hand bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Crawling hand (item)",
           "rarity": "1/500",
           "quantity": "1"
@@ -295703,7 +296463,7 @@
         },
         {
           "name": "Basilisk bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -297088,7 +297848,7 @@
         },
         {
           "name": "Wolf bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -297183,7 +297943,7 @@
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1/73.33",
+          "rarity": "1/73.3",
           "quantity": "1"
         },
         {
@@ -303448,7 +304208,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -303464,6 +304224,11 @@
         {
           "name": "Zombie champion scroll",
           "rarity": "1/5,000",
+          "quantity": "1"
+        },
+        {
+          "name": "Armoured zombie bone",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -303682,7 +304447,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -303698,6 +304463,11 @@
         {
           "name": "Zombie champion scroll",
           "rarity": "1/5,000",
+          "quantity": "1"
+        },
+        {
+          "name": "Armoured zombie bone",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -304815,7 +305585,7 @@
         },
         {
           "name": "Cave goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -304874,7 +305644,7 @@
         },
         {
           "name": "Cave goblin skull",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -312231,7 +313001,7 @@
         },
         {
           "name": "Ogre ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -312525,7 +313295,7 @@
         },
         {
           "name": "Ogre ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -312819,7 +313589,7 @@
         },
         {
           "name": "Ogre ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -312935,6 +313705,11 @@
         {
           "name": "Copper's crimson collar",
           "rarity": "Common",
+          "quantity": "1"
+        },
+        {
+          "name": "Fox bone",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -313225,6 +314000,11 @@
         {
           "name": "Wrath talisman",
           "rarity": "3/150",
+          "quantity": "1"
+        },
+        {
+          "name": "Blue dragon bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -313691,6 +314471,11 @@
         {
           "name": "Wrath talisman",
           "rarity": "3/150",
+          "quantity": "1"
+        },
+        {
+          "name": "Blue dragon bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -314826,6 +315611,11 @@
           "quantity": "5–10"
         },
         {
+          "name": "Lizardman bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Long bone",
           "rarity": "1/400",
           "quantity": "1"
@@ -314869,6 +315659,11 @@
           "name": "Noxifer seed",
           "rarity": "Always",
           "quantity": "5–10"
+        },
+        {
+          "name": "Lizardman bone",
+          "rarity": "Always",
+          "quantity": "1"
         },
         {
           "name": "Long bone",
@@ -315536,7 +316331,7 @@
         },
         {
           "name": "Moss giant bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -326414,7 +327209,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -333732,7 +334527,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -333767,7 +334562,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -341746,7 +342541,7 @@
         },
         {
           "name": "Rabbit bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -342677,22 +343472,22 @@
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "1/55.47",
+          "rarity": "1/55.5",
           "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "1/69.33",
+          "rarity": "1/69.3",
           "quantity": "1"
         },
         {
           "name": "Grimy snapdragon",
-          "rarity": "1/69.33",
+          "rarity": "1/69.3",
           "quantity": "1"
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1/92.44",
+          "rarity": "1/92.4",
           "quantity": "1"
         },
         {
@@ -342712,7 +343507,7 @@
         },
         {
           "name": "Basilisk bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -342827,7 +343622,7 @@
         },
         {
           "name": "Basilisk bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -342921,22 +343716,22 @@
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "1/55.47",
+          "rarity": "1/55.5",
           "quantity": "1"
         },
         {
           "name": "Grimy ranarr weed",
-          "rarity": "1/69.33",
+          "rarity": "1/69.3",
           "quantity": "1"
         },
         {
           "name": "Grimy snapdragon",
-          "rarity": "1/69.33",
+          "rarity": "1/69.3",
           "quantity": "1"
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1/92.44",
+          "rarity": "1/92.4",
           "quantity": "1"
         },
         {
@@ -342951,7 +343746,7 @@
         },
         {
           "name": "Basilisk bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -343593,7 +344388,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -343727,7 +344522,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -343861,7 +344656,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -343995,7 +344790,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -344129,7 +344924,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -350014,6 +350809,11 @@
           "name": "Coins",
           "rarity": "1/128",
           "quantity": "440"
+        },
+        {
+          "name": "Turoth leg",
+          "rarity": "Always",
+          "quantity": "1"
         },
         {
           "name": "Clue scroll (hard)",
@@ -357132,6 +357932,11 @@
           "quantity": "1"
         },
         {
+          "name": "Lynx bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (easy)",
           "rarity": "1/128",
           "quantity": "1"
@@ -357152,6 +357957,11 @@
       "regular": [
         {
           "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Lynx bone",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -357185,6 +357995,11 @@
           "quantity": "1"
         },
         {
+          "name": "Boar bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/128",
           "quantity": "1"
@@ -357210,6 +358025,11 @@
         },
         {
           "name": "Raw boar meat",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Boar bone",
           "rarity": "Always",
           "quantity": "1"
         },
@@ -361340,7 +362160,7 @@
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "1/40.96",
+          "rarity": "1/41",
           "quantity": "1"
         },
         {
@@ -361355,7 +362175,7 @@
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1/68.27",
+          "rarity": "1/68.3",
           "quantity": "1"
         },
         {
@@ -361565,7 +362385,7 @@
         },
         {
           "name": "Grimy avantoe",
-          "rarity": "1/40.96",
+          "rarity": "1/41",
           "quantity": "1"
         },
         {
@@ -361580,7 +362400,7 @@
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1/68.27",
+          "rarity": "1/68.3",
           "quantity": "1"
         },
         {
@@ -375463,6 +376283,11 @@
           "quantity": "5–204"
         },
         {
+          "name": "Cyclops bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (hard)",
           "rarity": "1/512",
           "quantity": "1"
@@ -375838,6 +376663,11 @@
           "quantity": "5–204"
         },
         {
+          "name": "Cyclops bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (hard)",
           "rarity": "1/512",
           "quantity": "1"
@@ -376211,6 +377041,11 @@
           "name": "Coins",
           "rarity": "10/100",
           "quantity": "5–204"
+        },
+        {
+          "name": "Cyclops bone",
+          "rarity": "Always",
+          "quantity": "1"
         },
         {
           "name": "Clue scroll (hard)",
@@ -376608,6 +377443,11 @@
           "quantity": "5–204"
         },
         {
+          "name": "Cyclops bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (hard)",
           "rarity": "1/512",
           "quantity": "1"
@@ -376960,6 +377800,11 @@
         {
           "name": "Giant key",
           "rarity": "1/128",
+          "quantity": "1"
+        },
+        {
+          "name": "Cyclops bone",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -377375,6 +378220,19 @@
       "12334"
     ],
     "combat_level": null,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Lost Soul",
+    "id": [
+      "16903"
+    ],
+    "combat_level": 10,
     "slayer_level": 1,
     "is_members_only": true,
     "drops": {
@@ -388865,7 +389723,7 @@
         },
         {
           "name": "Terrorbird wing",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -389067,6 +389925,11 @@
           "name": "Perfect shell",
           "rarity": "2/64",
           "quantity": "1–3"
+        },
+        {
+          "name": "Tortoise bone",
+          "rarity": "Always",
+          "quantity": "1"
         },
         {
           "name": "Clue scroll (hard)",
@@ -389274,6 +390137,11 @@
           "quantity": "1–3"
         },
         {
+          "name": "Tortoise bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (hard)",
           "rarity": "Rare",
           "quantity": "1"
@@ -389470,7 +390338,7 @@
         },
         {
           "name": "Terrorbird wing",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -389662,7 +390530,7 @@
         },
         {
           "name": "Terrorbird wing",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -392763,7 +393631,7 @@
         },
         {
           "name": "Grimy torstol",
-          "rarity": "1/682.67",
+          "rarity": "1/682.7",
           "quantity": "1"
         },
         {
@@ -397256,7 +398124,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -397416,7 +398284,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -397591,7 +398459,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -397751,7 +398619,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -397926,7 +398794,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -398086,7 +398954,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -398275,7 +399143,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -398510,7 +399378,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -398745,7 +399613,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -398980,7 +399848,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -399215,7 +400083,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -399450,7 +400318,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -415343,7 +416211,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -415364,6 +416232,11 @@
         {
           "name": "Clue scroll (hard)",
           "rarity": "1/100",
+          "quantity": "1"
+        },
+        {
+          "name": "Armoured zombie bone",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -415578,7 +416451,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -415599,6 +416472,11 @@
         {
           "name": "Clue scroll (hard)",
           "rarity": "1/100",
+          "quantity": "1"
+        },
+        {
+          "name": "Armoured zombie bone",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -415813,7 +416691,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -415834,6 +416712,11 @@
         {
           "name": "Clue scroll (hard)",
           "rarity": "1/100",
+          "quantity": "1"
+        },
+        {
+          "name": "Armoured zombie bone",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -416048,7 +416931,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -416069,6 +416952,11 @@
         {
           "name": "Clue scroll (hard)",
           "rarity": "1/100",
+          "quantity": "1"
+        },
+        {
+          "name": "Armoured zombie bone",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -416283,7 +417171,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -416304,6 +417192,11 @@
         {
           "name": "Clue scroll (hard)",
           "rarity": "1/100",
+          "quantity": "1"
+        },
+        {
+          "name": "Armoured zombie bone",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -416518,7 +417411,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -416539,6 +417432,11 @@
         {
           "name": "Clue scroll (hard)",
           "rarity": "1/100",
+          "quantity": "1"
+        },
+        {
+          "name": "Armoured zombie bone",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -416753,7 +417651,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -416774,6 +417672,11 @@
         {
           "name": "Clue scroll (hard)",
           "rarity": "1/100",
+          "quantity": "1"
+        },
+        {
+          "name": "Armoured zombie bone",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -416988,7 +417891,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -417009,6 +417912,11 @@
         {
           "name": "Clue scroll (hard)",
           "rarity": "1/100",
+          "quantity": "1"
+        },
+        {
+          "name": "Armoured zombie bone",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -417223,7 +418131,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -417244,6 +418152,11 @@
         {
           "name": "Clue scroll (hard)",
           "rarity": "1/100",
+          "quantity": "1"
+        },
+        {
+          "name": "Armoured zombie bone",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -417458,7 +418371,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -417479,6 +418392,11 @@
         {
           "name": "Clue scroll (hard)",
           "rarity": "1/100",
+          "quantity": "1"
+        },
+        {
+          "name": "Armoured zombie bone",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -417879,7 +418797,7 @@
         },
         {
           "name": "Moss giant bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -423971,7 +424889,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -424231,7 +425149,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -424491,7 +425409,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -424751,7 +425669,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -425011,7 +425929,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -425271,7 +426189,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -425531,7 +426449,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -425791,7 +426709,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -426051,7 +426969,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -426311,7 +427229,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -426571,7 +427489,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -426831,7 +427749,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -427076,7 +427994,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -427306,7 +428224,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -427536,7 +428454,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -427766,7 +428684,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -429060,7 +429978,7 @@
         },
         {
           "name": "Troll bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -429132,7 +430050,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -429166,7 +430084,7 @@
         },
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -441479,7 +442397,7 @@
       "regular": [
         {
           "name": "Zombie bone#Unpolished",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         },
         {
@@ -441917,7 +442835,7 @@
         },
         {
           "name": "Dagannoth ribs",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -442243,7 +443161,7 @@
         },
         {
           "name": "Troll bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -442267,7 +443185,7 @@
         },
         {
           "name": "Troll bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -442336,7 +443254,7 @@
         },
         {
           "name": "Troll bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -443917,7 +444835,7 @@
         },
         {
           "name": "Troll bone",
-          "rarity": "1/4",
+          "rarity": "Always",
           "quantity": "1"
         }
       ],
@@ -444275,7 +445193,7 @@
   {
     "name": "Archive Guardian",
     "id": [
-      "16659"
+      "16660"
     ],
     "combat_level": 984,
     "slayer_level": 1,
@@ -447758,6 +448676,11 @@
           "quantity": "100–120"
         },
         {
+          "name": "Cow bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/15",
           "quantity": "1"
@@ -447897,6 +448820,11 @@
           "quantity": "100–120"
         },
         {
+          "name": "Cow bone",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
           "name": "Clue scroll (beginner)",
           "rarity": "1/15",
           "quantity": "1"
@@ -448034,6 +448962,11 @@
           "name": "Coins",
           "rarity": "5/81",
           "quantity": "100–120"
+        },
+        {
+          "name": "Cow bone",
+          "rarity": "Always",
+          "quantity": "1"
         },
         {
           "name": "Clue scroll (beginner)",
@@ -452648,6 +453581,502 @@
     "is_members_only": false,
     "drops": {
       "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Skeletal Horror",
+    "id": [
+      "16912",
+      "16913"
+    ],
+    "combat_level": 220,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Skeletal Hand",
+    "id": [
+      "16923"
+    ],
+    "combat_level": 71,
+    "slayer_level": 5,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Shadow Rift",
+    "id": [
+      "16922"
+    ],
+    "combat_level": null,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Ancient Banshee",
+    "id": [
+      "16919"
+    ],
+    "combat_level": 113,
+    "slayer_level": 15,
+    "is_members_only": true,
+    "drops": {
+      "regular": [],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Gardener of Armadyl",
+    "id": [
+      "16892"
+    ],
+    "combat_level": 64,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Goblin meat tenderiser",
+    "id": [
+      "16891"
+    ],
+    "combat_level": 50,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Fermenter of chaos",
+    "id": [
+      "16890"
+    ],
+    "combat_level": 53,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Sir Loin",
+    "id": [
+      "16889"
+    ],
+    "combat_level": 52,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Bandit cactus cultivator",
+    "id": [
+      "16893"
+    ],
+    "combat_level": 57,
+    "slayer_level": 1,
+    "is_members_only": true,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Evil Chicken",
+    "id": [
+      "hist5446"
+    ],
+    "combat_level": 19,
+    "slayer_level": 1,
+    "is_members_only": false,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Raw chicken",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Feather",
+          "rarity": "Always",
+          "quantity": "Unknown"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Evil Chicken",
+    "id": [
+      "hist5448"
+    ],
+    "combat_level": 69,
+    "slayer_level": 1,
+    "is_members_only": false,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Raw chicken",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Feather",
+          "rarity": "Always",
+          "quantity": "Unknown"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Evil Chicken",
+    "id": [
+      "hist5451"
+    ],
+    "combat_level": 159,
+    "slayer_level": 1,
+    "is_members_only": false,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Raw chicken",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Feather",
+          "rarity": "Always",
+          "quantity": "Unknown"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Evil Chicken",
+    "id": [
+      "hist5447"
+    ],
+    "combat_level": 38,
+    "slayer_level": 1,
+    "is_members_only": false,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Raw chicken",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Feather",
+          "rarity": "Always",
+          "quantity": "Unknown"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Evil Chicken",
+    "id": [
+      "hist5450"
+    ],
+    "combat_level": 121,
+    "slayer_level": 1,
+    "is_members_only": false,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Raw chicken",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Feather",
+          "rarity": "Always",
+          "quantity": "Unknown"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Evil Chicken",
+    "id": [
+      "hist5449"
+    ],
+    "combat_level": 81,
+    "slayer_level": 1,
+    "is_members_only": false,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Raw chicken",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Feather",
+          "rarity": "Always",
+          "quantity": "Unknown"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Evil Chicken",
+    "id": [
+      "hist5457"
+    ],
+    "combat_level": 159,
+    "slayer_level": 1,
+    "is_members_only": false,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Raw chicken",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Feather",
+          "rarity": "Always",
+          "quantity": "Unknown"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Evil Chicken",
+    "id": [
+      "hist5454"
+    ],
+    "combat_level": 69,
+    "slayer_level": 1,
+    "is_members_only": false,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Raw chicken",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Feather",
+          "rarity": "Always",
+          "quantity": "Unknown"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Evil Chicken",
+    "id": [
+      "hist5456"
+    ],
+    "combat_level": 121,
+    "slayer_level": 1,
+    "is_members_only": false,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Raw chicken",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Feather",
+          "rarity": "Always",
+          "quantity": "Unknown"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Evil Chicken",
+    "id": [
+      "hist5453"
+    ],
+    "combat_level": 38,
+    "slayer_level": 1,
+    "is_members_only": false,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Raw chicken",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Feather",
+          "rarity": "Always",
+          "quantity": "Unknown"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Evil Chicken",
+    "id": [
+      "hist5455"
+    ],
+    "combat_level": 81,
+    "slayer_level": 1,
+    "is_members_only": false,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Raw chicken",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Feather",
+          "rarity": "Always",
+          "quantity": "Unknown"
+        }
+      ],
+      "rare_drop_table": []
+    }
+  },
+  {
+    "name": "Evil Chicken",
+    "id": [
+      "hist5452"
+    ],
+    "combat_level": 19,
+    "slayer_level": 1,
+    "is_members_only": false,
+    "drops": {
+      "regular": [
+        {
+          "name": "Bones",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Raw chicken",
+          "rarity": "Always",
+          "quantity": "1"
+        },
+        {
+          "name": "Feather",
+          "rarity": "Always",
+          "quantity": "Unknown"
+        }
+      ],
       "rare_drop_table": []
     }
   }

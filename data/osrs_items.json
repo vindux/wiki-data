@@ -1280,8 +1280,8 @@
       "472"
     ],
     "weight": 1.814,
-    "value": 1,
-    "high_alchemy_value": 0,
+    "value": 17,
+    "high_alchemy_value": 10,
     "buy_limit": 0,
     "examine": "Nurmof can fix this for me.",
     "is_members_only": false
@@ -8264,7 +8264,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "The Bonesack is a little old item that protects like leather.",
+    "examine": "The bonesack is a little old item that protects like leather.",
     "is_members_only": true
   },
   {
@@ -20768,8 +20768,8 @@
       "478"
     ],
     "weight": 1.814,
-    "value": 1,
-    "high_alchemy_value": 0,
+    "value": 1100,
+    "high_alchemy_value": 660,
     "buy_limit": 0,
     "examine": "Nurmof can fix this for me.",
     "is_members_only": false
@@ -28397,7 +28397,7 @@
       "468"
     ],
     "weight": 1.814,
-    "value": 1,
+    "value": 0,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Nurmof can fix this for me.",
@@ -28462,7 +28462,7 @@
       "470"
     ],
     "weight": 1.814,
-    "value": 1,
+    "value": 0,
     "high_alchemy_value": 0,
     "buy_limit": 0,
     "examine": "Nurmof can fix this for me.",
@@ -28475,8 +28475,8 @@
       "476"
     ],
     "weight": 1.814,
-    "value": 1,
-    "high_alchemy_value": 0,
+    "value": 107,
+    "high_alchemy_value": 64,
     "buy_limit": 0,
     "examine": "Nurmof can fix this for me.",
     "is_members_only": false
@@ -28488,8 +28488,8 @@
       "474"
     ],
     "weight": 1.814,
-    "value": 1,
-    "high_alchemy_value": 0,
+    "value": 43,
+    "high_alchemy_value": 25,
     "buy_limit": 0,
     "examine": "Nurmof can fix this for me.",
     "is_members_only": false
@@ -29414,7 +29414,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -31156,7 +31156,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -32404,7 +32404,7 @@
     "value": 0,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "Well, this pot is certainly full of vinegar and no mistake.",
+    "examine": "Well, this pot is certainly full of vinegar, make no mistake.",
     "is_members_only": true
   },
   {
@@ -37383,7 +37383,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -41764,7 +41764,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This needs a good polish.",
+    "examine": "These need a good polish.",
     "is_members_only": true
   },
   {
@@ -41777,7 +41777,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "These belong in a museum!",
     "is_members_only": true
   },
   {
@@ -49915,7 +49915,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This needs a good polish.",
+    "examine": "These need a good polish.",
     "is_members_only": true
   },
   {
@@ -49928,7 +49928,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "These belong in a museum!",
     "is_members_only": true
   },
   {
@@ -51644,7 +51644,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -61321,7 +61321,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -61737,7 +61737,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -61763,7 +61763,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -61815,7 +61815,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -61841,7 +61841,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -61867,462 +61867,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Mogre bone",
-    "item_id": [
-      "7852"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a mogre bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Jogre bone",
-    "item_id": [
-      "7846"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a jogre bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Ice giant ribs",
-    "item_id": [
-      "7876"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is an ice giant bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Big frog leg",
-    "item_id": [
-      "7909"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a big frog bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Giant rat bone",
-    "item_id": [
-      "7825"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a giant rat bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Rat bone",
-    "item_id": [
-      "7837"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a rat bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Monkey paw",
-    "item_id": [
-      "7855"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a monkey bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Desert lizard bone",
-    "item_id": [
-      "7903"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a desert lizard bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Ghoul bone",
-    "item_id": [
-      "7882"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a ghoul bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Moss giant bone",
-    "item_id": [
-      "7870"
-    ],
-    "weight": 0.907,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "A Moss Giant's bone",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Terrorbird wing",
-    "item_id": [
-      "7879"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a terrorbird bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Zombie bone",
-    "item_id": [
-      "7864"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a zombie bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Fire giant bone",
-    "item_id": [
-      "7873"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a fire giant bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Snake spine",
-    "item_id": [
-      "7861"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a snake bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Goblin skull",
-    "item_id": [
-      "7813"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a goblin bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Ogre ribs",
-    "item_id": [
-      "7843"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is an ogre bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Vulture wing",
-    "item_id": [
-      "7912"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a vulture bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Werewolf bone",
-    "item_id": [
-      "7867"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a werewolf bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Bear ribs",
-    "item_id": [
-      "7816"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a bear bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Jackal bone",
-    "item_id": [
-      "7915"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a jackal bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Basilisk bone",
-    "item_id": [
-      "7900"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a basilisk bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Zogre bone",
-    "item_id": [
-      "7849"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a zogre bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Rabbit bone",
-    "item_id": [
-      "7897"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a rabbit bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Unicorn bone",
-    "item_id": [
-      "7822"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a unicorn bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Bat wing",
-    "item_id": [
-      "7834"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a bat bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Cave goblin skull",
-    "item_id": [
-      "7906"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a cave goblin bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Ram skull",
-    "item_id": [
-      "7819"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a ram bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Wolf bone",
-    "item_id": [
-      "7831"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a wolf bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Undead cow ribs",
-    "item_id": [
-      "7891"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is an undead cow bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Dagannoth ribs",
-    "item_id": [
-      "7858"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a Dagannoth bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Experiment bone",
-    "item_id": [
-      "7894"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is an experiment bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Giant bat wing",
-    "item_id": [
-      "7828"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a giant bat bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Troll bone",
-    "item_id": [
-      "7885"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a troll bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Baby dragon bone",
-    "item_id": [
-      "7840"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a baby blue dragon bone in here.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Bone in vinegar",
-    "item_name_variant": "Bone in vinegar#Seagull wing",
-    "item_id": [
-      "7888"
-    ],
-    "weight": 1.36,
-    "value": 0,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "There is a seagull bone in here.",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -64412,7 +63957,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -64438,7 +63983,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -64477,7 +64022,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This needs a good polish.",
+    "examine": "These need a good polish.",
     "is_members_only": true
   },
   {
@@ -64490,7 +64035,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "These belong in a museum!",
     "is_members_only": true
   },
   {
@@ -64516,7 +64061,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -64542,7 +64087,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -64568,7 +64113,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -64594,7 +64139,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -64620,7 +64165,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -64646,7 +64191,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -64672,7 +64217,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -64685,7 +64230,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This needs a good polish.",
+    "examine": "These need a good polish.",
     "is_members_only": true
   },
   {
@@ -64698,7 +64243,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "These belong in a museum!",
     "is_members_only": true
   },
   {
@@ -64724,7 +64269,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -64737,7 +64282,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This needs a good polish.",
+    "examine": "These need a good polish.",
     "is_members_only": true
   },
   {
@@ -64750,7 +64295,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "These belong in a museum!",
     "is_members_only": true
   },
   {
@@ -64776,7 +64321,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -64802,7 +64347,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -64828,7 +64373,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -64854,7 +64399,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -64880,7 +64425,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -64906,7 +64451,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -64932,7 +64477,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -64958,7 +64503,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -64984,7 +64529,7 @@
     "value": 1,
     "high_alchemy_value": 0,
     "buy_limit": 0,
-    "examine": "This bone belongs in a museum!",
+    "examine": "This belongs in a museum!",
     "is_members_only": true
   },
   {
@@ -101895,8 +101440,8 @@
       "12592"
     ],
     "weight": 1.814,
-    "value": 1,
-    "high_alchemy_value": 0,
+    "value": 499,
+    "high_alchemy_value": 299,
     "buy_limit": 0,
     "examine": "It's missing a handle.",
     "is_members_only": false
@@ -111203,8 +110748,8 @@
       "482"
     ],
     "weight": 1.814,
-    "value": 1,
-    "high_alchemy_value": 0,
+    "value": 139,
+    "high_alchemy_value": 83,
     "buy_limit": 0,
     "examine": "It's missing a handle.",
     "is_members_only": false
@@ -111216,8 +110761,8 @@
       "484"
     ],
     "weight": 1.814,
-    "value": 1,
-    "high_alchemy_value": 0,
+    "value": 499,
+    "high_alchemy_value": 299,
     "buy_limit": 0,
     "examine": "It's missing a handle.",
     "is_members_only": false
@@ -111229,8 +110774,8 @@
       "486"
     ],
     "weight": 1.814,
-    "value": 1,
-    "high_alchemy_value": 0,
+    "value": 1299,
+    "high_alchemy_value": 779,
     "buy_limit": 0,
     "examine": "It's missing a handle.",
     "is_members_only": false
@@ -111242,8 +110787,8 @@
       "488"
     ],
     "weight": 1.814,
-    "value": 1,
-    "high_alchemy_value": 0,
+    "value": 3199,
+    "high_alchemy_value": 1919,
     "buy_limit": 0,
     "examine": "It's missing a handle.",
     "is_members_only": false
@@ -111255,8 +110800,8 @@
       "490"
     ],
     "weight": 1.814,
-    "value": 1,
-    "high_alchemy_value": 0,
+    "value": 31999,
+    "high_alchemy_value": 19199,
     "buy_limit": 0,
     "examine": "It's missing a handle.",
     "is_members_only": false
@@ -111268,8 +110813,8 @@
       "12594"
     ],
     "weight": 1.814,
-    "value": 1,
-    "high_alchemy_value": 0,
+    "value": 17,
+    "high_alchemy_value": 10,
     "buy_limit": 0,
     "examine": "Nurmof can fix this for me.",
     "is_members_only": false
@@ -111281,8 +110826,8 @@
       "11923"
     ],
     "weight": 2.267,
-    "value": 1,
-    "high_alchemy_value": 0,
+    "value": 19000,
+    "high_alchemy_value": 11400,
     "buy_limit": 0,
     "examine": "Nurmof can fix this for me.",
     "is_members_only": false
@@ -121318,8 +120863,8 @@
       "508"
     ],
     "weight": 0.907,
-    "value": 1,
-    "high_alchemy_value": 0,
+    "value": 15,
+    "high_alchemy_value": 9,
     "buy_limit": 0,
     "examine": "It's missing a handle.",
     "is_members_only": false
@@ -121331,8 +120876,8 @@
       "510"
     ],
     "weight": 0.907,
-    "value": 1,
-    "high_alchemy_value": 0,
+    "value": 55,
+    "high_alchemy_value": 33,
     "buy_limit": 0,
     "examine": "It's missing a handle.",
     "is_members_only": false
@@ -121344,8 +120889,8 @@
       "512"
     ],
     "weight": 0.907,
-    "value": 1,
-    "high_alchemy_value": 0,
+    "value": 199,
+    "high_alchemy_value": 119,
     "buy_limit": 0,
     "examine": "It's missing a handle.",
     "is_members_only": false
@@ -121357,8 +120902,8 @@
       "514"
     ],
     "weight": 0.907,
-    "value": 1,
-    "high_alchemy_value": 0,
+    "value": 383,
+    "high_alchemy_value": 229,
     "buy_limit": 0,
     "examine": "It's missing a handle.",
     "is_members_only": false
@@ -121370,8 +120915,8 @@
       "516"
     ],
     "weight": 0.68,
-    "value": 1,
-    "high_alchemy_value": 0,
+    "value": 519,
+    "high_alchemy_value": 311,
     "buy_limit": 0,
     "examine": "It's missing a handle.",
     "is_members_only": false
@@ -121383,8 +120928,8 @@
       "518"
     ],
     "weight": 1.133,
-    "value": 1,
-    "high_alchemy_value": 0,
+    "value": 1279,
+    "high_alchemy_value": 767,
     "buy_limit": 0,
     "examine": "It's missing a handle.",
     "is_members_only": false
@@ -121396,8 +120941,8 @@
       "520"
     ],
     "weight": 0.907,
-    "value": 1,
-    "high_alchemy_value": 0,
+    "value": 12799,
+    "high_alchemy_value": 7679,
     "buy_limit": 0,
     "examine": "It's missing a handle.",
     "is_members_only": false
@@ -121409,11 +120954,11 @@
       "6743"
     ],
     "weight": 0.907,
-    "value": 1,
-    "high_alchemy_value": 0,
+    "value": 54999,
+    "high_alchemy_value": 32999,
     "buy_limit": 0,
     "examine": "It's missing a handle.",
-    "is_members_only": false
+    "is_members_only": true
   },
   {
     "item_name": "Eldritch orb",
@@ -197641,7 +197186,7 @@
     "weight": 0.1,
     "value": 120,
     "high_alchemy_value": 72,
-    "buy_limit": 13000,
+    "buy_limit": 11000,
     "examine": "Spun from cotton bolls.",
     "is_members_only": true
   },
@@ -198525,7 +198070,7 @@
     "weight": 0,
     "value": 2800,
     "high_alchemy_value": 1680,
-    "buy_limit": 0,
+    "buy_limit": 11000,
     "examine": "Ammo suited for a boat's cannon.",
     "is_members_only": true
   },
@@ -220125,19 +219670,6 @@
   },
   {
     "item_name": "Orion",
-    "item_name_variant": "Orion#Orion (robed)",
-    "item_id": [
-      "34648"
-    ],
-    "weight": 0.015,
-    "value": 1,
-    "high_alchemy_value": 0,
-    "buy_limit": 0,
-    "examine": "Reality trembles with their mere presence.",
-    "is_members_only": true
-  },
-  {
-    "item_name": "Orion",
     "item_name_variant": "Orion#Orion",
     "item_id": [
       "34646"
@@ -220966,5 +220498,1929 @@
     "buy_limit": 0,
     "examine": "Some dry wooden sticks. They look sturdy.",
     "is_members_only": true
+  },
+  {
+    "item_name": "The Bib Vol. 1: Seeds of Truth",
+    "item_name_variant": "The Bib Vol. 1: Seeds of Truth",
+    "item_id": [
+      "34810"
+    ],
+    "weight": 1,
+    "value": 200,
+    "high_alchemy_value": 120,
+    "buy_limit": 0,
+    "examine": "The first volume of the holy books of Brassica Prime.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Prayer to Brassica",
+    "item_name_variant": "Prayer to Brassica",
+    "item_id": [
+      "34833"
+    ],
+    "weight": 0.02,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A Prayer to Brassica Prime that humbly requests that your crops will grow faster.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Communication cabbage",
+    "item_name_variant": "Communication cabbage",
+    "item_id": [
+      "34808"
+    ],
+    "weight": 0.453,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "There is a message carved into this cabbage. Luckily, the first bite is with the eye.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Perfect potato",
+    "item_name_variant": "Perfect potato",
+    "item_id": [
+      "34827"
+    ],
+    "weight": 0.5,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A Starch's final form.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Perfect cabbage",
+    "item_name_variant": "Perfect cabbage",
+    "item_id": [
+      "34825"
+    ],
+    "weight": 0.453,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "What could be more perfect than a cabbage? A perfect cabbage of course.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Perfect rosemary",
+    "item_name_variant": "Perfect rosemary",
+    "item_id": [
+      "34829"
+    ],
+    "weight": 0.028,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "The most flavourful flavour leaves.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Perfect cabbage stew",
+    "item_name_variant": "Perfect cabbage stew",
+    "item_id": [
+      "34831"
+    ],
+    "weight": 1.5,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Radiates comfort.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Seed of growth",
+    "item_name_variant": "Seed of growth",
+    "item_id": [
+      "34813"
+    ],
+    "weight": 0,
+    "value": 250,
+    "high_alchemy_value": 150,
+    "buy_limit": 0,
+    "examine": "Planting this will return you to the Farming Guild.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "All Potions Are Gazpacho Vol. 2: The Cabbage Years",
+    "item_name_variant": "All Potions Are Gazpacho Vol. 2: The Cabbage Years",
+    "item_id": [
+      "34821"
+    ],
+    "weight": 0.51,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This book contains many detailed and seemingly useless potions that use cabbage leaves as their base herb.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Cabbage water",
+    "item_name_variant": "Cabbage water",
+    "item_id": [
+      "34815"
+    ],
+    "weight": 0.035,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "One fancy bottle away from being a high cost diet smoothie.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Blessed compost",
+    "item_name_variant": "Blessed compost",
+    "item_id": [
+      "34819"
+    ],
+    "weight": 3,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Though the compost emits a divine glow, it still smells pretty rotten.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Brassican sentience potion",
+    "item_name_variant": "Brassican sentience potion",
+    "item_id": [
+      "34817"
+    ],
+    "weight": 0.035,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Only for consumption by pre-blessed brassican plants. Do not mix with fish eggs.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Sprout spy",
+    "item_name_variant": "Sprout spy",
+    "item_id": [
+      "34823"
+    ],
+    "weight": 0,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Also known as a brussels scout.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Sedridor's staff",
+    "item_name_variant": "Sedridor's staff",
+    "item_id": [
+      "34835"
+    ],
+    "weight": 1.814,
+    "value": 30,
+    "high_alchemy_value": 18,
+    "buy_limit": 0,
+    "examine": "It's a slightly magical stick.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Heavy bonesack",
+    "item_name_variant": "Heavy bonesack#Opened",
+    "item_id": [
+      "34842"
+    ],
+    "weight": 3,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Looks large enough to hold exactly 28 sets of bones! Currently open.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Heavy bonesack",
+    "item_name_variant": "Heavy bonesack#Closed",
+    "item_id": [
+      "34840"
+    ],
+    "weight": 3,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Looks sturdy enough to hold exactly 28 sets of bones!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Asylum key",
+    "item_name_variant": "Asylum key",
+    "item_id": [
+      "34836"
+    ],
+    "weight": 0.012,
+    "value": 30,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A very old key.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Antique lamp (A New Leaf)",
+    "item_name_variant": "Antique lamp (A New Leaf)",
+    "item_id": [
+      "34812"
+    ],
+    "weight": 0.1,
+    "value": 50,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Good for rubbing.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Condition notes",
+    "item_name_variant": "Condition notes",
+    "item_id": [
+      "34839"
+    ],
+    "weight": 0.28,
+    "value": 30,
+    "high_alchemy_value": 18,
+    "buy_limit": 0,
+    "examine": "Observations on some sort of condition.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Goblin skull in vinegar",
+    "item_name_variant": "Goblin skull in vinegar",
+    "item_id": [
+      "7813"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Bear ribs in vinegar",
+    "item_name_variant": "Bear ribs in vinegar",
+    "item_id": [
+      "7816"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ram skull in vinegar",
+    "item_name_variant": "Ram skull in vinegar",
+    "item_id": [
+      "7819"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Unicorn bone in vinegar",
+    "item_name_variant": "Unicorn bone in vinegar",
+    "item_id": [
+      "7822"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Giant rat bone in vinegar",
+    "item_name_variant": "Giant rat bone in vinegar",
+    "item_id": [
+      "7825"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Guthixian root",
+    "item_name_variant": "Guthixian root",
+    "item_id": [
+      "35026"
+    ],
+    "weight": 0.001,
+    "value": 10,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A restorative root from the Archive.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Giant bat wing in vinegar",
+    "item_name_variant": "Giant bat wing in vinegar",
+    "item_id": [
+      "7825"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Monkey paw in vinegar",
+    "item_name_variant": "Monkey paw in vinegar",
+    "item_id": [
+      "7855"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Big frog leg in vinegar",
+    "item_name_variant": "Big frog leg in vinegar",
+    "item_id": [
+      "7909"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wolf bone in vinegar",
+    "item_name_variant": "Wolf bone in vinegar",
+    "item_id": [
+      "7831"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Bat wing in vinegar",
+    "item_name_variant": "Bat wing in vinegar",
+    "item_id": [
+      "7834"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Rat bone in vinegar",
+    "item_name_variant": "Rat bone in vinegar",
+    "item_id": [
+      "7837"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Angry giant rat bone",
+    "item_name_variant": "Angry giant rat bone#Unpolished",
+    "item_id": [
+      "34966"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Angry giant rat bone",
+    "item_name_variant": "Angry giant rat bone#Polished",
+    "item_id": [
+      "34906"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Baby dragon bone in vinegar",
+    "item_name_variant": "Baby dragon bone in vinegar",
+    "item_id": [
+      "7840"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ogre ribs in vinegar",
+    "item_name_variant": "Ogre ribs in vinegar",
+    "item_id": [
+      "7843"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ankou bone",
+    "item_name_variant": "Ankou bone#Unpolished",
+    "item_id": [
+      "34968"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ankou bone",
+    "item_name_variant": "Ankou bone#Polished",
+    "item_id": [
+      "34908"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Jogre bone in vinegar",
+    "item_name_variant": "Jogre bone in vinegar",
+    "item_id": [
+      "7846"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Armoured zombie bone",
+    "item_name_variant": "Armoured zombie bone#Unpolished",
+    "item_id": [
+      "34970"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Armoured zombie bone",
+    "item_name_variant": "Armoured zombie bone#Polished",
+    "item_id": [
+      "34910"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Zogre bone in vinegar",
+    "item_name_variant": "Zogre bone in vinegar",
+    "item_id": [
+      "7849"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Mogre bone in vinegar",
+    "item_name_variant": "Mogre bone in vinegar",
+    "item_id": [
+      "7852"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Dagannoth ribs in vinegar",
+    "item_name_variant": "Dagannoth ribs in vinegar",
+    "item_id": [
+      "7858"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Snake spine in vinegar",
+    "item_name_variant": "Snake spine in vinegar",
+    "item_id": [
+      "7861"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Zombie bone in vinegar",
+    "item_name_variant": "Zombie bone in vinegar",
+    "item_id": [
+      "7864"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Werewolf bone in vinegar",
+    "item_name_variant": "Werewolf bone in vinegar",
+    "item_id": [
+      "7867"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Aviansie wing",
+    "item_name_variant": "Aviansie wing#Unpolished",
+    "item_id": [
+      "34972"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Aviansie wing",
+    "item_name_variant": "Aviansie wing#Polished",
+    "item_id": [
+      "34912"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Moss giant bone in vinegar",
+    "item_name_variant": "Moss giant bone in vinegar",
+    "item_id": [
+      "7870"
+    ],
+    "weight": 0.907,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Blue dragon bone",
+    "item_name_variant": "Blue dragon bone#Unpolished",
+    "item_id": [
+      "34974"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Blue dragon bone",
+    "item_name_variant": "Blue dragon bone#Polished",
+    "item_id": [
+      "34914"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Fire giant bone in vinegar",
+    "item_name_variant": "Fire giant bone in vinegar",
+    "item_id": [
+      "7873"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Boar bone",
+    "item_name_variant": "Boar bone#Unpolished",
+    "item_id": [
+      "34976"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Boar bone",
+    "item_name_variant": "Boar bone#Polished",
+    "item_id": [
+      "34916"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Catablepon ribs",
+    "item_name_variant": "Catablepon ribs#Unpolished",
+    "item_id": [
+      "34978"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Catablepon ribs",
+    "item_name_variant": "Catablepon ribs#Polished",
+    "item_id": [
+      "34918"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ice giant ribs in vinegar",
+    "item_name_variant": "Ice giant ribs in vinegar",
+    "item_id": [
+      "7876"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Cave horror bone",
+    "item_name_variant": "Cave horror bone#Unpolished",
+    "item_id": [
+      "34980"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Cave horror bone",
+    "item_name_variant": "Cave horror bone#Polished",
+    "item_id": [
+      "34920"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Terrorbird wing in vinegar",
+    "item_name_variant": "Terrorbird wing in vinegar",
+    "item_id": [
+      "7879"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ghoul bone in vinegar",
+    "item_name_variant": "Ghoul bone in vinegar",
+    "item_id": [
+      "7882"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Chicken wing",
+    "item_name_variant": "Chicken wing#Unpolished",
+    "item_id": [
+      "34982"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Chicken wing",
+    "item_name_variant": "Chicken wing#Polished",
+    "item_id": [
+      "34922"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Colonel radick's bone",
+    "item_name_variant": "Colonel radick's bone#Unpolished",
+    "item_id": [
+      "34984"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Colonel radick's bone",
+    "item_name_variant": "Colonel radick's bone#Polished",
+    "item_id": [
+      "34924"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Troll bone in vinegar",
+    "item_name_variant": "Troll bone in vinegar",
+    "item_id": [
+      "7885"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Seagull wing in vinegar",
+    "item_name_variant": "Seagull wing in vinegar",
+    "item_id": [
+      "7888"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Cow bone",
+    "item_name_variant": "Cow bone#Unpolished",
+    "item_id": [
+      "34986"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Cow bone",
+    "item_name_variant": "Cow bone#Polished",
+    "item_id": [
+      "34926"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Undead cow ribs in vinegar",
+    "item_name_variant": "Undead cow ribs in vinegar",
+    "item_id": [
+      "7891"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Experiment bone in vinegar",
+    "item_name_variant": "Experiment bone in vinegar",
+    "item_id": [
+      "7894"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Crawling hand bone",
+    "item_name_variant": "Crawling hand bone#Unpolished",
+    "item_id": [
+      "34988"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Crawling hand bone",
+    "item_name_variant": "Crawling hand bone#Polished",
+    "item_id": [
+      "34928"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Rabbit bone in vinegar",
+    "item_name_variant": "Rabbit bone in vinegar",
+    "item_id": [
+      "7897"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Crocodile bone",
+    "item_name_variant": "Crocodile bone#Unpolished",
+    "item_id": [
+      "34990"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Crocodile bone",
+    "item_name_variant": "Crocodile bone#Polished",
+    "item_id": [
+      "34930"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Basilisk bone in vinegar",
+    "item_name_variant": "Basilisk bone in vinegar",
+    "item_id": [
+      "7900"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Desert lizard bone in vinegar",
+    "item_name_variant": "Desert lizard bone in vinegar",
+    "item_id": [
+      "7903"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Cyclops bone",
+    "item_name_variant": "Cyclops bone#Unpolished",
+    "item_id": [
+      "34992"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Cyclops bone",
+    "item_name_variant": "Cyclops bone#Polished",
+    "item_id": [
+      "34932"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Cave goblin skull in vinegar",
+    "item_name_variant": "Cave goblin skull in vinegar",
+    "item_id": [
+      "7905"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Vulture wing in vinegar",
+    "item_name_variant": "Vulture wing in vinegar",
+    "item_id": [
+      "7912"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Jackal bone in vinegar",
+    "item_name_variant": "Jackal bone in vinegar",
+    "item_id": [
+      "7915"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Druid ribs",
+    "item_name_variant": "Druid ribs#Unpolished",
+    "item_id": [
+      "34994"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Druid ribs",
+    "item_name_variant": "Druid ribs#Polished",
+    "item_id": [
+      "34934"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Fox bone",
+    "item_name_variant": "Fox bone#Unpolished",
+    "item_id": [
+      "34996"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Fox bone",
+    "item_name_variant": "Fox bone#Polished",
+    "item_id": [
+      "34936"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Frogeel spine",
+    "item_name_variant": "Frogeel spine#Unpolished",
+    "item_id": [
+      "34998"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Frogeel spine",
+    "item_name_variant": "Frogeel spine#Polished",
+    "item_id": [
+      "34938"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Gnome child bone",
+    "item_name_variant": "Gnome child bone#Unpolished",
+    "item_id": [
+      "35000"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Gnome child bone",
+    "item_name_variant": "Gnome child bone#Polished",
+    "item_id": [
+      "34940"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Goat ribs",
+    "item_name_variant": "Goat ribs#Unpolished",
+    "item_id": [
+      "34502"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Goat ribs",
+    "item_name_variant": "Goat ribs#Polished",
+    "item_id": [
+      "34942"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Hill giant bone",
+    "item_name_variant": "Hill giant bone#Unpolished",
+    "item_id": [
+      "34504"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Hill giant bone",
+    "item_name_variant": "Hill giant bone#Polished",
+    "item_id": [
+      "34944"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Infernal mage bone",
+    "item_name_variant": "Infernal mage bone#Unpolished",
+    "item_id": [
+      "34506"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Infernal mage bone",
+    "item_name_variant": "Infernal mage bone#Polished",
+    "item_id": [
+      "34946"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Lizardman bone",
+    "item_name_variant": "Lizardman bone#Unpolished",
+    "item_id": [
+      "34508"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Lizardman bone",
+    "item_name_variant": "Lizardman bone#Polished",
+    "item_id": [
+      "34948"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Lynx bone",
+    "item_name_variant": "Lynx bone#Unpolished",
+    "item_id": [
+      "34510"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Lynx bone",
+    "item_name_variant": "Lynx bone#Polished",
+    "item_id": [
+      "34950"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Minotaur bone",
+    "item_name_variant": "Minotaur bone#Unpolished",
+    "item_id": [
+      "34512"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Minotaur bone",
+    "item_name_variant": "Minotaur bone#Polished",
+    "item_id": [
+      "34952"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ork skull",
+    "item_name_variant": "Ork skull#Unpolished",
+    "item_id": [
+      "34514"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ork skull",
+    "item_name_variant": "Ork skull#Polished",
+    "item_id": [
+      "34954"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Sorebones bone",
+    "item_name_variant": "Sorebones bone#Unpolished",
+    "item_id": [
+      "34516"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Sorebones bone",
+    "item_name_variant": "Sorebones bone#Polished",
+    "item_id": [
+      "34956"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Tortoise bone",
+    "item_name_variant": "Tortoise bone#Unpolished",
+    "item_id": [
+      "34518"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Tortoise bone",
+    "item_name_variant": "Tortoise bone#Polished",
+    "item_id": [
+      "34958"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Turoth leg",
+    "item_name_variant": "Turoth leg#Unpolished",
+    "item_id": [
+      "34520"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Turoth leg",
+    "item_name_variant": "Turoth leg#Polished",
+    "item_id": [
+      "34960"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ugthanki ribs",
+    "item_name_variant": "Ugthanki ribs#Unpolished",
+    "item_id": [
+      "34522"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ugthanki ribs",
+    "item_name_variant": "Ugthanki ribs#Polished",
+    "item_id": [
+      "34962"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wallasalki bone",
+    "item_name_variant": "Wallasalki bone#Unpolished",
+    "item_id": [
+      "34524"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This needs a good polish.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wallasalki bone",
+    "item_name_variant": "Wallasalki bone#Polished",
+    "item_id": [
+      "34964"
+    ],
+    "weight": 0.003,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "This belongs in a museum!",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Angry giant rat bone in vinegar",
+    "item_name_variant": "Angry giant rat bone in vinegar",
+    "item_id": [
+      "34846"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ankou bone in vinegar",
+    "item_name_variant": "Ankou bone in vinegar",
+    "item_id": [
+      "34848"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Armoured zombie bone in vinegar",
+    "item_name_variant": "Armoured zombie bone in vinegar",
+    "item_id": [
+      "34850"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Aviansie wing in vinegar",
+    "item_name_variant": "Aviansie wing in vinegar",
+    "item_id": [
+      "34852"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Blue dragon bone in vinegar",
+    "item_name_variant": "Blue dragon bone in vinegar",
+    "item_id": [
+      "34854"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Boar bone in vinegar",
+    "item_name_variant": "Boar bone in vinegar",
+    "item_id": [
+      "34856"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Catablepon ribs in vinegar",
+    "item_name_variant": "Catablepon ribs in vinegar",
+    "item_id": [
+      "34858"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Cave horror bone in vinegar",
+    "item_name_variant": "Cave horror bone in vinegar",
+    "item_id": [
+      "34860"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Chicken wing in vinegar",
+    "item_name_variant": "Chicken wing in vinegar",
+    "item_id": [
+      "34862"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Colonel radick's bone in vinegar",
+    "item_name_variant": "Colonel radick's bone in vinegar",
+    "item_id": [
+      "34864"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Cow bone in vinegar",
+    "item_name_variant": "Cow bone in vinegar",
+    "item_id": [
+      "34866"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Crawling hand bone in vinegar",
+    "item_name_variant": "Crawling hand bone in vinegar",
+    "item_id": [
+      "34868"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Crocodile bone in vinegar",
+    "item_name_variant": "Crocodile bone in vinegar",
+    "item_id": [
+      "34870"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Cyclops bone in vinegar",
+    "item_name_variant": "Cyclops bone in vinegar",
+    "item_id": [
+      "34872"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Druid ribs in vinegar",
+    "item_name_variant": "Druid ribs in vinegar",
+    "item_id": [
+      "34874"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Fox bone in vinegar",
+    "item_name_variant": "Fox bone in vinegar",
+    "item_id": [
+      "34876"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Frogeel spine in vinegar",
+    "item_name_variant": "Frogeel spine in vinegar",
+    "item_id": [
+      "34878"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Gnome child bone in vinegar",
+    "item_name_variant": "Gnome child bone in vinegar",
+    "item_id": [
+      "34880"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Goat ribs in vinegar",
+    "item_name_variant": "Goat ribs in vinegar",
+    "item_id": [
+      "34882"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Hill giant bone in vinegar",
+    "item_name_variant": "Hill giant bone in vinegar",
+    "item_id": [
+      "34884"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Infernal mage bone in vinegar",
+    "item_name_variant": "Infernal mage bone in vinegar",
+    "item_id": [
+      "34886"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Lizardman bone in vinegar",
+    "item_name_variant": "Lizardman bone in vinegar",
+    "item_id": [
+      "34888"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Lynx bone in vinegar",
+    "item_name_variant": "Lynx bone in vinegar",
+    "item_id": [
+      "34890"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Minotaur bone in vinegar",
+    "item_name_variant": "Minotaur bone in vinegar",
+    "item_id": [
+      "34892"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ork skull in vinegar",
+    "item_name_variant": "Ork skull in vinegar",
+    "item_id": [
+      "34894"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Sorebones bone in vinegar",
+    "item_name_variant": "Sorebones bone in vinegar",
+    "item_id": [
+      "34896"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Tortoise bone in vinegar",
+    "item_name_variant": "Tortoise bone in vinegar",
+    "item_id": [
+      "34898"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Turoth leg in vinegar",
+    "item_name_variant": "Turoth leg in vinegar",
+    "item_id": [
+      "34900"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Ugthanki ribs in vinegar",
+    "item_name_variant": "Ugthanki ribs in vinegar",
+    "item_id": [
+      "34902"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Wallasalki bone in vinegar",
+    "item_name_variant": "Wallasalki bone in vinegar",
+    "item_id": [
+      "34904"
+    ],
+    "weight": 1.36,
+    "value": 0,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A nice pot of bony vinegar.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Magic lamp (Rag and Bone Man III)",
+    "item_name_variant": "Magic lamp (Rag and Bone Man III)#Prayer",
+    "item_id": [
+      "34837"
+    ],
+    "weight": 0.1,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Give it a rub.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Magic lamp (Rag and Bone Man III)",
+    "item_name_variant": "Magic lamp (Rag and Bone Man III)#Slayer",
+    "item_id": [
+      "34838"
+    ],
+    "weight": 0.1,
+    "value": 1,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "Give it a rub.",
+    "is_members_only": true
+  },
+  {
+    "item_name": "Dragon sword (Last Man Standing)",
+    "item_name_variant": "Dragon sword (Last Man Standing)",
+    "item_id": [
+      "21009"
+    ],
+    "weight": 1.814,
+    "value": 300,
+    "high_alchemy_value": 0,
+    "buy_limit": 0,
+    "examine": "A razor sharp shortsword.",
+    "is_members_only": false
   }
 ]
